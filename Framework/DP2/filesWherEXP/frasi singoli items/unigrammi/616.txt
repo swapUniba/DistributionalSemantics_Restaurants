@@ -1,0 +1,43 @@
+https://www.yelp.it/biz/ristoranti-alba-torino;22223;bello, locale, ricordare, vecchio, trattoria, personale, gentile, efficiente
+https://www.yelp.it/biz/ristoranti-alba-torino;22224;cibo, buono, curare
+https://www.yelp.it/biz/ristoranti-alba-torino;22225;proprietario, molto, gentile, ospitale
+https://www.yelp.it/biz/ristoranti-alba-torino;22226;delizia, sciogliere, bocca
+https://www.yelp.it/biz/ristoranti-alba-torino;22227;semplicemente, provare
+https://www.yelp.it/biz/ristoranti-alba-torino;22228;personale, essere, cortese, servizievole
+https://www.yelp.it/biz/ristoranti-alba-torino;22229;barolo, calice, ottimo
+https://www.yelp.it/biz/ristoranti-alba-torino;22230;cordialità, simpatia, gentilezza, fare, padrone
+https://www.yelp.it/biz/ristoranti-alba-torino;22231;personale, essere, cordiale, professionale, spiegare, attenzione, elemento, vario, piatto
+https://www.yelp.it/biz/ristoranti-alba-torino;22232;straniero, soddisfatto, saziare
+https://www.yelp.it/biz/ristoranti-alba-torino;22233;menù, vario, eseguire, cura, materia, primo, sentire, essere, fresco, ottimo, qualità
+https://www.yelp.it/biz/ristoranti-alba-torino;22234;cibo, ottimo, cucina, assoluto, casalingo, gustoso
+https://www.yelp.it/biz/ristoranti-alba-torino;22235;bravo, bravo, bravo
+https://www.yelp.it/biz/ristoranti-alba-torino;22236;cibo, buono, porzione, discreto, trattoria
+https://www.yelp.it/biz/ristoranti-alba-torino;22237;ottimo, anche, dolce
+https://www.yelp.it/biz/ristoranti-alba-torino;22238;vero, eccezionale
+https://www.yelp.it/biz/ristoranti-alba-torino;22239;ingrediente, essere, ottimo, qualità, ben, cucinare
+https://www.yelp.it/biz/ristoranti-alba-torino;22240;porzione, essere, abbondante, ambiente, familiare, personale, molto, gentile
+https://www.yelp.it/biz/ristoranti-alba-torino;22241;piatto, gustoso, ben, cucinare
+https://www.yelp.it/biz/ristoranti-alba-torino;22242;vero, ottimo, cena
+https://www.yelp.it/biz/ristoranti-alba-torino;22243;vero, eccezionale
+https://www.yelp.it/biz/ristoranti-alba-torino;22244;unico, difetto
+https://www.yelp.it/biz/ristoranti-alba-torino;22245;leggermente, somigliante, anche, aspetto
+https://www.yelp.it/biz/ristoranti-alba-torino;22246;buono, carta, vino
+https://www.yelp.it/biz/ristoranti-alba-torino;22247;ottimo, brasato
+https://www.yelp.it/biz/ristoranti-alba-torino;22248;davvero, delizioso
+https://www.yelp.it/biz/ristoranti-alba-torino;22249;essere, molto, soddisfare
+https://www.yelp.it/biz/ristoranti-alba-torino;22250;presto, fortuna, perche, più, tardi, locale, riempire
+https://www.yelp.it/biz/ristoranti-alba-torino;22251;anche, antipasto, particolare, ottimo, insalata, frutta, verdura
+https://www.yelp.it/biz/ristoranti-alba-torino;22252;gestire, famiglia, cortese, molto, attento
+https://www.yelp.it/biz/ristoranti-alba-torino;22253;via, tranquillo, locale, accogliente, personale, gentile, disponibile
+https://www.yelp.it/biz/ristoranti-alba-torino;22254;poi, buono, anche, dolce, parrozzo, bonet
+https://www.yelp.it/biz/ristoranti-alba-torino;22255;buono, scelta, vino
+https://www.yelp.it/biz/ristoranti-alba-torino;22256;già, pronto, tempo
+https://www.yelp.it/biz/ristoranti-alba-torino;22257;molto, deludente
+https://www.yelp.it/biz/ristoranti-alba-torino;22258;cucina, bello, vista
+https://www.yelp.it/biz/ristoranti-alba-torino;22259;grazie, infinito
+https://www.yelp.it/biz/ristoranti-alba-torino;22260;personale, essere, molto, cordiale, gentile
+https://www.yelp.it/biz/ristoranti-alba-torino;22261;rapporto, qualità, prezzo, molto, buono
+https://www.yelp.it/biz/ristoranti-alba-torino;22262;buono, rapporto, prezzo-qualità
+https://www.yelp.it/biz/ristoranti-alba-torino;22263;buon, rapporto, qualità, prezzo
+https://www.yelp.it/biz/ristoranti-alba-torino;22264;buono, anche, cantina, rapporto, qualità, prezzo
+https://www.yelp.it/biz/ristoranti-alba-torino;22265;servizio, impeccabile, ottimo, atmosfera

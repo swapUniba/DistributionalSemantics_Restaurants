@@ -1,0 +1,36 @@
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15420;buono, rapporto, qualità/prezzo, buono rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15421;dehors, piacevole, dehors piacevole
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15422;dehor, bello, personale, gentile, dehor bello, bello personale, personale gentile
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15423;bello, carta, bello carta
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15424;onesto, vino, onesto vino
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15425;locale, consigliatissimo, provare, locale consigliatissimo, consigliatissimo provare
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15426;menzione, speciale, trippa, umido, menzione speciale, speciale trippa, trippa umido
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15427;ambiente, raccogliere, personale, simpatico, attento, cliente, ambiente raccogliere, raccogliere personale, personale simpatico, simpatico attento, attento cliente
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15428;personale, sorridente, pronto, personale sorridente, sorridente pronto
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15429;cucina, semplice, genuino, cucina semplice, semplice genuino
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15430;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15431;servizio, essere, veloce, personale, cortese, servizio essere, essere veloce, veloce personale, personale cortese
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15432;dolce, medio, dolce medio
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15433;casa, modesto, casa modesto
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15434;porre, molto, cariare, porre molto, molto cariare
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15435;buono, panna, cotto, buono panna, panna cotto
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15436;proprietario, gentile, cortese, personale, proprietario gentile, gentile cortese, cortese personale
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15437;ambiente, cariare, accogliente, ambiente cariare, cariare accogliente
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15438;responsabile, persona, davvero, squisito, responsabile persona, persona davvero, davvero squisito
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15439;buono, scelta, quindi, buono scelta, scelta quindi
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15440;trovare, interessante, soddisfacente, trovare interessante, interessante soddisfacente
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15441;buono, porzione, abbastanza, abbondante, buono porzione, porzione abbastanza, abbastanza abbondante
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15442;porzione, abbondante, personale, gentile, porzione abbondante, abbondante personale, personale gentile
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15443;soprattutto, inverno, soprattutto inverno
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15444;piacere, sperimentare, piacere sperimentare
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15445;particolarmente, eccezionale, comunque, ben, curare, piatto, particolarmente eccezionale, eccezionale comunque, comunque ben, ben curare, curare piatto
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15446;essere, comunque, curioso, abbinamento, piatto, piemontese, essere comunque, comunque curioso, curioso abbinamento, abbinamento piatto, piatto piemontese
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15447;cariare, posto, cariare posto
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15448;servizio, cordiale, cortile, tranquillo, rilassare, servizio cordiale, cordiale cortile, cortile tranquillo, tranquillo rilassare
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15449;posto, cariare, atmosfera, piacevole, posto cariare, cariare atmosfera, atmosfera piacevole
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15450;ottimo, dolce, ottimo dolce
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15451;sussurrare, persino, signore, molto, gentile, prendere, ordinazione, sussurrare persino, persino signore, signore molto, molto gentile, gentile prendere, prendere ordinazione
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15452;é, trattoria, bello, é trattoria, trattoria bello
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15453;cous, cous, essere, vero, buono, cous cous, cous essere, essere vero, vero buono
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15454;mangiare, pergolato, é, sempre, molto, piacevole, mangiare pergolato, pergolato é, é sempre, sempre molto, molto piacevole
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;15455;servizio, estremo, gentile, servizio estremo, estremo gentile

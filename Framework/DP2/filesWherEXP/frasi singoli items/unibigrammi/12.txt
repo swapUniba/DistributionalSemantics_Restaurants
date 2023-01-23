@@ -1,0 +1,33 @@
+https://www.yelp.it/biz/la-caravella-torino-2;1833;fritto, misto, fritto misto
+https://www.yelp.it/biz/la-caravella-torino-2;1834;meritare, sicuro, ritorno, meritare sicuro, sicuro ritorno
+https://www.yelp.it/biz/la-caravella-torino-2;1835;locale, accogliente, personale, cortese, locale accogliente, accogliente personale, personale cortese
+https://www.yelp.it/biz/la-caravella-torino-2;1836;ottimo, cena, grande, affluenza, cliente, ottimo cena, cena grande, grande affluenza, affluenza cliente
+https://www.yelp.it/biz/la-caravella-torino-2;1837;servizio, gentile, servizio gentile
+https://www.yelp.it/biz/la-caravella-torino-2;1838;servizio, cortese, sempre, sorridente, servizio cortese, cortese sempre, sempre sorridente
+https://www.yelp.it/biz/la-caravella-torino-2;1839;passare, bello, serata, locale, molto, accogliente, passare bello, bello serata, serata locale, locale molto, molto accogliente
+https://www.yelp.it/biz/la-caravella-torino-2;1840;ottimo, secondo, ottimo secondo
+https://www.yelp.it/biz/la-caravella-torino-2;1841;ragazzo, molto, cortese, ragazzo molto, molto cortese
+https://www.yelp.it/biz/la-caravella-torino-2;1842;grazie, limoncello, grazie limoncello
+https://www.yelp.it/biz/la-caravella-torino-2;1843;buono, accoglienza, ottimo, cibo, buono accoglienza, accoglienza ottimo, ottimo cibo
+https://www.yelp.it/biz/la-caravella-torino-2;1844;buono, prezzo, giusto, buono prezzo, prezzo giusto
+https://www.yelp.it/biz/la-caravella-torino-2;1845;ottimo, locale, cameriere, gentile, ambiente, accogliente, soprattutto, ottimo, cucina, ottimo, vino, tempo, attesa, breve, ottimo locale, locale cameriere, cameriere gentile, gentile ambiente, ambiente accogliente, accogliente soprattutto, soprattutto ottimo, ottimo cucina, cucina ottimo, ottimo vino, vino tempo, tempo attesa, attesa breve
+https://www.yelp.it/biz/la-caravella-torino-2;1846;bravo, costo, giusto, bravo costo, costo giusto
+https://www.yelp.it/biz/la-caravella-torino-2;1847;ottimo, pizza, ottimo pizza
+https://www.yelp.it/biz/la-caravella-torino-2;1848;personale, essere, gentile, attento, personale essere, essere gentile, gentile attento
+https://www.yelp.it/biz/la-caravella-torino-2;1849;personale, gentile, trasandato, personale gentile, gentile trasandato
+https://www.yelp.it/biz/la-caravella-torino-2;1850;ingrediente, ottimo, fresco, ingrediente ottimo, ottimo fresco
+https://www.yelp.it/biz/la-caravella-torino-2;1851;prezzo, norma, prodotto, fresco, genuino, prezzo norma, norma prodotto, prodotto fresco, fresco genuino
+https://www.yelp.it/biz/la-caravella-torino-2;1852;prezzo, acqua, caffè, eccessivo, sommare, abbastanza, soddisfacente, prezzo acqua, acqua caffè, caffè eccessivo, eccessivo sommare, sommare abbastanza, abbastanza soddisfacente
+https://www.yelp.it/biz/la-caravella-torino-2;1853;parola, squisito, parola squisito
+https://www.yelp.it/biz/la-caravella-torino-2;1854;cibo, gustoso, ottimo, qualità, cibo gustoso, gustoso ottimo, ottimo qualità
+https://www.yelp.it/biz/la-caravella-torino-2;1855;servizio, cortese, servizio cortese
+https://www.yelp.it/biz/la-caravella-torino-2;1856;anche, carne, essere, buono, qualità, anche carne, carne essere, essere buono, buono qualità
+https://www.yelp.it/biz/la-caravella-torino-2;1857;posto, tranquillo, posto tranquillo
+https://www.yelp.it/biz/la-caravella-torino-2;1858;davvero, gustoso, davvero gustoso
+https://www.yelp.it/biz/la-caravella-torino-2;1859;pizza, sufficiente, pizza sufficiente
+https://www.yelp.it/biz/la-caravella-torino-2;1860;brutto, esperienza, brutto esperienza
+https://www.yelp.it/biz/la-caravella-torino-2;1861;cameriere, molto, gentile, cameriere molto, molto gentile
+https://www.yelp.it/biz/la-caravella-torino-2;1862;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/la-caravella-torino-2;1863;consiglio, davvero, consiglio davvero
+https://www.yelp.it/biz/la-caravella-torino-2;1864;personale, gentile, servizio, veloce, personale gentile, gentile servizio, servizio veloce
+https://www.yelp.it/biz/la-caravella-torino-2;1865;peccato, pizza, meritare, peccato pizza, pizza meritare

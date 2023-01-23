@@ -1,0 +1,5 @@
+https://www.yelp.it/biz/tasty-burger-torino;21757;carne, ottimo, qualità, carne ottimo, ottimo qualità
+https://www.yelp.it/biz/tasty-burger-torino;21758;prezzo, essere, giusto, servizio, ottimo, prezzo essere, essere giusto, giusto servizio, servizio ottimo
+https://www.yelp.it/biz/tasty-burger-torino;21759;consegnare, puntuale, fattorino, gentile, consegnare puntuale, puntuale fattorino, fattorino gentile
+https://www.yelp.it/biz/tasty-burger-torino;21760;locale, cariare, tranquillo, personale, accogliente, gentile, panino, buono, locale cariare, cariare tranquillo, tranquillo personale, personale accogliente, accogliente gentile, gentile panino, panino buono
+https://www.yelp.it/biz/tasty-burger-torino;21761;consigliare, trascorrere, bello, serata, consigliare trascorrere, trascorrere bello, bello serata

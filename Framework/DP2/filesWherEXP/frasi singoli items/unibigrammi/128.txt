@@ -1,0 +1,41 @@
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7230;pizza, molto, buono, personale, simpatico, pizza molto, molto buono, buono personale, personale simpatico
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7231;ottimare, qualità, cibo, pizza, buono, personale, gentile, professionale, ottimare qualità, qualità cibo, cibo pizza, pizza buono, buono personale, personale gentile, gentile professionale
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7232;ottimo, cannolo, siciliano, ottimo cannolo, cannolo siciliano
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7233;servizio, impeccabile, servizio impeccabile
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7234;locale, piccolo, affollato, molto, piacevole, locale piccolo, piccolo affollato, affollato molto, molto piacevole
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7235;cordiale, rapido, cordiale rapido
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7236;gentile, qualità, prezzo, ottimo, gentile qualità, qualità prezzo, prezzo ottimo
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7237;buono, digeribile, buono digeribile
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7238;servizio, essere, rapido, cortese, servizio essere, essere rapido, rapido cortese
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7239;cameriere, gentile, servizio, attento, veloce, cameriere gentile, gentile servizio, servizio attento, attento veloce
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7240;pizzeria, essere, fantastico, pizzeria essere, essere fantastico
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7241;pizza, essere, notevole, pizza essere, essere notevole
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7242;buono, rapporto, qualità/prezzo, buono rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7243;occasione, perfetto, compleanno, occasione perfetto, perfetto compleanno
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7244;pizza, ottimo, cucina, qualità, pizza ottimo, ottimo cucina, cucina qualità
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7245;pizza, ottimo, solo, pizza ottimo, ottimo solo
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7246;proprietario, disponibile, simpatico, proprietario disponibile, disponibile simpatico
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7247;cannolo, siciliano, essere, strepitoso, cannolo siciliano, siciliano essere, essere strepitoso
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7248;ottimo, pizza, ottimo pizza
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7249;prezzo, deciso, buono, prezzo deciso, deciso buono
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7250;servizio, veloce, cortese, servizio veloce, veloce cortese
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7251;locale, semplice, personale, essere, molto, cortese, locale semplice, semplice personale, personale essere, essere molto, molto cortese
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7252;qualità, buono, qualità buono
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7253;servizio, veloce, cordiale, servizio veloce, veloce cordiale
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7254;pizza, davvero, buono, pizza davvero, davvero buono
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7255;ottimo, posto, pizza, provare, ottimo posto, posto pizza, pizza provare
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7256;essere, posto, perfetto, essere posto, posto perfetto
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7257;bravo, bravo, bravo, ancora, bravo bravo, bravo bravo, bravo ancora
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7258;pizzaiolo, fantastico, ingrediente, fresco, ottimo, pizzaiolo fantastico, fantastico ingrediente, ingrediente fresco, fresco ottimo
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7259;aspetto, estetico, interno, decorazione, locale, salto, pallino, scendere, botto, aspetto estetico, estetico interno, interno decorazione, decorazione locale, locale salto, salto pallino, pallino scendere, scendere botto
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7260;buono, pizza, servizio, buono pizza, pizza servizio
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7261;fortuna, zizzona, essere, squisito, fortuna zizzona, zizzona essere, essere squisito
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7262;super, buono, super buono
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7263;bello, buono, serata, locale, vicino, centro, bello buono, buono serata, serata locale, locale vicino, vicino centro
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7264;gnocco, friggere, davvero, ottimo, salume, gnocco friggere, friggere davvero, davvero ottimo, ottimo salume
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7265;ottimo, pizza, ottimo pizza
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7266;gradevole, anche, vino, rosso, casa, gradevole anche, anche vino, vino rosso, rosso casa
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7267;gnocco, friggere, fantastico, gnocco friggere, friggere fantastico
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7268;prezzo, molto, competitivo, prezzo molto, molto competitivo
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7269;volere, ottimo, pizza, volere ottimo, ottimo pizza
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;7270;pasta, buono, cotta, perfezione, pasta buono, buono cotta, cotta perfezione

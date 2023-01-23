@@ -1,0 +1,35 @@
+https://www.yelp.it/biz/perbacco-bari;16579;giusto, rapporto, qualità/prezzo, giusto rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/perbacco-bari;16580;ottimo, cantina, ottimo cantina
+https://www.yelp.it/biz/perbacco-bari;16581;ideale, cena, romantico, ideale cena, cena romantico
+https://www.yelp.it/biz/perbacco-bari;16582;ottimo, vino, ottimo vino
+https://www.yelp.it/biz/perbacco-bari;16583;accoglienza, cordiale, impiattamemti, curare, accostamento, speciale, accoglienza cordiale, cordiale impiattamemti, impiattamemti curare, curare accostamento, accostamento speciale
+https://www.yelp.it/biz/perbacco-bari;16584;ottimo, scelta, ottimo scelta
+https://www.yelp.it/biz/perbacco-bari;16585;ottimare, stracciatella, ottimare stracciatella
+https://www.yelp.it/biz/perbacco-bari;16586;ottimo, cantina, ottimo cantina
+https://www.yelp.it/biz/perbacco-bari;16587;locale, molto, gradevole, personale, cortese, accogliente, locale molto, molto gradevole, gradevole personale, personale cortese, cortese accogliente
+https://www.yelp.it/biz/perbacco-bari;16588;servizio, puntuale, cortese, servizio puntuale, puntuale cortese
+https://www.yelp.it/biz/perbacco-bari;16589;ottimo, baccalà, ottimo baccalà
+https://www.yelp.it/biz/perbacco-bari;16590;piccolo, gradito, piccolo gradito
+https://www.yelp.it/biz/perbacco-bari;16591;locale, ricercato, accogliente, essere, ideale, cena, romantico, locale ricercato, ricercato accogliente, accogliente essere, essere ideale, ideale cena, cena romantico
+https://www.yelp.it/biz/perbacco-bari;16592;piatto, gioioso, piatto gioioso
+https://www.yelp.it/biz/perbacco-bari;16593;passione, lavoro, passione lavoro
+https://www.yelp.it/biz/perbacco-bari;16594;gran, bello, vino, gran bello, bello vino
+https://www.yelp.it/biz/perbacco-bari;16595;ristorantino, delizioso, pluridecorato, ristorantino delizioso, delizioso pluridecorato
+https://www.yelp.it/biz/perbacco-bari;16596;serata, ottimo, serata ottimo
+https://www.yelp.it/biz/perbacco-bari;16597;estremo, rilassare, estremo rilassare
+https://www.yelp.it/biz/perbacco-bari;16598;ottimo, anche, semifreddo, ottimo anche, anche semifreddo
+https://www.yelp.it/biz/perbacco-bari;16599;ottimo, rapporto, qualità/prezzo, ottimo rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/perbacco-bari;16600;speciale, franco, speciale franco
+https://www.yelp.it/biz/perbacco-bari;16601;dolce, tortino, uva, passare, dolce tortino, tortino uva, uva passare
+https://www.yelp.it/biz/perbacco-bari;16602;antipasto, secondo, dolce, molto, particolare, prelibato, antipasto secondo, secondo dolce, dolce molto, molto particolare, particolare prelibato
+https://www.yelp.it/biz/perbacco-bari;16603;cibo, ottimo, vino, eccellente, atmosfera, soft, cibo ottimo, ottimo vino, vino eccellente, eccellente atmosfera, atmosfera soft
+https://www.yelp.it/biz/perbacco-bari;16604;proprietario, essere, cortese, attento, essere, ristoratore, proprietario essere, essere cortese, cortese attento, attento essere, essere ristoratore
+https://www.yelp.it/biz/perbacco-bari;16605;bravo, bravo, bravo, bravo bravo, bravo bravo
+https://www.yelp.it/biz/perbacco-bari;16606;discreto, rapporto, qualità, prezzo, discreto rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/perbacco-bari;16607;complimentare, davvero, complimentare davvero
+https://www.yelp.it/biz/perbacco-bari;16608;ampio, scelta, vino, ampio scelta, scelta vino
+https://www.yelp.it/biz/perbacco-bari;16609;bello, posto, bello posto
+https://www.yelp.it/biz/perbacco-bari;16610;spiegare, fantastico, connubio, dott, spiegare fantastico, fantastico connubio, connubio dott
+https://www.yelp.it/biz/perbacco-bari;16611;bello, gente, ben, frequentare, bello gente, gente ben, ben frequentare
+https://www.yelp.it/biz/perbacco-bari;16612;cantina, essere, ottimo, molto, fornire, cantina essere, essere ottimo, ottimo molto, molto fornire
+https://www.yelp.it/biz/perbacco-bari;16613;coperto, ottimo, qualità, coperto ottimo, ottimo qualità

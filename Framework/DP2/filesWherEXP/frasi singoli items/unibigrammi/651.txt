@@ -1,0 +1,6 @@
+https://www.yelp.it/biz/dolce-basilico-torino;23021;pizzeria, molto, semplice, pizzeria molto, molto semplice
+https://www.yelp.it/biz/dolce-basilico-torino;23022;grande, delusione, grande delusione
+https://www.yelp.it/biz/dolce-basilico-torino;23023;pizza, essere, eccezionale, pizza essere, essere eccezionale
+https://www.yelp.it/biz/dolce-basilico-torino;23024;dolce, discreto, dolce discreto
+https://www.yelp.it/biz/dolce-basilico-torino;23025;pizza, molto, buono, ottimo, ingrediente, personale, gentile, cordiale, pizza molto, molto buono, buono ottimo, ottimo ingrediente, ingrediente personale, personale gentile, gentile cordiale
+https://www.yelp.it/biz/dolce-basilico-torino;23026;molto, gentile, anche, ragazzo, personale, attenti, molto gentile, gentile anche, anche ragazzo, ragazzo personale, personale attenti

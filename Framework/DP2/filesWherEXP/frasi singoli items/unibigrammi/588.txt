@@ -1,0 +1,34 @@
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21144;buon, ristorante, buon ristorante
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21145;ristorare, molto, accogliente, personale, disponibile, cordiale, pronto, soddisfare, esigenza, ristorare molto, molto accogliente, accogliente personale, personale disponibile, disponibile cordiale, cordiale pronto, pronto soddisfare, soddisfare esigenza
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21146;cibo, essere, ottimo, ingrediente, fresco, alto, qualità, crudo, mare, eccezionale, freschissimo, cibo essere, essere ottimo, ottimo ingrediente, ingrediente fresco, fresco alto, alto qualità, qualità crudo, crudo mare, mare eccezionale, eccezionale freschissimo
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21147;delizioso, specialità, mare, terra, pesce, freschissimo, crudo, strabiliante, delizioso specialità, specialità mare, mare terra, terra pesce, pesce freschissimo, freschissimo crudo, crudo strabiliante
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21148;prezioso, varietà, presentazione, dolce, frutta, ottimo, disponibilità, liquore, essere, dolce, seccare, prezioso varietà, varietà presentazione, presentazione dolce, dolce frutta, frutta ottimo, ottimo disponibilità, disponibilità liquore, liquore essere, essere dolce, dolce seccare
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21149;personale, educatissimo, più, soddisfacente, possibile, complimento, titolare, solare, efficiente, lavoro, anche, situazione, particolare, affollamento, locale, personale educatissimo, educatissimo più, più soddisfacente, soddisfacente possibile, possibile complimento, complimento titolare, titolare solare, solare efficiente, efficiente lavoro, lavoro anche, anche situazione, situazione particolare, particolare affollamento, affollamento locale
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21150;vero, consigliabile, vero consigliabile
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21151;menu, proporre, essere, ottimo, qualità, molto, variegato, menu proporre, proporre essere, essere ottimo, ottimo qualità, qualità molto, molto variegato
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21152;personale, simpatico, gentile, personale simpatico, simpatico gentile
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21153;resto, pranzo, davvero, ottimo, resto pranzo, pranzo davvero, davvero ottimo
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21154;qualità, ineccepibile, evitare, antipasto, caldo, freddo, furto, qualità ineccepibile, ineccepibile evitare, evitare antipasto, antipasto caldo, caldo freddo, freddo furto
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21155;così, simpaticissima, moglie, essere, cassa, così simpaticissima, simpaticissima moglie, moglie essere, essere cassa
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21156;cucina, mare, sofisticato, buono, qualità, freschezza, antipasto, mare, cucina mare, mare sofisticato, sofisticato buono, buono qualità, qualità freschezza, freschezza antipasto, antipasto mare
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21157;servizio, efficiente, cordiale, servizio efficiente, efficiente cordiale
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21158;vino, buono, qualità, vino buono, buono qualità
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21159;personale, gentile, soprattutto, titolare, personale gentile, gentile soprattutto, soprattutto titolare
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21160;poi, assaggiare, dolce, casa, pentirsi, poi assaggiare, assaggiare dolce, dolce casa, casa pentirsi
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21161;cibo, comunque, andare, buono, stesso, tempo, media, cibo comunque, comunque andare, andare buono, buono stesso, stesso tempo, tempo media
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21162;riguardare, cibo, riguardare cibo
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21163;sempre, soddisfare, sempre soddisfare
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21164;passo, mare, piacevole, mangiata, estivo, passo mare, mare piacevole, piacevole mangiata, mangiata estivo
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21165;antipasto, ottimo, abbondante, mare, pizza, molto, leggero, gustoso, antipasto ottimo, ottimo abbondante, abbondante mare, mare pizza, pizza molto, molto leggero, leggero gustoso
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21166;locale, essere, carino, soprattutto, tavolo, attaccare, spesso, accadere, altro, locale, locale essere, essere carino, carino soprattutto, soprattutto tavolo, tavolo attaccare, attaccare spesso, spesso accadere, accadere altro, altro locale
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21167;ottimo, antipasto, pesce, fresco, pizza, norma, ottimo antipasto, antipasto pesce, pesce fresco, fresco pizza, pizza norma
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21168;ottimo, qualità, ottimo qualità
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21169;buon, rapporto, qualità, prezzo, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21170;cucina, raffinato, semplice, cucina raffinato, raffinato semplice
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21171;pizza, ottimo, così, dolce, finale, pizza ottimo, ottimo così, così dolce, dolce finale
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21172;pranzo, domenica, pranzo domenica
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21173;pesce, fresco, ottimo, cottura, pesce fresco, fresco ottimo, ottimo cottura
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21174;locale, semplice, arredamento, ottimo, posizione, ampio, parcheggio, locale semplice, semplice arredamento, arredamento ottimo, ottimo posizione, posizione ampio, ampio parcheggio
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21175;antipasto, ottimo, delizioso, abbondante, ottimo, secondo, antipasto ottimo, ottimo delizioso, delizioso abbondante, abbondante ottimo, ottimo secondo
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21176;ottimo, serata, ottimo serata
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;21177;cena, perfetto, servizio, impeccabile, cena perfetto, perfetto servizio, servizio impeccabile

@@ -1,0 +1,31 @@
+https://www.yelp.it/biz/gusti-e-sapori-torino;18235;locale, pulito, servizio, capace, simpatico, locale pulito, pulito servizio, servizio capace, capace simpatico
+https://www.yelp.it/biz/gusti-e-sapori-torino;18236;personale, cordiale, super, disponibile, personale cordiale, cordiale super, super disponibile
+https://www.yelp.it/biz/gusti-e-sapori-torino;18237;festa, compleanno, festa compleanno
+https://www.yelp.it/biz/gusti-e-sapori-torino;18238;buono, pizza, buono pizza
+https://www.yelp.it/biz/gusti-e-sapori-torino;18239;pesce, eccellente, locale, molto, bello, prezzo, ottimo, titolare, essere, davvero, gentile, pesce eccellente, eccellente locale, locale molto, molto bello, bello prezzo, prezzo ottimo, ottimo titolare, titolare essere, essere davvero, davvero gentile
+https://www.yelp.it/biz/gusti-e-sapori-torino;18240;voto, appena, sufficiente, voto appena, appena sufficiente
+https://www.yelp.it/biz/gusti-e-sapori-torino;18241;ottimo, ingrediente, ottimo ingrediente
+https://www.yelp.it/biz/gusti-e-sapori-torino;18242;personale, disponibile, cordiale, personale disponibile, disponibile cordiale
+https://www.yelp.it/biz/gusti-e-sapori-torino;18243;personale, simpatico, disponibile, personale simpatico, simpatico disponibile
+https://www.yelp.it/biz/gusti-e-sapori-torino;18244;assaggiare, ottimo, buono, insalata, assaggiare ottimo, ottimo buono, buono insalata
+https://www.yelp.it/biz/gusti-e-sapori-torino;18245;prezzo, essere, davvero, ottimo, prezzo essere, essere davvero, davvero ottimo
+https://www.yelp.it/biz/gusti-e-sapori-torino;18246;sorbetto, limone, sorbetto limone
+https://www.yelp.it/biz/gusti-e-sapori-torino;18247;personale, gentile, personale gentile
+https://www.yelp.it/biz/gusti-e-sapori-torino;18248;locale, molto, bello, curare, locale molto, molto bello, bello curare
+https://www.yelp.it/biz/gusti-e-sapori-torino;18249;personale, molto, professionale, cordiale, personale molto, molto professionale, professionale cordiale
+https://www.yelp.it/biz/gusti-e-sapori-torino;18250;rapporto, qualità-prezzo, sufficiente, rapporto qualità-prezzo, qualità-prezzo sufficiente
+https://www.yelp.it/biz/gusti-e-sapori-torino;18251;servizio, eccellente, rapido, servizio eccellente, eccellente rapido
+https://www.yelp.it/biz/gusti-e-sapori-torino;18252;buono, inizio, fine, buono inizio, inizio fine
+https://www.yelp.it/biz/gusti-e-sapori-torino;18253;personale, cortese, gentile, personale cortese, cortese gentile
+https://www.yelp.it/biz/gusti-e-sapori-torino;18254;unico, pecca, unico pecca
+https://www.yelp.it/biz/gusti-e-sapori-torino;18255;cameriere, pizzaiolo, super, veloce, cameriere pizzaiolo, pizzaiolo super, super veloce
+https://www.yelp.it/biz/gusti-e-sapori-torino;18256;perfetto, pausa, pranzo, perfetto pausa, pausa pranzo
+https://www.yelp.it/biz/gusti-e-sapori-torino;18257;pizza, fantastico, pizza fantastico
+https://www.yelp.it/biz/gusti-e-sapori-torino;18258;comunque, servizio, efficiente, gentile, comunque servizio, servizio efficiente, efficiente gentile
+https://www.yelp.it/biz/gusti-e-sapori-torino;18259;ingrediente, essere, ottimo, ingrediente essere, essere ottimo
+https://www.yelp.it/biz/gusti-e-sapori-torino;18260;scelta, pizza, molto, ampio, scelta pizza, pizza molto, molto ampio
+https://www.yelp.it/biz/gusti-e-sapori-torino;18261;personale, cortese, servizio, veloce, personale cortese, cortese servizio, servizio veloce
+https://www.yelp.it/biz/gusti-e-sapori-torino;18262;ottimo, cena, ottimo cena
+https://www.yelp.it/biz/gusti-e-sapori-torino;18263;ottimo, scelta, ottimo scelta
+https://www.yelp.it/biz/gusti-e-sapori-torino;18264;complimentare, cucina, complimentare cucina
+https://www.yelp.it/biz/gusti-e-sapori-torino;18265;pizza, buono, pizza buono

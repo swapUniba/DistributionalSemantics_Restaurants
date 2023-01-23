@@ -1,0 +1,37 @@
+https://www.yelp.it/biz/a-picciridda-torino;20043;cucina, essere, ottimo
+https://www.yelp.it/biz/a-picciridda-torino;20044;ottimo, pizza, digeribile
+https://www.yelp.it/biz/a-picciridda-torino;20045;cucina, siciliano, pizzeria, abbastanza, economico
+https://www.yelp.it/biz/a-picciridda-torino;20046;dolce, buono
+https://www.yelp.it/biz/a-picciridda-torino;20047;buono, rapporto, qualità, prezzo
+https://www.yelp.it/biz/a-picciridda-torino;20048;sempre, soddisfare
+https://www.yelp.it/biz/a-picciridda-torino;20049;essere, semplicemente, meraviglioso
+https://www.yelp.it/biz/a-picciridda-torino;20050;locale, essere, famigliare, allegro, invitante, parete
+https://www.yelp.it/biz/a-picciridda-torino;20051;essere, semplicemente, meraviglioso
+https://www.yelp.it/biz/a-picciridda-torino;20052;rapporto, qualità, prezzo, andare, bene
+https://www.yelp.it/biz/a-picciridda-torino;20053;porzione, abbondante, condimento, deciso, cospicuo
+https://www.yelp.it/biz/a-picciridda-torino;20054;locale, molto, semplice, personale, disponibile, gentile, piatto, buono, abbondante
+https://www.yelp.it/biz/a-picciridda-torino;20055;servizio, rapido, cortese
+https://www.yelp.it/biz/a-picciridda-torino;20056;porzione, abbondante, servizio, gentile
+https://www.yelp.it/biz/a-picciridda-torino;20057;super, dolce, siciliano, fresco
+https://www.yelp.it/biz/a-picciridda-torino;20058;buono, servizio, rapporto, qualità, prezzo
+https://www.yelp.it/biz/a-picciridda-torino;20059;provare, cozza, essere, favoloso
+https://www.yelp.it/biz/a-picciridda-torino;20060;amico, milanese, rimanere, contento
+https://www.yelp.it/biz/a-picciridda-torino;20061;esperienza, personale, totalmente, negativo
+https://www.yelp.it/biz/a-picciridda-torino;20062;ottimo, sempre
+https://www.yelp.it/biz/a-picciridda-torino;20063;servizio, essere, buono, efficiente, discreto
+https://www.yelp.it/biz/a-picciridda-torino;20064;cucina, buono, ben, curare
+https://www.yelp.it/biz/a-picciridda-torino;20065;cena, soddisfatto, ora, attesa, arrivare, prima, pizza, ora
+https://www.yelp.it/biz/a-picciridda-torino;20066;locale, piuttosto, grande, atmosfera, pò, freddo
+https://www.yelp.it/biz/a-picciridda-torino;20067;dolce, fantastico
+https://www.yelp.it/biz/a-picciridda-torino;20068;essere, vero
+https://www.yelp.it/biz/a-picciridda-torino;20069;buono, dolce
+https://www.yelp.it/biz/a-picciridda-torino;20070;personale, poi, essere, gentile, rapido, servizio
+https://www.yelp.it/biz/a-picciridda-torino;20071;comunque, giudizio, restare, positivo
+https://www.yelp.it/biz/a-picciridda-torino;20072;molto, buono
+https://www.yelp.it/biz/a-picciridda-torino;20073;sommare, buono, esperienza, favore, anche, apprezzare, impegno, rendere, più, professionale, servizio
+https://www.yelp.it/biz/a-picciridda-torino;20074;ambiente, familiare, pulito, carino
+https://www.yelp.it/biz/a-picciridda-torino;20075;cucina, siciliano, ottimo, presentare, molto, bene
+https://www.yelp.it/biz/a-picciridda-torino;20076;buono, fresco
+https://www.yelp.it/biz/a-picciridda-torino;20077;servizio, dimostrare, sempre, efficiente, cortese
+https://www.yelp.it/biz/a-picciridda-torino;20078;ambiente, semplice, sempre, cordiale
+https://www.yelp.it/biz/a-picciridda-torino;20079;ottimare, qualità, quantità, ingrediente

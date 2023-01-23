@@ -1,0 +1,6 @@
+https://www.yelp.it/biz/500-calorie-torino;22800;buono, volontà, gentile, buono volontà, volontà gentile
+https://www.yelp.it/biz/500-calorie-torino;22801;ottimo, veloce, pausa, pranzo, ottimo veloce, veloce pausa, pausa pranzo
+https://www.yelp.it/biz/500-calorie-torino;22802;porre, molto, cariare, personale, gentile, porre molto, molto cariare, cariare personale, personale gentile
+https://www.yelp.it/biz/500-calorie-torino;22803;squisito, amichevole, professionale, squisito amichevole, amichevole professionale
+https://www.yelp.it/biz/500-calorie-torino;22804;evviva, tecnologia, anche, cucina, evviva tecnologia, tecnologia anche, anche cucina
+https://www.yelp.it/biz/500-calorie-torino;22805;servizio, molto, veloce, servizio molto, molto veloce

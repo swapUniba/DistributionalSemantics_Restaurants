@@ -1,0 +1,32 @@
+https://www.yelp.it/biz/jumping-jester-torino;7991;buon, pub, studente, universitario
+https://www.yelp.it/biz/jumping-jester-torino;7992;prezzo, ottimo
+https://www.yelp.it/biz/jumping-jester-torino;7993;locale, cariare, grande
+https://www.yelp.it/biz/jumping-jester-torino;7994;poi, ambiente, tranquillo
+https://www.yelp.it/biz/jumping-jester-torino;7995;vasto, scegliere, piatto, essere, buono
+https://www.yelp.it/biz/jumping-jester-torino;7996;personale, spesso, gentile, piacevole
+https://www.yelp.it/biz/jumping-jester-torino;7997;giovane, erasmus, allegria
+https://www.yelp.it/biz/jumping-jester-torino;7998;personale, giovane, cordiale
+https://www.yelp.it/biz/jumping-jester-torino;7999;locale, rustico, bello, ben, curare
+https://www.yelp.it/biz/jumping-jester-torino;8000;personale, gentile, ben, preparare
+https://www.yelp.it/biz/jumping-jester-torino;8001;angolo, spazioso, raccogliere, molto, molto
+https://www.yelp.it/biz/jumping-jester-torino;8002;personale, gentile, premuroso
+https://www.yelp.it/biz/jumping-jester-torino;8003;personale, gentile, ben, preparare
+https://www.yelp.it/biz/jumping-jester-torino;8004;vero, pub
+https://www.yelp.it/biz/jumping-jester-torino;8005;semplicemente, ridicolo
+https://www.yelp.it/biz/jumping-jester-torino;8006;pranzo, bello, stare, fuori, deciso, più, tranquillo
+https://www.yelp.it/biz/jumping-jester-torino;8007;birra, particolarmente, eccezionale, ottimo, prezzo
+https://www.yelp.it/biz/jumping-jester-torino;8008;abbastanza, buono, locale
+https://www.yelp.it/biz/jumping-jester-torino;8009;ottimo, serata, compagnia
+https://www.yelp.it/biz/jumping-jester-torino;8010;atmosfera, essere, vero, caloroso, accogliente
+https://www.yelp.it/biz/jumping-jester-torino;8011;birra, buono
+https://www.yelp.it/biz/jumping-jester-torino;8012;grazie, vero
+https://www.yelp.it/biz/jumping-jester-torino;8013;personale, gentile
+https://www.yelp.it/biz/jumping-jester-torino;8014;prezzo, molto, contenuto, buono, birra
+https://www.yelp.it/biz/jumping-jester-torino;8015;rimanere, soddisfare
+https://www.yelp.it/biz/jumping-jester-torino;8016;atmosfera, sempre, giovane, allegro
+https://www.yelp.it/biz/jumping-jester-torino;8017;piacevole, pausa, pranzo
+https://www.yelp.it/biz/jumping-jester-torino;8018;servizio, veloce, sorridente
+https://www.yelp.it/biz/jumping-jester-torino;8019;molto, gentile, personale
+https://www.yelp.it/biz/jumping-jester-torino;8020;capitolo, atmosfera
+https://www.yelp.it/biz/jumping-jester-torino;8021;posizione, ottimo
+https://www.yelp.it/biz/jumping-jester-torino;8022;personale, gentile, disponibile

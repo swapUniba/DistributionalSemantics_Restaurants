@@ -1,0 +1,5 @@
+https://www.yelp.it/biz/san-giorgio-torino;10899;ottimo, rapporto, qualità/prezzo, ottimo rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/san-giorgio-torino;10900;pizza, buono, personale, cordiale, simpatico, pizza buono, buono personale, personale cordiale, cordiale simpatico
+https://www.yelp.it/biz/san-giorgio-torino;10901;pausa, pranzo, pausa pranzo
+https://www.yelp.it/biz/san-giorgio-torino;10902;vero, molto, buono, vero molto, molto buono
+https://www.yelp.it/biz/san-giorgio-torino;10903;personale, gentile, personale gentile

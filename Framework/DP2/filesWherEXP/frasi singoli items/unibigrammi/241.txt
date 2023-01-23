@@ -1,0 +1,29 @@
+https://www.yelp.it/biz/casablanca-bari;10479;tagliolino, astice, vero, eccezionale, consigliare, tagliolino astice, astice vero, vero eccezionale, eccezionale consigliare
+https://www.yelp.it/biz/casablanca-bari;10480;varietà, freschezza, notevole, varietà freschezza, freschezza notevole
+https://www.yelp.it/biz/casablanca-bari;10481;pizza, essere, buono, norma, pizza essere, essere buono, buono norma
+https://www.yelp.it/biz/casablanca-bari;10482;personale, essere, cortese, personale essere, essere cortese
+https://www.yelp.it/biz/casablanca-bari;10483;personale, attento, gentile, parte, sig, personale attento, attento gentile, gentile parte, parte sig
+https://www.yelp.it/biz/casablanca-bari;10484;personale, professionale, gentile, competente, personale professionale, professionale gentile, gentile competente
+https://www.yelp.it/biz/casablanca-bari;10485;davvero, saporito, davvero saporito
+https://www.yelp.it/biz/casablanca-bari;10486;ottimo, rapporto, qualità/prezzo, ottimo rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/casablanca-bari;10487;rapporto, qualità, prezzo, perfetto, rapporto qualità, qualità prezzo, prezzo perfetto
+https://www.yelp.it/biz/casablanca-bari;10488;buono, serata, buono serata
+https://www.yelp.it/biz/casablanca-bari;10489;location, fantastico, location fantastico
+https://www.yelp.it/biz/casablanca-bari;10490;sempre, piacevole, conferma, sempre piacevole, piacevole conferma
+https://www.yelp.it/biz/casablanca-bari;10491;pesce, preparare, modo, eccellente, pesce preparare, preparare modo, modo eccellente
+https://www.yelp.it/biz/casablanca-bari;10492;consigliare, cena, romantico, consigliare cena, cena romantico
+https://www.yelp.it/biz/casablanca-bari;10493;rapporto, qualità, prezzo, buono, rapporto qualità, qualità prezzo, prezzo buono
+https://www.yelp.it/biz/casablanca-bari;10494;molto, bello, molto bello
+https://www.yelp.it/biz/casablanca-bari;10495;bello, location, bello location
+https://www.yelp.it/biz/casablanca-bari;10496;comunque, pranzare, bene, comunque pranzare, pranzare bene
+https://www.yelp.it/biz/casablanca-bari;10497;qualità, ottimo, servizio, pietanza, location, qualità ottimo, ottimo servizio, servizio pietanza, pietanza location
+https://www.yelp.it/biz/casablanca-bari;10498;servizio, veloce, cortese, servizio veloce, veloce cortese
+https://www.yelp.it/biz/casablanca-bari;10499;farcitura, buono, qualità, farcitura buono, buono qualità
+https://www.yelp.it/biz/casablanca-bari;10500;ottimo, ghiacciato, ottimo ghiacciato
+https://www.yelp.it/biz/casablanca-bari;10501;essere, ristorante, pranzo, ragazzo, essere ristorante, ristorante pranzo, pranzo ragazzo
+https://www.yelp.it/biz/casablanca-bari;10502;cibo, buono, cibo buono
+https://www.yelp.it/biz/casablanca-bari;10503;servizio, molto, cordiale, professionale, veloce, servizio molto, molto cordiale, cordiale professionale, professionale veloce
+https://www.yelp.it/biz/casablanca-bari;10504;terrazza, essere, vero, mozzafiato, terrazza essere, essere vero, vero mozzafiato
+https://www.yelp.it/biz/casablanca-bari;10505;piatto, pesce, essere, ottimo, piatto pesce, pesce essere, essere ottimo
+https://www.yelp.it/biz/casablanca-bari;10506;personale, gentile, altezza, personale gentile, gentile altezza
+https://www.yelp.it/biz/casablanca-bari;10507;porre, molto, bello, personale, alto, professionale, gentile, porre molto, molto bello, bello personale, personale alto, alto professionale, professionale gentile

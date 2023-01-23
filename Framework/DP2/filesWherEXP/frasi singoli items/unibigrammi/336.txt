@@ -1,0 +1,32 @@
+https://www.yelp.it/biz/osteria-del-fiat-torino;13329;piacevole, scoperta, anche, ottimo, prezzo, piacevole scoperta, scoperta anche, anche ottimo, ottimo prezzo
+https://www.yelp.it/biz/osteria-del-fiat-torino;13330;pasta, saporito, pasta saporito
+https://www.yelp.it/biz/osteria-del-fiat-torino;13331;servizio, veloce, cordiale, servizio veloce, veloce cordiale
+https://www.yelp.it/biz/osteria-del-fiat-torino;13332;molto, buono, ottimo, abbondante, molto buono, buono ottimo, ottimo abbondante
+https://www.yelp.it/biz/osteria-del-fiat-torino;13333;personale, molto, personale molto
+https://www.yelp.it/biz/osteria-del-fiat-torino;13334;locale, molto, cariare, particolare, richiamo, sotria, industriale, locale molto, molto cariare, cariare particolare, particolare richiamo, richiamo sotria, sotria industriale
+https://www.yelp.it/biz/osteria-del-fiat-torino;13335;buon, rapporto, qualità/prezzo, buon rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/osteria-del-fiat-torino;13336;peccare, fondo, ambiente, accogliente, corredare, immagine, storico, meritare, cucina, migliore, peccare fondo, fondo ambiente, ambiente accogliente, accogliente corredare, corredare immagine, immagine storico, storico meritare, meritare cucina, cucina migliore
+https://www.yelp.it/biz/osteria-del-fiat-torino;13337;rapporto, qualità, prezzo, essere, ottimo, rapporto qualità, qualità prezzo, prezzo essere, essere ottimo
+https://www.yelp.it/biz/osteria-del-fiat-torino;13338;specialità, piemontese, davvero, gustoso, specialità piemontese, piemontese davvero, davvero gustoso
+https://www.yelp.it/biz/osteria-del-fiat-torino;13339;ottimo, accoglienza, personale, molto, simpatico, ottimo accoglienza, accoglienza personale, personale molto, molto simpatico
+https://www.yelp.it/biz/osteria-del-fiat-torino;13340;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/osteria-del-fiat-torino;13341;personale, gentile, personale gentile
+https://www.yelp.it/biz/osteria-del-fiat-torino;13342;locale, bello, caratteristico, locale bello, bello caratteristico
+https://www.yelp.it/biz/osteria-del-fiat-torino;13343;locale, molto, cariare, confortevole, locale molto, molto cariare, cariare confortevole
+https://www.yelp.it/biz/osteria-del-fiat-torino;13344;rispecchiare, pieno, mission, nome, rispecchiare pieno, pieno mission, mission nome
+https://www.yelp.it/biz/osteria-del-fiat-torino;13345;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/osteria-del-fiat-torino;13346;piatto, semplice, gustoso, piatto semplice, semplice gustoso
+https://www.yelp.it/biz/osteria-del-fiat-torino;13347;inoltre, location, essere, molto, particolare, inoltre location, location essere, essere molto, molto particolare
+https://www.yelp.it/biz/osteria-del-fiat-torino;13348;ottimo, qualità, prezzo, ottimo qualità, qualità prezzo
+https://www.yelp.it/biz/osteria-del-fiat-torino;13349;vino, sfuso, buono, vino sfuso, sfuso buono
+https://www.yelp.it/biz/osteria-del-fiat-torino;13350;qualità, vero, buono, qualità vero, vero buono
+https://www.yelp.it/biz/osteria-del-fiat-torino;13351;ottimo, provare, assoluto, ottimo provare, provare assoluto
+https://www.yelp.it/biz/osteria-del-fiat-torino;13352;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/osteria-del-fiat-torino;13353;trattoria, carino, cibo, curare, trattoria carino, carino cibo, cibo curare
+https://www.yelp.it/biz/osteria-del-fiat-torino;13354;unico, peccare, dolce, unico peccare, peccare dolce
+https://www.yelp.it/biz/osteria-del-fiat-torino;13355;locale, tipico, molto, carino, locale tipico, tipico molto, molto carino
+https://www.yelp.it/biz/osteria-del-fiat-torino;13356;cibo, ottimo, cibo ottimo
+https://www.yelp.it/biz/osteria-del-fiat-torino;13357;ottimo, atmosfera, buon, cibo, ottimo atmosfera, atmosfera buon, buon cibo
+https://www.yelp.it/biz/osteria-del-fiat-torino;13358;buono, peperone, bagna, caldo, buono peperone, peperone bagna, bagna caldo
+https://www.yelp.it/biz/osteria-del-fiat-torino;13359;pasta, fagiolo, buono, prezzo, pasta fagiolo, fagiolo buono, buono prezzo
+https://www.yelp.it/biz/osteria-del-fiat-torino;13360;cibo, essere, buono, gustoso, cibo essere, essere buono, buono gustoso

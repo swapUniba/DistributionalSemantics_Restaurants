@@ -1,0 +1,42 @@
+https://www.yelp.it/biz/taglio-torino;10075;piccolo, locale, personale, molto, cordiale, preparare, piccolo locale, locale personale, personale molto, molto cordiale, cordiale preparare
+https://www.yelp.it/biz/taglio-torino;10076;bravo, essere, causa, sovrappeso, bravo essere, essere causa, causa sovrappeso
+https://www.yelp.it/biz/taglio-torino;10077;estremo, cordialità, simpatia, gestore, estremo cordialità, cordialità simpatia, simpatia gestore
+https://www.yelp.it/biz/taglio-torino;10078;pizza, taglio, soffice, fantasioso, possibilità, vasto, assortimento, pizza taglio, taglio soffice, soffice fantasioso, fantasioso possibilità, possibilità vasto, vasto assortimento
+https://www.yelp.it/biz/taglio-torino;10079;personale, gentile, personale gentile
+https://www.yelp.it/biz/taglio-torino;10080;personale, cortese, preparare, personale cortese, cortese preparare
+https://www.yelp.it/biz/taglio-torino;10081;bello, dehor, piazza, bello dehor, dehor piazza
+https://www.yelp.it/biz/taglio-torino;10082;bravo, bravo, bravo bravo
+https://www.yelp.it/biz/taglio-torino;10083;pizza, alice, limone, spettacolare, pizza alice, alice limone, limone spettacolare
+https://www.yelp.it/biz/taglio-torino;10084;valere, sosta, valere sosta
+https://www.yelp.it/biz/taglio-torino;10085;qualità, davvero, elevato, qualità davvero, davvero elevato
+https://www.yelp.it/biz/taglio-torino;10086;vero, notevole, vero notevole
+https://www.yelp.it/biz/taglio-torino;10087;ottimo, birra, nicchia, ottimo birra, birra nicchia
+https://www.yelp.it/biz/taglio-torino;10088;gusto, davvero, originale, gusto davvero, davvero originale
+https://www.yelp.it/biz/taglio-torino;10089;ottimo, anche, birra, vino, biodinamico, simpatico, gentile, ragazzo, ottimo anche, anche birra, birra vino, vino biodinamico, biodinamico simpatico, simpatico gentile, gentile ragazzo
+https://www.yelp.it/biz/taglio-torino;10090;meraviglioso, contesto, preferito, torino, meraviglioso contesto, contesto preferito, preferito torino
+https://www.yelp.it/biz/taglio-torino;10091;vero, pizza, perfetto, vero pizza, pizza perfetto
+https://www.yelp.it/biz/taglio-torino;10092;passabile, prezzo, passabile prezzo
+https://www.yelp.it/biz/taglio-torino;10093;più, semplice, pizza, più semplice, semplice pizza
+https://www.yelp.it/biz/taglio-torino;10094;ottimo, pizza, taglio, prodotto, genuino, ottimo pizza, pizza taglio, taglio prodotto, prodotto genuino
+https://www.yelp.it/biz/taglio-torino;10095;pizza, molto, buono, soffice, spesso, saporito, pizza molto, molto buono, buono soffice, soffice spesso, spesso saporito
+https://www.yelp.it/biz/taglio-torino;10096;infine, ragazzo, dietro, bancone, essere, simpatico, cordiale, infine ragazzo, ragazzo dietro, dietro bancone, bancone essere, essere simpatico, simpatico cordiale
+https://www.yelp.it/biz/taglio-torino;10097;continuare, coso, continuare coso
+https://www.yelp.it/biz/taglio-torino;10098;cottura, perfetto, cottura perfetto
+https://www.yelp.it/biz/taglio-torino;10099;ingrediente, essere, ottimo, qualità, ingrediente essere, essere ottimo, ottimo qualità
+https://www.yelp.it/biz/taglio-torino;10100;deciso, provare, deciso provare
+https://www.yelp.it/biz/taglio-torino;10101;pizza, essere, spettacolare, pizza essere, essere spettacolare
+https://www.yelp.it/biz/taglio-torino;10102;poi, incuriosire, entrare, accogliere, caloroso, personale, poi incuriosire, incuriosire entrare, entrare accogliere, accogliere caloroso, caloroso personale
+https://www.yelp.it/biz/taglio-torino;10103;buono, cucina, premiare, apprezzare, buono cucina, cucina premiare, premiare apprezzare
+https://www.yelp.it/biz/taglio-torino;10104;onesto, ottimo, pizza, trancio, onesto ottimo, ottimo pizza, pizza trancio
+https://www.yelp.it/biz/taglio-torino;10105;cliente, chic, cliente chic
+https://www.yelp.it/biz/taglio-torino;10106;pizza, fetta, perfetto, pizza fetta, fetta perfetto
+https://www.yelp.it/biz/taglio-torino;10107;molto, cortese, simpatico, gestore, molto cortese, cortese simpatico, simpatico gestore
+https://www.yelp.it/biz/taglio-torino;10108;grazie, grazie, davvero, grazie grazie, grazie davvero
+https://www.yelp.it/biz/taglio-torino;10109;molto, disponibile, simpatico, proprietario, molto disponibile, disponibile simpatico, simpatico proprietario
+https://www.yelp.it/biz/taglio-torino;10110;sublime, bufalo, mozzarella, acciuga, spagnolo, moooolto, buono, sublime bufalo, bufalo mozzarella, mozzarella acciuga, acciuga spagnolo, spagnolo moooolto, moooolto buono
+https://www.yelp.it/biz/taglio-torino;10111;essere, scelta, giusto, essere scelta, scelta giusto
+https://www.yelp.it/biz/taglio-torino;10112;personale, davvero, gentile, locale, interessante, personale davvero, davvero gentile, gentile locale, locale interessante
+https://www.yelp.it/biz/taglio-torino;10113;mangiare, pizza, potere, taglio, diventare, esperienza, stellato, mangiare pizza, pizza potere, potere taglio, taglio diventare, diventare esperienza, esperienza stellato
+https://www.yelp.it/biz/taglio-torino;10114;pizza, buono, digeribile, pizza buono, buono digeribile
+https://www.yelp.it/biz/taglio-torino;10115;cortese, socievole, personale, cortese socievole, socievole personale
+https://www.yelp.it/biz/taglio-torino;10116;provare, sera, volta, provare sera, sera volta

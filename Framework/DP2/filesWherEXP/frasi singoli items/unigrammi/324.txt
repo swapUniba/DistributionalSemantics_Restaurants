@@ -1,0 +1,24 @@
+https://www.yelp.it/biz/sushi-yu-torino;12989;locale, molto, carino, zona
+https://www.yelp.it/biz/sushi-yu-torino;12990;buon, anno
+https://www.yelp.it/biz/sushi-yu-torino;12991;cibo, buono
+https://www.yelp.it/biz/sushi-yu-torino;12992;qualità, buono, servizio, valido
+https://www.yelp.it/biz/sushi-yu-torino;12993;essere, tutto, buono
+https://www.yelp.it/biz/sushi-yu-torino;12994;urumaki, essere, specialitá, imparagonabile
+https://www.yelp.it/biz/sushi-yu-torino;12995;cameriere, gentile
+https://www.yelp.it/biz/sushi-yu-torino;12996;personale, gentile, educare, preparare
+https://www.yelp.it/biz/sushi-yu-torino;12997;caffé, essere, passabile
+https://www.yelp.it/biz/sushi-yu-torino;12998;cortesia, eccellente
+https://www.yelp.it/biz/sushi-yu-torino;12999;molto, veloce, servizio, sushi, abbastanza, buono
+https://www.yelp.it/biz/sushi-yu-torino;13000;personale, essere, medio, gentile
+https://www.yelp.it/biz/sushi-yu-torino;13001;locale, carino, pulire
+https://www.yelp.it/biz/sushi-yu-torino;13002;media, particolarmente, eccezionale
+https://www.yelp.it/biz/sushi-yu-torino;13003;vicino, ottimo
+https://www.yelp.it/biz/sushi-yu-torino;13004;personale, gentile, servizio, veloce
+https://www.yelp.it/biz/sushi-yu-torino;13005;serio, gentile
+https://www.yelp.it/biz/sushi-yu-torino;13006;consigliare, pranzo, compagnia, coppia, provare, cucina, giapponese
+https://www.yelp.it/biz/sushi-yu-torino;13007;personale, gentile, educare
+https://www.yelp.it/biz/sushi-yu-torino;13008;qualità, ottimo
+https://www.yelp.it/biz/sushi-yu-torino;13009;personale, gentile, anche, bello, presenza
+https://www.yelp.it/biz/sushi-yu-torino;13010;preferito, complimentare
+https://www.yelp.it/biz/sushi-yu-torino;13011;davvero, ottimo
+https://www.yelp.it/biz/sushi-yu-torino;13012;essere, inizialmente, ottimo, affare

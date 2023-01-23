@@ -1,0 +1,44 @@
+https://www.yelp.it/biz/mamasita-torino;24454;ambiente, caratteristico, accogliente, ambiente caratteristico, caratteristico accogliente
+https://www.yelp.it/biz/mamasita-torino;24455;serata, top, carne, gogo, prezzo, onesto, ottimo, rapporto, qualità, prezzo, personale, cordiale, molto, attento, dolce, ottimo, prossimo, serata top, top carne, carne gogo, gogo prezzo, prezzo onesto, onesto ottimo, ottimo rapporto, rapporto qualità, qualità prezzo, prezzo personale, personale cordiale, cordiale molto, molto attento, attento dolce, dolce ottimo, ottimo prossimo
+https://www.yelp.it/biz/mamasita-torino;24456;personale, gentile, cibo, squisito, abbondante, personale gentile, gentile cibo, cibo squisito, squisito abbondante
+https://www.yelp.it/biz/mamasita-torino;24457;piacevole, scoperta, piacevole scoperta
+https://www.yelp.it/biz/mamasita-torino;24458;buono, rapporto, qualità-prezzo, buono rapporto, rapporto qualità-prezzo
+https://www.yelp.it/biz/mamasita-torino;24459;cariare, locale, cariare locale
+https://www.yelp.it/biz/mamasita-torino;24460;personale, cordiale, personale cordiale
+https://www.yelp.it/biz/mamasita-torino;24461;molto, buono, molto buono
+https://www.yelp.it/biz/mamasita-torino;24462;annaffiare, bello, caraffa, ottimo, birra, annaffiare bello, bello caraffa, caraffa ottimo, ottimo birra
+https://www.yelp.it/biz/mamasita-torino;24463;qualità, ottimo, qualità ottimo
+https://www.yelp.it/biz/mamasita-torino;24464;ottimo, cucina, ottimo cucina
+https://www.yelp.it/biz/mamasita-torino;24465;ottimo, accompagnare, carica, tipico, ottimo accompagnare, accompagnare carica, carica tipico
+https://www.yelp.it/biz/mamasita-torino;24466;buon, ristorante, messicano/argentino, buon ristorante, ristorante messicano/argentino
+https://www.yelp.it/biz/mamasita-torino;24467;buon, rapporto, qualità, prezzo, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/mamasita-torino;24468;davvero, squisito, davvero squisito
+https://www.yelp.it/biz/mamasita-torino;24469;bello, ristorante, accogliente, colorare, bello ristorante, ristorante accogliente, accogliente colorare
+https://www.yelp.it/biz/mamasita-torino;24470;caposaldo, provare, caposaldo provare
+https://www.yelp.it/biz/mamasita-torino;24471;buono, servizio, veloce, carne, tenero, buono servizio, servizio veloce, veloce carne, carne tenero
+https://www.yelp.it/biz/mamasita-torino;24472;servizio, abbastanza, rapido, servizio abbastanza, abbastanza rapido
+https://www.yelp.it/biz/mamasita-torino;24473;bello, posto, locale, accogliente, interno, esterno, bello posto, posto locale, locale accogliente, accogliente interno, interno esterno
+https://www.yelp.it/biz/mamasita-torino;24474;adatto, coppia, famiglia, amico, adatto coppia, coppia famiglia, famiglia amico
+https://www.yelp.it/biz/mamasita-torino;24475;rapporto, qualità/prezzo, ottimo, rapporto qualità/prezzo, qualità/prezzo ottimo
+https://www.yelp.it/biz/mamasita-torino;24476;niente, speciale, niente speciale
+https://www.yelp.it/biz/mamasita-torino;24477;adorabile, personale, molto, cortese, adorabile personale, personale molto, molto cortese
+https://www.yelp.it/biz/mamasita-torino;24478;consigliare, chilo, consigliare chilo
+https://www.yelp.it/biz/mamasita-torino;24479;locale, stile, messicano, molto, accogliente, locale stile, stile messicano, messicano molto, molto accogliente
+https://www.yelp.it/biz/mamasita-torino;24480;cibo, eccellente, cibo eccellente
+https://www.yelp.it/biz/mamasita-torino;24481;personale, gentile, personale gentile
+https://www.yelp.it/biz/mamasita-torino;24482;buon, servizio, rapporto, qualità, prezzo, buon servizio, servizio rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/mamasita-torino;24483;ragazzo, simpaticissimi, molto, professionale, ragazzo simpaticissimi, simpaticissimi molto, molto professionale
+https://www.yelp.it/biz/mamasita-torino;24484;valere, volta, kebabbaro, valere volta, volta kebabbaro
+https://www.yelp.it/biz/mamasita-torino;24485;buon, rapporto, qualità, buon rapporto, rapporto qualità
+https://www.yelp.it/biz/mamasita-torino;24486;carne, buono, carne buono
+https://www.yelp.it/biz/mamasita-torino;24487;ottimo, costata, spesso, gustoso, servire, patatina, ottimo costata, costata spesso, spesso gustoso, gustoso servire, servire patatina
+https://www.yelp.it/biz/mamasita-torino;24488;complesso, però, ottimo, locale, complesso però, però ottimo, ottimo locale
+https://www.yelp.it/biz/mamasita-torino;24489;locale, essere, piacevole, locale essere, essere piacevole
+https://www.yelp.it/biz/mamasita-torino;24490;locale, molto, carino, facilmente, raggiungibile, tram, locale molto, molto carino, carino facilmente, facilmente raggiungibile, raggiungibile tram
+https://www.yelp.it/biz/mamasita-torino;24491;davvero, gustoso, davvero gustoso
+https://www.yelp.it/biz/mamasita-torino;24492;provare, emozione, cucina, spagnolo, essere, posto, provare emozione, emozione cucina, cucina spagnolo, spagnolo essere, essere posto
+https://www.yelp.it/biz/mamasita-torino;24493;molto, buono, aperitivo, molto buono, buono aperitivo
+https://www.yelp.it/biz/mamasita-torino;24494;vero, eccellente, vero eccellente
+https://www.yelp.it/biz/mamasita-torino;24495;insomma, locale, simpatia, gentilezza, cameriere, qualità, fondere, esperienza, piacevole, insomma locale, locale simpatia, simpatia gentilezza, gentilezza cameriere, cameriere qualità, qualità fondere, fondere esperienza, esperienza piacevole
+https://www.yelp.it/biz/mamasita-torino;24496;simpatico, disponibile, personale, simpatico disponibile, disponibile personale
+https://www.yelp.it/biz/mamasita-torino;24497;personale, veloce, cortese, sorridente, personale veloce, veloce cortese, cortese sorridente

@@ -1,0 +1,33 @@
+https://www.yelp.it/biz/piano-b-torino;7072;personale, molto, cortese, personale molto, molto cortese
+https://www.yelp.it/biz/piano-b-torino;7073;dolce, casereccio, molto, buono, dolce casereccio, casereccio molto, molto buono
+https://www.yelp.it/biz/piano-b-torino;7074;prossimo, serata, prossimo serata
+https://www.yelp.it/biz/piano-b-torino;7075;molto, buono, impasto, grano, particolare, lievitazione, lungo, ora, molto buono, buono impasto, impasto grano, grano particolare, particolare lievitazione, lievitazione lungo, lungo ora
+https://www.yelp.it/biz/piano-b-torino;7076;ottimo, ingrediente, ben, miscelare, ottimo ingrediente, ingrediente ben, ben miscelare
+https://www.yelp.it/biz/piano-b-torino;7077;locale, essere, molto, carino, impossibile, locale essere, essere molto, molto carino, carino impossibile
+https://www.yelp.it/biz/piano-b-torino;7078;personale, gentile, porre, pulito, personale gentile, gentile porre, porre pulito
+https://www.yelp.it/biz/piano-b-torino;7079;bravo, deludere, mai, bravo deludere, deludere mai
+https://www.yelp.it/biz/piano-b-torino;7080;cibo, buono, cibo buono
+https://www.yelp.it/biz/piano-b-torino;7081;piatto, cucinare, bene, impiattati, cura, piatto cucinare, cucinare bene, bene impiattati, impiattati cura
+https://www.yelp.it/biz/piano-b-torino;7082;personale, simpatico, cordiale, personale simpatico, simpatico cordiale
+https://www.yelp.it/biz/piano-b-torino;7083;davvero, molto, buono, davvero molto, molto buono
+https://www.yelp.it/biz/piano-b-torino;7084;locale, bello, elegante, locale bello, bello elegante
+https://www.yelp.it/biz/piano-b-torino;7085;buono, rapporto, qualità, prezzo, buono rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/piano-b-torino;7086;molto, buono, molto buono
+https://www.yelp.it/biz/piano-b-torino;7087;consiglio, assoluto, consiglio assoluto
+https://www.yelp.it/biz/piano-b-torino;7088;personale, gentile, disponibile, efficiente, personale gentile, gentile disponibile, disponibile efficiente
+https://www.yelp.it/biz/piano-b-torino;7089;morbido, molto, gustoso, morbido molto, molto gustoso
+https://www.yelp.it/biz/piano-b-torino;7090;buono, anche, pizza, fare, forma, coniglio, bambino, buono anche, anche pizza, pizza fare, fare forma, forma coniglio, coniglio bambino
+https://www.yelp.it/biz/piano-b-torino;7091;grigliata, essere, davvero, ottimo, carne, molto, buono, molto, abbondante, grigliata essere, essere davvero, davvero ottimo, ottimo carne, carne molto, molto buono, buono molto, molto abbondante
+https://www.yelp.it/biz/piano-b-torino;7092;locale, essere, molto, grande, carino, ben, arredare, locale essere, essere molto, molto grande, grande carino, carino ben, ben arredare
+https://www.yelp.it/biz/piano-b-torino;7093;servizio, serio, disponibile, gentile, bravo, servizio serio, serio disponibile, disponibile gentile, gentile bravo
+https://www.yelp.it/biz/piano-b-torino;7094;pizza, ottimo, pizza ottimo
+https://www.yelp.it/biz/piano-b-torino;7095;ottimo, pizza, carne, eccellente, ottimo pizza, pizza carne, carne eccellente
+https://www.yelp.it/biz/piano-b-torino;7096;ottimo, clientela, ottimo clientela
+https://www.yelp.it/biz/piano-b-torino;7097;personale, gentile, molto, formale, personale gentile, gentile molto, molto formale
+https://www.yelp.it/biz/piano-b-torino;7098;locale, elegante, moderno, locale elegante, elegante moderno
+https://www.yelp.it/biz/piano-b-torino;7099;insalatona, discreto, più, insalatona discreto, discreto più
+https://www.yelp.it/biz/piano-b-torino;7100;unico, pecca, forse, pò, caro, essere, centro, unico pecca, pecca forse, forse pò, pò caro, caro essere, essere centro
+https://www.yelp.it/biz/piano-b-torino;7101;location, ampio, spazio, possibilità, utilizzare, wi-fi, location ampio, ampio spazio, spazio possibilità, possibilità utilizzare, utilizzare wi-fi
+https://www.yelp.it/biz/piano-b-torino;7102;bello, scoperta, bello scoperta
+https://www.yelp.it/biz/piano-b-torino;7103;essere, super, super, fantastico, essere super, super super, super fantastico
+https://www.yelp.it/biz/piano-b-torino;7104;soffice, leggero, buono, soffice leggero, leggero buono

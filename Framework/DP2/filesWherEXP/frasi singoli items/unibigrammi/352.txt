@@ -1,0 +1,39 @@
+https://www.yelp.it/biz/l-oca-fola-torino;13846;personale, molto, gentile, professiorale, personale molto, molto gentile, gentile professiorale
+https://www.yelp.it/biz/l-oca-fola-torino;13847;locale, accogliente, servizio, veloce, simpatia, locale accogliente, accogliente servizio, servizio veloce, veloce simpatia
+https://www.yelp.it/biz/l-oca-fola-torino;13848;buono, qualità, prezzo, buono qualità, qualità prezzo
+https://www.yelp.it/biz/l-oca-fola-torino;13849;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/l-oca-fola-torino;13850;bello, scoperta, bello scoperta
+https://www.yelp.it/biz/l-oca-fola-torino;13851;buon, ristorante, pranzo, veloce, buon ristorante, ristorante pranzo, pranzo veloce
+https://www.yelp.it/biz/l-oca-fola-torino;13852;cucina, piemontese, molto, buono, cucina piemontese, piemontese molto, molto buono
+https://www.yelp.it/biz/l-oca-fola-torino;13853;ambiente, accogliente, servizio, accurato, ambiente accogliente, accogliente servizio, servizio accurato
+https://www.yelp.it/biz/l-oca-fola-torino;13854;serata, davvero, piacevole, serata davvero, davvero piacevole
+https://www.yelp.it/biz/l-oca-fola-torino;13855;personale, molto, cortese, personale molto, molto cortese
+https://www.yelp.it/biz/l-oca-fola-torino;13856;conto, giusto, conto giusto
+https://www.yelp.it/biz/l-oca-fola-torino;13857;molto, buono, molto buono
+https://www.yelp.it/biz/l-oca-fola-torino;13858;personale, favoloso, personale favoloso
+https://www.yelp.it/biz/l-oca-fola-torino;13859;posto, vero, consigliatissimo, posto vero, vero consigliatissimo
+https://www.yelp.it/biz/l-oca-fola-torino;13860;posto, accogliente, posto accogliente
+https://www.yelp.it/biz/l-oca-fola-torino;13861;piatto, tradizionale, molto, valido, piatto tradizionale, tradizionale molto, molto valido
+https://www.yelp.it/biz/l-oca-fola-torino;13862;ambiente, caldo, accogliente, ambiente caldo, caldo accogliente
+https://www.yelp.it/biz/l-oca-fola-torino;13863;discreto, dolce, discreto dolce
+https://www.yelp.it/biz/l-oca-fola-torino;13864;cibo, buono, cibo buono
+https://www.yelp.it/biz/l-oca-fola-torino;13865;buon, posto, cena, romantico, buon posto, posto cena, cena romantico
+https://www.yelp.it/biz/l-oca-fola-torino;13866;bagno, piccolo, bagno piccolo
+https://www.yelp.it/biz/l-oca-fola-torino;13867;abbastanza, buono, tuttavia, attesa, giustificare, considerare, risultato, abbastanza buono, buono tuttavia, tuttavia attesa, attesa giustificare, giustificare considerare, considerare risultato
+https://www.yelp.it/biz/l-oca-fola-torino;13868;personale, gentile, abbastanza, preparare, personale gentile, gentile abbastanza, abbastanza preparare
+https://www.yelp.it/biz/l-oca-fola-torino;13869;cucinare, tradizione, piemontese, davvero, buono, cucinare tradizione, tradizione piemontese, piemontese davvero, davvero buono
+https://www.yelp.it/biz/l-oca-fola-torino;13870;servizio, rapido, cordiale, servizio rapido, rapido cordiale
+https://www.yelp.it/biz/l-oca-fola-torino;13871;menù, degustazione, offrire, occasione, assaggiare, ottimo, piatto, preparato, cura, menù degustazione, degustazione offrire, offrire occasione, occasione assaggiare, assaggiare ottimo, ottimo piatto, piatto preparato, preparato cura
+https://www.yelp.it/biz/l-oca-fola-torino;13872;ristorante, atmosfera, piacevole, ristorante atmosfera, atmosfera piacevole
+https://www.yelp.it/biz/l-oca-fola-torino;13873;ritornare, più, calmo, ritornare più, più calmo
+https://www.yelp.it/biz/l-oca-fola-torino;13874;cibo, squisito, conto, giusto, cibo squisito, squisito conto, conto giusto
+https://www.yelp.it/biz/l-oca-fola-torino;13875;gentilezza, gestore, ottimo, cucina, confermare, aspettativa, gentilezza gestore, gestore ottimo, ottimo cucina, cucina confermare, confermare aspettativa
+https://www.yelp.it/biz/l-oca-fola-torino;13876;come, bonet, come bonet
+https://www.yelp.it/biz/l-oca-fola-torino;13877;menù, essere, quasi, glutine, buono, scelta, antipasto, dolce, menù essere, essere quasi, quasi glutine, glutine buono, buono scelta, scelta antipasto, antipasto dolce
+https://www.yelp.it/biz/l-oca-fola-torino;13878;locale, bello, accogliente, locale bello, bello accogliente
+https://www.yelp.it/biz/l-oca-fola-torino;13879;soddisfazione, grado, soddisfazione grado
+https://www.yelp.it/biz/l-oca-fola-torino;13880;piatto, soddisfare, vedere, olfatto, palare, piatto soddisfare, soddisfare vedere, vedere olfatto, olfatto palare
+https://www.yelp.it/biz/l-oca-fola-torino;13881;ottimo, palato, ottimo palato
+https://www.yelp.it/biz/l-oca-fola-torino;13882;buono, anche, carta, vino, buono anche, anche carta, carta vino
+https://www.yelp.it/biz/l-oca-fola-torino;13883;antipasto, vitello, tonnato, ottimo, antipasto vitello, vitello tonnato, tonnato ottimo
+https://www.yelp.it/biz/l-oca-fola-torino;13884;cenare, comunque, positivo, cenare comunque, comunque positivo

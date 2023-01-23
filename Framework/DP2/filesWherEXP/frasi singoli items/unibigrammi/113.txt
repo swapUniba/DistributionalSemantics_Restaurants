@@ -1,0 +1,20 @@
+https://www.yelp.it/biz/montecarlo-torino;6677;ottimo, servizio, ottimo, cibo, ottimo, vino, ottimo servizio, servizio ottimo, ottimo cibo, cibo ottimo, ottimo vino
+https://www.yelp.it/biz/montecarlo-torino;6678;cibo, complesso, buono, anche, eccezzionale, cibo complesso, complesso buono, buono anche, anche eccezzionale
+https://www.yelp.it/biz/montecarlo-torino;6679;posto, imperdibile, amare, buono, cucina, italiano, sofisticazione, posto imperdibile, imperdibile amare, amare buono, buono cucina, cucina italiano, italiano sofisticazione
+https://www.yelp.it/biz/montecarlo-torino;6680;fare, ottimo, lavoro, fare ottimo, ottimo lavoro
+https://www.yelp.it/biz/montecarlo-torino;6681;cuore, proprietario, fare, sentire, casa, appena, entrare, percepire, subito, l, eleganza, semplice, serio, locale, gestire, professionalità, cuore proprietario, proprietario fare, fare sentire, sentire casa, casa appena, appena entrare, entrare percepire, percepire subito, subito l, l eleganza, eleganza semplice, semplice serio, serio locale, locale gestire, gestire professionalità
+https://www.yelp.it/biz/montecarlo-torino;6682;giusto, rapporto, prezzo, qualità, giusto rapporto, rapporto prezzo, prezzo qualità
+https://www.yelp.it/biz/montecarlo-torino;6683;vino, discreto, vino discreto
+https://www.yelp.it/biz/montecarlo-torino;6684;tartufo, migliore, qualità, tartufo migliore, migliore qualità
+https://www.yelp.it/biz/montecarlo-torino;6685;sempre, molto, buono, sempre molto, molto buono
+https://www.yelp.it/biz/montecarlo-torino;6686;lasciare, guidare, scelta, menù, lasciare guidare, guidare scelta, scelta menù
+https://www.yelp.it/biz/montecarlo-torino;6687;goccio, completare, sorprendente, serata, goccio completare, completare sorprendente, sorprendente serata
+https://www.yelp.it/biz/montecarlo-torino;6688;ultimo, ultimo, conto, ragionevole, elevato, qualità, locale, ultimo ultimo, ultimo conto, conto ragionevole, ragionevole elevato, elevato qualità, qualità locale
+https://www.yelp.it/biz/montecarlo-torino;6689;ottimo, dolcetto, caraffa, ottimo dolcetto, dolcetto caraffa
+https://www.yelp.it/biz/montecarlo-torino;6690;ampio, scegliere, vino, piemontese, solo, ampio scegliere, scegliere vino, vino piemontese, piemontese solo
+https://www.yelp.it/biz/montecarlo-torino;6691;accogliere, simpaticissimo, sig, accogliere simpaticissimo, simpaticissimo sig
+https://www.yelp.it/biz/montecarlo-torino;6692;meritare, visita, meritare visita
+https://www.yelp.it/biz/montecarlo-torino;6693;cucina, tradizione, basare, materia, primo, ottimo, qualità, lavorare, passione, grande, perizia, cucina tradizione, tradizione basare, basare materia, materia primo, primo ottimo, ottimo qualità, qualità lavorare, lavorare passione, passione grande, grande perizia
+https://www.yelp.it/biz/montecarlo-torino;6694;anche, accoglienza, atmosfera, risultare, estremo, piacevole, anche accoglienza, accoglienza atmosfera, atmosfera risultare, risultare estremo, estremo piacevole
+https://www.yelp.it/biz/montecarlo-torino;6695;esperienza, provare, esperienza provare
+https://www.yelp.it/biz/montecarlo-torino;6696;buono, scelta, vino, costo, assoluto, adeguato, locale, buono scelta, scelta vino, vino costo, costo assoluto, assoluto adeguato, adeguato locale

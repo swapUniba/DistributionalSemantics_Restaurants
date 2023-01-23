@@ -1,0 +1,34 @@
+https://www.yelp.it/biz/taco-bang-torino;24645;ottimo, rapporto, qualità/prezzo, ottimo rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/taco-bang-torino;24646;piatto, davvero, ottimo, piatto davvero, davvero ottimo
+https://www.yelp.it/biz/taco-bang-torino;24647;posto, pulito, spazioso, ragazzo, gentile, prezzo, onesto, posto pulito, pulito spazioso, spazioso ragazzo, ragazzo gentile, gentile prezzo, prezzo onesto
+https://www.yelp.it/biz/taco-bang-torino;24648;porre, vero, mano, piacevolmente, accogliente, porre vero, vero mano, mano piacevolmente, piacevolmente accogliente
+https://www.yelp.it/biz/taco-bang-torino;24649;atmosfera, rilassare, cibo, ottimo, atmosfera rilassare, rilassare cibo, cibo ottimo
+https://www.yelp.it/biz/taco-bang-torino;24650;personale, molto, disponibile, cortese, personale molto, molto disponibile, disponibile cortese
+https://www.yelp.it/biz/taco-bang-torino;24651;cibo, essere, ottimo, cibo essere, essere ottimo
+https://www.yelp.it/biz/taco-bang-torino;24652;stupendo, burritos, stupendo burritos
+https://www.yelp.it/biz/taco-bang-torino;24653;servizio, cortese, servizio cortese
+https://www.yelp.it/biz/taco-bang-torino;24654;assoluto, provare, davvero, buono, assoluto provare, provare davvero, davvero buono
+https://www.yelp.it/biz/taco-bang-torino;24655;rapporto, qualità/prezzo, ottimo, rapporto qualità/prezzo, qualità/prezzo ottimo
+https://www.yelp.it/biz/taco-bang-torino;24656;burrito, essere, strepitoso, unico, pecca, forse, pò, tiepido, volta, burrito essere, essere strepitoso, strepitoso unico, unico pecca, pecca forse, forse pò, pò tiepido, tiepido volta
+https://www.yelp.it/biz/taco-bang-torino;24657;pranzo, essere, ottimo, abbondante, pranzo essere, essere ottimo, ottimo abbondante
+https://www.yelp.it/biz/taco-bang-torino;24658;proprietario, cassa, essere, sorridente, molto, cordiale, proprietario cassa, cassa essere, essere sorridente, sorridente molto, molto cordiale
+https://www.yelp.it/biz/taco-bang-torino;24659;rapporto, qualità/prezzo, eccellente, rapporto qualità/prezzo, qualità/prezzo eccellente
+https://www.yelp.it/biz/taco-bang-torino;24660;ragazzo, cassa, essere, cortese, sorridente, ragazzo cassa, cassa essere, essere cortese, cortese sorridente
+https://www.yelp.it/biz/taco-bang-torino;24661;cibo, ottimo, prezzo, cibo ottimo, ottimo prezzo
+https://www.yelp.it/biz/taco-bang-torino;24662;grazie, bello, esperienza, grazie bello, bello esperienza
+https://www.yelp.it/biz/taco-bang-torino;24663;ragazzo, giovane, simpatico, servizio, bene, ragazzo giovane, giovane simpatico, simpatico servizio, servizio bene
+https://www.yelp.it/biz/taco-bang-torino;24664;sempre, buono, sempre buono
+https://www.yelp.it/biz/taco-bang-torino;24665;unico, pecca, unico pecca
+https://www.yelp.it/biz/taco-bang-torino;24666;idea, base, realizzazione, rimanere, ottimo, idea base, base realizzazione, realizzazione rimanere, rimanere ottimo
+https://www.yelp.it/biz/taco-bang-torino;24667;funzionale, bravo, funzionale bravo
+https://www.yelp.it/biz/taco-bang-torino;24668;cibo, essere, ottimo, cibo essere, essere ottimo
+https://www.yelp.it/biz/taco-bang-torino;24669;chipotle, essere, eccezionale, burrito, anche, chipotle essere, essere eccezionale, eccezionale burrito, burrito anche
+https://www.yelp.it/biz/taco-bang-torino;24670;essere, assoluto, fantastico, essere assoluto, assoluto fantastico
+https://www.yelp.it/biz/taco-bang-torino;24671;personale, essere, gentile, disponibile, personale essere, essere gentile, gentile disponibile
+https://www.yelp.it/biz/taco-bang-torino;24672;molto, semplice, essenziale, molto semplice, semplice essenziale
+https://www.yelp.it/biz/taco-bang-torino;24673;molto, buono, prezzo, competitivo, molto buono, buono prezzo, prezzo competitivo
+https://www.yelp.it/biz/taco-bang-torino;24674;molto, conveniente, rispetto, messicano, molto conveniente, conveniente rispetto, rispetto messicano
+https://www.yelp.it/biz/taco-bang-torino;24675;ottimo, fast, food, messicano, buono, scelta, piatto, panino, ottimo fast, fast food, food messicano, messicano buono, buono scelta, scelta piatto, piatto panino
+https://www.yelp.it/biz/taco-bang-torino;24676;complesso, buono, cibo, buono, prezzo, bello, pulire, locale, complesso buono, buono cibo, cibo buono, buono prezzo, prezzo bello, bello pulire, pulire locale
+https://www.yelp.it/biz/taco-bang-torino;24677;gestire, ragazzo, giovane, molto, gentile, gestire ragazzo, ragazzo giovane, giovane molto, molto gentile
+https://www.yelp.it/biz/taco-bang-torino;24678;pollo, griglia, essere, fantastico, rimanere, molto, impressionare, anche, carne, bovino, burrito, pollo griglia, griglia essere, essere fantastico, fantastico rimanere, rimanere molto, molto impressionare, impressionare anche, anche carne, carne bovino, bovino burrito

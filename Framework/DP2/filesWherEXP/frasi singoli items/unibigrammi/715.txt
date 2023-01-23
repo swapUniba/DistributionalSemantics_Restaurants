@@ -1,0 +1,39 @@
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24341;molto, buono, molto buono
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24342;personale, cordiale, personale cordiale
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24343;buono, digestivo, casa, buono digestivo, digestivo casa
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24344;ottimo, pizza, napoletano, ottimo pizza, pizza napoletano
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24345;locale, carino, fresco, servizio, rapido, pizza, buono, locale carino, carino fresco, fresco servizio, servizio rapido, rapido pizza, pizza buono
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24346;personale, cordiale, pietanza, appena, sufficiente, personale cordiale, cordiale pietanza, pietanza appena, appena sufficiente
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24347;quindi, esperienza, ripetere, quindi esperienza, esperienza ripetere
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24348;pizza, buono, bimbo, libero, giocare, pizza buono, buono bimbo, bimbo libero, libero giocare
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24349;pizza, davvero, ottimo, pizza davvero, davvero ottimo
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24350;prezzo, essere, norma, quindi, buono, offrire, cioè, prodotto, campano, fresco, ottimo, qualità, prezzo essere, essere norma, norma quindi, quindi buono, buono offrire, offrire cioè, cioè prodotto, prodotto campano, campano fresco, fresco ottimo, ottimo qualità
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24351;interessante, nonostante, recensioni, cosí, entusiasmante, giudizio, é, piú, positivo, interessante nonostante, nonostante recensioni, recensioni cosí, cosí entusiasmante, entusiasmante giudizio, giudizio é, é piú, piú positivo
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24352;locale, empatica, comunicativo, locale empatica, empatica comunicativo
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24353;tornare, cucina, pizza, gustoso, ottimo, pasta, insalata, banale, carne, tenero, buono, qualitá, tornare cucina, cucina pizza, pizza gustoso, gustoso ottimo, ottimo pasta, pasta insalata, insalata banale, banale carne, carne tenero, tenero buono, buono qualitá
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24354;molto, buono, digeribile, molto buono, buono digeribile
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24355;personale, cortese, gentile, personale cortese, cortese gentile
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24356;benissimo, mangiare, buono, essere, pizza, resto, benissimo mangiare, mangiare buono, buono essere, essere pizza, pizza resto
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24357;onestà, pizza, essere, molto, buono, ben, condire, ottimo, impasto, onestà pizza, pizza essere, essere molto, molto buono, buono ben, ben condire, condire ottimo, ottimo impasto
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24358;pizza, buono, tipico, napoletano, pizza buono, buono tipico, tipico napoletano
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24359;personale, attento, sorridente, personale attento, attento sorridente
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24360;ottimo, serata, complesso, ottimo serata, serata complesso
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24361;dolce, molto, buono, servizio, veloce, dolce molto, molto buono, buono servizio, servizio veloce
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24362;personale, cortese, pietanza, ottimo, personale cortese, cortese pietanza, pietanza ottimo
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24363;rapporto, qualità, prezzo, deciso, troppo, caro, rapporto qualità, qualità prezzo, prezzo deciso, deciso troppo, troppo caro
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24364;inusuale, davvero, inusuale davvero
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24365;antipasto, dolce, abbondante, antipasto dolce, dolce abbondante
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24366;pizza, fantastico, ottimo, dolce, direttore, gentile, pizza fantastico, fantastico ottimo, ottimo dolce, dolce direttore, direttore gentile
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24367;personale, gentile, servizio, abbastanza, veloce, personale gentile, gentile servizio, servizio abbastanza, abbastanza veloce
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24368;posto, cariare, posto cariare
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24369;personale, gentile, personale gentile
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24370;essere, buono, essere buono
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24371;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24372;pizza, buono, sicuro, ingrediente, buono, scelta, pizza buono, buono sicuro, sicuro ingrediente, ingrediente buono, buono scelta
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24373;vero, buono, costo, ovvio, partenopeo, media, torinese, vero buono, buono costo, costo ovvio, ovvio partenopeo, partenopeo media, media torinese
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24374;pizza, superlativo, frittura, napoletana, pizza superlativo, superlativo frittura, frittura napoletana
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24375;pizza, molto, buono, pizza molto, molto buono
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24376;pizza, ottimo, qualità, pizza ottimo, ottimo qualità
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24377;trovare, indubbio, meglio, trovare indubbio, indubbio meglio
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24378;forza, ragazzo, forza ragazzo
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;24379;bravo, bravo, bravo, bravo bravo, bravo bravo

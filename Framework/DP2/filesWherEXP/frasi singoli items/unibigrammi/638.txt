@@ -1,0 +1,46 @@
+https://www.yelp.it/biz/karmacola-torino;22806;buono, dolce, abbinamento, cioccolato, bianco, fondente, buono dolce, dolce abbinamento, abbinamento cioccolato, cioccolato bianco, bianco fondente
+https://www.yelp.it/biz/karmacola-torino;22807;molto, consigliare, molto consigliare
+https://www.yelp.it/biz/karmacola-torino;22808;gustoso, anche, leggero, gustoso anche, anche leggero
+https://www.yelp.it/biz/karmacola-torino;22809;poltrone, molto, comodo, tavolo, apparecchiare, modo, impeccabile, poltrone molto, molto comodo, comodo tavolo, tavolo apparecchiare, apparecchiare modo, modo impeccabile
+https://www.yelp.it/biz/karmacola-torino;22810;rapporto, qualità, prezzo, ottimo, rapporto qualità, qualità prezzo, prezzo ottimo
+https://www.yelp.it/biz/karmacola-torino;22811;menù, vegano, gustoso, onesto, rapporto, qualità, prezzo, menù vegano, vegano gustoso, gustoso onesto, onesto rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/karmacola-torino;22812;personale, stupendo, personale stupendo
+https://www.yelp.it/biz/karmacola-torino;22813;più, cibo, vero, buono, prezzo, onesto, cordialità, più cibo, cibo vero, vero buono, buono prezzo, prezzo onesto, onesto cordialità
+https://www.yelp.it/biz/karmacola-torino;22814;rapporto, qualità, prezzo, indiscutibile, rapporto qualità, qualità prezzo, prezzo indiscutibile
+https://www.yelp.it/biz/karmacola-torino;22815;conto, appropriato, conto appropriato
+https://www.yelp.it/biz/karmacola-torino;22816;personale, essere, davvero, molto, gentile, personale essere, essere davvero, davvero molto, molto gentile
+https://www.yelp.it/biz/karmacola-torino;22817;buono, gelato, mango, buono gelato, gelato mango
+https://www.yelp.it/biz/karmacola-torino;22818;locale, molto, suggestivo, accogliente, locale molto, molto suggestivo, suggestivo accogliente
+https://www.yelp.it/biz/karmacola-torino;22819;esperienza, unico, esperienza unico
+https://www.yelp.it/biz/karmacola-torino;22820;bello, sorpresa, bello sorpresa
+https://www.yelp.it/biz/karmacola-torino;22821;cibo, ottimo, cibo ottimo
+https://www.yelp.it/biz/karmacola-torino;22822;proprietario, essere, persona, squisito, proprietario essere, essere persona, persona squisito
+https://www.yelp.it/biz/karmacola-torino;22823;locale, molto, carino, tema, anche, musica, odore, locale molto, molto carino, carino tema, tema anche, anche musica, musica odore
+https://www.yelp.it/biz/karmacola-torino;22824;personale, gentile, molto, rapido, personale gentile, gentile molto, molto rapido
+https://www.yelp.it/biz/karmacola-torino;22825;personale, gentile, cortese, personale gentile, gentile cortese
+https://www.yelp.it/biz/karmacola-torino;22826;vero, bello, capodanno, vero bello, bello capodanno
+https://www.yelp.it/biz/karmacola-torino;22827;molto, buono, molto buono
+https://www.yelp.it/biz/karmacola-torino;22828;antipasto, essere, molto, buono, portato, essere, fenomenale, antipasto essere, essere molto, molto buono, buono portato, portato essere, essere fenomenale
+https://www.yelp.it/biz/karmacola-torino;22829;piccolo, dono, commiato, piccolo dono, dono commiato
+https://www.yelp.it/biz/karmacola-torino;22830;ambientazione, piacevole, profumo, spezie, pulizia, ordine, ambientazione piacevole, piacevole profumo, profumo spezie, spezie pulizia, pulizia ordine
+https://www.yelp.it/biz/karmacola-torino;22831;preparato, cordiale, preparato cordiale
+https://www.yelp.it/biz/karmacola-torino;22832;ambiente, ospitale, colorato, pulito, ambiente ospitale, ospitale colorato, colorato pulito
+https://www.yelp.it/biz/karmacola-torino;22833;pietanza, essere, ottimo, mix, spezie, sapore, pietanza essere, essere ottimo, ottimo mix, mix spezie, spezie sapore
+https://www.yelp.it/biz/karmacola-torino;22834;ottimo, sorbetto, zenzero, ottimo sorbetto, sorbetto zenzero
+https://www.yelp.it/biz/karmacola-torino;22835;ottimo, esperienza, ottimo esperienza
+https://www.yelp.it/biz/karmacola-torino;22836;posto, silenzioso, tranquillo, ideale, anche, famiglia, posto silenzioso, silenzioso tranquillo, tranquillo ideale, ideale anche, anche famiglia
+https://www.yelp.it/biz/karmacola-torino;22837;locale, arredamento, tema, piacevole, accogliente, locale arredamento, arredamento tema, tema piacevole, piacevole accogliente
+https://www.yelp.it/biz/karmacola-torino;22838;buono, buono, quantità, buono buono, buono quantità
+https://www.yelp.it/biz/karmacola-torino;22839;posto, davvero, cariare, posto davvero, davvero cariare
+https://www.yelp.it/biz/karmacola-torino;22840;ottimo, serata, ottimo serata
+https://www.yelp.it/biz/karmacola-torino;22841;personale, molto, cordiale, personale molto, molto cordiale
+https://www.yelp.it/biz/karmacola-torino;22842;personale, molto, cordiale, personale molto, molto cordiale
+https://www.yelp.it/biz/karmacola-torino;22843;piatto, deciso, ottimo, piatto deciso, deciso ottimo
+https://www.yelp.it/biz/karmacola-torino;22844;personale, essere, molto, gentile, personale essere, essere molto, molto gentile
+https://www.yelp.it/biz/karmacola-torino;22845;fantastico, abbondante, fantastico abbondante
+https://www.yelp.it/biz/karmacola-torino;22846;cibo, ottimo, personale, molto, cordiale, cibo ottimo, ottimo personale, personale molto, molto cordiale
+https://www.yelp.it/biz/karmacola-torino;22847;locale, essere, molto, bello, caratteristico, locale essere, essere molto, molto bello, bello caratteristico
+https://www.yelp.it/biz/karmacola-torino;22848;piatto, essere, eccezionale, piatto essere, essere eccezionale
+https://www.yelp.it/biz/karmacola-torino;22849;bello, serata, bello serata
+https://www.yelp.it/biz/karmacola-torino;22850;titolare, gentile, attento, titolare gentile, gentile attento
+https://www.yelp.it/biz/karmacola-torino;22851;essere, veloce, essere veloce

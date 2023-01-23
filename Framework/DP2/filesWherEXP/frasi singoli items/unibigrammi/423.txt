@@ -1,0 +1,36 @@
+https://www.yelp.it/biz/catullo-torino-2;16367;bello, locale, bello locale
+https://www.yelp.it/biz/catullo-torino-2;16368;buono, cucina, ottimo, pizza, buono cucina, cucina ottimo, ottimo pizza
+https://www.yelp.it/biz/catullo-torino-2;16369;molto, romantico, molto romantico
+https://www.yelp.it/biz/catullo-torino-2;16370;cameriere, bravo, simpatico, disponibile, cameriere bravo, bravo simpatico, simpatico disponibile
+https://www.yelp.it/biz/catullo-torino-2;16371;dipendere, serata, dipendere serata
+https://www.yelp.it/biz/catullo-torino-2;16372;più, romantico, più romantico
+https://www.yelp.it/biz/catullo-torino-2;16373;ottimo, qualità-prezzo, ottimo qualità-prezzo
+https://www.yelp.it/biz/catullo-torino-2;16374;ottimo, dolce, ottimo dolce
+https://www.yelp.it/biz/catullo-torino-2;16375;ristorante, molto, curato, ristorante molto, molto curato
+https://www.yelp.it/biz/catullo-torino-2;16376;sala, inferiore, offrire, stupendo, veduta, sala inferiore, inferiore offrire, offrire stupendo, stupendo veduta
+https://www.yelp.it/biz/catullo-torino-2;16377;vista, ponte, eccezionale, vista ponte, ponte eccezionale
+https://www.yelp.it/biz/catullo-torino-2;16378;consigliare, cena, romantico, consigliare cena, cena romantico
+https://www.yelp.it/biz/catullo-torino-2;16379;sommare, locale, discreto, sommare locale, locale discreto
+https://www.yelp.it/biz/catullo-torino-2;16380;servizio, cortese, puntuale, servizio cortese, cortese puntuale
+https://www.yelp.it/biz/catullo-torino-2;16381;risotto, buono, risotto buono
+https://www.yelp.it/biz/catullo-torino-2;16382;ristorante, eccellente, ristorante eccellente
+https://www.yelp.it/biz/catullo-torino-2;16383;servizio, puntuale, rapido, buon, rapporto, qualità, prezzo, servizio puntuale, puntuale rapido, rapido buon, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/catullo-torino-2;16384;buono, accoglienza, buono accoglienza
+https://www.yelp.it/biz/catullo-torino-2;16385;pasta, astice, bello, ottimo, pasta astice, astice bello, bello ottimo
+https://www.yelp.it/biz/catullo-torino-2;16386;ieri, sera, compagnia, amico, tornare, anno, locale, ieri sera, sera compagnia, compagnia amico, amico tornare, tornare anno, anno locale
+https://www.yelp.it/biz/catullo-torino-2;16387;location, essere, molto, curare, elegante, personale, professionale, essere, cortese, pizza, molto, buono, location essere, essere molto, molto curare, curare elegante, elegante personale, personale professionale, professionale essere, essere cortese, cortese pizza, pizza molto, molto buono
+https://www.yelp.it/biz/catullo-torino-2;16388;vistare, molto, bello, personale, gentile, vistare molto, molto bello, bello personale, personale gentile
+https://www.yelp.it/biz/catullo-torino-2;16389;davvero, ottimo, davvero ottimo
+https://www.yelp.it/biz/catullo-torino-2;16390;cassa, neanche, educato, bene, cassa neanche, neanche educato, educato bene
+https://www.yelp.it/biz/catullo-torino-2;16391;dolce, sublime, dolce sublime
+https://www.yelp.it/biz/catullo-torino-2;16392;atmosfera, sempre, accogliente, atmosfera sempre, sempre accogliente
+https://www.yelp.it/biz/catullo-torino-2;16393;ottimo, dolce, ottimo dolce
+https://www.yelp.it/biz/catullo-torino-2;16394;pizza, buono, rapporto, qualità-prezzo, ottimo, pizza buono, buono rapporto, rapporto qualità-prezzo, qualità-prezzo ottimo
+https://www.yelp.it/biz/catullo-torino-2;16395;ingrediente, ottimo, ottimo, impasto, ingrediente ottimo, ottimo ottimo, ottimo impasto
+https://www.yelp.it/biz/catullo-torino-2;16396;essere, oggi, pranzo, pasqua, amico, genitore, essere oggi, oggi pranzo, pranzo pasqua, pasqua amico, amico genitore
+https://www.yelp.it/biz/catullo-torino-2;16397;consigliare, cena, romantico, consigliare cena, cena romantico
+https://www.yelp.it/biz/catullo-torino-2;16398;bello, vista, bello vista
+https://www.yelp.it/biz/catullo-torino-2;16399;servizio, veloce, eccellente, servizio veloce, veloce eccellente
+https://www.yelp.it/biz/catullo-torino-2;16400;personale, efficiente, cordiale, personale efficiente, efficiente cordiale
+https://www.yelp.it/biz/catullo-torino-2;16401;ottimo, piatto, ottimo piatto
+https://www.yelp.it/biz/catullo-torino-2;16402;posto, davvero, piacevole, posto davvero, davvero piacevole

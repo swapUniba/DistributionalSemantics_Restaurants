@@ -1,0 +1,56 @@
+https://www.yelp.it/biz/gulp-bari;2214;ampio, varietà, vino
+https://www.yelp.it/biz/gulp-bari;2215;essere, locale, molto, informale, molto, curare, estetico, personale, garbato, efficiente
+https://www.yelp.it/biz/gulp-bari;2216;buono, birra, artigianale, biondo, completare
+https://www.yelp.it/biz/gulp-bari;2217;ottimo, piatto, po, caro
+https://www.yelp.it/biz/gulp-bari;2218;migliore, prodotto, originale, davvero, fresco
+https://www.yelp.it/biz/gulp-bari;2219;menù, variegato, gusto
+https://www.yelp.it/biz/gulp-bari;2220;ottimo, varietà, vino
+https://www.yelp.it/biz/gulp-bari;2221;qualità, ottimo
+https://www.yelp.it/biz/gulp-bari;2222;personale, gentile, disponibile
+https://www.yelp.it/biz/gulp-bari;2223;super, soddisfatto
+https://www.yelp.it/biz/gulp-bari;2224;piacevole, attenzione
+https://www.yelp.it/biz/gulp-bari;2225;miglior, posto, casa, personale, gentile, servizio, impeccabile
+https://www.yelp.it/biz/gulp-bari;2226;varietà, birra, vino, gusto
+https://www.yelp.it/biz/gulp-bari;2227;mentre, personale, sorridere, chiedere, essere, bisogno
+https://www.yelp.it/biz/gulp-bari;2228;ottimo, anche, dolce
+https://www.yelp.it/biz/gulp-bari;2229;bario, meritare, posto
+https://www.yelp.it/biz/gulp-bari;2230;servizio, veloce, cordiale
+https://www.yelp.it/biz/gulp-bari;2231;cibo, alto, qualità, salume, davvero, eccezionale, anche, birra, artigianale
+https://www.yelp.it/biz/gulp-bari;2232;conto, onesto, rapporto, qualità/prezzo, imbattibile
+https://www.yelp.it/biz/gulp-bari;2233;locale, molto, bello, grande, attenzione, particolare
+https://www.yelp.it/biz/gulp-bari;2234;personale, estremo, cortese, preparare
+https://www.yelp.it/biz/gulp-bari;2235;personale, sempre, gentile, disponibile
+https://www.yelp.it/biz/gulp-bari;2236;tanto, scelta, piatto, qualità
+https://www.yelp.it/biz/gulp-bari;2237;bello, location
+https://www.yelp.it/biz/gulp-bari;2238;pranzo, amico, anche, collega, essere, posto, perfetto, piatto, ricercato, porzione, giusto
+https://www.yelp.it/biz/gulp-bari;2239;personale, essere, numeroso, gentile, pronto, soddisfare, richiesta
+https://www.yelp.it/biz/gulp-bari;2240;continuare, così
+https://www.yelp.it/biz/gulp-bari;2241;unico, neo, essere, facile, trovare, tavolo, soprattutto, fine, settimana
+https://www.yelp.it/biz/gulp-bari;2242;ottimo, vino
+https://www.yelp.it/biz/gulp-bari;2243;pietanza, buono, qualità
+https://www.yelp.it/biz/gulp-bari;2244;posto, stupendo, cameriere, preparato, cibo, ottimo
+https://www.yelp.it/biz/gulp-bari;2245;varietà, birra, interessante, carta, vino
+https://www.yelp.it/biz/gulp-bari;2246;sempre, soddisfare, locale
+https://www.yelp.it/biz/gulp-bari;2247;complimentare, consigliatissimo
+https://www.yelp.it/biz/gulp-bari;2248;cibo, ottimo, qualità
+https://www.yelp.it/biz/gulp-bari;2249;gustare, relax
+https://www.yelp.it/biz/gulp-bari;2250;vasto, scelta, birra, vino, ottimo, prodotto, cucina, perfino, appetizer
+https://www.yelp.it/biz/gulp-bari;2251;grazie, visita
+https://www.yelp.it/biz/gulp-bari;2252;provare, deciso
+https://www.yelp.it/biz/gulp-bari;2253;scelta, piatto, infinito, panino, insalata, secondo, dolce, essere, qualità
+https://www.yelp.it/biz/gulp-bari;2254;ottimo, vino
+https://www.yelp.it/biz/gulp-bari;2255;anche, location, molto, accogliente
+https://www.yelp.it/biz/gulp-bari;2256;cucina, buono, atmosfera, davvero, particolare
+https://www.yelp.it/biz/gulp-bari;2257;personale, fantastico
+https://www.yelp.it/biz/gulp-bari;2258;molto, buono
+https://www.yelp.it/biz/gulp-bari;2259;cameriere, essere, disponibile, gentile, simpatico
+https://www.yelp.it/biz/gulp-bari;2260;consigliare, vivo
+https://www.yelp.it/biz/gulp-bari;2261;accoglienza, servizio, impeccabile
+https://www.yelp.it/biz/gulp-bari;2262;proprietario, simpaticissimi
+https://www.yelp.it/biz/gulp-bari;2263;prodotto, essere, ottimo, qualità, servizio, essere, veloce, ragazzo, essere, fantastico
+https://www.yelp.it/biz/gulp-bari;2264;conto, essere, giusto
+https://www.yelp.it/biz/gulp-bari;2265;essere, proprio, simpatico
+https://www.yelp.it/biz/gulp-bari;2266;ambiente, essere, informale, piacevole, originale, dare, idea, nuovo, carino, tovagliette-vinili
+https://www.yelp.it/biz/gulp-bari;2267;rapporto, qualità, essere, notevole
+https://www.yelp.it/biz/gulp-bari;2268;rapporto, qualità/prezzo, ottimo
+https://www.yelp.it/biz/gulp-bari;2269;ottimo, location, ottimo, birra, ottimo, servizio

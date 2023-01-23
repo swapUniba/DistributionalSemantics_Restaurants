@@ -1,0 +1,26 @@
+https://www.yelp.it/biz/porto-di-savona-torino;16450;molto, buono, brasato, molto buono, buono brasato
+https://www.yelp.it/biz/porto-di-savona-torino;16451;buono, cantina, buono cantina
+https://www.yelp.it/biz/porto-di-savona-torino;16452;posto, rustico, personale, accogliente, sempre, disposizione, cliente, posto rustico, rustico personale, personale accogliente, accogliente sempre, sempre disposizione, disposizione cliente
+https://www.yelp.it/biz/porto-di-savona-torino;16453;personale, cortese, simpatico, personale cortese, cortese simpatico
+https://www.yelp.it/biz/porto-di-savona-torino;16454;cenare, complesso, buono, cenare complesso, complesso buono
+https://www.yelp.it/biz/porto-di-savona-torino;16455;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/porto-di-savona-torino;16456;personale, molto, cordiale, personale molto, molto cordiale
+https://www.yelp.it/biz/porto-di-savona-torino;16457;affascinante, davvero, affascinante davvero
+https://www.yelp.it/biz/porto-di-savona-torino;16458;personale, disponibile, gentile, personale disponibile, disponibile gentile
+https://www.yelp.it/biz/porto-di-savona-torino;16459;ottimo, rapporto, qualità-prezzo, ottimo rapporto, rapporto qualità-prezzo
+https://www.yelp.it/biz/porto-di-savona-torino;16460;consigliare, qualità, rapporto, prezzo, consigliare qualità, qualità rapporto, rapporto prezzo
+https://www.yelp.it/biz/porto-di-savona-torino;16461;vitello, tonnato, eccezionale, vitello tonnato, tonnato eccezionale
+https://www.yelp.it/biz/porto-di-savona-torino;16462;cucina, soddisfacente, esperienza, entusiasmante, cucina soddisfacente, soddisfacente esperienza, esperienza entusiasmante
+https://www.yelp.it/biz/porto-di-savona-torino;16463;location, molto, bello, location molto, molto bello
+https://www.yelp.it/biz/porto-di-savona-torino;16464;personale, essere, molto, gentile, efficiente, personale essere, essere molto, molto gentile, gentile efficiente
+https://www.yelp.it/biz/porto-di-savona-torino;16465;buon, servizio, buon servizio
+https://www.yelp.it/biz/porto-di-savona-torino;16466;cibo, ottimo, cibo ottimo
+https://www.yelp.it/biz/porto-di-savona-torino;16467;rapporto, qualità/prezzo, soddisfacente, rapporto qualità/prezzo, qualità/prezzo soddisfacente
+https://www.yelp.it/biz/porto-di-savona-torino;16468;ambiente, essere, familiare, personale, cordiale, ambiente essere, essere familiare, familiare personale, personale cordiale
+https://www.yelp.it/biz/porto-di-savona-torino;16469;carta, così, bello, essere, difficile, scegliere, carta così, così bello, bello essere, essere difficile, difficile scegliere
+https://www.yelp.it/biz/porto-di-savona-torino;16470;ingrediente, qualità, piatto, buono, porzione, giusto, ingrediente qualità, qualità piatto, piatto buono, buono porzione, porzione giusto
+https://www.yelp.it/biz/porto-di-savona-torino;16471;elegante, raffinare, elegante raffinare
+https://www.yelp.it/biz/porto-di-savona-torino;16472;piatto, ottimo, personale, gentile, piatto ottimo, ottimo personale, personale gentile
+https://www.yelp.it/biz/porto-di-savona-torino;16473;buono, carta, vino, buono carta, carta vino
+https://www.yelp.it/biz/porto-di-savona-torino;16474;davvero, ottimo, locale, davvero ottimo, ottimo locale
+https://www.yelp.it/biz/porto-di-savona-torino;16475;cibo, classico, molto, curare, cibo classico, classico molto, molto curare

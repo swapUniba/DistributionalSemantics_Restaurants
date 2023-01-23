@@ -1,0 +1,43 @@
+https://www.yelp.it/biz/locanda-da-betty-torino;16252;molto, cortese, professionale, molto cortese, cortese professionale
+https://www.yelp.it/biz/locanda-da-betty-torino;16253;vitello, tonnato, spettacolare, vitello tonnato, tonnato spettacolare
+https://www.yelp.it/biz/locanda-da-betty-torino;16254;vitello, tonnato, spettacolare, vitello tonnato, tonnato spettacolare
+https://www.yelp.it/biz/locanda-da-betty-torino;16255;buono, anche, dolce, buono anche, anche dolce
+https://www.yelp.it/biz/locanda-da-betty-torino;16256;carta, vino, molto, buono, proposta, interessante, carta vino, vino molto, molto buono, buono proposta, proposta interessante
+https://www.yelp.it/biz/locanda-da-betty-torino;16257;personale, molto, cordiale, personale molto, molto cordiale
+https://www.yelp.it/biz/locanda-da-betty-torino;16258;titolare, gentile, titolare gentile
+https://www.yelp.it/biz/locanda-da-betty-torino;16259;buon, rapporto, qualità, prezzo, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/locanda-da-betty-torino;16260;accogliente, piacevole, accogliente piacevole
+https://www.yelp.it/biz/locanda-da-betty-torino;16261;locale, piacevole, cibo, ottimo, locale piacevole, piacevole cibo, cibo ottimo
+https://www.yelp.it/biz/locanda-da-betty-torino;16262;ottimo, qualità, quantità, giusta, ottimo qualità, qualità quantità, quantità giusta
+https://www.yelp.it/biz/locanda-da-betty-torino;16263;personale, disponibile, gentile, personale disponibile, disponibile gentile
+https://www.yelp.it/biz/locanda-da-betty-torino;16264;buono, invece, dolce, buono invece, invece dolce
+https://www.yelp.it/biz/locanda-da-betty-torino;16265;cameriere, gentile, cameriere gentile
+https://www.yelp.it/biz/locanda-da-betty-torino;16266;personale, molto, gentile, personale molto, molto gentile
+https://www.yelp.it/biz/locanda-da-betty-torino;16267;posto, essere, piccolo, ben, arredare, posto essere, essere piccolo, piccolo ben, ben arredare
+https://www.yelp.it/biz/locanda-da-betty-torino;16268;buono, dolce, buono dolce
+https://www.yelp.it/biz/locanda-da-betty-torino;16269;dolce, ottimo, provare, dolce ottimo, ottimo provare
+https://www.yelp.it/biz/locanda-da-betty-torino;16270;cibo, buono, cibo buono
+https://www.yelp.it/biz/locanda-da-betty-torino;16271;essere, goloso, rimanere, molto, soddisfare, dolce, essere goloso, goloso rimanere, rimanere molto, molto soddisfare, soddisfare dolce
+https://www.yelp.it/biz/locanda-da-betty-torino;16272;coniglio, anche, molto, buono, coniglio anche, anche molto, molto buono
+https://www.yelp.it/biz/locanda-da-betty-torino;16273;ottimo, esperienza, locale, centro, ottimo esperienza, esperienza locale, locale centro
+https://www.yelp.it/biz/locanda-da-betty-torino;16274;locanda, aspetto, molto, caratteristico, personale, cordiale, simpatico, locanda aspetto, aspetto molto, molto caratteristico, caratteristico personale, personale cordiale, cordiale simpatico
+https://www.yelp.it/biz/locanda-da-betty-torino;16275;ideale, cena, semplice, ideale cena, cena semplice
+https://www.yelp.it/biz/locanda-da-betty-torino;16276;piatto, tipico, tradizione, piemontese, essere, davvero, ottimo, ben, presentare, piatto tipico, tipico tradizione, tradizione piemontese, piemontese essere, essere davvero, davvero ottimo, ottimo ben, ben presentare
+https://www.yelp.it/biz/locanda-da-betty-torino;16277;locale, essere, piccolo, informale, personale, giovane, molto, cortese, locale essere, essere piccolo, piccolo informale, informale personale, personale giovane, giovane molto, molto cortese
+https://www.yelp.it/biz/locanda-da-betty-torino;16278;locale, essere, stile, gradevole, tipico, locanda, piemontese, locale essere, essere stile, stile gradevole, gradevole tipico, tipico locanda, locanda piemontese
+https://www.yelp.it/biz/locanda-da-betty-torino;16279;servizio, essere, ottimo, cortesia, squisito, locale, pulito, servizio essere, essere ottimo, ottimo cortesia, cortesia squisito, squisito locale, locale pulito
+https://www.yelp.it/biz/locanda-da-betty-torino;16280;bravo, bravo, bravo bravo
+https://www.yelp.it/biz/locanda-da-betty-torino;16281;infine, gustoso, bonet, infine gustoso, gustoso bonet
+https://www.yelp.it/biz/locanda-da-betty-torino;16282;menzione, particolare, commento, recensioni, negativo, menzione particolare, particolare commento, commento recensioni, recensioni negativo
+https://www.yelp.it/biz/locanda-da-betty-torino;16283;pranzo, dolce, compagnia, pranzo dolce, dolce compagnia
+https://www.yelp.it/biz/locanda-da-betty-torino;16284;sapore, associare, cura, gradevole, palato, sapore associare, associare cura, cura gradevole, gradevole palato
+https://www.yelp.it/biz/locanda-da-betty-torino;16285;ottimare, carne, consiglio, ottimare carne, carne consiglio
+https://www.yelp.it/biz/locanda-da-betty-torino;16286;ottimo, cena, ottimo cena
+https://www.yelp.it/biz/locanda-da-betty-torino;16287;buono, rapporto, qualità/prezzo, buono rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/locanda-da-betty-torino;16288;qui, mangiare, bene, qui mangiare, mangiare bene
+https://www.yelp.it/biz/locanda-da-betty-torino;16289;altro, ristorante, più, adatto, sopraffino, esigenza, altro ristorante, ristorante più, più adatto, adatto sopraffino, sopraffino esigenza
+https://www.yelp.it/biz/locanda-da-betty-torino;16290;serata, incantevole, serata incantevole
+https://www.yelp.it/biz/locanda-da-betty-torino;16291;locale, bello, molto, accogliente, locale bello, bello molto, molto accogliente
+https://www.yelp.it/biz/locanda-da-betty-torino;16292;personale, gentile, personale gentile
+https://www.yelp.it/biz/locanda-da-betty-torino;16293;complimentare, ristoratore, complimentare ristoratore
+https://www.yelp.it/biz/locanda-da-betty-torino;16294;servizio, veloce, impeccabile, conto, norma, servizio veloce, veloce impeccabile, impeccabile conto, conto norma

@@ -1,0 +1,44 @@
+https://www.yelp.it/biz/sushi-sound-torino;6007;servizio, essere, gentile, servizio essere, essere gentile
+https://www.yelp.it/biz/sushi-sound-torino;6008;personale, cordiale, personale cordiale
+https://www.yelp.it/biz/sushi-sound-torino;6009;molto, buono, molto buono
+https://www.yelp.it/biz/sushi-sound-torino;6010;locale, carino, buon, servizio, buon, cibo, locale carino, carino buon, buon servizio, servizio buon, buon cibo
+https://www.yelp.it/biz/sushi-sound-torino;6011;sashimi, buono, carpaccio, strepitoso, tartaro, molto, gustoso, sashimi buono, buono carpaccio, carpaccio strepitoso, strepitoso tartaro, tartaro molto, molto gustoso
+https://www.yelp.it/biz/sushi-sound-torino;6012;anche, udon, fantastico, anche udon, udon fantastico
+https://www.yelp.it/biz/sushi-sound-torino;6013;servizio, essere, veloce, cordiale, servizio essere, essere veloce, veloce cordiale
+https://www.yelp.it/biz/sushi-sound-torino;6014;personale, essere, gentile, aiutare, scelta, anche, veloce, portare, ordinazione, personale essere, essere gentile, gentile aiutare, aiutare scelta, scelta anche, anche veloce, veloce portare, portare ordinazione
+https://www.yelp.it/biz/sushi-sound-torino;6015;servizio, rapido, personale, cortese, gentile, servizio rapido, rapido personale, personale cortese, cortese gentile
+https://www.yelp.it/biz/sushi-sound-torino;6016;location, essere, carino, location essere, essere carino
+https://www.yelp.it/biz/sushi-sound-torino;6017;ambiente, curare, personale, gentile, cibo, davvero, ottimo, ambiente curare, curare personale, personale gentile, gentile cibo, cibo davvero, davvero ottimo
+https://www.yelp.it/biz/sushi-sound-torino;6018;sushi, fiducia, ormai, sushi fiducia, fiducia ormai
+https://www.yelp.it/biz/sushi-sound-torino;6019;bello, ristorante, giapponese, cibo, norma, servizio, veloce, cameriere, cordiale, bello ristorante, ristorante giapponese, giapponese cibo, cibo norma, norma servizio, servizio veloce, veloce cameriere, cameriere cordiale
+https://www.yelp.it/biz/sushi-sound-torino;6020;menù, comprendere, solito, essere, interessante, possibilità, avere, barca, sushi, menù comprendere, comprendere solito, solito essere, essere interessante, interessante possibilità, possibilità avere, avere barca, barca sushi
+https://www.yelp.it/biz/sushi-sound-torino;6021;dolce, brindisi, offerto, mezzanotte, dolce brindisi, brindisi offerto, offerto mezzanotte
+https://www.yelp.it/biz/sushi-sound-torino;6022;troppo, compatto, poco, saporito, troppo compatto, compatto poco, poco saporito
+https://www.yelp.it/biz/sushi-sound-torino;6023;personale, gentile, personale gentile
+https://www.yelp.it/biz/sushi-sound-torino;6024;bello, location, bello location
+https://www.yelp.it/biz/sushi-sound-torino;6025;personale, essere, veloce, efficiente, simpatico, personale essere, essere veloce, veloce efficiente, efficiente simpatico
+https://www.yelp.it/biz/sushi-sound-torino;6026;definitivo, servizio, migliorare, sensibilmente, qualità, anche, esecuzione, portato, rivedere, essere, bello, posto, trascorrere, piacevole, cena, definitivo servizio, servizio migliorare, migliorare sensibilmente, sensibilmente qualità, qualità anche, anche esecuzione, esecuzione portato, portato rivedere, rivedere essere, essere bello, bello posto, posto trascorrere, trascorrere piacevole, piacevole cena
+https://www.yelp.it/biz/sushi-sound-torino;6027;servizio, essere, veloce, gentile, servizio essere, essere veloce, veloce gentile
+https://www.yelp.it/biz/sushi-sound-torino;6028;grande, varietà, piatto, pesce, fresco, personale, gentile, grande varietà, varietà piatto, piatto pesce, pesce fresco, fresco personale, personale gentile
+https://www.yelp.it/biz/sushi-sound-torino;6029;persona, essere, incredibilmente, gentile, veloce, soprattutto, parlare, italiano, persona essere, essere incredibilmente, incredibilmente gentile, gentile veloce, veloce soprattutto, soprattutto parlare, parlare italiano
+https://www.yelp.it/biz/sushi-sound-torino;6030;davvero, meritevole, davvero meritevole
+https://www.yelp.it/biz/sushi-sound-torino;6031;servizio, essere, veloce, cameriere, essere, gentile, servizio essere, essere veloce, veloce cameriere, cameriere essere, essere gentile
+https://www.yelp.it/biz/sushi-sound-torino;6032;locale, essere, carino, locale essere, essere carino
+https://www.yelp.it/biz/sushi-sound-torino;6033;sushi, é, buono, essere, buono, vino, accompagnamento, sushi é, é buono, buono essere, essere buono, buono vino, vino accompagnamento
+https://www.yelp.it/biz/sushi-sound-torino;6034;posto, eccezzionale, pausa, pranzo, posto eccezzionale, eccezzionale pausa, pausa pranzo
+https://www.yelp.it/biz/sushi-sound-torino;6035;ristorante, fantastico, cibo, ottimo, ristorante fantastico, fantastico cibo, cibo ottimo
+https://www.yelp.it/biz/sushi-sound-torino;6036;personale, cordiale, simpatico, personale cordiale, cordiale simpatico
+https://www.yelp.it/biz/sushi-sound-torino;6037;locale, essere, molto, bello, accogliente, locale essere, essere molto, molto bello, bello accogliente
+https://www.yelp.it/biz/sushi-sound-torino;6038;personale, essere, poco, disponibile, sufficientemente, gentile, personale essere, essere poco, poco disponibile, disponibile sufficientemente, sufficientemente gentile
+https://www.yelp.it/biz/sushi-sound-torino;6039;servizio, impeccabile, cameriere, personale, gentile, sempre, servizio impeccabile, impeccabile cameriere, cameriere personale, personale gentile, gentile sempre
+https://www.yelp.it/biz/sushi-sound-torino;6040;davvero, ottimo, davvero ottimo
+https://www.yelp.it/biz/sushi-sound-torino;6041;locale, elegante, personale, squisito, cortese, locale elegante, elegante personale, personale squisito, squisito cortese
+https://www.yelp.it/biz/sushi-sound-torino;6042;buono, scelta, vino, servizio, rapido, buono scelta, scelta vino, vino servizio, servizio rapido
+https://www.yelp.it/biz/sushi-sound-torino;6043;cibo, essere, sempre, buono, fresco, personale, molto, socievole, professionale, locale, molto, giovane, cibo essere, essere sempre, sempre buono, buono fresco, fresco personale, personale molto, molto socievole, socievole professionale, professionale locale, locale molto, molto giovane
+https://www.yelp.it/biz/sushi-sound-torino;6044;qualità, cibo, essere, ottimo, fresco, qualità cibo, cibo essere, essere ottimo, ottimo fresco
+https://www.yelp.it/biz/sushi-sound-torino;6045;merenda, delizioso, merenda delizioso
+https://www.yelp.it/biz/sushi-sound-torino;6046;locale, arredare, molto, bene, molto, buono, sushi, essere, fantastico, essere, molto, rapido, servizio, locale arredare, arredare molto, molto bene, bene molto, molto buono, buono sushi, sushi essere, essere fantastico, fantastico essere, essere molto, molto rapido, rapido servizio
+https://www.yelp.it/biz/sushi-sound-torino;6047;pesce, fresco, pesce fresco
+https://www.yelp.it/biz/sushi-sound-torino;6048;bello, locale, centro, torino, molto, curare, dehor, esterno, bello locale, locale centro, centro torino, torino molto, molto curare, curare dehor, dehor esterno
+https://www.yelp.it/biz/sushi-sound-torino;6049;prezzo, medio, alto, famoso, formula, essere, centro, essere, comprensibile, prezzo medio, medio alto, alto famoso, famoso formula, formula essere, essere centro, centro essere, essere comprensibile
+https://www.yelp.it/biz/sushi-sound-torino;6050;perfetto, pranzo, cena, perfetto pranzo, pranzo cena

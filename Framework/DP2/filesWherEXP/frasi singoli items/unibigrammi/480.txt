@@ -1,0 +1,31 @@
+https://www.yelp.it/biz/al-garamond-torino;18077;ambiente, elegante, cucina, creativo, ambiente elegante, elegante cucina, cucina creativo
+https://www.yelp.it/biz/al-garamond-torino;18078;menzione, speciale, meritare, ombrina, buono, menzione speciale, speciale meritare, meritare ombrina, ombrina buono
+https://www.yelp.it/biz/al-garamond-torino;18079;servizio, impeccabile, servizio impeccabile
+https://www.yelp.it/biz/al-garamond-torino;18080;carta, vino, interessante, carta vino, vino interessante
+https://www.yelp.it/biz/al-garamond-torino;18081;ambiente, raffinato, accogliente, personale, sala, competente, qualificare, ambiente raffinato, raffinato accogliente, accogliente personale, personale sala, sala competente, competente qualificare
+https://www.yelp.it/biz/al-garamond-torino;18082;sì, gran, bello, esperienza, sì gran, gran bello, bello esperienza
+https://www.yelp.it/biz/al-garamond-torino;18083;menù, ricercare, ottimo, qualità, menù ricercare, ricercare ottimo, ottimo qualità
+https://www.yelp.it/biz/al-garamond-torino;18084;gran, bello, serata, gran bello, bello serata
+https://www.yelp.it/biz/al-garamond-torino;18085;piatto, curato, ottimo, qualità, carta, vino, altezza, piatto curato, curato ottimo, ottimo qualità, qualità carta, carta vino, vino altezza
+https://www.yelp.it/biz/al-garamond-torino;18086;bravo, preparato, bravo preparato
+https://www.yelp.it/biz/al-garamond-torino;18087;servizio, attento, molto, elegante, servizio attento, attento molto, molto elegante
+https://www.yelp.it/biz/al-garamond-torino;18088;piatto, buono, freschissimi, piatto buono, buono freschissimi
+https://www.yelp.it/biz/al-garamond-torino;18089;bello, locale, accogliente, elegante, bastare, bello locale, locale accogliente, accogliente elegante, elegante bastare
+https://www.yelp.it/biz/al-garamond-torino;18090;personale, piacevole, educare, personale piacevole, piacevole educare
+https://www.yelp.it/biz/al-garamond-torino;18091;bello, sorpresa, bello sorpresa
+https://www.yelp.it/biz/al-garamond-torino;18092;ambiente, accogliente, servizio, puntuale, carta, menu, ricco, esagerare, ambiente accogliente, accogliente servizio, servizio puntuale, puntuale carta, carta menu, menu ricco, ricco esagerare
+https://www.yelp.it/biz/al-garamond-torino;18093;bello, scoperta, ristorante, cucina, siculo-sabauda, bello scoperta, scoperta ristorante, ristorante cucina, cucina siculo-sabauda
+https://www.yelp.it/biz/al-garamond-torino;18094;qualità, prezzo, perfetto, qualità prezzo, prezzo perfetto
+https://www.yelp.it/biz/al-garamond-torino;18095;buono, proposta, qualità, cibo, bello, presentazione, buono proposta, proposta qualità, qualità cibo, cibo bello, bello presentazione
+https://www.yelp.it/biz/al-garamond-torino;18096;fare, piacere, cenare, posto, seguire, gentilezza, fare piacere, piacere cenare, cenare posto, posto seguire, seguire gentilezza
+https://www.yelp.it/biz/al-garamond-torino;18097;complimentare, intero, complimentare intero
+https://www.yelp.it/biz/al-garamond-torino;18098;ottimare, anche, illuminazione, ottimare anche, anche illuminazione
+https://www.yelp.it/biz/al-garamond-torino;18099;rapporto, qualità, prezzo, po, caro, rapporto qualità, qualità prezzo, prezzo po, po caro
+https://www.yelp.it/biz/al-garamond-torino;18100;cantina, molto, ben, fornire, cantina molto, molto ben, ben fornire
+https://www.yelp.it/biz/al-garamond-torino;18101;davvero, eccezionale, davvero eccezionale
+https://www.yelp.it/biz/al-garamond-torino;18102;molto, molto, vasto, scelta, vino, personale, sala, gentile, professionale, molto molto, molto vasto, vasto scelta, scelta vino, vino personale, personale sala, sala gentile, gentile professionale
+https://www.yelp.it/biz/al-garamond-torino;18103;cucina, raffinato, cucina raffinato
+https://www.yelp.it/biz/al-garamond-torino;18104;ospite, locale, molto, curato, carino, ospite locale, locale molto, molto curato, curato carino
+https://www.yelp.it/biz/al-garamond-torino;18105;buono, anche, dolce, buono anche, anche dolce
+https://www.yelp.it/biz/al-garamond-torino;18106;servizio, impeccabile, attento, gentile, servizio impeccabile, impeccabile attento, attento gentile
+https://www.yelp.it/biz/al-garamond-torino;18107;ottimo, assaggini, antipasto, ottimo assaggini, assaggini antipasto

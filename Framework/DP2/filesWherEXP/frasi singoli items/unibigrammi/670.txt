@@ -1,0 +1,17 @@
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23430;essere, favoloso, essere favoloso
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23431;pizza, buono, fronzolo, pizza buono, buono fronzolo
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23432;proprietario, simpatico, proprietario simpatico
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23433;prezzo, vero, ottimo, prezzo vero, vero ottimo
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23434;pizza, verace, napoletano, pizza verace, verace napoletano
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23435;cortesia, simpatia, proprietario, ottimo, pizza, peccato, assaggiare, anche, farinata, cortesia simpatia, simpatia proprietario, proprietario ottimo, ottimo pizza, pizza peccato, peccato assaggiare, assaggiare anche, anche farinata
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23436;farinata, molto, buono, farinata molto, molto buono
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23437;pizza, essere, vero, buono, mattone, padellino, pizza essere, essere vero, vero buono, buono mattone, mattone padellino
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23438;dolce, fare, casa, poi, essere, bello, sorpresa, dolce fare, fare casa, casa poi, poi essere, essere bello, bello sorpresa
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23439;farinata, essere, molto, buono, farinata essere, essere molto, molto buono
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23440;personale, gentile, personale gentile
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23441;consiglio, assoluto, consiglio assoluto
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23442;prezzo, essere, deciso, onesto, prezzo essere, essere deciso, deciso onesto
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23443;proprietario, essere, sempre, molto, gentile, cortese, proprietario essere, essere sempre, sempre molto, molto gentile, gentile cortese
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23444;farinata, essere, ottimo, farinata essere, essere ottimo
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23445;grande, varietà, pizza, grande varietà, varietà pizza
+https://www.yelp.it/biz/pizzeria-da-candido-torino;23446;anche, altro, piatto, oltre, pizza, essere, davvero, ottimo, soprattutto, fresco, qualità, anche altro, altro piatto, piatto oltre, oltre pizza, pizza essere, essere davvero, davvero ottimo, ottimo soprattutto, soprattutto fresco, fresco qualità

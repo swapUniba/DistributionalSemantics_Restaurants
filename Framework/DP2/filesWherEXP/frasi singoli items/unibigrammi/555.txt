@@ -1,0 +1,36 @@
+https://www.yelp.it/biz/mazzini-38-torino;20428;personale, poco, professionale, pizza, buono, speciale, personale poco, poco professionale, professionale pizza, pizza buono, buono speciale
+https://www.yelp.it/biz/mazzini-38-torino;20429;locale, carino, particolare, locale carino, carino particolare
+https://www.yelp.it/biz/mazzini-38-torino;20430;locale, molto, cariare, ben, fare, locale molto, molto cariare, cariare ben, ben fare
+https://www.yelp.it/biz/mazzini-38-torino;20431;personale, essere, molto, cortese, gentile, personale essere, essere molto, molto cortese, cortese gentile
+https://www.yelp.it/biz/mazzini-38-torino;20432;piacevole, scoperta, piacevole scoperta
+https://www.yelp.it/biz/mazzini-38-torino;20433;cameriere, essere, davvero, gentile, così, proprietario, cameriere essere, essere davvero, davvero gentile, gentile così, così proprietario
+https://www.yelp.it/biz/mazzini-38-torino;20434;bene, servire, bene, buono, bene servire, servire bene, bene buono
+https://www.yelp.it/biz/mazzini-38-torino;20435;anche, ottimo, anche ottimo
+https://www.yelp.it/biz/mazzini-38-torino;20436;ottimo, locale, ben, curare, molto, accogliente, ottimo locale, locale ben, ben curare, curare molto, molto accogliente
+https://www.yelp.it/biz/mazzini-38-torino;20437;pizza, gustoso, molto, digeribile, pizza gustoso, gustoso molto, molto digeribile
+https://www.yelp.it/biz/mazzini-38-torino;20438;pizza, essere, vero, buono, gusto, vario, pizza essere, essere vero, vero buono, buono gusto, gusto vario
+https://www.yelp.it/biz/mazzini-38-torino;20439;locale, piccolo, accogliente, locale piccolo, piccolo accogliente
+https://www.yelp.it/biz/mazzini-38-torino;20440;cucina, deciso, ottimo, cucina deciso, deciso ottimo
+https://www.yelp.it/biz/mazzini-38-torino;20441;titolare, bello, simpatico, titolare bello, bello simpatico
+https://www.yelp.it/biz/mazzini-38-torino;20442;sottile, gustoso, sottile gustoso
+https://www.yelp.it/biz/mazzini-38-torino;20443;complimentare, titolare, complimentare titolare
+https://www.yelp.it/biz/mazzini-38-torino;20444;gelato, nocciola, essere, fantastico, gelato nocciola, nocciola essere, essere fantastico
+https://www.yelp.it/biz/mazzini-38-torino;20445;rapporto, qualità/prezzo, essere, buono, rapporto qualità/prezzo, qualità/prezzo essere, essere buono
+https://www.yelp.it/biz/mazzini-38-torino;20446;atmosfera, essere, molto, piacevole, locale, ben, arredare, atmosfera essere, essere molto, molto piacevole, piacevole locale, locale ben, ben arredare
+https://www.yelp.it/biz/mazzini-38-torino;20447;servizio, cordiale, veloce, servizio cordiale, cordiale veloce
+https://www.yelp.it/biz/mazzini-38-torino;20448;ambiente, molto, curato, arredare, gusto, ambiente molto, molto curato, curato arredare, arredare gusto
+https://www.yelp.it/biz/mazzini-38-torino;20449;tiramisu, spettacolare, complimento, pizzaiolo, tiramisu spettacolare, spettacolare complimento, complimento pizzaiolo
+https://www.yelp.it/biz/mazzini-38-torino;20450;personale, competente, cameriere, gentile, simpatico, personale competente, competente cameriere, cameriere gentile, gentile simpatico
+https://www.yelp.it/biz/mazzini-38-torino;20451;atmosfera, accogliente, atmosfera accogliente
+https://www.yelp.it/biz/mazzini-38-torino;20452;molto, cordiale, disponibile, sorridente, personale, molto cordiale, cordiale disponibile, disponibile sorridente, sorridente personale
+https://www.yelp.it/biz/mazzini-38-torino;20453;comunque, esperienza, negativo, comunque esperienza, esperienza negativo
+https://www.yelp.it/biz/mazzini-38-torino;20454;dolce, ottimo, dolce ottimo
+https://www.yelp.it/biz/mazzini-38-torino;20455;bravo, bravo, bravo, bravo bravo, bravo bravo
+https://www.yelp.it/biz/mazzini-38-torino;20456;involtare, livornese, molto, buono, involtare livornese, livornese molto, molto buono
+https://www.yelp.it/biz/mazzini-38-torino;20457;accompagnare, fresco, accompagnare fresco
+https://www.yelp.it/biz/mazzini-38-torino;20458;complimentare, davvero, pizzaiolo, complimentare davvero, davvero pizzaiolo
+https://www.yelp.it/biz/mazzini-38-torino;20459;pizza, eccezionale, servizio, cordiale, pizza eccezionale, eccezionale servizio, servizio cordiale
+https://www.yelp.it/biz/mazzini-38-torino;20460;essere, fiducioso, essere fiducioso
+https://www.yelp.it/biz/mazzini-38-torino;20461;parlare, cibo, spettacolare, genere, parlare cibo, cibo spettacolare, spettacolare genere
+https://www.yelp.it/biz/mazzini-38-torino;20462;pizza, buono, dolce, succulento, preparare, arte, pizza buono, buono dolce, dolce succulento, succulento preparare, preparare arte
+https://www.yelp.it/biz/mazzini-38-torino;20463;davvero, bello, abbastanza, porre, mangiare, davvero bello, bello abbastanza, abbastanza porre, porre mangiare

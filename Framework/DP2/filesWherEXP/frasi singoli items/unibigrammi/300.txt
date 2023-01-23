@@ -1,0 +1,36 @@
+https://www.yelp.it/biz/sotto-la-mole-torino;12376;sorpresa, inaspettato, sorpresa inaspettato
+https://www.yelp.it/biz/sotto-la-mole-torino;12377;buono, cantina, buono cantina
+https://www.yelp.it/biz/sotto-la-mole-torino;12378;consigliare, certo, consigliare certo
+https://www.yelp.it/biz/sotto-la-mole-torino;12379;personale, essere, gentile, personale essere, essere gentile
+https://www.yelp.it/biz/sotto-la-mole-torino;12380;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/sotto-la-mole-torino;12381;locale, molto, tranquillo, molto, minimalista, locale molto, molto tranquillo, tranquillo molto, molto minimalista
+https://www.yelp.it/biz/sotto-la-mole-torino;12382;vitello, tonnato, fresco, gustoso, vitello tonnato, tonnato fresco, fresco gustoso
+https://www.yelp.it/biz/sotto-la-mole-torino;12383;buon, cibo, buon cibo
+https://www.yelp.it/biz/sotto-la-mole-torino;12384;curato, invitante, presentazione, piatto, curato invitante, invitante presentazione, presentazione piatto
+https://www.yelp.it/biz/sotto-la-mole-torino;12385;servizio, essere, ottimo, ambiente, accogliente, servizio essere, essere ottimo, ottimo ambiente, ambiente accogliente
+https://www.yelp.it/biz/sotto-la-mole-torino;12386;cucina, perfetto, servizio, impeccabile, cucina perfetto, perfetto servizio, servizio impeccabile
+https://www.yelp.it/biz/sotto-la-mole-torino;12387;ottimo, ristorante, difronte, locale, piccolo, gradevole, ottimo ristorante, ristorante difronte, difronte locale, locale piccolo, piccolo gradevole
+https://www.yelp.it/biz/sotto-la-mole-torino;12388;personale, premuroso, attento, preparato, gentile, personale premuroso, premuroso attento, attento preparato, preparato gentile
+https://www.yelp.it/biz/sotto-la-mole-torino;12389;qualità, ottimo, qualità ottimo
+https://www.yelp.it/biz/sotto-la-mole-torino;12390;offrire, cibo, qualità, servire, raffinatezza, offrire cibo, cibo qualità, qualità servire, servire raffinatezza
+https://www.yelp.it/biz/sotto-la-mole-torino;12391;carta, vino, piccolo, interessante, carta vino, vino piccolo, piccolo interessante
+https://www.yelp.it/biz/sotto-la-mole-torino;12392;dolce, sublime, dolce sublime
+https://www.yelp.it/biz/sotto-la-mole-torino;12393;molto, consigliare, molto consigliare
+https://www.yelp.it/biz/sotto-la-mole-torino;12394;location, essere, pieno, centro, molto, suggestivo, location essere, essere pieno, pieno centro, centro molto, molto suggestivo
+https://www.yelp.it/biz/sotto-la-mole-torino;12395;complimentare, consigliatissimo, complimentare consigliatissimo
+https://www.yelp.it/biz/sotto-la-mole-torino;12396;buono, piatto, vino, panna, cotto, eccezionale, buono piatto, piatto vino, vino panna, panna cotto, cotto eccezionale
+https://www.yelp.it/biz/sotto-la-mole-torino;12397;ottimo, vino, ottimo vino
+https://www.yelp.it/biz/sotto-la-mole-torino;12398;ambiente, raffinato, meritare, ritorno, più, tempo, disposizione, ambiente raffinato, raffinato meritare, meritare ritorno, ritorno più, più tempo, tempo disposizione
+https://www.yelp.it/biz/sotto-la-mole-torino;12399;locale, semplice, accogliente, locale semplice, semplice accogliente
+https://www.yelp.it/biz/sotto-la-mole-torino;12400;personale, gentile, molto, presente, personale gentile, gentile molto, molto presente
+https://www.yelp.it/biz/sotto-la-mole-torino;12401;ambiente, rilassare, ideale, scambiare, chiacchiera, compagnia, ambiente rilassare, rilassare ideale, ideale scambiare, scambiare chiacchiera, chiacchiera compagnia
+https://www.yelp.it/biz/sotto-la-mole-torino;12402;essere, bello, esperienza, essere bello, bello esperienza
+https://www.yelp.it/biz/sotto-la-mole-torino;12403;arredamento, sobrio, atmosfera, rilassare, arredamento sobrio, sobrio atmosfera, atmosfera rilassare
+https://www.yelp.it/biz/sotto-la-mole-torino;12404;servizio, davvero, eccellente, servizio davvero, davvero eccellente
+https://www.yelp.it/biz/sotto-la-mole-torino;12405;ben, presentare, vero, buono, sapore, servizio, puntuale, garbato, conto, corretto, ben presentare, presentare vero, vero buono, buono sapore, sapore servizio, servizio puntuale, puntuale garbato, garbato conto, conto corretto
+https://www.yelp.it/biz/sotto-la-mole-torino;12406;location, essere, molto, carino, location essere, essere molto, molto carino
+https://www.yelp.it/biz/sotto-la-mole-torino;12407;assoluto, provare, assoluto provare
+https://www.yelp.it/biz/sotto-la-mole-torino;12408;molto, buono, seirass, molto buono, buono seirass
+https://www.yelp.it/biz/sotto-la-mole-torino;12409;rapporto, qualità, prezzo, ottimo, rapporto qualità, qualità prezzo, prezzo ottimo
+https://www.yelp.it/biz/sotto-la-mole-torino;12410;buono, cena, buono cena
+https://www.yelp.it/biz/sotto-la-mole-torino;12411;rivisitare, impiattamento, raffinato, rivisitare impiattamento, impiattamento raffinato

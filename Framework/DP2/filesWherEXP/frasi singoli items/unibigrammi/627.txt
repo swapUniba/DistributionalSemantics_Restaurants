@@ -1,0 +1,56 @@
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22520;buono, scelta, vino, buono scelta, scelta vino
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22521;buon, servizio, prezzo, accettabile, buon servizio, servizio prezzo, prezzo accettabile
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22522;locale, semplice, accogliente, locale semplice, semplice accogliente
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22523;posto, cariare, posto cariare
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22524;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22525;ambiente, piacevole, ambiente piacevole
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22526;serata, unico, serata unico
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22527;molto, ben, presentare, molto ben, ben presentare
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22528;buon, rapporto, qualità, prezzo, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22529;grazie, visita, grazie visita
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22530;grazie, visita, grazie visita
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22531;bello, location, bello location
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22532;rapporto, qualità, prezzo, eccellente, rapporto qualità, qualità prezzo, prezzo eccellente
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22533;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22534;locale, piacevole, locale piacevole
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22535;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22536;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22537;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22538;buon, rapporto, qualità, prezzo, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22539;ottimo, cucina, eccellente, servizio, gradevole, ambiente, ottimo cucina, cucina eccellente, eccellente servizio, servizio gradevole, gradevole ambiente
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22540;distinguere, saluto, distinguere saluto
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22541;strepitoso, filetto, cottura, perfetto, strepitoso filetto, filetto cottura, cottura perfetto
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22542;ottimo, vino, ottimo vino
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22543;sempre, attento, sempre attento
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22544;bravo, bravo, bravo bravo
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22545;dolce, buono, soprattutto, bonet, dolce buono, buono soprattutto, soprattutto bonet
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22546;bravo, davvero, bravo davvero
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22547;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22548;bello, scoperta, bello scoperta
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22549;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22550;opinione, positivo, essere, impossibile, opinione positivo, positivo essere, essere impossibile
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22551;nota, positivo, essere, personale, essere, molto, gentile, preparare, nota positivo, positivo essere, essere personale, personale essere, essere molto, molto gentile, gentile preparare
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22552;infatti, recensione, elogiare, gustare, serata, infatti recensione, recensione elogiare, elogiare gustare, gustare serata
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22553;personale, cordiale, personale cordiale
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22554;proprietario, essere, simpaticissimo, grande, intenditore, cibo, vino, proprietario essere, essere simpaticissimo, simpaticissimo grande, grande intenditore, intenditore cibo, cibo vino
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22555;prezzo, media, gentile, locale, molto, carino, prezzo media, media gentile, gentile locale, locale molto, molto carino
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22556;locale, piccolo, accogliente, locale piccolo, piccolo accogliente
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22557;veloce, cordiale, piatto, eccellente, qualità, veloce cordiale, cordiale piatto, piatto eccellente, eccellente qualità
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22558;dolce, deludente, dolce deludente
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22559;servizio, cortese, attento, servizio cortese, cortese attento
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22560;personale, proprietario, molto, molto, cordiale, personale proprietario, proprietario molto, molto molto, molto cordiale
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22561;grazie, visita, grazie visita
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22562;personale, vero, cortese, attento, personale vero, vero cortese, cortese attento
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22563;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22564;davvero, ottimo, davvero ottimo
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22565;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22566;ottimo, ristorante, qualità, prezzo, ottimo ristorante, ristorante qualità, qualità prezzo
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22567;eccellente, rapporto, qualità/prezzo, eccellente rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22568;faccia, RICONOSCERE, faccia riconoscere
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22569;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22570;grazie, ugualmente, grazie ugualmente
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22571;buono, molto, economico, norma, buono molto, molto economico, economico norma
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22572;grazie, visita, presto, grazie visita, visita presto
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22573;fantastico, recensione, cliente, fantastico, grazie, fantastico recensione, recensione cliente, cliente fantastico, fantastico grazie
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22574;personale, molto, cortese, personale molto, molto cortese
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;22575;posto, bello, cucina, ottimo, posto bello, bello cucina, cucina ottimo

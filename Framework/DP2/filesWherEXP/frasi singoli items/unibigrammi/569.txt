@@ -1,0 +1,43 @@
+https://www.yelp.it/biz/verdi-d-indivia-torino;20771;ricettario, dolce, ricettario dolce
+https://www.yelp.it/biz/verdi-d-indivia-torino;20772;molto, positivo, molto positivo
+https://www.yelp.it/biz/verdi-d-indivia-torino;20773;vero, sorpresa, vero sorpresa
+https://www.yelp.it/biz/verdi-d-indivia-torino;20774;piacevole, momento, trascorso, piacevole momento, momento trascorso
+https://www.yelp.it/biz/verdi-d-indivia-torino;20775;marcia, più, grazie, simpatia, personale, porzione, generoso, marcia più, più grazie, grazie simpatia, simpatia personale, personale porzione, porzione generoso
+https://www.yelp.it/biz/verdi-d-indivia-torino;20776;piatto, essere, buono, sano, piatto essere, essere buono, buono sano
+https://www.yelp.it/biz/verdi-d-indivia-torino;20777;piatto, ottimo, piatto ottimo
+https://www.yelp.it/biz/verdi-d-indivia-torino;20778;vario, gustoso, personale, molto, cortese, vario gustoso, gustoso personale, personale molto, molto cortese
+https://www.yelp.it/biz/verdi-d-indivia-torino;20779;ottimo, cucina, vegetariano, vegana, cucinare, creatività, ottimo cucina, cucina vegetariano, vegetariano vegana, vegana cucinare, cucinare creatività
+https://www.yelp.it/biz/verdi-d-indivia-torino;20780;volta, soddisfare, volta soddisfare
+https://www.yelp.it/biz/verdi-d-indivia-torino;20781;cucina, vegana, vegetariano, gustoso, fantasioso, cucina vegana, vegana vegetariano, vegetariano gustoso, gustoso fantasioso
+https://www.yelp.it/biz/verdi-d-indivia-torino;20782;dire, poi, torta, anche, collega, vegetariano, apprezzare, dire poi, poi torta, torta anche, anche collega, collega vegetariano, vegetariano apprezzare
+https://www.yelp.it/biz/verdi-d-indivia-torino;20783;ottimo, veloce, posticino, ideale, pausa, pranzo, ottimo veloce, veloce posticino, posticino ideale, ideale pausa, pausa pranzo
+https://www.yelp.it/biz/verdi-d-indivia-torino;20784;finalmente, pasto, diventare, gioia, palato, menù, vario, gustoso, prezzo, super, competitivo, finalmente pasto, pasto diventare, diventare gioia, gioia palato, palato menù, menù vario, vario gustoso, gustoso prezzo, prezzo super, super competitivo
+https://www.yelp.it/biz/verdi-d-indivia-torino;20785;personale, super, simpatico, accogliente, personale super, super simpatico, simpatico accogliente
+https://www.yelp.it/biz/verdi-d-indivia-torino;20786;peccare, spazio, pò, stretto, ottimo, pausa, pranzo, sano, veloce, peccare spazio, spazio pò, pò stretto, stretto ottimo, ottimo pausa, pausa pranzo, pranzo sano, sano veloce
+https://www.yelp.it/biz/verdi-d-indivia-torino;20787;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/verdi-d-indivia-torino;20788;molto, consigliare, molto consigliare
+https://www.yelp.it/biz/verdi-d-indivia-torino;20789;bravo, efficiente, piatto, fantastico, bravo efficiente, efficiente piatto, piatto fantastico
+https://www.yelp.it/biz/verdi-d-indivia-torino;20790;consigliare, pausa, pranzo, consigliare pausa, pausa pranzo
+https://www.yelp.it/biz/verdi-d-indivia-torino;20791;ottimo, accoglienza, prodotto, genuino, ottimo accoglienza, accoglienza prodotto, prodotto genuino
+https://www.yelp.it/biz/verdi-d-indivia-torino;20792;fidanzato, optare, mix, piatto, delizioso, vellutato, cavolo, cappuccio, viola, quiche, verdura, ottimo, fidanzato optare, optare mix, mix piatto, piatto delizioso, delizioso vellutato, vellutato cavolo, cavolo cappuccio, cappuccio viola, viola quiche, quiche verdura, verdura ottimo
+https://www.yelp.it/biz/verdi-d-indivia-torino;20793;ultimare, nota, personale, gentile, preparato, sorridente, ultimare nota, nota personale, personale gentile, gentile preparato, preparato sorridente
+https://www.yelp.it/biz/verdi-d-indivia-torino;20794;personale, gentile, personale gentile
+https://www.yelp.it/biz/verdi-d-indivia-torino;20795;molto, buono, variegato, porzione, molto, soddisfacente, cordialità, eccezionale, gestore, molto buono, buono variegato, variegato porzione, porzione molto, molto soddisfacente, soddisfacente cordialità, cordialità eccezionale, eccezionale gestore
+https://www.yelp.it/biz/verdi-d-indivia-torino;20796;buon, appetito, buon appetito
+https://www.yelp.it/biz/verdi-d-indivia-torino;20797;scelta, é, vasto, pausa, pranzo, andare, benissimo, scelta é, é vasto, vasto pausa, pausa pranzo, pranzo andare, andare benissimo
+https://www.yelp.it/biz/verdi-d-indivia-torino;20798;personale, gentile, personale gentile
+https://www.yelp.it/biz/verdi-d-indivia-torino;20799;ottimo, pasta, troppo, saporito, ottimo pasta, pasta troppo, troppo saporito
+https://www.yelp.it/biz/verdi-d-indivia-torino;20800;essere, posto, più, ospitale, essere, essere posto, posto più, più ospitale, ospitale essere
+https://www.yelp.it/biz/verdi-d-indivia-torino;20801;prezzo, contenuto, dolce, meraviglioso, prezzo contenuto, contenuto dolce, dolce meraviglioso
+https://www.yelp.it/biz/verdi-d-indivia-torino;20802;sì, essere, posto, giusto, godere, palato, olfatto, vedere, soprattutto, vista, sì essere, essere posto, posto giusto, giusto godere, godere palato, palato olfatto, olfatto vedere, vedere soprattutto, soprattutto vista
+https://www.yelp.it/biz/verdi-d-indivia-torino;20803;splendono, luce, resto, essere, semplice, corollario, splendono luce, luce resto, resto essere, essere semplice, semplice corollario
+https://www.yelp.it/biz/verdi-d-indivia-torino;20804;prezzo, ottimo, prezzo ottimo
+https://www.yelp.it/biz/verdi-d-indivia-torino;20805;perfetto, torta, carota, arancia, perfetto torta, torta carota, carota arancia
+https://www.yelp.it/biz/verdi-d-indivia-torino;20806;complesso, buon, rapporto, qualità, prezzo, complesso buon, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/verdi-d-indivia-torino;20807;ottimo, anche, aperitivo, ottimo anche, anche aperitivo
+https://www.yelp.it/biz/verdi-d-indivia-torino;20808;cibo, essere, ottimo, qualità, molto, buono, prezzo, essere, onesto, gestore, molto, simpatico, disponibile, cibo essere, essere ottimo, ottimo qualità, qualità molto, molto buono, buono prezzo, prezzo essere, essere onesto, onesto gestore, gestore molto, molto simpatico, simpatico disponibile
+https://www.yelp.it/biz/verdi-d-indivia-torino;20809;complimentare, ragazzo, complimentare ragazzo
+https://www.yelp.it/biz/verdi-d-indivia-torino;20810;bravo, ragazzo, bravo ragazzo
+https://www.yelp.it/biz/verdi-d-indivia-torino;20811;essere, piacevole, esperienza, essere piacevole, piacevole esperienza
+https://www.yelp.it/biz/verdi-d-indivia-torino;20812;ottimo, qualità/prezzo, ottimo qualità/prezzo
+https://www.yelp.it/biz/verdi-d-indivia-torino;20813;perfetto, veloce, sano, posto, rilassare, pranzo, perfetto veloce, veloce sano, sano posto, posto rilassare, rilassare pranzo

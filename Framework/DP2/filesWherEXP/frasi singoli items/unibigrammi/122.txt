@@ -1,0 +1,68 @@
+https://www.yelp.it/biz/vanilla-torino;7004;anche, granita, siciliano, essere, notevole, anche granita, granita siciliano, siciliano essere, essere notevole
+https://www.yelp.it/biz/vanilla-torino;7005;prodotto, buono, gelare, squisito, prodotto buono, buono gelare, gelare squisito
+https://www.yelp.it/biz/vanilla-torino;7006;molto, cariare, personale, cordiale, gelare, gustoso, molto cariare, cariare personale, personale cordiale, cordiale gelare, gelare gustoso
+https://www.yelp.it/biz/vanilla-torino;7007;continuare, così, continuare così
+https://www.yelp.it/biz/vanilla-torino;7008;essere, fenomenale, essere fenomenale
+https://www.yelp.it/biz/vanilla-torino;7009;buono, anche, granita, buono anche, anche granita
+https://www.yelp.it/biz/vanilla-torino;7010;personale, sempre, gentile, personale sempre, sempre gentile
+https://www.yelp.it/biz/vanilla-torino;7011;ottimo, gelare, ben, bilanciato, ottimo gelare, gelare ben, ben bilanciato
+https://www.yelp.it/biz/vanilla-torino;7012;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7013;sperare, rivedere, presto, cordiale, saluto, sperare rivedere, rivedere presto, presto cordiale, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7014;titolare, mano, simpatico, titolare mano, mano simpatico
+https://www.yelp.it/biz/vanilla-torino;7015;piccolo, accogliente, pulito, piccolo accogliente, accogliente pulito
+https://www.yelp.it/biz/vanilla-torino;7016;bravo, ragazzo, bravo ragazzo
+https://www.yelp.it/biz/vanilla-torino;7017;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7018;bruno, poi, essere, persona, stupendo, bruno poi, poi essere, essere persona, persona stupendo
+https://www.yelp.it/biz/vanilla-torino;7019;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7020;personale, essere, cortese, cordiale, simpatico, personale essere, essere cortese, cortese cordiale, cordiale simpatico
+https://www.yelp.it/biz/vanilla-torino;7021;proprietario, cortese, gentile, proprietario cortese, cortese gentile
+https://www.yelp.it/biz/vanilla-torino;7022;grazie, ancora, complimento, cordiale, saluto, grazie ancora, ancora complimento, complimento cordiale, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7023;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7024;grazie, ancora, cordiale, saluto, grazie ancora, ancora cordiale, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7025;granita, é, favoloso, cocco, granita é, é favoloso, favoloso cocco
+https://www.yelp.it/biz/vanilla-torino;7026;cordiale, saluto, grazie, ancora, cordiale saluto, saluto grazie, grazie ancora
+https://www.yelp.it/biz/vanilla-torino;7027;cremoso, ricco, sapore, autentico, disponibile, gusto, introvabile, altrove, cremoso ricco, ricco sapore, sapore autentico, autentico disponibile, disponibile gusto, gusto introvabile, introvabile altrove
+https://www.yelp.it/biz/vanilla-torino;7028;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7029;anche, scelta, gusto, essere, considerevole, anche scelta, scelta gusto, gusto essere, essere considerevole
+https://www.yelp.it/biz/vanilla-torino;7030;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7031;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7032;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7033;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7034;anche, locale, andare, migliorare, particolare, anche locale, locale andare, andare migliorare, migliorare particolare
+https://www.yelp.it/biz/vanilla-torino;7035;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7036;accostamento, sapore, inusuali, sicuro, gradevole, palato, accostamento sapore, sapore inusuali, inusuali sicuro, sicuro gradevole, gradevole palato
+https://www.yelp.it/biz/vanilla-torino;7037;vero, lussuria, palato, vero lussuria, lussuria palato
+https://www.yelp.it/biz/vanilla-torino;7038;speciale, varietà, offerta, speciale varietà, varietà offerta
+https://www.yelp.it/biz/vanilla-torino;7039;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7040;ottimo, gusto, soprattutto, gusto, gianduiotto, nocciola, langhe, ottimo gusto, gusto soprattutto, soprattutto gusto, gusto gianduiotto, gianduiotto nocciola, nocciola langhe
+https://www.yelp.it/biz/vanilla-torino;7041;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7042;personale, davvero, gentile, personale davvero, davvero gentile
+https://www.yelp.it/biz/vanilla-torino;7043;grazie, cuore, grazie cuore
+https://www.yelp.it/biz/vanilla-torino;7044;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7045;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7046;gelare, buono, ottimo, posizione, passo, palazzo, reale, gelare buono, buono ottimo, ottimo posizione, posizione passo, passo palazzo, palazzo reale
+https://www.yelp.it/biz/vanilla-torino;7047;gelato, buono, pesante, indizio, vero, qualità, gusto, originale, gelato buono, buono pesante, pesante indizio, indizio vero, vero qualità, qualità gusto, gusto originale
+https://www.yelp.it/biz/vanilla-torino;7048;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7049;cordiale, saluto, grazie, comunque, visita, cordiale saluto, saluto grazie, grazie comunque, comunque visita
+https://www.yelp.it/biz/vanilla-torino;7050;caro, cliente, grazie, intanto, splendido, recensione, caro cliente, cliente grazie, grazie intanto, intanto splendido, splendido recensione
+https://www.yelp.it/biz/vanilla-torino;7051;panna, essere, superlativo, panna essere, essere superlativo
+https://www.yelp.it/biz/vanilla-torino;7052;grazie, infinito, grazie infinito
+https://www.yelp.it/biz/vanilla-torino;7053;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7054;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7055;perchè, ultimo, essere, assaggiare, delizioso, gelato, perchè ultimo, ultimo essere, essere assaggiare, assaggiare delizioso, delizioso gelato
+https://www.yelp.it/biz/vanilla-torino;7056;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7057;resto, bravo, resto bravo
+https://www.yelp.it/biz/vanilla-torino;7058;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7059;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7060;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7061;gelato, eccezionale, davvero, buono, specialità, davvero, particolare, commessa, simpatico, consiglio, gelato eccezionale, eccezionale davvero, davvero buono, buono specialità, specialità davvero, davvero particolare, particolare commessa, commessa simpatico, simpatico consiglio
+https://www.yelp.it/biz/vanilla-torino;7062;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7063;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7064;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7065;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7066;sicuro, buon, gelato, sicuro buon, buon gelato
+https://www.yelp.it/biz/vanilla-torino;7067;grazie, infinito, cordiale, saluto, grazie infinito, infinito cordiale, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7068;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7069;magnifico, sorpresa, magnifico sorpresa
+https://www.yelp.it/biz/vanilla-torino;7070;grazie, ancora, cordiale, saluto, grazie ancora, ancora cordiale, cordiale saluto
+https://www.yelp.it/biz/vanilla-torino;7071;passare, tempo, certezza, riconfermare, passare tempo, tempo certezza, certezza riconfermare

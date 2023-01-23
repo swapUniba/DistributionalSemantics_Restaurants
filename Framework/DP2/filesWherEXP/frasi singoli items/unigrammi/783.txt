@@ -1,0 +1,27 @@
+https://www.yelp.it/biz/scapadaca-torino;26035;locale, molto, piccolo, deciso, grazioso
+https://www.yelp.it/biz/scapadaca-torino;26036;costo, ragionevole, personale, molto, gentile, cordiale
+https://www.yelp.it/biz/scapadaca-torino;26037;cibo, caldo, buono
+https://www.yelp.it/biz/scapadaca-torino;26038;molto, gentile, bello, serata
+https://www.yelp.it/biz/scapadaca-torino;26039;ambiente, servizio, gentile, professionale
+https://www.yelp.it/biz/scapadaca-torino;26040;gestire, locale, essere, gentile, simpatico
+https://www.yelp.it/biz/scapadaca-torino;26041;cibo, essere, ottimo, abbastanza, vario
+https://www.yelp.it/biz/scapadaca-torino;26042;formula, riservare, grande, varietà, piatto, buono
+https://www.yelp.it/biz/scapadaca-torino;26043;é, molto, cortese
+https://www.yelp.it/biz/scapadaca-torino;26044;ottimo, qualita, cibo
+https://www.yelp.it/biz/scapadaca-torino;26045;ottimo, birra
+https://www.yelp.it/biz/scapadaca-torino;26046;locale, piccolo, carino, sempre, sovraffollato
+https://www.yelp.it/biz/scapadaca-torino;26047;cariare, dehor, fuori
+https://www.yelp.it/biz/scapadaca-torino;26048;ottimo, vario, apericena
+https://www.yelp.it/biz/scapadaca-torino;26049;molto, buono, fresco
+https://www.yelp.it/biz/scapadaca-torino;26050;ottimo, apericena
+https://www.yelp.it/biz/scapadaca-torino;26051;personale, molto, gentile
+https://www.yelp.it/biz/scapadaca-torino;26052;ambiente, piccolo, familiare, personale, molto, gentile
+https://www.yelp.it/biz/scapadaca-torino;26053;buono, cocktails, ancora, più, grande, piatto, caldo, tipico, luogo
+https://www.yelp.it/biz/scapadaca-torino;26054;ricco, molto, gradevole
+https://www.yelp.it/biz/scapadaca-torino;26055;essere, anche, buono, varietà, vino, proporre
+https://www.yelp.it/biz/scapadaca-torino;26056;molto, buono
+https://www.yelp.it/biz/scapadaca-torino;26057;molto, buono, birra, spina
+https://www.yelp.it/biz/scapadaca-torino;26058;ambiente, piacevole, cameriere, gentile
+https://www.yelp.it/biz/scapadaca-torino;26059;aperitivo, migliore
+https://www.yelp.it/biz/scapadaca-torino;26060;piacevole, dehor, esterno
+https://www.yelp.it/biz/scapadaca-torino;26061;atmosfera, essere, molto, rilassare

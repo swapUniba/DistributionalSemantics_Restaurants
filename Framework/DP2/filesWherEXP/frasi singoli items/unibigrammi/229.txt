@@ -1,0 +1,53 @@
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10189;locale, molto, carino, servizio, attento, locale molto, molto carino, carino servizio, servizio attento
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10190;buono, bello, carta, vino, buono bello, bello carta, carta vino
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10191;specialità, piemontese, pesce, cucinare, originalità, ricercatezza, specialità piemontese, piemontese pesce, pesce cucinare, cucinare originalità, originalità ricercatezza
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10192;locale, moderno, accogliere, piccolo, dehor, locale moderno, moderno accogliere, accogliere piccolo, piccolo dehor
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10193;rapporto, qualità/prezzo, perfetto, rapporto qualità/prezzo, qualità/prezzo perfetto
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10194;bello, scoperta, locale, suggeritomi, amico, bello scoperta, scoperta locale, locale suggeritomi, suggeritomi amico
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10195;qualità, prezzo, più, onesto, qualità prezzo, prezzo più, più onesto
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10196;ottimo, scelta, vino, ottimo scelta, scelta vino
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10197;ottimo, rapporto, qualità, x, prezzo, ottimo rapporto, rapporto qualità, qualità x, x prezzo
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10198;insomma, sempre, buono, complesso, insomma sempre, sempre buono, buono complesso
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10199;interessante, dolce, interessante dolce
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10200;ottimo, carciofo, dolce, ottimo carciofo, carciofo dolce
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10201;ottimo, qualità, prezzo, ottimo qualità, qualità prezzo
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10202;locale, cariare, riservare, locale cariare, cariare riservare
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10203;molto, buono, conto, assoluto, giusto, molto buono, buono conto, conto assoluto, assoluto giusto
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10204;ancora, volta, ancora volta
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10205;locale, carino, ben, frequentare, locale carino, carino ben, ben frequentare
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10206;titolare, essere, molto, gentile, titolare essere, essere molto, molto gentile
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10207;menu, delicato, variegato, menu delicato, delicato variegato
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10208;piatto, stagione, superbo, dolce, piatto stagione, stagione superbo, superbo dolce
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10209;infine, dolce, infine dolce
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10210;personale, molto, gentile, disponibile, personale molto, molto gentile, gentile disponibile
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10211;menù, ampio, piatto, carta, molto, interessante, menù ampio, ampio piatto, piatto carta, carta molto, molto interessante
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10212;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10213;antipasto, fantastico, antipasto fantastico
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10214;buono, davvero, buono, buono davvero, davvero buono
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10215;baccalà, ripieno, gustoso, delicato, baccalà ripieno, ripieno gustoso, gustoso delicato
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10216;antipasto, numeroso, buono, antipasto numeroso, numeroso buono
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10217;sempre, migliore, sempre migliore
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10218;vino, calice, vino calice
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10219;cucina, ottimo, servizio, anche, ottimo, cucina ottimo, ottimo servizio, servizio anche, anche ottimo
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10220;locale, piccolo, curare, ottimo, cibo, servizio, attento, locale piccolo, piccolo curare, curare ottimo, ottimo cibo, cibo servizio, servizio attento
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10221;proposta, semplice, ottimo, qualità, proposta semplice, semplice ottimo, ottimo qualità
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10222;molto, buono, servizio, molto buono, buono servizio
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10223;discreto, carta, vino, discreto carta, carta vino
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10224;bello, serata, metà, settembre, invogliare, uscire, stare, compagnia, bello serata, serata metà, metà settembre, settembre invogliare, invogliare uscire, uscire stare, stare compagnia
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10225;personale, cordiale, personale cordiale
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10226;valere, sicuro, prezzo, valere sicuro, sicuro prezzo
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10227;personale, gentile, locale, raffinato, cibo, alto, qualità, personale gentile, gentile locale, locale raffinato, raffinato cibo, cibo alto, alto qualità
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10228;locale, cariare, curare, locale cariare, cariare curare
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10229;buono, qualità, mangiare, come, casa, buono qualità, qualità mangiare, mangiare come, come casa
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10230;bello, esperienza, bello esperienza
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10231;posto, simpatico, accogliente, posto simpatico, simpatico accogliente
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10232;cibo, buono, cibo buono
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10233;cibo, comunque, essere, buono, cibo comunque, comunque essere, essere buono
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10234;piccolo, molto, accogliente, piccolo molto, molto accogliente
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10235;carta, vino, essere, adeguato, consiglio, essere, sempre, prezioso, azzeccare, carta vino, vino essere, essere adeguato, adeguato consiglio, consiglio essere, essere sempre, sempre prezioso, prezioso azzeccare
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10236;locale, molto, carino, piccolo, accogliente, cibo, ottimo, locale molto, molto carino, carino piccolo, piccolo accogliente, accogliente cibo, cibo ottimo
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10237;chicca, vintage, moderno, chicca vintage, vintage moderno
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10238;buon, appetito, buon appetito
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10239;rapporto, qualità-prezzo, molto, buono, rapporto qualità-prezzo, qualità-prezzo molto, molto buono
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10240;cantina, buono, qualità, cantina buono, buono qualità
+https://www.yelp.it/biz/ristoro-28-3-torino-2;10241;buon, rapporto, qualità/prezzo, buon rapporto, rapporto qualità/prezzo

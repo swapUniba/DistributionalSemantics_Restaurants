@@ -1,0 +1,30 @@
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10045;sempre, pizza, napoletano, zeppola, sempre pizza, pizza napoletano, napoletano zeppola
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10046;pizza, molto, sottile, gustoso, pizza molto, molto sottile, sottile gustoso
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10047;ottimo, pizza, ottimo pizza
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10048;pizza, essere, abbastanza, buono, solo, impasto, parere, molto, lievitare, pizza essere, essere abbastanza, abbastanza buono, buono solo, solo impasto, impasto parere, parere molto, molto lievitare
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10049;essere, almeno, degno, attesa, essere almeno, almeno degno, degno attesa
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10050;antipasto, buono, pizza, ottimo, antipasto buono, buono pizza, pizza ottimo
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10051;pizza, gommoso, immangiabile, particolarmente, piccolo, pizza gommoso, gommoso immangiabile, immangiabile particolarmente, particolarmente piccolo
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10052;semplicemente, ottimo, abbondante, semplicemente ottimo, ottimo abbondante
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10053;anche, cameriere, essere, gentile, anche cameriere, cameriere essere, essere gentile
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10054;vero, buono, bravo, vero buono, buono bravo
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10055;frittura, gradevole, frittura gradevole
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10056;antipasto, pizza, molto, buono, antipasto pizza, pizza molto, molto buono
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10057;buono, anche, frittura, pesce, buono anche, anche frittura, frittura pesce
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10058;pizza, molto, buono, pizza molto, molto buono
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10059;complimento, impegno, complimento impegno
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10060;pizza, buono, come, pizza buono, buono come
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10061;locale, piccolo, comunque, accogliente, locale piccolo, piccolo comunque, comunque accogliente
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10062;ottimo, locale, pulire, molto, veloce, pizza, molto, molto, buono, ottimo locale, locale pulire, pulire molto, molto veloce, veloce pizza, pizza molto, molto molto, molto buono
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10063;gentile, curare, dettaglio, gentile curare, curare dettaglio
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10064;complimentare, davvero, complimentare davvero
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10065;qui, andare, bene, qui andare, andare bene
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10066;antipasto, focaccia, pizza, molto, gustoso, bibita, dolce, antipasto focaccia, focaccia pizza, pizza molto, molto gustoso, gustoso bibita, bibita dolce
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10067;molto, mano, personale, molto mano, mano personale
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10068;servizio, solare, cortese, servizio solare, solare cortese
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10069;cibo, buono, cibo buono
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10070;personale, gentile, cordiale, personale gentile, gentile cordiale
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10071;pizza, pesce, essere, birra, essere, fantastico, pizza pesce, pesce essere, essere birra, birra essere, essere fantastico
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10072;esperienza, assoluto, negativo, esperienza assoluto, assoluto negativo
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10073;cibo, buono, cibo buono
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;10074;rapporto, qualità, prezzo, buono, rapporto qualità, qualità prezzo, prezzo buono

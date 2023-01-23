@@ -1,0 +1,58 @@
+https://www.yelp.it/biz/arcadia-torino-4;11278;molto, buono, molto buono
+https://www.yelp.it/biz/arcadia-torino-4;11279;guancia, brasato, ottimo, guancia brasato, brasato ottimo
+https://www.yelp.it/biz/arcadia-torino-4;11280;tavolo, comodo, servizio, puntuale, gentile, tavolo comodo, comodo servizio, servizio puntuale, puntuale gentile
+https://www.yelp.it/biz/arcadia-torino-4;11281;servizio, ottimo, essere, molto, gentile, professionale, servizio ottimo, ottimo essere, essere molto, molto gentile, gentile professionale
+https://www.yelp.it/biz/arcadia-torino-4;11282;avere, piatto, tradizionale, anche, tipico, piemontese, volere, ottimo, sushi, più, svariato, combinazione, avere piatto, piatto tradizionale, tradizionale anche, anche tipico, tipico piemontese, piemontese volere, volere ottimo, ottimo sushi, sushi più, più svariato, svariato combinazione
+https://www.yelp.it/biz/arcadia-torino-4;11283;comunque, meritare, visita, comunque meritare, meritare visita
+https://www.yelp.it/biz/arcadia-torino-4;11284;dire, porre, tranquillo, unico, buono, dire porre, porre tranquillo, tranquillo unico, unico buono
+https://www.yelp.it/biz/arcadia-torino-4;11285;servizio, essere, impeccabile, servizio essere, essere impeccabile
+https://www.yelp.it/biz/arcadia-torino-4;11286;conclusione, ristorante, perfetto, conclusione ristorante, ristorante perfetto
+https://www.yelp.it/biz/arcadia-torino-4;11287;probabilmente, serata, probabilmente serata
+https://www.yelp.it/biz/arcadia-torino-4;11288;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/arcadia-torino-4;11289;prezzo, buono, prezzo buono
+https://www.yelp.it/biz/arcadia-torino-4;11290;molto, interessante, piatto, sushi, molto interessante, interessante piatto, piatto sushi
+https://www.yelp.it/biz/arcadia-torino-4;11291;buono, sushi, misto, caro, relazione, qualità/prezzo, buono sushi, sushi misto, misto caro, caro relazione, relazione qualità/prezzo
+https://www.yelp.it/biz/arcadia-torino-4;11292;piatto, giorno, tartaro, fonduta, molto, buono, piatto giorno, giorno tartaro, tartaro fonduta, fonduta molto, molto buono
+https://www.yelp.it/biz/arcadia-torino-4;11293;complesso, rapporto, qualità/prezzo, abbastanza, buono, complesso rapporto, rapporto qualità/prezzo, qualità/prezzo abbastanza, abbastanza buono
+https://www.yelp.it/biz/arcadia-torino-4;11294;cornice, splendido, solo, meritare, visita, trovare, ospitalità, elegante, locale, posto, sedere, diventare, fastidioso, anche, presenza, tavolata, numeroso, grazie, adeguato, distanza, rispetto, tavolo, cornice splendido, splendido solo, solo meritare, meritare visita, visita trovare, trovare ospitalità, ospitalità elegante, elegante locale, locale posto, posto sedere, sedere diventare, diventare fastidioso, fastidioso anche, anche presenza, presenza tavolata, tavolata numeroso, numeroso grazie, grazie adeguato, adeguato distanza, distanza rispetto, rispetto tavolo
+https://www.yelp.it/biz/arcadia-torino-4;11295;bello, elegante, locale, bello elegante, elegante locale
+https://www.yelp.it/biz/arcadia-torino-4;11296;location, é, incantevole, location é, é incantevole
+https://www.yelp.it/biz/arcadia-torino-4;11297;servizio, molto, curato, elegante, prezzo, medio, alto, servizio molto, molto curato, curato elegante, elegante prezzo, prezzo medio, medio alto
+https://www.yelp.it/biz/arcadia-torino-4;11298;vino, dolce, molto, caro, vino dolce, dolce molto, molto caro
+https://www.yelp.it/biz/arcadia-torino-4;11299;sicuro, essere, posto, andare, fine, settimana, cena, speciale, meritare, sicuro, conto, sicuro essere, essere posto, posto andare, andare fine, fine settimana, settimana cena, cena speciale, speciale meritare, meritare sicuro, sicuro conto
+https://www.yelp.it/biz/arcadia-torino-4;11300;veloce, gentile, veloce gentile
+https://www.yelp.it/biz/arcadia-torino-4;11301;ottimo, esperienza, ottimo esperienza
+https://www.yelp.it/biz/arcadia-torino-4;11302;ottimare, cucina, menu, piuttosto, ricco, piatto, tradizione, presentare, tocco, fantasia, ottimare cucina, cucina menu, menu piuttosto, piuttosto ricco, ricco piatto, piatto tradizione, tradizione presentare, presentare tocco, tocco fantasia
+https://www.yelp.it/biz/arcadia-torino-4;11303;molto, bello, locale, cuore, torino, molto bello, bello locale, locale cuore, cuore torino
+https://www.yelp.it/biz/arcadia-torino-4;11304;buono, soluzione, cena, intimo, speciale, buono soluzione, soluzione cena, cena intimo, intimo speciale
+https://www.yelp.it/biz/arcadia-torino-4;11305;avere, sapore, odore, superlativo, avere sapore, sapore odore, odore superlativo
+https://www.yelp.it/biz/arcadia-torino-4;11306;ristorante, raffinato, can, ovvio, ristorante raffinato, raffinato can, can ovvio
+https://www.yelp.it/biz/arcadia-torino-4;11307;abbinamento, stravagante, gusto, ottimo, abbinamento stravagante, stravagante gusto, gusto ottimo
+https://www.yelp.it/biz/arcadia-torino-4;11308;ambiente, accogliente, ambiente accogliente
+https://www.yelp.it/biz/arcadia-torino-4;11309;cucina, italiano, essere, altrettanto, strepitoso, declinazione, entrèe, cucina italiano, italiano essere, essere altrettanto, altrettanto strepitoso, strepitoso declinazione, declinazione entrèe
+https://www.yelp.it/biz/arcadia-torino-4;11310;essere, ristorante, ideale, invitare, persona, speciale, anche, piacevole, compagnia, essere, sempre, scelta, migliore, essere ristorante, ristorante ideale, ideale invitare, invitare persona, persona speciale, speciale anche, anche piacevole, piacevole compagnia, compagnia essere, essere sempre, sempre scelta, scelta migliore
+https://www.yelp.it/biz/arcadia-torino-4;11311;buono, rapporto, qualità/prezzo, buono rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/arcadia-torino-4;11312;location, essere, molto, carino, location essere, essere molto, molto carino
+https://www.yelp.it/biz/arcadia-torino-4;11313;ottimo, anche, dolce, ottimo anche, anche dolce
+https://www.yelp.it/biz/arcadia-torino-4;11314;essere, bello, ristorante, essere bello, bello ristorante
+https://www.yelp.it/biz/arcadia-torino-4;11315;essere, cena, romantico, donna, essere cena, cena romantico, romantico donna
+https://www.yelp.it/biz/arcadia-torino-4;11316;piatto, delicato, equilibrato, piatto delicato, delicato equilibrato
+https://www.yelp.it/biz/arcadia-torino-4;11317;ristorante, molto, fascinoso, mantenere, atmosfera, passato, ristorante molto, molto fascinoso, fascinoso mantenere, mantenere atmosfera, atmosfera passato
+https://www.yelp.it/biz/arcadia-torino-4;11318;ottimo, suhi, ottimo suhi
+https://www.yelp.it/biz/arcadia-torino-4;11319;personale, gentile, professionale, servizio, impeccabile, personale gentile, gentile professionale, professionale servizio, servizio impeccabile
+https://www.yelp.it/biz/arcadia-torino-4;11320;dose, onesto, gusto, discreto, dose onesto, onesto gusto, gusto discreto
+https://www.yelp.it/biz/arcadia-torino-4;11321;passo, locale, godere, splendido, location, passo locale, locale godere, godere splendido, splendido location
+https://www.yelp.it/biz/arcadia-torino-4;11322;ottimo, ristorante, miscgia, tradizione, piemontese, innovazione, sushi, ottimo ristorante, ristorante miscgia, miscgia tradizione, tradizione piemontese, piemontese innovazione, innovazione sushi
+https://www.yelp.it/biz/arcadia-torino-4;11323;buono, dolce, buono dolce
+https://www.yelp.it/biz/arcadia-torino-4;11324;cibo, essere, raffinare, ottimo, cibo essere, essere raffinare, raffinare ottimo
+https://www.yelp.it/biz/arcadia-torino-4;11325;servizio, competente, cortese, rapido, servizio competente, competente cortese, cortese rapido
+https://www.yelp.it/biz/arcadia-torino-4;11326;sommare, bello, serata, amico, sommare bello, bello serata, serata amico
+https://www.yelp.it/biz/arcadia-torino-4;11327;personale, gentile, cortese, veloce, personale gentile, gentile cortese, cortese veloce
+https://www.yelp.it/biz/arcadia-torino-4;11328;valere, assoluto, passaggio, valere assoluto, assoluto passaggio
+https://www.yelp.it/biz/arcadia-torino-4;11329;posto, carino, posto carino
+https://www.yelp.it/biz/arcadia-torino-4;11330;servizio, impeccabile, servizio impeccabile
+https://www.yelp.it/biz/arcadia-torino-4;11331;buono, rapporto, qualità, prezzo, buono rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/arcadia-torino-4;11332;ottimo, tavioli, ottimo tavioli
+https://www.yelp.it/biz/arcadia-torino-4;11333;sushi, squisito, sushi squisito
+https://www.yelp.it/biz/arcadia-torino-4;11334;gustoso, cena, gustoso cena
+https://www.yelp.it/biz/arcadia-torino-4;11335;buon, cibo, italiano, buon, servizio, buon cibo, cibo italiano, italiano buon, buon servizio

@@ -1,0 +1,26 @@
+https://www.yelp.it/biz/john-lennons-torino;22442;rapporto, qualità, prezzo, ottimo, rapporto qualità, qualità prezzo, prezzo ottimo
+https://www.yelp.it/biz/john-lennons-torino;22443;rapporto, qualità-prezzo, buono, rapporto qualità-prezzo, qualità-prezzo buono
+https://www.yelp.it/biz/john-lennons-torino;22444;bello, arrivare, dolce, bello arrivare, arrivare dolce
+https://www.yelp.it/biz/john-lennons-torino;22445;ottimo, musica, ottimo musica
+https://www.yelp.it/biz/john-lennons-torino;22446;carne, buono, carne buono
+https://www.yelp.it/biz/john-lennons-torino;22447;qualità, prezzo, ottimo, qualità prezzo, prezzo ottimo
+https://www.yelp.it/biz/john-lennons-torino;22448;anzi, ringraziare, sempre, anzi ringraziare, ringraziare sempre
+https://www.yelp.it/biz/john-lennons-torino;22449;birra, ottimo, personale, simpatico, disponibile, birra ottimo, ottimo personale, personale simpatico, simpatico disponibile
+https://www.yelp.it/biz/john-lennons-torino;22450;birra, buono, bello, atmosfera, birra buono, buono bello, bello atmosfera
+https://www.yelp.it/biz/john-lennons-torino;22451;personale, molto, cordiale, gentile, personale molto, molto cordiale, cordiale gentile
+https://www.yelp.it/biz/john-lennons-torino;22452;birra, essere, buono, birra essere, essere buono
+https://www.yelp.it/biz/john-lennons-torino;22453;atmosfera, locale, straordinario, perfetto, atmosfera locale, locale straordinario, straordinario perfetto
+https://www.yelp.it/biz/john-lennons-torino;22454;generale, buono, esperienza, generale buono, buono esperienza
+https://www.yelp.it/biz/john-lennons-torino;22455;personale, simpatico, competente, personale simpatico, simpatico competente
+https://www.yelp.it/biz/john-lennons-torino;22456;storico, interno, molto, bello, tipico, rendere, atmosfera, sempre, particolare, birra, molto, buono, vasto, scelta, panino, storico interno, interno molto, molto bello, bello tipico, tipico rendere, rendere atmosfera, atmosfera sempre, sempre particolare, particolare birra, birra molto, molto buono, buono vasto, vasto scelta, scelta panino
+https://www.yelp.it/biz/john-lennons-torino;22457;cucina, essere, valido, cucina essere, essere valido
+https://www.yelp.it/biz/john-lennons-torino;22458;locale, molto, cariare, locale molto, molto cariare
+https://www.yelp.it/biz/john-lennons-torino;22459;servizio, veloce, cordiale, servizio veloce, veloce cordiale
+https://www.yelp.it/biz/john-lennons-torino;22460;personale, gentile, educare, personale gentile, gentile educare
+https://www.yelp.it/biz/john-lennons-torino;22461;servizio, cortese, veloce, servizio cortese, cortese veloce
+https://www.yelp.it/biz/john-lennons-torino;22462;niente, eccezionale, niente eccezionale
+https://www.yelp.it/biz/john-lennons-torino;22463;personale, sempre, gentile, disponibile, personale sempre, sempre gentile, gentile disponibile
+https://www.yelp.it/biz/john-lennons-torino;22464;cameriere, essere, gentile, disponibile, cameriere essere, essere gentile, gentile disponibile
+https://www.yelp.it/biz/john-lennons-torino;22465;ottimo, posto, fare, chiacchiera, tranquillitá, vedere, partita, ottimo posto, posto fare, fare chiacchiera, chiacchiera tranquillitá, tranquillitá vedere, vedere partita
+https://www.yelp.it/biz/john-lennons-torino;22466;eccezionale, scoperta, eccezionale scoperta
+https://www.yelp.it/biz/john-lennons-torino;22467;essere, posto, giusto, essere posto, posto giusto

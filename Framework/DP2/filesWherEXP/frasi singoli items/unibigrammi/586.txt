@@ -1,0 +1,27 @@
+https://www.yelp.it/biz/beaubar-torino;21112;servizio, molto, veloce, servizio molto, molto veloce
+https://www.yelp.it/biz/beaubar-torino;21113;buon, appetito, buon appetito
+https://www.yelp.it/biz/beaubar-torino;21114;anche, patatina, essere, buono, anche patatina, patatina essere, essere buono
+https://www.yelp.it/biz/beaubar-torino;21115;valido, alternativa, solito, piadina, valido alternativa, alternativa solito, solito piadina
+https://www.yelp.it/biz/beaubar-torino;21116;ottimo, panino, piastra, ottimo panino, panino piastra
+https://www.yelp.it/biz/beaubar-torino;21117;bravo, ragazzo, continuare, così, bravo ragazzo, ragazzo continuare, continuare così
+https://www.yelp.it/biz/beaubar-torino;21118;personale, gentile, molto, pulito, personale gentile, gentile molto, molto pulito
+https://www.yelp.it/biz/beaubar-torino;21119;chianina, essere, fantastico, chianina essere, essere fantastico
+https://www.yelp.it/biz/beaubar-torino;21120;vino, birra, qualitá, buon, prezzo, vino birra, birra qualitá, qualitá buon, buon prezzo
+https://www.yelp.it/biz/beaubar-torino;21121;consigliabile, pranzo, rapido, economico, consigliabile pranzo, pranzo rapido, rapido economico
+https://www.yelp.it/biz/beaubar-torino;21122;molto, cordiale, gentile, simpatico, personale, molto cordiale, cordiale gentile, gentile simpatico, simpatico personale
+https://www.yelp.it/biz/beaubar-torino;21123;bello, location, buon, gusto, arredamento, bello location, location buon, buon gusto, gusto arredamento
+https://www.yelp.it/biz/beaubar-torino;21124;consigliare, pranzo, veloce, consigliare pranzo, pranzo veloce
+https://www.yelp.it/biz/beaubar-torino;21125;bello, ambiente, varietà, scelta, ottimo, rapporto, qualità/prezzo, panino, ottimo, personale, accogliente, bello ambiente, ambiente varietà, varietà scelta, scelta ottimo, ottimo rapporto, rapporto qualità/prezzo, qualità/prezzo panino, panino ottimo, ottimo personale, personale accogliente
+https://www.yelp.it/biz/beaubar-torino;21126;ottimo, scelta, ottimo scelta
+https://www.yelp.it/biz/beaubar-torino;21127;panino, manzo, chianino, buono, panino manzo, manzo chianino, chianino buono
+https://www.yelp.it/biz/beaubar-torino;21128;bar, proprio, fronte, ingresso, mole, quindi, perfetto, tenere, sottocchio, tempo, coda, rivelare, ottimo, scelta, bar proprio, proprio fronte, fronte ingresso, ingresso mole, mole quindi, quindi perfetto, perfetto tenere, tenere sottocchio, sottocchio tempo, tempo coda, coda rivelare, rivelare ottimo, ottimo scelta
+https://www.yelp.it/biz/beaubar-torino;21129;personale, gentile, posizione, ottimo, personale gentile, gentile posizione, posizione ottimo
+https://www.yelp.it/biz/beaubar-torino;21130;pranzo, sosta, veloce, essere, passaggio, giro, fare, turista, essere, ottimo, pranzo sosta, sosta veloce, veloce essere, essere passaggio, passaggio giro, giro fare, fare turista, turista essere, essere ottimo
+https://www.yelp.it/biz/beaubar-torino;21131;locale, verosimilmente, vivo, rendita, vedere, invidiabile, posizione, proprio, fronte, ingresso, locale verosimilmente, verosimilmente vivo, vivo rendita, rendita vedere, vedere invidiabile, invidiabile posizione, posizione proprio, proprio fronte, fronte ingresso
+https://www.yelp.it/biz/beaubar-torino;21132;perfetto, imponente, esistere, bello, bar, ristorante, perfetto imponente, imponente esistere, esistere bello, bello bar, bar ristorante
+https://www.yelp.it/biz/beaubar-torino;21133;menù, ricco, piatto, menù ricco, ricco piatto
+https://www.yelp.it/biz/beaubar-torino;21134;rapporto, qualità, prezzo, essere, davvero, ottimo, rapporto qualità, qualità prezzo, prezzo essere, essere davvero, davvero ottimo
+https://www.yelp.it/biz/beaubar-torino;21135;fare, veloce, pausa, pranzo, servizio, essere, rapido, molto, gentile, fare veloce, veloce pausa, pausa pranzo, pranzo servizio, servizio essere, essere rapido, rapido molto, molto gentile
+https://www.yelp.it/biz/beaubar-torino;21136;efficiente, gentile, efficiente gentile
+https://www.yelp.it/biz/beaubar-torino;21137;situare, bello, posto, situare bello, bello posto
+https://www.yelp.it/biz/beaubar-torino;21138;mitico, italiano, mitico italiano

@@ -1,0 +1,30 @@
+https://www.yelp.it/biz/prima-e-poi-torino;15766;bello, sorpresa, bello sorpresa
+https://www.yelp.it/biz/prima-e-poi-torino;15767;grazie, ragazzo, grazie ragazzo
+https://www.yelp.it/biz/prima-e-poi-torino;15768;pizza, buono, pizza buono
+https://www.yelp.it/biz/prima-e-poi-torino;15769;personale, arrivo, gentile, personale arrivo, arrivo gentile
+https://www.yelp.it/biz/prima-e-poi-torino;15770;servizio, eccellente, personale, eccellente, cortese, gentile, servizio eccellente, eccellente personale, personale eccellente, eccellente cortese, cortese gentile
+https://www.yelp.it/biz/prima-e-poi-torino;15771;pizza, buono, bordo, alto, spesso, cibo, altrettanto, apprezzabile, pizza buono, buono bordo, bordo alto, alto spesso, spesso cibo, cibo altrettanto, altrettanto apprezzabile
+https://www.yelp.it/biz/prima-e-poi-torino;15772;buono, pizza, anche, altro, piatto, buono pizza, pizza anche, anche altro, altro piatto
+https://www.yelp.it/biz/prima-e-poi-torino;15773;pizza, poi, essere, vero, buono, essere, leggero, pizza poi, poi essere, essere vero, vero buono, buono essere, essere leggero
+https://www.yelp.it/biz/prima-e-poi-torino;15774;abbastanza, economico, abbastanza economico
+https://www.yelp.it/biz/prima-e-poi-torino;15775;compenso, cozza, essere, spettacolare, compenso cozza, cozza essere, essere spettacolare
+https://www.yelp.it/biz/prima-e-poi-torino;15776;buono, scelta, buono scelta
+https://www.yelp.it/biz/prima-e-poi-torino;15777;prezzo, pò, caro, buono, prezzo pò, pò caro, caro buono
+https://www.yelp.it/biz/prima-e-poi-torino;15778;complimentare, gentile, titolare, consigliatissimo, complimentare gentile, gentile titolare, titolare consigliatissimo
+https://www.yelp.it/biz/prima-e-poi-torino;15779;personale, gentile, simpatico, personale gentile, gentile simpatico
+https://www.yelp.it/biz/prima-e-poi-torino;15780;sembrare, vero, ottimo, affare, sembrare vero, vero ottimo, ottimo affare
+https://www.yelp.it/biz/prima-e-poi-torino;15781;contento, metà, contento metà
+https://www.yelp.it/biz/prima-e-poi-torino;15782;locale, molto, gettonare, locale molto, molto gettonare
+https://www.yelp.it/biz/prima-e-poi-torino;15783;complimentare, cuoco, complimentare cuoco
+https://www.yelp.it/biz/prima-e-poi-torino;15784;complimentare, cambiare, complimentare cambiare
+https://www.yelp.it/biz/prima-e-poi-torino;15785;ottimo, pizza, dolce, ottimo pizza, pizza dolce
+https://www.yelp.it/biz/prima-e-poi-torino;15786;personale, gentile, personale gentile
+https://www.yelp.it/biz/prima-e-poi-torino;15787;pizza, essere, buono, pizza essere, essere buono
+https://www.yelp.it/biz/prima-e-poi-torino;15788;impasto, lievitare, bene, impasto lievitare, lievitare bene
+https://www.yelp.it/biz/prima-e-poi-torino;15789;davvero, ottimo, davvero ottimo
+https://www.yelp.it/biz/prima-e-poi-torino;15790;personale, cordiale, simpatico, personale cordiale, cordiale simpatico
+https://www.yelp.it/biz/prima-e-poi-torino;15791;ottimo, rapporto, ottimo rapporto
+https://www.yelp.it/biz/prima-e-poi-torino;15792;personale, simpatico, disponibile, attento, personale simpatico, simpatico disponibile, disponibile attento
+https://www.yelp.it/biz/prima-e-poi-torino;15793;pizza, buono, pizza buono
+https://www.yelp.it/biz/prima-e-poi-torino;15794;molto, buono, molto buono
+https://www.yelp.it/biz/prima-e-poi-torino;15795;accoglienza, personale, essere, ottimo, accoglienza personale, personale essere, essere ottimo

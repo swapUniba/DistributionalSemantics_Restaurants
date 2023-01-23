@@ -1,0 +1,205 @@
+https://www.yelp.it/biz/taiki-bari;1;fantasticamente, buono, innovativo, cucina, molto, particolare, sapore, deciso
+https://www.yelp.it/biz/taiki-bari;2;idem, servizio, impeccabile
+https://www.yelp.it/biz/taiki-bari;3;carta, vino, essere, sempre, impeccabile, così, servizio
+https://www.yelp.it/biz/taiki-bari;4;sushi, sashimi, vero, buono, ben, presentare
+https://www.yelp.it/biz/taiki-bari;5;ottimo, rapporto, qualità, prezzo
+https://www.yelp.it/biz/taiki-bari;6;servizio, locale, essere, pieno, cortese, attesa, giusto
+https://www.yelp.it/biz/taiki-bari;7;finire, cioccosushi, dolce, ottimo
+https://www.yelp.it/biz/taiki-bari;8;sapore, piatto, essere, addirittura, migliore, aspetto, dolce, davvero, ottimo
+https://www.yelp.it/biz/taiki-bari;10;rispecchiare, assoluto, standard, poco, veritiero
+https://www.yelp.it/biz/taiki-bari;11;sempre, soddisfare
+https://www.yelp.it/biz/taiki-bari;12;settimana, servizio, veloce, qualità, eccellente
+https://www.yelp.it/biz/taiki-bari;13;ottimo, rapporto, qualità, prezzo, bello, location, personale, gentile
+https://www.yelp.it/biz/taiki-bari;14;piatto, essere, buono, dolce, parte, spesa, valere, impresa
+https://www.yelp.it/biz/taiki-bari;15;soddisfacente, anche, dolce
+https://www.yelp.it/biz/taiki-bari;16;tornare, taiki, altro, sera, cena, piacere, amico
+https://www.yelp.it/biz/taiki-bari;17;essere, serata, fantastico, insegna, ottimo, cibo, buon, vino, dolce, superlativo
+https://www.yelp.it/biz/taiki-bari;18;qualità, prodotto, cibo, sofisticato, rendere, davvero, speciale, cena
+https://www.yelp.it/biz/taiki-bari;19;grazie, taiki
+https://www.yelp.it/biz/taiki-bari;20;deciso, caro, qualità
+https://www.yelp.it/biz/taiki-bari;21;impeccabile, servizio, carta, vino, qualità, prodotto
+https://www.yelp.it/biz/taiki-bari;22;speciale, essere, davvero, gustoso, sapore, ricco, raffinare
+https://www.yelp.it/biz/taiki-bari;23;posto, essere, certezza
+https://www.yelp.it/biz/taiki-bari;24;qualità, pesce, eccezionale, personale, alto, qualificato
+https://www.yelp.it/biz/taiki-bari;26;sempre, molto, gentile, competente
+https://www.yelp.it/biz/taiki-bari;27;cena, entusiasmante, buono
+https://www.yelp.it/biz/taiki-bari;28;grazie, splendido, serata, bello, figura
+https://www.yelp.it/biz/taiki-bari;29;qualità, ingrediente, sempre, top, abbinamento, originale, salsa, delizioso, ottimo, proposta, presentare, sempre, maniera, impeccabile
+https://www.yelp.it/biz/taiki-bari;30;servizio, essere, eccezionale, personale, sempre, molto, attento, rapido, preparare
+https://www.yelp.it/biz/taiki-bari;31;rendere, cena, impeccabile
+https://www.yelp.it/biz/taiki-bari;32;deciso, ottimo, migliore, assoluto
+https://www.yelp.it/biz/taiki-bari;33;cibo, qualità, super
+https://www.yelp.it/biz/taiki-bari;34;qualità, professionalità, cortesia, essere, valore, ristorante
+https://www.yelp.it/biz/taiki-bari;35;persino, dolce, essere, ottimo
+https://www.yelp.it/biz/taiki-bari;36;personale, molto, cortese, professionale
+https://www.yelp.it/biz/taiki-bari;37;solo, bello, anche, molto, gustoso
+https://www.yelp.it/biz/taiki-bari;38;personale, gentile, servizio, veloce
+https://www.yelp.it/biz/taiki-bari;39;qualitativo, migliore
+https://www.yelp.it/biz/taiki-bari;40;cibo, strepitoso, accurato, presentare
+https://www.yelp.it/biz/taiki-bari;41;terminare, cena, pensare, già, prossimo, acquolina, bocca
+https://www.yelp.it/biz/taiki-bari;42;estasi, palato
+https://www.yelp.it/biz/taiki-bari;44;materia, primo, ottimo, qualità, consentire, locale, distinguere, massa
+https://www.yelp.it/biz/taiki-bari;45;consiglio, lasciare, posticino, libero, dolce, essere, più, buono, mai, assaggiare
+https://www.yelp.it/biz/taiki-bari;46;proposta, sushi, limitato, poco, soddisfacente
+https://www.yelp.it/biz/taiki-bari;47;ristorante, sushi, can, qualità, pesce, essere, buono, alga, essere, pò, duro, gommoso, avere, vasto, carta, vino, dolce, essere, eccellente
+https://www.yelp.it/biz/taiki-bari;48;buon, giapponese
+https://www.yelp.it/biz/taiki-bari;49;cameriere, organizzatore, buon, livello
+https://www.yelp.it/biz/taiki-bari;50;fantastico, location, prezzo, giusto, personale, gentile, servizio, veloce
+https://www.yelp.it/biz/taiki-bari;51;complimento, riguardare, solo, food, essere, eccellente, fare, materia, primo, ottimo, prim', ordine, proprietario, organizzazione
+https://www.yelp.it/biz/taiki-bari;52;locale, estetico, bello, luminoso, pulito, essenziale
+https://www.yelp.it/biz/taiki-bari;53;posizione, qui, salire, grazie, giudizio, cliente, vero
+https://www.yelp.it/biz/taiki-bari;54;avere, esperienza, can
+https://www.yelp.it/biz/taiki-bari;55;ottimo, qualità, personale, impeccabile, qualificare, location, accogliere, preparazione, sushi, goduriosa, vista, palato
+https://www.yelp.it/biz/taiki-bari;56;locale, bello, personale, gentile, cibo, ottimo, qualità, tonno, essere, gradimento, capitare, essere, top
+https://www.yelp.it/biz/taiki-bari;57;professionalità, qualità, cortesia, essere, elemento, caratterizzare
+https://www.yelp.it/biz/taiki-bari;58;qualità, pesce, ottimo
+https://www.yelp.it/biz/taiki-bari;59;cibo, buono, qualità
+https://www.yelp.it/biz/taiki-bari;60;location, interno, avere, bello, atmosfera, fuori, lasciare, pò, desiderare
+https://www.yelp.it/biz/taiki-bari;62;molto, buono, così, dolce
+https://www.yelp.it/biz/taiki-bari;63;molto, carino
+https://www.yelp.it/biz/taiki-bari;64;ambiente, accogliente, fine, personale, gentile, disponibile
+https://www.yelp.it/biz/taiki-bari;65;qualità, essere, indiscusso
+https://www.yelp.it/biz/taiki-bari;66;piatto, particolare, variegato
+https://www.yelp.it/biz/taiki-bari;67;tipologia, standard, prezzo, essere, ottimo
+https://www.yelp.it/biz/taiki-bari;68;posto, molto, accogliente, pulito, cucina, vista, sale
+https://www.yelp.it/biz/taiki-bari;70;qualità, netto, superiore, preparare, classe, godere, fondo
+https://www.yelp.it/biz/taiki-bari;71;dolce, preparato, essere, molto, buono
+https://www.yelp.it/biz/taiki-bari;72;curare, dettaglio, personale, gentile
+https://www.yelp.it/biz/taiki-bari;73;davvero, posto, provare, mettere, preferito
+https://www.yelp.it/biz/taiki-bari;74;mangiare, giusto, bene, pagare, giusto
+https://www.yelp.it/biz/taiki-bari;75;sushi, ottimo, qualità, personale, cortese, ottimo, dolce
+https://www.yelp.it/biz/taiki-bari;76;piatto, esempio, essere, molto, delicato
+https://www.yelp.it/biz/taiki-bari;77;buono, vasto, scelta, cibo, qualità, bontà, personale, gentile, qualificare
+https://www.yelp.it/biz/taiki-bari;78;davvero, complimento
+https://www.yelp.it/biz/taiki-bari;79;qualità, pesce, indiscutibile
+https://www.yelp.it/biz/taiki-bari;80;personale, sempre, molto, gentile, disponibile, pronto, soddisfare, cliente, meglio
+https://www.yelp.it/biz/taiki-bari;81;bello, location, stesso, edificio, sheraton
+https://www.yelp.it/biz/taiki-bari;82;ottimo, scelta, qualità, integrazione, già, vario, menu, ulteriore, portare, giorno
+https://www.yelp.it/biz/taiki-bari;83;cibo, curare, minimo, dettaglio, pesce, fresco, ricetta, ricercare, gusto, squisito
+https://www.yelp.it/biz/taiki-bari;84;là, locale, curato, pulito, servizio, essere, perfetto, discreto, veloce
+https://www.yelp.it/biz/taiki-bari;85;qualità, pesce, essere, davvero, eccellente, tonno, salmone, soprattutto, grasso, freschissimi, nigiri, perfetto, rapporto, riso/pesce
+https://www.yelp.it/biz/taiki-bari;86;prezzo, norma, buon, giapponese, avere, niente, vedere, fusion, eccelso, avere, sicuro, prezzo, portare, molto
+https://www.yelp.it/biz/taiki-bari;87;essere, é, provare, assoluto
+https://www.yelp.it/biz/taiki-bari;88;rapporto, qualità, prezzo, ottimo
+https://www.yelp.it/biz/taiki-bari;89;ambiente, piacevole, ideale, cena, lavoro
+https://www.yelp.it/biz/taiki-bari;90;ottimo, ristorante, giapponese, bello, quartiere, mangiare, carta, vero, bene
+https://www.yelp.it/biz/taiki-bari;91;qualità, sempre, ottimo, dire
+https://www.yelp.it/biz/taiki-bari;92;consiglio, passare, ottimo, serata, compagnia
+https://www.yelp.it/biz/taiki-bari;93;fantastico, struttura, favoloso, prezzo, pò, alto, cameriere, vero, bravo, inoltre, essere, cucina, vista, ristorante, tocco, classe
+https://www.yelp.it/biz/taiki-bari;94;sempre, gran, qualità, portata, ottimo, location, vastità, scelta, domicilio, sorpresa
+https://www.yelp.it/biz/taiki-bari;96;certezza, bravo
+https://www.yelp.it/biz/taiki-bari;97;semplicemente, delizioso
+https://www.yelp.it/biz/taiki-bari;98;posto, raffinato, personale, gentile, preparare
+https://www.yelp.it/biz/taiki-bari;99;rapporto, qualità/prezzo, giusto
+https://www.yelp.it/biz/taiki-bari;100;bello, locale, ubicare, piano, terra, arredare, cura, personale, gentile, professionale, portato, presentare, modo, impeccabile, carta, vino, discreto
+https://www.yelp.it/biz/taiki-bari;101;consiglio, paraggio
+https://www.yelp.it/biz/taiki-bari;102;servizio, sempre, impeccabile, gentile, venire, volta
+https://www.yelp.it/biz/taiki-bari;103;davvero, accogliente, professionale
+https://www.yelp.it/biz/taiki-bari;104;cibo, essere, ottimo, luogo, deliziare, palato
+https://www.yelp.it/biz/taiki-bari;105;molto, buono, anche, dolce
+https://www.yelp.it/biz/taiki-bari;106;avere, ristorante, capire, sorriso, bene
+https://www.yelp.it/biz/taiki-bari;107;cibo, essere, ottimo
+https://www.yelp.it/biz/taiki-bari;108;continuare, così
+https://www.yelp.it/biz/taiki-bari;109;novità, davvero, interessante, essere, introduzione, vero, espressione, inventiva, capacità, abbinare, ingrediente, sempre, alto, qualità
+https://www.yelp.it/biz/taiki-bari;110;vino, esclusivo, dolce, ottimo, come, esempio, delizioso, cola, croumble, essere, corredo, esperienza, culinario, unico, indimenticabile
+https://www.yelp.it/biz/taiki-bari;111;ottimo, rolls, variegato, gustoso, tempura, gambero, mandorla, mix, azzeccatissimo, accompagnare, ottimo, vino, bianco
+https://www.yelp.it/biz/taiki-bari;112;locale, accogliente, arredare, gusto
+https://www.yelp.it/biz/taiki-bari;113;costo, rispecchiare, qualità, deciso, sopra, aspettativa
+https://www.yelp.it/biz/taiki-bari;114;esordio, oggi, ristorante, smettere, stupire, elevato, qualità, pietanza, grande, professionalità, titolare, sempre, attento, disponibile, soddisfazione, cliente, personale, preparato, cortese, presentazione, piatto, piacere, vista, successivo, gusto, ambiente, caldo, accogliente, raffinare
+https://www.yelp.it/biz/taiki-bari;115;nascere, minuscolo, avere, convertire, piccolo, ristorante, giapponese, arredo, qualità, atmosfera, servizio, rispetto
+https://www.yelp.it/biz/taiki-bari;116;prezzo, adeguato, locale, molto, bello
+https://www.yelp.it/biz/taiki-bari;117;giusto, mix, qualità, cortesia, ambiente, gradevole
+https://www.yelp.it/biz/taiki-bari;118;ottimo, cena, tranquillo
+https://www.yelp.it/biz/taiki-bari;119;locale, essere, molto, carino, accogliente, personale, perfetto, grande, chiarezza, menù, ampio, possibilità, scelta
+https://www.yelp.it/biz/taiki-bari;120;ottimo, livello, rolls, variegato, gusto, originale, pesce, fresco
+https://www.yelp.it/biz/taiki-bari;121;anche, ramen, essere, piuttosto, gustoso, buono, anche, dolce
+https://www.yelp.it/biz/taiki-bari;122;molto, buono, qualità, piatto, offrire
+https://www.yelp.it/biz/taiki-bari;123;servizio, ben, organizzato, veloce, gentile
+https://www.yelp.it/biz/taiki-bari;124;ambiente, curato, ospitale, personale, servizio, capace, competente, molto, cortese
+https://www.yelp.it/biz/taiki-bari;125;qualità, pesce, essere, indiscutibile, anzi, eccellente, riguardare, branzino, gambero, tonno
+https://www.yelp.it/biz/taiki-bari;126;pesce, fresco, ottimo, qualità
+https://www.yelp.it/biz/taiki-bari;127;personale, cordiale, molto, disponibile
+https://www.yelp.it/biz/taiki-bari;128;personale, molto, cordiale, professionale, buono, qualità, cucina, caratterizzare, varietà, molto, ampio, vista, jap, zona
+https://www.yelp.it/biz/taiki-bari;129;cameriere, essere, sempre, gentile, affabile, gestore, anche
+https://www.yelp.it/biz/taiki-bari;130;interno, locale, molto, carino, spazioso, anche, essere, gente, sentire, opprimere
+https://www.yelp.it/biz/taiki-bari;131;anche, essere, obiettivo, ristorante, sushi, top, class, meritare, stella, essere, bello, posto, mangiare, trascorrere, serata, compagnia, tranquillo, semplice, accogliente
+https://www.yelp.it/biz/taiki-bari;132;curare, minimo, dettaglio, intimo, ambiente, molto, pulito, personale, sala, gentile, proprietario, accogliere, sempre, sorriso, avere, particolare, cura, cliente, parlare, sushi
+https://www.yelp.it/biz/taiki-bari;133;materia, primo, essere, alto, qualità, ben, lontano, politica, fortuna
+https://www.yelp.it/biz/taiki-bari;134;ottimo, cena, sempre
+https://www.yelp.it/biz/taiki-bari;135;sapore, eccezionale, tonno, sembrare, vivo, colore, sapore, ottimo, consistenza
+https://www.yelp.it/biz/taiki-bari;136;buono, sashimi, ottimo
+https://www.yelp.it/biz/taiki-bari;137;personale, cortese, veloce, cibo
+https://www.yelp.it/biz/taiki-bari;138;ottimo, prezzo, ragionevole
+https://www.yelp.it/biz/taiki-bari;139;ottimo, ristorante, servizio, rapido, gentilezza, prodotto, freschissimi, gusto, eccezionale
+https://www.yelp.it/biz/taiki-bari;140;ambiente, cariare, molto, pulito, personale, cordiale, professionale, sushi, molto, buono, buono, scelta, eccepire
+https://www.yelp.it/biz/taiki-bari;141;locale, figo, chic, spazioso, accogliere, grazie, anche, competenza, proprietario, personale
+https://www.yelp.it/biz/taiki-bari;142;arredamento, elegante, personale, gentile, interessante, proposta
+https://www.yelp.it/biz/taiki-bari;143;ristorante, meritare, ottimo, compromesso, prezzo, qualità
+https://www.yelp.it/biz/taiki-bari;144;esperienza, gustativo, servizio, essere, vero, eccellente
+https://www.yelp.it/biz/taiki-bari;145;personale, molto, cortese, disponibile
+https://www.yelp.it/biz/taiki-bari;146;anche, dolce, essere, ottimo, fattura
+https://www.yelp.it/biz/taiki-bari;148;nighiri, molto, buono, sapore, fresco, curare, dettaglio
+https://www.yelp.it/biz/taiki-bari;149;personale, gentile
+https://www.yelp.it/biz/taiki-bari;150;serata, carino
+https://www.yelp.it/biz/taiki-bari;151;grazie, presto
+https://www.yelp.it/biz/taiki-bari;152;sopratutto, uscire, pieno, soddisfare, portafoglio, ancora, pieno
+https://www.yelp.it/biz/taiki-bari;153;personale, gentile, sorridente, veloce
+https://www.yelp.it/biz/taiki-bari;154;solo, dolce, finale, troppo, ghiacciato, cheesecake, avere, cheesecake
+https://www.yelp.it/biz/taiki-bari;155;sala, elegante, personale, gentile, sopratutto, ottimo, qualità, materia, prima, prezzo, modesto
+https://www.yelp.it/biz/taiki-bari;156;resto, staff, molto, attento, gentile
+https://www.yelp.it/biz/taiki-bari;157;ristorare, molto, cariare, elegante, personale, gentile, disponibile
+https://www.yelp.it/biz/taiki-bari;158;accompagnare, cortesia, atmosfera, davvero, unico
+https://www.yelp.it/biz/taiki-bari;159;complimentare, ragazzo, continuare, coso, avere, invidiare
+https://www.yelp.it/biz/taiki-bari;160;qualità, davvero, ottimo
+https://www.yelp.it/biz/taiki-bari;161;pesce, sempre, freschissimo, conto, adeguato
+https://www.yelp.it/biz/taiki-bari;162;tornare, qui, appuntamento, romantico, poco, tempo, fa
+https://www.yelp.it/biz/taiki-bari;163;assoluto, ottimo
+https://www.yelp.it/biz/taiki-bari;166;buono, essere, semifreddo, cioccolato, cocco, pistacchio
+https://www.yelp.it/biz/taiki-bari;167;esperienza, veloce, away, soluzione, già, pronto, portare, via, preparare
+https://www.yelp.it/biz/taiki-bari;168;velleità, momento, soddisfare, pieno
+https://www.yelp.it/biz/taiki-bari;169;cucina, giapponese, più, caro, rispetto, locale, improvvisata
+https://www.yelp.it/biz/taiki-bari;170;cibo, buono, fresco, media
+https://www.yelp.it/biz/taiki-bari;171;roll, bello, ristorante, giapponese, essere, vero, buono, qualità, materia, prima, servizio, essere, veloce, affluenza, personale, gentile
+https://www.yelp.it/biz/taiki-bari;172;essere, piacere, tornare, considerare, trattamento, riservare, cliente
+https://www.yelp.it/biz/taiki-bari;173;menù, essere, perfetto, connubio, creatività, tradizione, unire, sapore, occhiata, piuttosto, diverso, maniera, eccellente
+https://www.yelp.it/biz/taiki-bari;174;diventare, ufficialmente, ristorante, sushi, preferito
+https://www.yelp.it/biz/taiki-bari;175;ottimo, locale, ottimo, cucina, ricetta, molto, variegato, scontato, servizio, veloce, attento, cordiale
+https://www.yelp.it/biz/taiki-bari;176;anche, dolce, essere, eccezionale, cheesecake, torta, riso, soffiare, essere, divino
+https://www.yelp.it/biz/taiki-bari;177;locale, ampio, piacevole, vista, donare, relax, accoglienza
+https://www.yelp.it/biz/taiki-bari;178;servizio, impeccabile, professionale
+https://www.yelp.it/biz/taiki-bari;179;ricco, scelta, vino, birra
+https://www.yelp.it/biz/taiki-bari;180;continuare, così, unico, piccolo, sbavatura, buono, eccelso
+https://www.yelp.it/biz/taiki-bari;181;mancare, poco, eccellenza, assoluto
+https://www.yelp.it/biz/taiki-bari;182;sabato, sera, essere, serata, spettacolare, location, tranquillo, proprietario, cortese, personale, altezza, situazione
+https://www.yelp.it/biz/taiki-bari;184;posto, confortevole, ottimo, cibo, solo, piccolo, raccomandazione
+https://www.yelp.it/biz/taiki-bari;185;rispetto, cucina, tradizionale, giapponese, qui, cucina, essere, capolavoro
+https://www.yelp.it/biz/taiki-bari;186;cibo, ottimo, qualità, pesce, sempre, fresco, servizio, impeccabile
+https://www.yelp.it/biz/taiki-bari;187;locale, minimale, stile, giapponese, molto, tranquillo
+https://www.yelp.it/biz/taiki-bari;188;cibo, ottimo, varietà, scelta
+https://www.yelp.it/biz/taiki-bari;189;ragazzo, essere, pieno, ottimo, volontà, chiaro, soddisfare, pieno, anche, cortesia, rapidità
+https://www.yelp.it/biz/taiki-bari;190;personale, gentile, attento, cliente
+https://www.yelp.it/biz/taiki-bari;191;pesce, sempre, fresco, grande, varietà, sushi
+https://www.yelp.it/biz/taiki-bari;192;amare, piatto, mare, essere, possibilità, mangiare, sempre, ottimo
+https://www.yelp.it/biz/taiki-bari;193;vasto, scelta, freschissimo, servire, grande, gusto, estetico, presentazione
+https://www.yelp.it/biz/taiki-bari;194;serata, ingrediente, essere, perfetto, quindi, capire, essere, dietro, ottimo, organizzazione
+https://www.yelp.it/biz/taiki-bari;195;consigliare, coppia, famiglia
+https://www.yelp.it/biz/taiki-bari;196;migliore, bario
+https://www.yelp.it/biz/taiki-bari;197;pranzo, davvero, eccezionale
+https://www.yelp.it/biz/taiki-bari;198;ormai, anno, essere, cliente, affezionato
+https://www.yelp.it/biz/taiki-bari;199;locale, essere, estremo, gentile, professionale, simpatico
+https://www.yelp.it/biz/taiki-bari;200;servizio, domicilio, sempre, puntuale, impeccabile
+https://www.yelp.it/biz/taiki-bari;201;essere, squisito, preparare, modo, eccellente, ottimo, riso, insalata, mare, essere, buono, abbondante
+https://www.yelp.it/biz/taiki-bari;202;favoloso, dolce, possibilità, vasto, scelta
+https://www.yelp.it/biz/taiki-bari;203;prezzo, assoluto, media, servizio, molto, attento, impeccabile
+https://www.yelp.it/biz/taiki-bari;204;esperienza, locale, essere, davvero, gratificare
+https://www.yelp.it/biz/taiki-bari;205;assoluto, impeccabile, impeccabile, ridere, grande, qualità, così, condimento, pesce, molto, fresco, esaltare, salsa, squisito
+https://www.yelp.it/biz/taiki-bari;206;locale, raffinato, ben, curare, personale, gentile, preparare, cibo, ricercato, qualità, essere, punto, forza
+https://www.yelp.it/biz/taiki-bari;207;bello, location, alto, qualità, personale, competente, formare, formula, vincente, ristorante
+https://www.yelp.it/biz/taiki-bari;208;sushi, essere, eccellente, piatto, salmone, chokosushi
+https://www.yelp.it/biz/taiki-bari;209;location, essere, molto, bello, sfarzoso, ristorante, situare, miglior, quartiere, vicino, attrazione
+https://www.yelp.it/biz/taiki-bari;210;qualità, materia, prima, essere, eccelso, variante, essere, essere, giusto, essere, alga, utilizzare, essere, davvero, ottimo
+https://www.yelp.it/biz/taiki-bari;211;prezzo, essere, davvero, giusto, tenere, conto, qualità, prodotto
+https://www.yelp.it/biz/taiki-bari;212;amare, qualità, cibo, giapponese, assaggiare, volta
+https://www.yelp.it/biz/taiki-bari;213;davvero, ottimo, rapporto, qualità, prezzo, personale, gentile, bello, anche, location
+https://www.yelp.it/biz/taiki-bari;214;qualità, pulizia, gentilezza, eleganza, soprattutto, bontà, pietanza
+https://www.yelp.it/biz/taiki-bari;215;risultato, attenzione, essere, ottimo, sushi, davvero, ammirevole

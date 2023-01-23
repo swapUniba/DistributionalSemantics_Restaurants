@@ -1,0 +1,27 @@
+https://www.yelp.it/biz/rizzelli-torino;7782;ancora, complimento, ancora complimento
+https://www.yelp.it/biz/rizzelli-torino;7783;davvero, bravo, davvero bravo
+https://www.yelp.it/biz/rizzelli-torino;7784;locale, piccolo, molto, accogliente, locale piccolo, piccolo molto, molto accogliente
+https://www.yelp.it/biz/rizzelli-torino;7785;pasta, fresco, intendere, base, molto, molto, buono, pasta fresco, fresco intendere, intendere base, base molto, molto molto, molto buono
+https://www.yelp.it/biz/rizzelli-torino;7786;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/rizzelli-torino;7787;cucina, spettacolare, complimento, cuoco, cucina spettacolare, spettacolare complimento, complimento cuoco
+https://www.yelp.it/biz/rizzelli-torino;7788;davvero, complimentare, davvero complimentare
+https://www.yelp.it/biz/rizzelli-torino;7789;bravo, bravo, bravo, bravo bravo, bravo bravo
+https://www.yelp.it/biz/rizzelli-torino;7790;buon, rapporto, qualità, prezzo, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/rizzelli-torino;7791;ottimo, posto, ottimo posto
+https://www.yelp.it/biz/rizzelli-torino;7792;locale, piccolo, molto, accogliente, personale, cordiale, preparare, locale piccolo, piccolo molto, molto accogliente, accogliente personale, personale cordiale, cordiale preparare
+https://www.yelp.it/biz/rizzelli-torino;7793;bello, cena, grazie, bello cena, cena grazie
+https://www.yelp.it/biz/rizzelli-torino;7794;pasta, essere, ottimo, pasta essere, essere ottimo
+https://www.yelp.it/biz/rizzelli-torino;7795;ottimo, pausa, pranzo, volo, ottimo pausa, pausa pranzo, pranzo volo
+https://www.yelp.it/biz/rizzelli-torino;7796;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/rizzelli-torino;7797;pasta, fresco, usato, essere, ottimo, pasta fresco, fresco usato, usato essere, essere ottimo
+https://www.yelp.it/biz/rizzelli-torino;7798;fornello, vero, fornello vero
+https://www.yelp.it/biz/rizzelli-torino;7799;pasta, essere, molto, buono, pasta essere, essere molto, molto buono
+https://www.yelp.it/biz/rizzelli-torino;7800;interessante, assistere, preparazione, piatto, essere, davvero, fenomenale, interessante assistere, assistere preparazione, preparazione piatto, piatto essere, essere davvero, davvero fenomenale
+https://www.yelp.it/biz/rizzelli-torino;7801;unire, eccellenza, fast, unire eccellenza, eccellenza fast
+https://www.yelp.it/biz/rizzelli-torino;7802;stupito, qualità, alto, preparazione, pasta, fresco, stupito qualità, qualità alto, alto preparazione, preparazione pasta, pasta fresco
+https://www.yelp.it/biz/rizzelli-torino;7803;vino, birra, grande, qualità, vino birra, birra grande, grande qualità
+https://www.yelp.it/biz/rizzelli-torino;7804;dolce, buono, birra, anche, dolce buono, buono birra, birra anche
+https://www.yelp.it/biz/rizzelli-torino;7805;essere, gentile, essere gentile
+https://www.yelp.it/biz/rizzelli-torino;7806;sorriso, cortesia, professionalità, sorriso cortesia, cortesia professionalità
+https://www.yelp.it/biz/rizzelli-torino;7807;dire, poco, fantastico, dire poco, poco fantastico
+https://www.yelp.it/biz/rizzelli-torino;7808;chiudere, bottiglietta, acqua, frizzante, chiudere bottiglietta, bottiglietta acqua, acqua frizzante

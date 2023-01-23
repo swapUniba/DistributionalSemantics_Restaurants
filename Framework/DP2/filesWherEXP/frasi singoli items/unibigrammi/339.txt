@@ -1,0 +1,46 @@
+https://www.yelp.it/biz/trattoria-torricelli-torino;13444;carta, vino, discreto, spaziare, vario, regione, carta vino, vino discreto, discreto spaziare, spaziare vario, vario regione
+https://www.yelp.it/biz/trattoria-torricelli-torino;13445;servizio, essere, attento, molto, cortese, servizio essere, essere attento, attento molto, molto cortese
+https://www.yelp.it/biz/trattoria-torricelli-torino;13446;dolce, così, così, dolce così, così così
+https://www.yelp.it/biz/trattoria-torricelli-torino;13447;buon, anno, buon anno
+https://www.yelp.it/biz/trattoria-torricelli-torino;13448;personale, molto, cortese, personale molto, molto cortese
+https://www.yelp.it/biz/trattoria-torricelli-torino;13449;antipasto, molto, buono, anche, antipasto molto, molto buono, buono anche
+https://www.yelp.it/biz/trattoria-torricelli-torino;13450;servizio, eccelso, servizio eccelso
+https://www.yelp.it/biz/trattoria-torricelli-torino;13451;servizio, ben, curare, ambiente, pò, classico, apprezzabile, servizio ben, ben curare, curare ambiente, ambiente pò, pò classico, classico apprezzabile
+https://www.yelp.it/biz/trattoria-torricelli-torino;13452;ottimo, trattoria, ottimo trattoria
+https://www.yelp.it/biz/trattoria-torricelli-torino;13453;personale, molto, cordiale, personale molto, molto cordiale
+https://www.yelp.it/biz/trattoria-torricelli-torino;13454;essere, bravo, essere bravo
+https://www.yelp.it/biz/trattoria-torricelli-torino;13455;scelta, vino, buono, scelta vino, vino buono
+https://www.yelp.it/biz/trattoria-torricelli-torino;13456;locale, essere, sobrio, elegante, locale essere, essere sobrio, sobrio elegante
+https://www.yelp.it/biz/trattoria-torricelli-torino;13457;davvero, molto, molto, buono, davvero molto, molto molto, molto buono
+https://www.yelp.it/biz/trattoria-torricelli-torino;13458;ottimo, ristorazione, ambiente, sufficientemente, raffinato, ottimo ristorazione, ristorazione ambiente, ambiente sufficientemente, sufficientemente raffinato
+https://www.yelp.it/biz/trattoria-torricelli-torino;13459;location, essere, carino, rinfrescare, rendere, ottimale, location essere, essere carino, carino rinfrescare, rinfrescare rendere, rendere ottimale
+https://www.yelp.it/biz/trattoria-torricelli-torino;13460;locale, carino, corpo, locale carino, carino corpo
+https://www.yelp.it/biz/trattoria-torricelli-torino;13461;anche, carne, qualità, essere, ottimo, anche carne, carne qualità, qualità essere, essere ottimo
+https://www.yelp.it/biz/trattoria-torricelli-torino;13462;grazie, cosa, bello, sempre, grazie cosa, cosa bello, bello sempre
+https://www.yelp.it/biz/trattoria-torricelli-torino;13463;cibo, alto, qualità, personale, gentile, cibo alto, alto qualità, qualità personale, personale gentile
+https://www.yelp.it/biz/trattoria-torricelli-torino;13464;servizio, professionale, cordiale, servizio professionale, professionale cordiale
+https://www.yelp.it/biz/trattoria-torricelli-torino;13465;piatto, abbondante, antipasto, dolce, piatto abbondante, abbondante antipasto, antipasto dolce
+https://www.yelp.it/biz/trattoria-torricelli-torino;13466;molto, buono, molto buono
+https://www.yelp.it/biz/trattoria-torricelli-torino;13467;personale, gentile, personale gentile
+https://www.yelp.it/biz/trattoria-torricelli-torino;13468;carta, vino, ricco, assortito, carta vino, vino ricco, ricco assortito
+https://www.yelp.it/biz/trattoria-torricelli-torino;13469;complimentare, gestione, complimentare gestione
+https://www.yelp.it/biz/trattoria-torricelli-torino;13470;buono, vero, antipasto, dolce, buono vero, vero antipasto, antipasto dolce
+https://www.yelp.it/biz/trattoria-torricelli-torino;13471;ottimo, soluzione, ottimo soluzione
+https://www.yelp.it/biz/trattoria-torricelli-torino;13472;davvero, fantastico, davvero fantastico
+https://www.yelp.it/biz/trattoria-torricelli-torino;13473;cucina, ottimo, tratto, raffinare, cucina ottimo, ottimo tratto, tratto raffinare
+https://www.yelp.it/biz/trattoria-torricelli-torino;13474;godurioso, bello, godurioso bello
+https://www.yelp.it/biz/trattoria-torricelli-torino;13475;bello, posto, cibo, ottimo, bello posto, posto cibo, cibo ottimo
+https://www.yelp.it/biz/trattoria-torricelli-torino;13476;locale, essere, molto, carino, situare, via, tranquillo, lontano, traffico, seppur, centro, zona, vicino, politecnico, locale essere, essere molto, molto carino, carino situare, situare via, via tranquillo, tranquillo lontano, lontano traffico, traffico seppur, seppur centro, centro zona, zona vicino, vicino politecnico
+https://www.yelp.it/biz/trattoria-torricelli-torino;13477;sempre, ottimo, qualità, sempre ottimo, ottimo qualità
+https://www.yelp.it/biz/trattoria-torricelli-torino;13478;servizio, simpatico, ottimo, servizio simpatico, simpatico ottimo
+https://www.yelp.it/biz/trattoria-torricelli-torino;13479;ottimo, anche, ottimo anche
+https://www.yelp.it/biz/trattoria-torricelli-torino;13480;ottimo, pesce, fresco, cucinare, egregiamente, ottimo pesce, pesce fresco, fresco cucinare, cucinare egregiamente
+https://www.yelp.it/biz/trattoria-torricelli-torino;13481;lavorare, fare, tardare, qui, solo, trovare, qualità, ottimo, cucina, soprattutto, cordialità, unico, lavorare fare, fare tardare, tardare qui, qui solo, solo trovare, trovare qualità, qualità ottimo, ottimo cucina, cucina soprattutto, soprattutto cordialità, cordialità unico
+https://www.yelp.it/biz/trattoria-torricelli-torino;13482;ottimare, anche, scelta, vino, ottimare anche, anche scelta, scelta vino
+https://www.yelp.it/biz/trattoria-torricelli-torino;13483;ottimo, accoglienza, servizio, puntuale, attento, ottimo accoglienza, accoglienza servizio, servizio puntuale, puntuale attento
+https://www.yelp.it/biz/trattoria-torricelli-torino;13484;simpatia, cortesia, mancare, mai, simpatia cortesia, cortesia mancare, mancare mai
+https://www.yelp.it/biz/trattoria-torricelli-torino;13485;complimento, cuoco, complimento cuoco
+https://www.yelp.it/biz/trattoria-torricelli-torino;13486;gentilezza, totale, gentilezza totale
+https://www.yelp.it/biz/trattoria-torricelli-torino;13487;ambiente, elegante, luminoso, ambiente elegante, elegante luminoso
+https://www.yelp.it/biz/trattoria-torricelli-torino;13488;molto, cortese, molto cortese
+https://www.yelp.it/biz/trattoria-torricelli-torino;13489;buon, prezzo, buon prezzo

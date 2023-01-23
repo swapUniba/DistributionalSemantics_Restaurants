@@ -1,0 +1,38 @@
+https://www.yelp.it/biz/piola-cianci-torino;15209;piatto, semplice, delizioso, piatto semplice, semplice delizioso
+https://www.yelp.it/biz/piola-cianci-torino;15210;dolce, casa, casa, giorno, giorno, dolce casa, casa casa, casa giorno, giorno giorno
+https://www.yelp.it/biz/piola-cianci-torino;15211;ottimo, vino, peraltro, ottimo vino, vino peraltro
+https://www.yelp.it/biz/piola-cianci-torino;15212;personale, cordiale, veloce, basso, tempo, attesa, personale cordiale, cordiale veloce, veloce basso, basso tempo, tempo attesa
+https://www.yelp.it/biz/piola-cianci-torino;15213;ottimo, rapporto, q/p, ottimo rapporto, rapporto q/p
+https://www.yelp.it/biz/piola-cianci-torino;15214;fortuna, locale, poggia, cibo, fortuna locale, locale poggia, poggia cibo
+https://www.yelp.it/biz/piola-cianci-torino;15215;cucina, piemontese, tradizionale, ottimo, rapporto, prezzo/qualità, cucina piemontese, piemontese tradizionale, tradizionale ottimo, ottimo rapporto, rapporto prezzo/qualità
+https://www.yelp.it/biz/piola-cianci-torino;15216;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/piola-cianci-torino;15217;cibo, davvero, ottimo, personale, molto, gentile, simpatico, cibo davvero, davvero ottimo, ottimo personale, personale molto, molto gentile, gentile simpatico
+https://www.yelp.it/biz/piola-cianci-torino;15218;sicuro, consigliare, anche, location, molto, carino, sicuro consigliare, consigliare anche, anche location, location molto, molto carino
+https://www.yelp.it/biz/piola-cianci-torino;15219;partire, antipasto, finire, dolce, partire antipasto, antipasto finire, finire dolce
+https://www.yelp.it/biz/piola-cianci-torino;15220;veloce, casereccio, gustoso, veloce casereccio, casereccio gustoso
+https://www.yelp.it/biz/piola-cianci-torino;15221;ottimo, trattoria, mangiare, vero, bene, ottimo trattoria, trattoria mangiare, mangiare vero, vero bene
+https://www.yelp.it/biz/piola-cianci-torino;15222;molto, buono, molto buono
+https://www.yelp.it/biz/piola-cianci-torino;15223;piatto, locale, ottimo, rapporto, qualità-prezzo, piatto locale, locale ottimo, ottimo rapporto, rapporto qualità-prezzo
+https://www.yelp.it/biz/piola-cianci-torino;15224;ottimo, cena, prezzo, molto, modico, ottimo cena, cena prezzo, prezzo molto, molto modico
+https://www.yelp.it/biz/piola-cianci-torino;15225;buono, qualita, cibo, buono qualita, qualita cibo
+https://www.yelp.it/biz/piola-cianci-torino;15226;personale, gentile, personale gentile
+https://www.yelp.it/biz/piola-cianci-torino;15227;antipasto, misto, prodotto, tipico, molto, gustoso, antipasto misto, misto prodotto, prodotto tipico, tipico molto, molto gustoso
+https://www.yelp.it/biz/piola-cianci-torino;15228;complimentare, sentire, tanto, vivo, complimentare sentire, sentire tanto, tanto vivo
+https://www.yelp.it/biz/piola-cianci-torino;15229;piatto, gustoso, stagione, porzione, abbondante, arredamento, molto, particolare, oggetto, geek, prezzo, modico, piatto gustoso, gustoso stagione, stagione porzione, porzione abbondante, abbondante arredamento, arredamento molto, molto particolare, particolare oggetto, oggetto geek, geek prezzo, prezzo modico
+https://www.yelp.it/biz/piola-cianci-torino;15230;ideale, pranzo, cena, veloce, ideale pranzo, pranzo cena, cena veloce
+https://www.yelp.it/biz/piola-cianci-torino;15231;vero, meraviglia, vero meraviglia
+https://www.yelp.it/biz/piola-cianci-torino;15232;troppo, mascarponato, niente, soffice, troppo mascarponato, mascarponato niente, niente soffice
+https://www.yelp.it/biz/piola-cianci-torino;15233;molto, buono, rapporto, qualità, prezzo, molto buono, buono rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/piola-cianci-torino;15234;organizzazione, ottimo, personale, gentile, gamba, organizzazione ottimo, ottimo personale, personale gentile, gentile gamba
+https://www.yelp.it/biz/piola-cianci-torino;15235;sicuro, essere, posto, mangiare, tranquillo, voglia, trascorrere, serata, sicuro essere, essere posto, posto mangiare, mangiare tranquillo, tranquillo voglia, voglia trascorrere, trascorrere serata
+https://www.yelp.it/biz/piola-cianci-torino;15236;buono, rapporto, qualita/prezzo, adeguato, buono rapporto, rapporto qualita/prezzo, qualita/prezzo adeguato
+https://www.yelp.it/biz/piola-cianci-torino;15237;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/piola-cianci-torino;15238;cibo, ottimo, servizio, efficiente, cibo ottimo, ottimo servizio, servizio efficiente
+https://www.yelp.it/biz/piola-cianci-torino;15239;personale, simpatico, personale simpatico
+https://www.yelp.it/biz/piola-cianci-torino;15240;rapporto, qualità, prezzo, ottimo, rapporto qualità, qualità prezzo, prezzo ottimo
+https://www.yelp.it/biz/piola-cianci-torino;15241;ottimo, pranzo, ottimo pranzo
+https://www.yelp.it/biz/piola-cianci-torino;15242;conto, onesto, rapporto, qualità/prezzo, alto, conto onesto, onesto rapporto, rapporto qualità/prezzo, qualità/prezzo alto
+https://www.yelp.it/biz/piola-cianci-torino;15243;ottimo, lavoro, ragazzo, ottimo lavoro, lavoro ragazzo
+https://www.yelp.it/biz/piola-cianci-torino;15244;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/piola-cianci-torino;15245;essere, bello, semplicità, essere bello, bello semplicità
+https://www.yelp.it/biz/piola-cianci-torino;15246;avere, ottimo, aspetto, avere ottimo, ottimo aspetto

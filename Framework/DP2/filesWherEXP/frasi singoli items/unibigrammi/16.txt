@@ -1,0 +1,49 @@
+https://www.yelp.it/biz/du-cesari-torino;1960;antipasto, dolce, antipasto dolce
+https://www.yelp.it/biz/du-cesari-torino;1961;simpatico, cortese, personale, simpatico cortese, cortese personale
+https://www.yelp.it/biz/du-cesari-torino;1962;prezzo, ottimo, consiglio, tanto, prezzo ottimo, ottimo consiglio, consiglio tanto
+https://www.yelp.it/biz/du-cesari-torino;1963;personale, niente, educare, personale niente, niente educare
+https://www.yelp.it/biz/du-cesari-torino;1964;sicuro, torneró, volentieri, sicuro torneró, torneró volentieri
+https://www.yelp.it/biz/du-cesari-torino;1965;locale, piccolo, accogliente, locale piccolo, piccolo accogliente
+https://www.yelp.it/biz/du-cesari-torino;1966;menù, essere, semplice, essenziale, menù essere, essere semplice, semplice essenziale
+https://www.yelp.it/biz/du-cesari-torino;1967;classico, tagliere, classico tagliere
+https://www.yelp.it/biz/du-cesari-torino;1968;molto, buono, molto buono
+https://www.yelp.it/biz/du-cesari-torino;1969;porre, piccolo, accogliente, porre piccolo, piccolo accogliente
+https://www.yelp.it/biz/du-cesari-torino;1970;gentile, cordiale, gentile cordiale
+https://www.yelp.it/biz/du-cesari-torino;1971;esperienza, condividere, amico, esperienza condividere, condividere amico
+https://www.yelp.it/biz/du-cesari-torino;1972;ottimo, piatto, accoglienza, ottimo piatto, piatto accoglienza
+https://www.yelp.it/biz/du-cesari-torino;1973;personale, essere, cordiale, simpatico, personale essere, essere cordiale, cordiale simpatico
+https://www.yelp.it/biz/du-cesari-torino;1974;ambiente, allegro, accogliente, ambiente allegro, allegro accogliente
+https://www.yelp.it/biz/du-cesari-torino;1975;accoglienza, fantastico, cameriere, brillante, cordiale, accoglienza fantastico, fantastico cameriere, cameriere brillante, brillante cordiale
+https://www.yelp.it/biz/du-cesari-torino;1976;essere, bello, essere bello
+https://www.yelp.it/biz/du-cesari-torino;1977;contorno, super, secondo, contorno super, super secondo
+https://www.yelp.it/biz/du-cesari-torino;1978;sfizioso, antipasto, sfizioso antipasto
+https://www.yelp.it/biz/du-cesari-torino;1979;qualità, cibo, molto, valido, essere, davvero, gustoso, invitante, qualità cibo, cibo molto, molto valido, valido essere, essere davvero, davvero gustoso, gustoso invitante
+https://www.yelp.it/biz/du-cesari-torino;1980;esperienza, ripetere, esperienza ripetere
+https://www.yelp.it/biz/du-cesari-torino;1981;semplicemente, ottimo, semplicemente ottimo
+https://www.yelp.it/biz/du-cesari-torino;1982;piatto, abbondante, ottimo, qualità, piatto abbondante, abbondante ottimo, ottimo qualità
+https://www.yelp.it/biz/du-cesari-torino;1983;grazie, esistere, grazie esistere
+https://www.yelp.it/biz/du-cesari-torino;1984;anche, saltinbocca, essere, deciso, buono, anche saltinbocca, saltinbocca essere, essere deciso, deciso buono
+https://www.yelp.it/biz/du-cesari-torino;1985;molto, buono, molto buono
+https://www.yelp.it/biz/du-cesari-torino;1986;posto, cariare, tradizionale, osteria, posto cariare, cariare tradizionale, tradizionale osteria
+https://www.yelp.it/biz/du-cesari-torino;1987;secondo, dolce, secondo dolce
+https://www.yelp.it/biz/du-cesari-torino;1988;ottimo, qualità, cibo, servizio, prezzo, ottimo qualità, qualità cibo, cibo servizio, servizio prezzo
+https://www.yelp.it/biz/du-cesari-torino;1989;personale, molto, gentile, sempre, disposizione, personale molto, molto gentile, gentile sempre, sempre disposizione
+https://www.yelp.it/biz/du-cesari-torino;1990;innamorare, posto, innamorare posto
+https://www.yelp.it/biz/du-cesari-torino;1991;ingrediente, genuino, fresco, ingrediente genuino, genuino fresco
+https://www.yelp.it/biz/du-cesari-torino;1992;locale, personale, gentile, locale personale, personale gentile
+https://www.yelp.it/biz/du-cesari-torino;1993;personale, gentile, simpaticissimo, personale gentile, gentile simpaticissimo
+https://www.yelp.it/biz/du-cesari-torino;1994;tipico, osteria, personale, gentile, simpatico, preparare, cibo, vino, tipico osteria, osteria personale, personale gentile, gentile simpatico, simpatico preparare, preparare cibo, cibo vino
+https://www.yelp.it/biz/du-cesari-torino;1995;piccolo, accogliente, gentile, disponibile, piccolo accogliente, accogliente gentile, gentile disponibile
+https://www.yelp.it/biz/du-cesari-torino;1996;rimanere, contento, rimanere contento
+https://www.yelp.it/biz/du-cesari-torino;1997;menù, concentrato, facile, menù concentrato, concentrato facile
+https://www.yelp.it/biz/du-cesari-torino;1998;vero, ottimo, vero ottimo
+https://www.yelp.it/biz/du-cesari-torino;1999;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/du-cesari-torino;2000;personale, essere, gentile, simpatico, personale essere, essere gentile, gentile simpatico
+https://www.yelp.it/biz/du-cesari-torino;2001;consigliare, vivo, consigliare vivo
+https://www.yelp.it/biz/du-cesari-torino;2002;complimentare, davvero, complimentare davvero
+https://www.yelp.it/biz/du-cesari-torino;2003;dolce, essere, vero, delizia, dolce essere, essere vero, vero delizia
+https://www.yelp.it/biz/du-cesari-torino;2004;molto, cordiale, attenti, mancare, molto cordiale, cordiale attenti, attenti mancare
+https://www.yelp.it/biz/du-cesari-torino;2005;pranzo, essere, davvero, ottimo, pranzo essere, essere davvero, davvero ottimo
+https://www.yelp.it/biz/du-cesari-torino;2006;oltre, carbonaro, anche, là, cacio, pepe, essere, ottimo, oltre carbonaro, carbonaro anche, anche là, là cacio, cacio pepe, pepe essere, essere ottimo
+https://www.yelp.it/biz/du-cesari-torino;2007;cibo, buono, qualità, cibo buono, buono qualità
+https://www.yelp.it/biz/du-cesari-torino;2008;personale, molto, gentile, disponibile, personale molto, molto gentile, gentile disponibile

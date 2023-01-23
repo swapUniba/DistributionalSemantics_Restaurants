@@ -1,0 +1,36 @@
+https://www.yelp.it/biz/il-giglio-torino;19848;valido, delicato, tiramisù, valido delicato, delicato tiramisù
+https://www.yelp.it/biz/il-giglio-torino;19849;discreto, vino, discreto vino
+https://www.yelp.it/biz/il-giglio-torino;19850;personale, molto, gentile, personale molto, molto gentile
+https://www.yelp.it/biz/il-giglio-torino;19851;accoglienza, carattere, famigliare, accoglienza carattere, carattere famigliare
+https://www.yelp.it/biz/il-giglio-torino;19852;pure, ottimo, rapporto, prezzo-prestazione, pure ottimo, ottimo rapporto, rapporto prezzo-prestazione
+https://www.yelp.it/biz/il-giglio-torino;19853;cibo, qualità, squisito, cibo qualità, qualità squisito
+https://www.yelp.it/biz/il-giglio-torino;19854;personale, eccellente, personale eccellente
+https://www.yelp.it/biz/il-giglio-torino;19855;consigliare, assoluto, consigliare assoluto
+https://www.yelp.it/biz/il-giglio-torino;19856;vino, casa, amabile, vino casa, casa amabile
+https://www.yelp.it/biz/il-giglio-torino;19857;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/il-giglio-torino;19858;senzazione, essere, occasione, perso, senzazione essere, essere occasione, occasione perso
+https://www.yelp.it/biz/il-giglio-torino;19859;splendido, sorpresa, splendido sorpresa
+https://www.yelp.it/biz/il-giglio-torino;19860;piatto, buono, ben, strutturato, semplice, stesso, momento, saporito, piatto buono, buono ben, ben strutturato, strutturato semplice, semplice stesso, stesso momento, momento saporito
+https://www.yelp.it/biz/il-giglio-torino;19861;gestione, curato, simpatico, gestione curato, curato simpatico
+https://www.yelp.it/biz/il-giglio-torino;19862;tonno, essere, ottimo, tonno essere, essere ottimo
+https://www.yelp.it/biz/il-giglio-torino;19863;buono, anche, frittura, buono anche, anche frittura
+https://www.yelp.it/biz/il-giglio-torino;19864;ottimo, scelta, dolce, sorbetto, ottimo scelta, scelta dolce, dolce sorbetto
+https://www.yelp.it/biz/il-giglio-torino;19865;piacevole, scoperta, piacevole scoperta
+https://www.yelp.it/biz/il-giglio-torino;19866;cibo, molto, buono, cibo molto, molto buono
+https://www.yelp.it/biz/il-giglio-torino;19867;ben, cucinare, ben cucinare
+https://www.yelp.it/biz/il-giglio-torino;19868;pesce, buono, cucinare, maniera, onesto, pesce buono, buono cucinare, cucinare maniera, maniera onesto
+https://www.yelp.it/biz/il-giglio-torino;19869;cibo, buono, cibo buono
+https://www.yelp.it/biz/il-giglio-torino;19870;porzione, abbondante, essere, proprietario, gentile, porzione abbondante, abbondante essere, essere proprietario, proprietario gentile
+https://www.yelp.it/biz/il-giglio-torino;19871;buonasera, intanto, grazie, venire, buonasera intanto, intanto grazie, grazie venire
+https://www.yelp.it/biz/il-giglio-torino;19872;personale, molto, gentile, personale molto, molto gentile
+https://www.yelp.it/biz/il-giglio-torino;19873;proprietario, gentile, proprietario gentile
+https://www.yelp.it/biz/il-giglio-torino;19874;rapporto, qualità/prezzo, molto, interessante, rapporto qualità/prezzo, qualità/prezzo molto, molto interessante
+https://www.yelp.it/biz/il-giglio-torino;19875;ottimo, qualita, ottimo, rapporto, prezzo-qualita, ottimo qualita, qualita ottimo, ottimo rapporto, rapporto prezzo-qualita
+https://www.yelp.it/biz/il-giglio-torino;19876;gradire, digestivo, offerto, casa, gradire digestivo, digestivo offerto, offerto casa
+https://www.yelp.it/biz/il-giglio-torino;19877;bontà, palato, bontà palato
+https://www.yelp.it/biz/il-giglio-torino;19878;innaffiare, ottimo, vino, bianco, frizzante, innaffiare ottimo, ottimo vino, vino bianco, bianco frizzante
+https://www.yelp.it/biz/il-giglio-torino;19879;pesce, meraviglioso, provare, pesce meraviglioso, meraviglioso provare
+https://www.yelp.it/biz/il-giglio-torino;19880;servizio, gentile, servizio gentile
+https://www.yelp.it/biz/il-giglio-torino;19881;anche, dolce, essere, bello, sorpresa, anche dolce, dolce essere, essere bello, bello sorpresa
+https://www.yelp.it/biz/il-giglio-torino;19882;proprietario, locale, gentile, davvero, molto, simpatico, proprietario locale, locale gentile, gentile davvero, davvero molto, molto simpatico
+https://www.yelp.it/biz/il-giglio-torino;19883;grande, pecca, essere, bagno, grande pecca, pecca essere, essere bagno

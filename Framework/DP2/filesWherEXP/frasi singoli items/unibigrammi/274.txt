@@ -1,0 +1,46 @@
+https://www.yelp.it/biz/murphys-pub-torino;11533;posizione, ottimo, centro, posizione ottimo, ottimo centro
+https://www.yelp.it/biz/murphys-pub-torino;11534;molto, accogliente, molto accogliente
+https://www.yelp.it/biz/murphys-pub-torino;11535;buono, anche, birra, buono anche, anche birra
+https://www.yelp.it/biz/murphys-pub-torino;11536;molto, bello, location, ottimo, mangiare, molto bello, bello location, location ottimo, ottimo mangiare
+https://www.yelp.it/biz/murphys-pub-torino;11537;patata, molto, buono, patata molto, molto buono
+https://www.yelp.it/biz/murphys-pub-torino;11538;personale, simpatico, preparare, personale simpatico, simpatico preparare
+https://www.yelp.it/biz/murphys-pub-torino;11539;ambiente, molto, cariare, personale, gentile, ambiente molto, molto cariare, cariare personale, personale gentile
+https://www.yelp.it/biz/murphys-pub-torino;11540;ottimo, gamma, birra, panino, ottimo gamma, gamma birra, birra panino
+https://www.yelp.it/biz/murphys-pub-torino;11541;molto, buono, molto buono
+https://www.yelp.it/biz/murphys-pub-torino;11542;sempre, bello, accogliente, sempre bello, bello accogliente
+https://www.yelp.it/biz/murphys-pub-torino;11543;birra, ottimo, qualità, pub, stile, british, centro, birra ottimo, ottimo qualità, qualità pub, pub stile, stile british, british centro
+https://www.yelp.it/biz/murphys-pub-torino;11544;ambiente, personale, gradevole, ambiente personale, personale gradevole
+https://www.yelp.it/biz/murphys-pub-torino;11545;prezzo, essere, ristorante, sommare, personale, gentile, prezzo essere, essere ristorante, ristorante sommare, sommare personale, personale gentile
+https://www.yelp.it/biz/murphys-pub-torino;11546;cibo, sufficiente, cibo sufficiente
+https://www.yelp.it/biz/murphys-pub-torino;11547;qualità, buono, birra, qualità buono, buono birra
+https://www.yelp.it/biz/murphys-pub-torino;11548;ingrediente, buono, qualità, ingrediente buono, buono qualità
+https://www.yelp.it/biz/murphys-pub-torino;11549;buono, organizzare, tavolata, grande, amico, buono organizzare, organizzare tavolata, tavolata grande, grande amico
+https://www.yelp.it/biz/murphys-pub-torino;11550;molto, buono, molto buono
+https://www.yelp.it/biz/murphys-pub-torino;11551;personale, gentile, simpatico, personale gentile, gentile simpatico
+https://www.yelp.it/biz/murphys-pub-torino;11552;esperienza, stupendo, esperienza stupendo
+https://www.yelp.it/biz/murphys-pub-torino;11553;molto, bello, location, molto bello, bello location
+https://www.yelp.it/biz/murphys-pub-torino;11554;personale, cordiale, personale cordiale
+https://www.yelp.it/biz/murphys-pub-torino;11555;posto, essere, carino, personale, molto, gentile, posto essere, essere carino, carino personale, personale molto, molto gentile
+https://www.yelp.it/biz/murphys-pub-torino;11556;grazie, cordiale, saluto, grazie cordiale, cordiale saluto
+https://www.yelp.it/biz/murphys-pub-torino;11557;porre, molto, caratteristico, porre molto, molto caratteristico
+https://www.yelp.it/biz/murphys-pub-torino;11558;pò, più, scarno, scelta, piatto, qualità, appena, sufficienza, pò più, più scarno, scarno scelta, scelta piatto, piatto qualità, qualità appena, appena sufficienza
+https://www.yelp.it/biz/murphys-pub-torino;11559;serata, amico, perfetto, serata amico, amico perfetto
+https://www.yelp.it/biz/murphys-pub-torino;11560;personale, simpatico, gentile, personale simpatico, simpatico gentile
+https://www.yelp.it/biz/murphys-pub-torino;11561;ottimo, pub, bello, locale, personale, gentile, ottimo pub, pub bello, bello locale, locale personale, personale gentile
+https://www.yelp.it/biz/murphys-pub-torino;11562;atmosfera, pub, molto, apprezzare, atmosfera pub, pub molto, molto apprezzare
+https://www.yelp.it/biz/murphys-pub-torino;11563;davvero, cariare, davvero cariare
+https://www.yelp.it/biz/murphys-pub-torino;11564;buono, anche, birra, buono anche, anche birra
+https://www.yelp.it/biz/murphys-pub-torino;11565;personale, gentile, personale gentile
+https://www.yelp.it/biz/murphys-pub-torino;11566;essere, gita, essere, bello, essere gita, gita essere, essere bello
+https://www.yelp.it/biz/murphys-pub-torino;11567;bello, atmosfera, internazionale, partita, rugby, bello atmosfera, atmosfera internazionale, internazionale partita, partita rugby
+https://www.yelp.it/biz/murphys-pub-torino;11568;rapporto, qualità/prezzo, essere, davvero, ottimo, rapporto qualità/prezzo, qualità/prezzo essere, essere davvero, davvero ottimo
+https://www.yelp.it/biz/murphys-pub-torino;11569;ottimo, abbinamento, davvero, gustoso, ottimo abbinamento, abbinamento davvero, davvero gustoso
+https://www.yelp.it/biz/murphys-pub-torino;11570;accontentare, perfezione, accontentare perfezione
+https://www.yelp.it/biz/murphys-pub-torino;11571;ampio, scelta, birra, ampio scelta, scelta birra
+https://www.yelp.it/biz/murphys-pub-torino;11572;varietà, birra, ottimo, spillare, tecnica, varietà birra, birra ottimo, ottimo spillare, spillare tecnica
+https://www.yelp.it/biz/murphys-pub-torino;11573;forse, proprio, economico, tutto, ripagare, gusto, qualità, forse proprio, proprio economico, economico tutto, tutto ripagare, ripagare gusto, gusto qualità
+https://www.yelp.it/biz/murphys-pub-torino;11574;ambiente, molto, bello, ambiente molto, molto bello
+https://www.yelp.it/biz/murphys-pub-torino;11575;consigliare, antipasto, molto, gustoso, consigliare antipasto, antipasto molto, molto gustoso
+https://www.yelp.it/biz/murphys-pub-torino;11576;puro, stile, classico, vero, puro stile, stile classico, classico vero
+https://www.yelp.it/biz/murphys-pub-torino;11577;essere, pub, preferito, assoluto, essere pub, pub preferito, preferito assoluto
+https://www.yelp.it/biz/murphys-pub-torino;11578;personale, fantastico, personale fantastico

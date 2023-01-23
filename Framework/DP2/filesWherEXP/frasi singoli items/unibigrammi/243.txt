@@ -1,0 +1,29 @@
+https://www.yelp.it/biz/zelli-wine-bar-torino;10543;barbera, nebbiolo, molto, buono, barbera nebbiolo, nebbiolo molto, molto buono
+https://www.yelp.it/biz/zelli-wine-bar-torino;10544;giorno, essere, volta, trovare, ambiente, locale, vero, accogliente, giorno essere, essere volta, volta trovare, trovare ambiente, ambiente locale, locale vero, vero accogliente
+https://www.yelp.it/biz/zelli-wine-bar-torino;10545;serata, informale, amico, posto, meraviglioso, serata informale, informale amico, amico posto, posto meraviglioso
+https://www.yelp.it/biz/zelli-wine-bar-torino;10546;vero, molto, buono, vero molto, molto buono
+https://www.yelp.it/biz/zelli-wine-bar-torino;10547;unico, pecca, dimensione, locale, posto, sedere, unico pecca, pecca dimensione, dimensione locale, locale posto, posto sedere
+https://www.yelp.it/biz/zelli-wine-bar-torino;10548;apericena, essere, molto, variegato, costa, consumazione, apericena essere, essere molto, molto variegato, variegato costa, costa consumazione
+https://www.yelp.it/biz/zelli-wine-bar-torino;10549;personale, gentile, simpatico, personale gentile, gentile simpatico
+https://www.yelp.it/biz/zelli-wine-bar-torino;10550;buono, alternativa, classico, ristorante, buono alternativa, alternativa classico, classico ristorante
+https://www.yelp.it/biz/zelli-wine-bar-torino;10551;sempre, ottimo, personale, servizio, sempre ottimo, ottimo personale, personale servizio
+https://www.yelp.it/biz/zelli-wine-bar-torino;10552;cibo, ottimo, qualità, cibo ottimo, ottimo qualità
+https://www.yelp.it/biz/zelli-wine-bar-torino;10553;più, grande, complimento, più grande, grande complimento
+https://www.yelp.it/biz/zelli-wine-bar-torino;10554;molto, buono, molto buono
+https://www.yelp.it/biz/zelli-wine-bar-torino;10555;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/zelli-wine-bar-torino;10556;prossimo, grazie, prossimo grazie
+https://www.yelp.it/biz/zelli-wine-bar-torino;10557;personale, gentile, avere, anche, dehor, esterno, personale gentile, gentile avere, avere anche, anche dehor, dehor esterno
+https://www.yelp.it/biz/zelli-wine-bar-torino;10558;arrivare, lì, aperitivo, ottimo, scelta, arrivare lì, lì aperitivo, aperitivo ottimo, ottimo scelta
+https://www.yelp.it/biz/zelli-wine-bar-torino;10559;davvero, ottimo, davvero ottimo
+https://www.yelp.it/biz/zelli-wine-bar-torino;10560;consigliare, provare, consigliare provare
+https://www.yelp.it/biz/zelli-wine-bar-torino;10561;ottimo, aperitivo, bello, locale, ottimo aperitivo, aperitivo bello, bello locale
+https://www.yelp.it/biz/zelli-wine-bar-torino;10562;aperitivo, davvero, varigeato, buono, aperitivo davvero, davvero varigeato, varigeato buono
+https://www.yelp.it/biz/zelli-wine-bar-torino;10563;anche, essere, buono, anche essere, essere buono
+https://www.yelp.it/biz/zelli-wine-bar-torino;10564;molto, cariare, locale, molto cariare, cariare locale
+https://www.yelp.it/biz/zelli-wine-bar-torino;10565;apertitivo, essere, ottimo, apertitivo essere, essere ottimo
+https://www.yelp.it/biz/zelli-wine-bar-torino;10566;unico, peccare, tavolino, pò, piccolo, persona, unico peccare, peccare tavolino, tavolino pò, pò piccolo, piccolo persona
+https://www.yelp.it/biz/zelli-wine-bar-torino;10567;atmosfera, pò, fighetta, davvero, passare, piacevole, serata, atmosfera pò, pò fighetta, fighetta davvero, davvero passare, passare piacevole, piacevole serata
+https://www.yelp.it/biz/zelli-wine-bar-torino;10568;aperitivo, quasi, perfetto, aperitivo quasi, quasi perfetto
+https://www.yelp.it/biz/zelli-wine-bar-torino;10569;molto, buono, anche, molto buono, buono anche
+https://www.yelp.it/biz/zelli-wine-bar-torino;10570;locale, essere, estetico, molto, bello, offrire, essere, meno, locale essere, essere estetico, estetico molto, molto bello, bello offrire, offrire essere, essere meno
+https://www.yelp.it/biz/zelli-wine-bar-torino;10571;buono, scelta, vino, buono scelta, scelta vino

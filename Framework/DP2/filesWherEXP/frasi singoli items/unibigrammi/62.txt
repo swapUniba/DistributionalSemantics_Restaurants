@@ -1,0 +1,36 @@
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4733;pizza, nonna, buono, pizza nonna, nonna buono
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4734;locale, atmosfera, piacevole, locale atmosfera, atmosfera piacevole
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4735;personale, cortese, cordiale, personale cortese, cortese cordiale
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4736;personale, sala, molto, cortese, professionale, personale sala, sala molto, molto cortese, cortese professionale
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4737;personale, simpatico, essere, disponibile, personale simpatico, simpatico essere, essere disponibile
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4738;consigliere, serata, tranquillo, consigliere serata, serata tranquillo
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4739;pizza, ottimo, sottile, pizza ottimo, ottimo sottile
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4740;locale, molto, accogliente, personale, gentile, locale molto, molto accogliente, accogliente personale, personale gentile
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4741;locale, carino, signore, molto, gentile, disponibile, locale carino, carino signore, signore molto, molto gentile, gentile disponibile
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4742;come, solito, pizza, essere, super, come solito, solito pizza, pizza essere, essere super
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4743;anche, farinata, lardo, ottimo, anche farinata, farinata lardo, lardo ottimo
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4744;personale, molto, cordiale, disponibile, personale molto, molto cordiale, cordiale disponibile
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4745;servizio, essere, attento, cordiale, servizio essere, essere attento, attento cordiale
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4746;estate, dehors, piacevole, interno, cortile, estate dehors, dehors piacevole, piacevole interno, interno cortile
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4747;personale, gentile, educare, personale gentile, gentile educare
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4748;cameriere, sorridente, professionale, cameriere sorridente, sorridente professionale
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4749;farinata, ottimo, farinata ottimo
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4750;personale, gentile, educare, personale gentile, gentile educare
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4751;molto, consigliare, molto consigliare
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4752;farinata, croccante, molto, valido, farinata croccante, croccante molto, molto valido
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4753;menù, ricco, pizza, palato, menù ricco, ricco pizza, pizza palato
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4754;locale, essere, carino, anche, molto, particolare, locale essere, essere carino, carino anche, anche molto, molto particolare
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4755;pizza, buono, sottile, pizza buono, buono sottile
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4756;buono, anche, pizza, tegamino, buono anche, anche pizza, pizza tegamino
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4757;conto, deciso, buono, conto deciso, deciso buono
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4758;personale, gentile, buono, varietà, scelta, personale gentile, gentile buono, buono varietà, varietà scelta
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4759;atmosfera, essere, piacevole, informale, personale, gentile, disponibile, atmosfera essere, essere piacevole, piacevole informale, informale personale, personale gentile, gentile disponibile
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4760;farinata, sempre, buono, farinata sempre, sempre buono
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4761;unico, nota, positivo, locale, essere, certo, moda, pulire, unico nota, nota positivo, positivo locale, locale essere, essere certo, certo moda, moda pulire
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4762;farinata, pizza, buon, livello, farinata pizza, pizza buon, buon livello
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4763;ingrediente, essere, buono, qualità, ingrediente essere, essere buono, buono qualità
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4764;prezzo, essere, buono, tempo, attesa, sempre, accettabile, prezzo essere, essere buono, buono tempo, tempo attesa, attesa sempre, sempre accettabile
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4765;ottimare, anche, farinata, ottimare anche, anche farinata
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4766;personale, essere, gentile, solerte, personale essere, essere gentile, gentile solerte
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4767;pizza, essere, particolare, sottile, leggero, pizza essere, essere particolare, particolare sottile, sottile leggero
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;4768;ottimo, pizzeria, buono, servizio, ottimo pizzeria, pizzeria buono, buono servizio

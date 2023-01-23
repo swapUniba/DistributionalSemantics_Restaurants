@@ -1,0 +1,40 @@
+https://www.yelp.it/biz/manhattan-pub-torino;13404;perfetto, serata, amico, perfetto serata, serata amico
+https://www.yelp.it/biz/manhattan-pub-torino;13405;gestione, favoloso, gestione favoloso
+https://www.yelp.it/biz/manhattan-pub-torino;13406;pizza, terribile, anche, bello, presentazione, pizza terribile, terribile anche, anche bello, bello presentazione
+https://www.yelp.it/biz/manhattan-pub-torino;13407;locale, pulito, personale, gentile, educare, buono, insalata, patatina, fritto, leggero, pizza, ingrediente, freschissimi, locale pulito, pulito personale, personale gentile, gentile educare, educare buono, buono insalata, insalata patatina, patatina fritto, fritto leggero, leggero pizza, pizza ingrediente, ingrediente freschissimi
+https://www.yelp.it/biz/manhattan-pub-torino;13408;buono, anche, birra, buono anche, anche birra
+https://www.yelp.it/biz/manhattan-pub-torino;13409;luogo, complesso, luogo complesso
+https://www.yelp.it/biz/manhattan-pub-torino;13410;ottimare, scelta, birra, ottimare scelta, scelta birra
+https://www.yelp.it/biz/manhattan-pub-torino;13411;cibo, ottimo, prezzo, ottimo, cibo ottimo, ottimo prezzo, prezzo ottimo
+https://www.yelp.it/biz/manhattan-pub-torino;13412;lungo, vita, lungo vita
+https://www.yelp.it/biz/manhattan-pub-torino;13413;rapporto, prezzo/qualità, ottimo, rapporto prezzo/qualità, prezzo/qualità ottimo
+https://www.yelp.it/biz/manhattan-pub-torino;13414;provare, caso, serata, provare caso, caso serata
+https://www.yelp.it/biz/manhattan-pub-torino;13415;apprezzare, meno, apprezzare meno
+https://www.yelp.it/biz/manhattan-pub-torino;13416;qualità, gradevole, qualità gradevole
+https://www.yelp.it/biz/manhattan-pub-torino;13417;conto, regalare, andare, bene, conto regalare, regalare andare, andare bene
+https://www.yelp.it/biz/manhattan-pub-torino;13418;pizza, buono, pizza buono
+https://www.yelp.it/biz/manhattan-pub-torino;13419;servizio, eccezionale, servizio eccezionale
+https://www.yelp.it/biz/manhattan-pub-torino;13420;grigliata, sommare, discreto, grigliata sommare, sommare discreto
+https://www.yelp.it/biz/manhattan-pub-torino;13421;personale, gentile, personale gentile
+https://www.yelp.it/biz/manhattan-pub-torino;13422;servizio, buono, servizio buono
+https://www.yelp.it/biz/manhattan-pub-torino;13423;birreria, rockettara, personale, rapido, simpatico, birreria rockettara, rockettara personale, personale rapido, rapido simpatico
+https://www.yelp.it/biz/manhattan-pub-torino;13424;ottimo, buono, buono, anche, pizza, ottimo buono, buono buono, buono anche, anche pizza
+https://www.yelp.it/biz/manhattan-pub-torino;13425;pizza, sottile, buono, pure, pizza sottile, sottile buono, buono pure
+https://www.yelp.it/biz/manhattan-pub-torino;13426;però, andare, amico, buon, posto, però andare, andare amico, amico buon, buon posto
+https://www.yelp.it/biz/manhattan-pub-torino;13427;accoglienza, ottimo, accoglienza ottimo
+https://www.yelp.it/biz/manhattan-pub-torino;13428;essere, cliente, abitudinario, essere cliente, cliente abitudinario
+https://www.yelp.it/biz/manhattan-pub-torino;13429;ottimo, porzione, generoso, cibo, buono, ottimo porzione, porzione generoso, generoso cibo, cibo buono
+https://www.yelp.it/biz/manhattan-pub-torino;13430;davvero, gustoso, davvero gustoso
+https://www.yelp.it/biz/manhattan-pub-torino;13431;cibo, essere, discreto, pizza, ottimo, cibo essere, essere discreto, discreto pizza, pizza ottimo
+https://www.yelp.it/biz/manhattan-pub-torino;13432;posto, stupendo, molto, originale, posto stupendo, stupendo molto, molto originale
+https://www.yelp.it/biz/manhattan-pub-torino;13433;personale, essere, simpatico, cordiale, molto, gentile, personale essere, essere simpatico, simpatico cordiale, cordiale molto, molto gentile
+https://www.yelp.it/biz/manhattan-pub-torino;13434;bravo, continuare, così, bravo continuare, continuare così
+https://www.yelp.it/biz/manhattan-pub-torino;13435;servizio, essere, buono, servizio essere, essere buono
+https://www.yelp.it/biz/manhattan-pub-torino;13436;serara, insegna, compagnia, serara insegna, insegna compagnia
+https://www.yelp.it/biz/manhattan-pub-torino;13437;essere, discreto, essere discreto
+https://www.yelp.it/biz/manhattan-pub-torino;13438;oggettivo, posto, cibo, essere, essere, oggettivo posto, posto cibo, cibo essere, essere essere
+https://www.yelp.it/biz/manhattan-pub-torino;13439;sempre, ottimo, abbondante, sempre ottimo, ottimo abbondante
+https://www.yelp.it/biz/manhattan-pub-torino;13440;essere, sempre, grande, essere sempre, sempre grande
+https://www.yelp.it/biz/manhattan-pub-torino;13441;pizza, buono, altrettanto, enorme, pizza buono, buono altrettanto, altrettanto enorme
+https://www.yelp.it/biz/manhattan-pub-torino;13442;complesso, essere, sicuro, positivo, voto, complesso essere, essere sicuro, sicuro positivo, positivo voto
+https://www.yelp.it/biz/manhattan-pub-torino;13443;consiglio, molto, cucina, ottimo, consiglio molto, molto cucina, cucina ottimo

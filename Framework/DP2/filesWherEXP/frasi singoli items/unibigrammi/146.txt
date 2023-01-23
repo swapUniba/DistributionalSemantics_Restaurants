@@ -1,0 +1,10 @@
+https://www.yelp.it/biz/pizzeria-enzo-bari;7809;servizio, accurato, personale, gentile, servizio accurato, accurato personale, personale gentile
+https://www.yelp.it/biz/pizzeria-enzo-bari;7810;lungo, vita, lungo vita
+https://www.yelp.it/biz/pizzeria-enzo-bari;7811;buono, pizza, antipasto, buono pizza, pizza antipasto
+https://www.yelp.it/biz/pizzeria-enzo-bari;7812;pizza, buono, pizza buono
+https://www.yelp.it/biz/pizzeria-enzo-bari;7813;pizza, consigliatissima, pizza consigliatissima
+https://www.yelp.it/biz/pizzeria-enzo-bari;7814;ottimo, pizza, ottimo, antipasto, ottimo pizza, pizza ottimo, ottimo antipasto
+https://www.yelp.it/biz/pizzeria-enzo-bari;7815;buono, selezione, antipasto, buono selezione, selezione antipasto
+https://www.yelp.it/biz/pizzeria-enzo-bari;7816;prelibatezza, assoluto, prelibatezza assoluto
+https://www.yelp.it/biz/pizzeria-enzo-bari;7817;buono, anche, offerta, birra, buono anche, anche offerta, offerta birra
+https://www.yelp.it/biz/pizzeria-enzo-bari;7818;porre, molto, locale, saporito, pizza, porre molto, molto locale, locale saporito, saporito pizza

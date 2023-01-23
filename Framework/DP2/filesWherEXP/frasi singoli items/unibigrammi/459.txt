@@ -1,0 +1,18 @@
+https://www.yelp.it/biz/pollastrini-torino;17390;buono, servizio, buono servizio
+https://www.yelp.it/biz/pollastrini-torino;17391;ambiente, tranquillo, ambiente tranquillo
+https://www.yelp.it/biz/pollastrini-torino;17392;clima, rilassare, clima rilassare
+https://www.yelp.it/biz/pollastrini-torino;17393;vino, ottimo, anche, sfuso, vino ottimo, ottimo anche, anche sfuso
+https://www.yelp.it/biz/pollastrini-torino;17394;ristorante, tradizionale, accogliente, curare, ristorante tradizionale, tradizionale accogliente, accogliente curare
+https://www.yelp.it/biz/pollastrini-torino;17395;cucina, toscano, ottimo, cucina toscano, toscano ottimo
+https://www.yelp.it/biz/pollastrini-torino;17396;personale, essere, garbato, professionale, personale essere, essere garbato, garbato professionale
+https://www.yelp.it/biz/pollastrini-torino;17397;servizio, accurato, cortese, servizio accurato, accurato cortese
+https://www.yelp.it/biz/pollastrini-torino;17398;ambiente, pò, demodè, personale, cortese, ambiente pò, pò demodè, demodè personale, personale cortese
+https://www.yelp.it/biz/pollastrini-torino;17399;portato, buono, media, portato buono, buono media
+https://www.yelp.it/biz/pollastrini-torino;17400;caro, grazie, caro grazie
+https://www.yelp.it/biz/pollastrini-torino;17401;ottimo, rapporto, qualità-prezzo, ottimo rapporto, rapporto qualità-prezzo
+https://www.yelp.it/biz/pollastrini-torino;17402;pulizia, essere, vero, invidiabile, locale, pulizia essere, essere vero, vero invidiabile, invidiabile locale
+https://www.yelp.it/biz/pollastrini-torino;17403;comunque, ritornare, volentieri, sovente, unico, neo, sempre, mancare, sorriso, comunque ritornare, ritornare volentieri, volentieri sovente, sovente unico, unico neo, neo sempre, sempre mancare, mancare sorriso
+https://www.yelp.it/biz/pollastrini-torino;17404;rapporto, qualità/prezzo, buono, rapporto qualità/prezzo, qualità/prezzo buono
+https://www.yelp.it/biz/pollastrini-torino;17405;curare, elegante, curare elegante
+https://www.yelp.it/biz/pollastrini-torino;17406;arredamento, elegante, pò, decadente, arredamento elegante, elegante pò, pò decadente
+https://www.yelp.it/biz/pollastrini-torino;17407;servizio, professionale, cortese, servizio professionale, professionale cortese

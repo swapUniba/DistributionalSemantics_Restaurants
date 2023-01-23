@@ -1,0 +1,22 @@
+https://www.yelp.it/biz/chez-zeina-torino;9906;gran, lungo, meglio, gran lungo, lungo meglio
+https://www.yelp.it/biz/chez-zeina-torino;9907;essere, vecchiotto, essere vecchiotto
+https://www.yelp.it/biz/chez-zeina-torino;9908;rimanere, buon, ricordo, rimanere buon, buon ricordo
+https://www.yelp.it/biz/chez-zeina-torino;9909;provare, credere, provare credere
+https://www.yelp.it/biz/chez-zeina-torino;9910;ben, presentare, gustoso, bello, sorpresa, ben presentare, presentare gustoso, gustoso bello, bello sorpresa
+https://www.yelp.it/biz/chez-zeina-torino;9911;proprietario, molto, gradevole, proprietario molto, molto gradevole
+https://www.yelp.it/biz/chez-zeina-torino;9912;piatto, ottimo, ottimo, accoglienza, bello, locale, piatto ottimo, ottimo ottimo, ottimo accoglienza, accoglienza bello, bello locale
+https://www.yelp.it/biz/chez-zeina-torino;9913;ottimo, serata, ottimo serata
+https://www.yelp.it/biz/chez-zeina-torino;9914;regalare, serata, qui, regalare serata, serata qui
+https://www.yelp.it/biz/chez-zeina-torino;9915;cucina, ottimo, cucina ottimo
+https://www.yelp.it/biz/chez-zeina-torino;9916;insomma, perfetto, insomma perfetto
+https://www.yelp.it/biz/chez-zeina-torino;9917;locale, essere, carino, molto, ampio, locale essere, essere carino, carino molto, molto ampio
+https://www.yelp.it/biz/chez-zeina-torino;9918;ottimo, rapporto, qualità/prezzo, ottimo rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/chez-zeina-torino;9919;rapporto, prezzo/qualità, abbinare, tempo, servizio, essere, ottimale, rapporto prezzo/qualità, prezzo/qualità abbinare, abbinare tempo, tempo servizio, servizio essere, essere ottimale
+https://www.yelp.it/biz/chez-zeina-torino;9920;distinguere, saluto, franco, distinguere saluto, saluto franco
+https://www.yelp.it/biz/chez-zeina-torino;9921;cena, ottimo, cena ottimo
+https://www.yelp.it/biz/chez-zeina-torino;9922;buono, anche, musica, buono anche, anche musica
+https://www.yelp.it/biz/chez-zeina-torino;9923;cucinare, molto, molto, buono, servizio, impeccabile, piatto, abbondante, cucinare molto, molto molto, molto buono, buono servizio, servizio impeccabile, impeccabile piatto, piatto abbondante
+https://www.yelp.it/biz/chez-zeina-torino;9924;mezzo, meraviglioso, mezzo meraviglioso
+https://www.yelp.it/biz/chez-zeina-torino;9925;cibo, fine, delicato, cibo fine, fine delicato
+https://www.yelp.it/biz/chez-zeina-torino;9926;proprietario, cordiale, proprietario cordiale
+https://www.yelp.it/biz/chez-zeina-torino;9927;proprietario, essere, persona, estremo, piacevole, ricordare, cliente, anche, distanza, anno, proprietario essere, essere persona, persona estremo, estremo piacevole, piacevole ricordare, ricordare cliente, cliente anche, anche distanza, distanza anno

@@ -1,0 +1,28 @@
+https://www.yelp.it/biz/costadoro-torino;18986;grazie, bello, recensione, grazie bello, bello recensione
+https://www.yelp.it/biz/costadoro-torino;18987;locale, piuttosto, cariare, ampio, locale piuttosto, piuttosto cariare, cariare ampio
+https://www.yelp.it/biz/costadoro-torino;18988;rapporto, qualità, prezzo, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/costadoro-torino;18989;peccare, tempo, essere, bar, preferito, peccare tempo, tempo essere, essere bar, bar preferito
+https://www.yelp.it/biz/costadoro-torino;18990;caffé, molto, buono, caffé molto, molto buono
+https://www.yelp.it/biz/costadoro-torino;18991;solo, bello, location, buono, caffè, solo bello, bello location, location buono, buono caffè
+https://www.yelp.it/biz/costadoro-torino;18992;quindi, assoluto, soddisfatto, quindi assoluto, assoluto soddisfatto
+https://www.yelp.it/biz/costadoro-torino;18993;buon, lavoro, buon lavoro
+https://www.yelp.it/biz/costadoro-torino;18994;grazie, bello, parola, grazie bello, bello parola
+https://www.yelp.it/biz/costadoro-torino;18995;consiglio, marocchino, pistacchio, buono, consiglio marocchino, marocchino pistacchio, pistacchio buono
+https://www.yelp.it/biz/costadoro-torino;18996;ottimo, qualità/prezzo, ottimo qualità/prezzo
+https://www.yelp.it/biz/costadoro-torino;18997;servizio, cortese, rapido, piatto, fare, bene, servizio cortese, cortese rapido, rapido piatto, piatto fare, fare bene
+https://www.yelp.it/biz/costadoro-torino;18998;grazie, cortesia, grazie cortesia
+https://www.yelp.it/biz/costadoro-torino;18999;dettagliato, bello, recensione, dettagliato bello, bello recensione
+https://www.yelp.it/biz/costadoro-torino;19000;grazie, gentile, recensione, grazie gentile, gentile recensione
+https://www.yelp.it/biz/costadoro-torino;19001;location, essere, vero, bello, location essere, essere vero, vero bello
+https://www.yelp.it/biz/costadoro-torino;19002;personale, gentile, molto, disponibile, personale gentile, gentile molto, molto disponibile
+https://www.yelp.it/biz/costadoro-torino;19003;molto, bello, prodotto, qualità, molto bello, bello prodotto, prodotto qualità
+https://www.yelp.it/biz/costadoro-torino;19004;pulito, luminoso, pulito luminoso
+https://www.yelp.it/biz/costadoro-torino;19005;molto, bello, molto bello
+https://www.yelp.it/biz/costadoro-torino;19006;luogo, calma, godere, piacere, caffé, luogo calma, calma godere, godere piacere, piacere caffé
+https://www.yelp.it/biz/costadoro-torino;19007;personale, molto, gentile, personale molto, molto gentile
+https://www.yelp.it/biz/costadoro-torino;19008;esperienza, assoluto, negativo, esperienza assoluto, assoluto negativo
+https://www.yelp.it/biz/costadoro-torino;19009;peccare, aspetto, essere, così, invitante, peccare aspetto, aspetto essere, essere così, così invitante
+https://www.yelp.it/biz/costadoro-torino;19010;personale, essere, abbastanza, gentile, personale essere, essere abbastanza, abbastanza gentile
+https://www.yelp.it/biz/costadoro-torino;19011;architettura, molto, carino, piacevole, architettura molto, molto carino, carino piacevole
+https://www.yelp.it/biz/costadoro-torino;19012;pranzo, servire, cameriere, professionalità, poco, cortese, pranzo servire, servire cameriere, cameriere professionalità, professionalità poco, poco cortese
+https://www.yelp.it/biz/costadoro-torino;19013;locale, bello, posizione, molto, ben, curato, moda, locale bello, bello posizione, posizione molto, molto ben, ben curato, curato moda

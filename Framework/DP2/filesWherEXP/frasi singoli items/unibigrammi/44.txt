@@ -1,0 +1,188 @@
+https://www.yelp.it/biz/la-reseda-torino;3850;locale, essere, molto, grande, essere, carino, locale essere, essere molto, molto grande, grande essere, essere carino
+https://www.yelp.it/biz/la-reseda-torino;3851;pizza, essere, buono, integrale, andare, provare, sicuro, pizza essere, essere buono, buono integrale, integrale andare, andare provare, provare sicuro
+https://www.yelp.it/biz/la-reseda-torino;3852;personale, piacevole, gentile, personale piacevole, piacevole gentile
+https://www.yelp.it/biz/la-reseda-torino;3853;ristorante, carino, zona, ristorante carino, carino zona
+https://www.yelp.it/biz/la-reseda-torino;3854;cucina, fresco, buono, abbondante, cucina fresco, fresco buono, buono abbondante
+https://www.yelp.it/biz/la-reseda-torino;3855;titolare, essere, molto, gentile, titolare essere, essere molto, molto gentile
+https://www.yelp.it/biz/la-reseda-torino;3856;ingrediente, scarso, qualità, ingrediente scarso, scarso qualità
+https://www.yelp.it/biz/la-reseda-torino;3857;servizio, buono, cibo, ottimo, gentilezza, assicurare, servizio buono, buono cibo, cibo ottimo, ottimo gentilezza, gentilezza assicurare
+https://www.yelp.it/biz/la-reseda-torino;3858;essere, locale, molto, raffinato, tranquillo, pulito, essere locale, locale molto, molto raffinato, raffinato tranquillo, tranquillo pulito
+https://www.yelp.it/biz/la-reseda-torino;3859;cibo, squisito, accoglienza, impeccabile, cibo squisito, squisito accoglienza, accoglienza impeccabile
+https://www.yelp.it/biz/la-reseda-torino;3860;lato, positivo, locale, presentabile, accogliente, norma, pizza, buono, piatto, mangiabile, pausa, pranzo, norma, lato positivo, positivo locale, locale presentabile, presentabile accogliente, accogliente norma, norma pizza, pizza buono, buono piatto, piatto mangiabile, mangiabile pausa, pausa pranzo, pranzo norma
+https://www.yelp.it/biz/la-reseda-torino;3861;servizio, cordiale, servizio cordiale
+https://www.yelp.it/biz/la-reseda-torino;3862;pizza, buono, scelta, anche, impasto, pizza buono, buono scelta, scelta anche, anche impasto
+https://www.yelp.it/biz/la-reseda-torino;3863;locale, carino, molto, pulito, particolarmente, atmosfera, deciso, curare, locale carino, carino molto, molto pulito, pulito particolarmente, particolarmente atmosfera, atmosfera deciso, deciso curare
+https://www.yelp.it/biz/la-reseda-torino;3864;servizio, cortese, veloce, servizio cortese, cortese veloce
+https://www.yelp.it/biz/la-reseda-torino;3865;scoprire, locale, carino, pizza, integrale, molto, buono, scoprire locale, locale carino, carino pizza, pizza integrale, integrale molto, molto buono
+https://www.yelp.it/biz/la-reseda-torino;3866;personale, gentile, cordiale, personale gentile, gentile cordiale
+https://www.yelp.it/biz/la-reseda-torino;3867;proprietario, moglie, cuoco, persona, attento, gentile, proprietario moglie, moglie cuoco, cuoco persona, persona attento, attento gentile
+https://www.yelp.it/biz/la-reseda-torino;3868;complimentare, gentile, signore, cuoco, complimentare gentile, gentile signore, signore cuoco
+https://www.yelp.it/biz/la-reseda-torino;3869;bimbo, pizza, sorpresa, bimbo pizza, pizza sorpresa
+https://www.yelp.it/biz/la-reseda-torino;3870;ambiare, pulito, accogliente, elegante, ambiare pulito, pulito accogliente, accogliente elegante
+https://www.yelp.it/biz/la-reseda-torino;3871;servizio, tavolo, attento, dettaglio, essere, sempre, piacere, lasciare, mancia, servizio tavolo, tavolo attento, attento dettaglio, dettaglio essere, essere sempre, sempre piacere, piacere lasciare, lasciare mancia
+https://www.yelp.it/biz/la-reseda-torino;3872;perfetto, fare, bello, figura, essere, locale, giusto, perfetto fare, fare bello, bello figura, figura essere, essere locale, locale giusto
+https://www.yelp.it/biz/la-reseda-torino;3873;davvero, entusiasta, davvero entusiasta
+https://www.yelp.it/biz/la-reseda-torino;3874;continuare, coso, continuare coso
+https://www.yelp.it/biz/la-reseda-torino;3875;servizio, veloce, eccellente, economico, servizio veloce, veloce eccellente, eccellente economico
+https://www.yelp.it/biz/la-reseda-torino;3876;pizza, essere, buono, impasto, soffice, leggero, palato, pizza essere, essere buono, buono impasto, impasto soffice, soffice leggero, leggero palato
+https://www.yelp.it/biz/la-reseda-torino;3877;personale, gentile, molto, disponibile, ascoltare, richiesta, cliente, personale gentile, gentile molto, molto disponibile, disponibile ascoltare, ascoltare richiesta, richiesta cliente
+https://www.yelp.it/biz/la-reseda-torino;3878;sempre, fresco, sempre fresco
+https://www.yelp.it/biz/la-reseda-torino;3879;personale, gentile, locale, molto, carino, prezzo, più, adeguato, personale gentile, gentile locale, locale molto, molto carino, carino prezzo, prezzo più, più adeguato
+https://www.yelp.it/biz/la-reseda-torino;3880;pizza, davvero, eccellente, ben, cuocere, pizza davvero, davvero eccellente, eccellente ben, ben cuocere
+https://www.yelp.it/biz/la-reseda-torino;3881;integrale, comune, pizzeria, molto, squisito, integrale comune, comune pizzeria, pizzeria molto, molto squisito
+https://www.yelp.it/biz/la-reseda-torino;3882;menù, vasto, sabato, sera, servizio, essere, veloce, impeccabile, menù vasto, vasto sabato, sabato sera, sera servizio, servizio essere, essere veloce, veloce impeccabile
+https://www.yelp.it/biz/la-reseda-torino;3883;davvero, piacevole, sorpresa, pizza, integrale, essere, provare, davvero piacevole, piacevole sorpresa, sorpresa pizza, pizza integrale, integrale essere, essere provare
+https://www.yelp.it/biz/la-reseda-torino;3884;giornata, favoloso, rimanere, sempre, cuore, giornata favoloso, favoloso rimanere, rimanere sempre, sempre cuore
+https://www.yelp.it/biz/la-reseda-torino;3885;grazie, cuore, grazie cuore
+https://www.yelp.it/biz/la-reseda-torino;3886;tempo, attesa, corretto, ragazzo, occupare, servizio, tavolo, rapido, cortese, tempo attesa, attesa corretto, corretto ragazzo, ragazzo occupare, occupare servizio, servizio tavolo, tavolo rapido, rapido cortese
+https://www.yelp.it/biz/la-reseda-torino;3887;essere, più, volta, ristorante, cameriere, essere, sempre, molto, gentile, affabile, cibo, ottimo, così, prezzo, deciso, abbordabile, essere più, più volta, volta ristorante, ristorante cameriere, cameriere essere, essere sempre, sempre molto, molto gentile, gentile affabile, affabile cibo, cibo ottimo, ottimo così, così prezzo, prezzo deciso, deciso abbordabile
+https://www.yelp.it/biz/la-reseda-torino;3888;unico, piccolo, pecca, proprietario, telefono, prenotare, momento, pagamento, essere, molto, cortese, unico piccolo, piccolo pecca, pecca proprietario, proprietario telefono, telefono prenotare, prenotare momento, momento pagamento, pagamento essere, essere molto, molto cortese
+https://www.yelp.it/biz/la-reseda-torino;3889;scegliere, pizza, aggiunta, signore, esclamare, bene, bene, come, dire, soldo, più, evvai, scegliere pizza, pizza aggiunta, aggiunta signore, signore esclamare, esclamare bene, bene bene, bene come, come dire, dire soldo, soldo più, più evvai
+https://www.yelp.it/biz/la-reseda-torino;3890;pizza, discreto, buon, ristorante, pizza discreto, discreto buon, buon ristorante
+https://www.yelp.it/biz/la-reseda-torino;3891;cuoco, avere, aspetto, burbero, essere, molto, bravo, cuoco avere, avere aspetto, aspetto burbero, burbero essere, essere molto, molto bravo
+https://www.yelp.it/biz/la-reseda-torino;3892;personale, gentile, disponibile, pienone, personale gentile, gentile disponibile, disponibile pienone
+https://www.yelp.it/biz/la-reseda-torino;3893;essere, buono, prezzo, essere, onesto, essere buono, buono prezzo, prezzo essere, essere onesto
+https://www.yelp.it/biz/la-reseda-torino;3894;servizio, essere, rapido, efficiente, proprietario, essere, lavoratore, straordinario, instancabile, sempre, sorridente, servizio essere, essere rapido, rapido efficiente, efficiente proprietario, proprietario essere, essere lavoratore, lavoratore straordinario, straordinario instancabile, instancabile sempre, sempre sorridente
+https://www.yelp.it/biz/la-reseda-torino;3895;ristorante, rinnovare, ben, curare, proprietario, essere, molto, gentile, sentire, agio, ristorante rinnovare, rinnovare ben, ben curare, curare proprietario, proprietario essere, essere molto, molto gentile, gentile sentire, sentire agio
+https://www.yelp.it/biz/la-reseda-torino;3896;carta, vino, modesto, prezzo, equilibrato, carta vino, vino modesto, modesto prezzo, prezzo equilibrato
+https://www.yelp.it/biz/la-reseda-torino;3897;ora, nuovo, gestire, originale, conduttore, risorante, tornare, interessante, ora nuovo, nuovo gestire, gestire originale, originale conduttore, conduttore risorante, risorante tornare, tornare interessante
+https://www.yelp.it/biz/la-reseda-torino;3898;buono, stuzzicante, antipasto, vasto, scelta, asciutto, zuppa, minestra, poi, carne, ottimo, ben, cucinare, anche, pesce, freschissimo, cucinare, perizia, passione, cuoco, storico, buono stuzzicante, stuzzicante antipasto, antipasto vasto, vasto scelta, scelta asciutto, asciutto zuppa, zuppa minestra, minestra poi, poi carne, carne ottimo, ottimo ben, ben cucinare, cucinare anche, anche pesce, pesce freschissimo, freschissimo cucinare, cucinare perizia, perizia passione, passione cuoco, cuoco storico
+https://www.yelp.it/biz/la-reseda-torino;3899;ottimo, successo, ottimo successo
+https://www.yelp.it/biz/la-reseda-torino;3900;locale, presentare, bene, pulire, arredo, lineare, insieme, ambiente, piacevole, eccesso, personale, essere, molto, gentile, cordiale, disponibile, locale presentare, presentare bene, bene pulire, pulire arredo, arredo lineare, lineare insieme, insieme ambiente, ambiente piacevole, piacevole eccesso, eccesso personale, personale essere, essere molto, molto gentile, gentile cordiale, cordiale disponibile
+https://www.yelp.it/biz/la-reseda-torino;3901;locale, ottimo, offrire, piatto, pizza, rapporto, prezzo, interessante, tempo, locale ottimo, ottimo offrire, offrire piatto, piatto pizza, pizza rapporto, rapporto prezzo, prezzo interessante, interessante tempo
+https://www.yelp.it/biz/la-reseda-torino;3902;servizio, veloce, cordiale, efficiente, servizio veloce, veloce cordiale, cordiale efficiente
+https://www.yelp.it/biz/la-reseda-torino;3903;molto, buono, prezzo, medio-bassi, molto buono, buono prezzo, prezzo medio-bassi
+https://www.yelp.it/biz/la-reseda-torino;3904;ottimo, qualità, rapporto, qualità, \prezzo, ottimo qualità, qualità rapporto, rapporto qualità, qualità \prezzo
+https://www.yelp.it/biz/la-reseda-torino;3905;più, simpatia, competenza, personale, sempre, apprezzare, più simpatia, simpatia competenza, competenza personale, personale sempre, sempre apprezzare
+https://www.yelp.it/biz/la-reseda-torino;3906;pieno, soddisfazione, pieno soddisfazione
+https://www.yelp.it/biz/la-reseda-torino;3907;immutato, cordialità, simpatia, proprietario, rappresentare, poi, innegabile, valore, aggiungere, immutato cordialità, cordialità simpatia, simpatia proprietario, proprietario rappresentare, rappresentare poi, poi innegabile, innegabile valore, valore aggiungere
+https://www.yelp.it/biz/la-reseda-torino;3908;tornare, essere, vero, felice, tornare essere, essere vero, vero felice
+https://www.yelp.it/biz/la-reseda-torino;3909;pranzo, clientela, affezionato, pranzo clientela, clientela affezionato
+https://www.yelp.it/biz/la-reseda-torino;3910;cenare, base, pesce, cucinare, raffinatezza, semplice, gustoso, uso, panna, cucina, cenare base, base pesce, pesce cucinare, cucinare raffinatezza, raffinatezza semplice, semplice gustoso, gustoso uso, uso panna, panna cucina
+https://www.yelp.it/biz/la-reseda-torino;3911;pizza, ottimo, fare, differenza, essere, gentilezza, titolare, simpatia, cameriere, pizza ottimo, ottimo fare, fare differenza, differenza essere, essere gentilezza, gentilezza titolare, titolare simpatia, simpatia cameriere
+https://www.yelp.it/biz/la-reseda-torino;3912;pizza, birra, ottimo, cameriere, simpatico, gentile, pizza birra, birra ottimo, ottimo cameriere, cameriere simpatico, simpatico gentile
+https://www.yelp.it/biz/la-reseda-torino;3913;locale, essere, carino, accogliente, locale essere, essere carino, carino accogliente
+https://www.yelp.it/biz/la-reseda-torino;3914;pizza, essere, ottimo, fare, combinazione, checsi, volere, anche, menù, pizza essere, essere ottimo, ottimo fare, fare combinazione, combinazione checsi, checsi volere, volere anche, anche menù
+https://www.yelp.it/biz/la-reseda-torino;3915;anche, personale, essere, molto, gentile, attento, esigenza, cliente, anche personale, personale essere, essere molto, molto gentile, gentile attento, attento esigenza, esigenza cliente
+https://www.yelp.it/biz/la-reseda-torino;3916;buono, dolce, produzione, super, eccellente, servizio, accoglienza, molto, gradire, cioccolato, gentilmente, offrire, fine, cena, buono dolce, dolce produzione, produzione super, super eccellente, eccellente servizio, servizio accoglienza, accoglienza molto, molto gradire, gradire cioccolato, cioccolato gentilmente, gentilmente offrire, offrire fine, fine cena
+https://www.yelp.it/biz/la-reseda-torino;3917;essere, sera, cenetta, dire, semplicemente, ottimo, essere sera, sera cenetta, cenetta dire, dire semplicemente, semplicemente ottimo
+https://www.yelp.it/biz/la-reseda-torino;3918;cucina, fantastico, atmosfera, accogliente, cucina fantastico, fantastico atmosfera, atmosfera accogliente
+https://www.yelp.it/biz/la-reseda-torino;3919;ottimo, pizza, ottimo pizza
+https://www.yelp.it/biz/la-reseda-torino;3920;molto, gentile, ambiente, accogliente, comodo, parcheggio, tempo, molto, comodo, ordine, molto gentile, gentile ambiente, ambiente accogliente, accogliente comodo, comodo parcheggio, parcheggio tempo, tempo molto, molto comodo, comodo ordine
+https://www.yelp.it/biz/la-reseda-torino;3921;personale, essere, molto, gentile, disponibile, cibo, essere, sempre, fresco, pizza, favoloso, personale essere, essere molto, molto gentile, gentile disponibile, disponibile cibo, cibo essere, essere sempre, sempre fresco, fresco pizza, pizza favoloso
+https://www.yelp.it/biz/la-reseda-torino;3922;buono, pizza, servizio, gentile, conto, finale, onesto, pretendere, più, situare, zona, certo, elegante, moda, anche, futuro, davanti, prossimo, grande, industria, alimentare, sfondo, buono pizza, pizza servizio, servizio gentile, gentile conto, conto finale, finale onesto, onesto pretendere, pretendere più, più situare, situare zona, zona certo, certo elegante, elegante moda, moda anche, anche futuro, futuro davanti, davanti prossimo, prossimo grande, grande industria, industria alimentare, alimentare sfondo
+https://www.yelp.it/biz/la-reseda-torino;3923;pizza, buono, personale, cortese, pizza buono, buono personale, personale cortese
+https://www.yelp.it/biz/la-reseda-torino;3924;ottimo, accoglienza, personale, gentile, ottimo accoglienza, accoglienza personale, personale gentile
+https://www.yelp.it/biz/la-reseda-torino;3925;pizza, essere, davvero, buono, pizza essere, essere davvero, davvero buono
+https://www.yelp.it/biz/la-reseda-torino;3926;conto, media, ottimo, pizza, onesto, birra, caffè, conto media, media ottimo, ottimo pizza, pizza onesto, onesto birra, birra caffè
+https://www.yelp.it/biz/la-reseda-torino;3927;locale, essere, pulito, gradevole, menù, vario, buon, livello, locale essere, essere pulito, pulito gradevole, gradevole menù, menù vario, vario buon, buon livello
+https://www.yelp.it/biz/la-reseda-torino;3928;simpatia, professioanlità, personale, pizza, squisito, pesce, simpatia professioanlità, professioanlità personale, personale pizza, pizza squisito, squisito pesce
+https://www.yelp.it/biz/la-reseda-torino;3929;assoluto, tornare, soprattutto, settimana, essere, piu, tranquillo, assoluto tornare, tornare soprattutto, soprattutto settimana, settimana essere, essere piu, piu tranquillo
+https://www.yelp.it/biz/la-reseda-torino;3930;accogliente, simpatico, pulito, ottimo, cibo, ingrediente, qualità, prezzo, familiare, passo, accogliente simpatico, simpatico pulito, pulito ottimo, ottimo cibo, cibo ingrediente, ingrediente qualità, qualità prezzo, prezzo familiare, familiare passo
+https://www.yelp.it/biz/la-reseda-torino;3931;buon, appetito, buon appetito
+https://www.yelp.it/biz/la-reseda-torino;3932;assoluto, provare, assoluto provare
+https://www.yelp.it/biz/la-reseda-torino;3933;davvero, ottimo, davvero ottimo
+https://www.yelp.it/biz/la-reseda-torino;3934;mangiare, divino, pesce, anche, pizza, mangiare divino, divino pesce, pesce anche, anche pizza
+https://www.yelp.it/biz/la-reseda-torino;3935;ottimo, piatto, pesce, oltre, squisito, pizza, ottimo piatto, piatto pesce, pesce oltre, oltre squisito, squisito pizza
+https://www.yelp.it/biz/la-reseda-torino;3936;gentilezza, locale, luminoso, qualità, gentilezza locale, locale luminoso, luminoso qualità
+https://www.yelp.it/biz/la-reseda-torino;3937;ricerca, locale, moderno, familiare, mangiare, divino, ricerca locale, locale moderno, moderno familiare, familiare mangiare, mangiare divino
+https://www.yelp.it/biz/la-reseda-torino;3938;ottimo, pizza, anche, integrale, ottimo, piatto, soprattutto, pesce, ottimo pizza, pizza anche, anche integrale, integrale ottimo, ottimo piatto, piatto soprattutto, soprattutto pesce
+https://www.yelp.it/biz/la-reseda-torino;3939;garanzia, bello, serata, buon, cibo, prezzo, giusto, garanzia bello, bello serata, serata buon, buon cibo, cibo prezzo, prezzo giusto
+https://www.yelp.it/biz/la-reseda-torino;3940;bello, posto, sembrare, nemmeno, ristorante, pulito, luminoso, reception, impressione, contare, tanto, accoglienza, anche, bene, bello posto, posto sembrare, sembrare nemmeno, nemmeno ristorante, ristorante pulito, pulito luminoso, luminoso reception, reception impressione, impressione contare, contare tanto, tanto accoglienza, accoglienza anche, anche bene
+https://www.yelp.it/biz/la-reseda-torino;3941;coccolare, servire, arte, pizza, pesce, buono, vino, birra, anche, dolce, chiudere, bellezza, passaggio, coccolare servire, servire arte, arte pizza, pizza pesce, pesce buono, buono vino, vino birra, birra anche, anche dolce, dolce chiudere, chiudere bellezza, bellezza passaggio
+https://www.yelp.it/biz/la-reseda-torino;3942;ottimo, posto, sempre, titolare, eccezionale, ottimo posto, posto sempre, sempre titolare, titolare eccezionale
+https://www.yelp.it/biz/la-reseda-torino;3943;ottimare, farina, integrale, raritá, ottimare farina, farina integrale, integrale raritá
+https://www.yelp.it/biz/la-reseda-torino;3944;disponibile, innumerevole, pizza, anche, interessante, disponibile innumerevole, innumerevole pizza, pizza anche, anche interessante
+https://www.yelp.it/biz/la-reseda-torino;3945;attesa, offrire, gustoso, piccante, stuzzichino, casa, attesa offrire, offrire gustoso, gustoso piccante, piccante stuzzichino, stuzzichino casa
+https://www.yelp.it/biz/la-reseda-torino;3946;diverso, solito, ben, condire, gusto, fantastico, diverso solito, solito ben, ben condire, condire gusto, gusto fantastico
+https://www.yelp.it/biz/la-reseda-torino;3947;veloce, servizio, locale, essere, molto, bello, pulito, veloce servizio, servizio locale, locale essere, essere molto, molto bello, bello pulito
+https://www.yelp.it/biz/la-reseda-torino;3948;rinnovare, arredamento, piacevole, accogliente, servizio, essere, preciso, consiglio, utile, scelta, pietanza, rinnovare arredamento, arredamento piacevole, piacevole accogliente, accogliente servizio, servizio essere, essere preciso, preciso consiglio, consiglio utile, utile scelta, scelta pietanza
+https://www.yelp.it/biz/la-reseda-torino;3949;antipasto, molto, buono, abbondare, pizza, integrale, sapore, originale, dolce, sapore, molto, delicato, atmosfera, tranquillo, permettere, dialogare, antipasto molto, molto buono, buono abbondare, abbondare pizza, pizza integrale, integrale sapore, sapore originale, originale dolce, dolce sapore, sapore molto, molto delicato, delicato atmosfera, atmosfera tranquillo, tranquillo permettere, permettere dialogare
+https://www.yelp.it/biz/la-reseda-torino;3950;scoprire, locale, deciso, piacevole, accogliente, gestione, familiare, origine, salentine, ritrovare, piatto, scoprire locale, locale deciso, deciso piacevole, piacevole accogliente, accogliente gestione, gestione familiare, familiare origine, origine salentine, salentine ritrovare, ritrovare piatto
+https://www.yelp.it/biz/la-reseda-torino;3951;locale, piacevole, impatto, iniziale, arredare, stile, personale, simpatico, preparato, disponibile, locale piacevole, piacevole impatto, impatto iniziale, iniziale arredare, arredare stile, stile personale, personale simpatico, simpatico preparato, preparato disponibile
+https://www.yelp.it/biz/la-reseda-torino;3952;molto, gustoso, antipasto, iniziale, offrire, ristorante, accompagnare, pane, molto gustoso, gustoso antipasto, antipasto iniziale, iniziale offrire, offrire ristorante, ristorante accompagnare, accompagnare pane
+https://www.yelp.it/biz/la-reseda-torino;3953;essere, sempre, vero, piacere, riscoprire, sapore, terra, straordinario, essere sempre, sempre vero, vero piacere, piacere riscoprire, riscoprire sapore, sapore terra, terra straordinario
+https://www.yelp.it/biz/la-reseda-torino;3954;meraviglioso, momento, eccellenza, tradizione, riportare, riscoperta, valore, vero, meraviglioso momento, momento eccellenza, eccellenza tradizione, tradizione riportare, riportare riscoperta, riscoperta valore, valore vero
+https://www.yelp.it/biz/la-reseda-torino;3955;buono, cucina, buono cucina
+https://www.yelp.it/biz/la-reseda-torino;3956;solito, cordialità, proprietario, personale, rendere, piacevole, cenare, locale, solito cordialità, cordialità proprietario, proprietario personale, personale rendere, rendere piacevole, piacevole cenare, cenare locale
+https://www.yelp.it/biz/la-reseda-torino;3957;carino, anche, essere, caratteristica, famiglia, bello, modo, fare, gentilezza, carino anche, anche essere, essere caratteristica, caratteristica famiglia, famiglia bello, bello modo, modo fare, fare gentilezza
+https://www.yelp.it/biz/la-reseda-torino;3958;sublime, prelibatezza, sublime prelibatezza
+https://www.yelp.it/biz/la-reseda-torino;3959;girare, tavolo, avere, attenzione, particolare, cliente, sempre, pronto, scambiare, parola, mettere, agio, girare tavolo, tavolo avere, avere attenzione, attenzione particolare, particolare cliente, cliente sempre, sempre pronto, pronto scambiare, scambiare parola, parola mettere, mettere agio
+https://www.yelp.it/biz/la-reseda-torino;3960;buono, anche, proposta, vino, piemontese, buono anche, anche proposta, proposta vino, vino piemontese
+https://www.yelp.it/biz/la-reseda-torino;3961;volta, rimanere, soddisfare, volta rimanere, rimanere soddisfare
+https://www.yelp.it/biz/la-reseda-torino;3962;servizio, cortese, veloce, locale, abbastanza, ampio, luminoso, servizio cortese, cortese veloce, veloce locale, locale abbastanza, abbastanza ampio, ampio luminoso
+https://www.yelp.it/biz/la-reseda-torino;3963;buono, pizza, buono, piatto, ottimo, dolce, buono pizza, pizza buono, buono piatto, piatto ottimo, ottimo dolce
+https://www.yelp.it/biz/la-reseda-torino;3964;carrello, dolce, essere, gioia, occhio, carrello dolce, dolce essere, essere gioia, gioia occhio
+https://www.yelp.it/biz/la-reseda-torino;3965;ultimo, volta, ieri, provare, bunnet, vero, ottimo, ultimo volta, volta ieri, ieri provare, provare bunnet, bunnet vero, vero ottimo
+https://www.yelp.it/biz/la-reseda-torino;3966;buono, pizza, anche, farina, integrale, scelta, anche, molto, particolare, birra, molto, buono, pizza, birra, caffè, buono pizza, pizza anche, anche farina, farina integrale, integrale scelta, scelta anche, anche molto, molto particolare, particolare birra, birra molto, molto buono, buono pizza, pizza birra, birra caffè
+https://www.yelp.it/biz/la-reseda-torino;3967;locale, essere, molto, carino, personale, educato, disponibile, pizza, molto, buono, preparare, allestimento, diverso, locale essere, essere molto, molto carino, carino personale, personale educato, educato disponibile, disponibile pizza, pizza molto, molto buono, buono preparare, preparare allestimento, allestimento diverso
+https://www.yelp.it/biz/la-reseda-torino;3968;deciso, ottimo, deciso ottimo
+https://www.yelp.it/biz/la-reseda-torino;3969;sorbetto, caffè, limoncello, spesa, piacevolmente, sorprendente, sorbetto caffè, caffè limoncello, limoncello spesa, spesa piacevolmente, piacevolmente sorprendente
+https://www.yelp.it/biz/la-reseda-torino;3970;proprietario, essere, signore, passare, silenzioso, tavolo, molto, attento, pacato, proprietario essere, essere signore, signore passare, passare silenzioso, silenzioso tavolo, tavolo molto, molto attento, attento pacato
+https://www.yelp.it/biz/la-reseda-torino;3971;piacere, trovare, ambiente, piacere trovare, trovare ambiente
+https://www.yelp.it/biz/la-reseda-torino;3972;essere, ristorante, deciso, superiore, media, qualità, varietà, cibo, presentazione, piatto, generosità, porzione, essere ristorante, ristorante deciso, deciso superiore, superiore media, media qualità, qualità varietà, varietà cibo, cibo presentazione, presentazione piatto, piatto generosità, generosità porzione
+https://www.yelp.it/biz/la-reseda-torino;3973;vero, ciliegina, torta, vero ciliegina, ciliegina torta
+https://www.yelp.it/biz/la-reseda-torino;3974;provare, credere, provare credere
+https://www.yelp.it/biz/la-reseda-torino;3975;dire, essere, semplicemente, meraviglioso, dire essere, essere semplicemente, semplicemente meraviglioso
+https://www.yelp.it/biz/la-reseda-torino;3976;buono, qualità, piatto, buono qualità, qualità piatto
+https://www.yelp.it/biz/la-reseda-torino;3977;pesce, buono, qualità, pesce buono, buono qualità
+https://www.yelp.it/biz/la-reseda-torino;3978;personale, cordiale, personale cordiale
+https://www.yelp.it/biz/la-reseda-torino;3979;essere, parte, cena, meritare, prova, essere parte, parte cena, cena meritare, meritare prova
+https://www.yelp.it/biz/la-reseda-torino;3980;cena, eccezionale, pesce, sopraffino, cucina, ottimo, cena eccezionale, eccezionale pesce, pesce sopraffino, sopraffino cucina, cucina ottimo
+https://www.yelp.it/biz/la-reseda-torino;3981;proprietario, gentile, cortese, simpaticissimi, proprietario gentile, gentile cortese, cortese simpaticissimi
+https://www.yelp.it/biz/la-reseda-torino;3982;provare, credere, provare credere
+https://www.yelp.it/biz/la-reseda-torino;3983;possibile, euro, menù, pesce, regalare, qualità, genuinità, naturalità, possibile euro, euro menù, menù pesce, pesce regalare, regalare qualità, qualità genuinità, genuinità naturalità
+https://www.yelp.it/biz/la-reseda-torino;3984;ben, tornare, ben tornare
+https://www.yelp.it/biz/la-reseda-torino;3985;cena, amico, concerto, proprietario, simpatico, gentile, ottimo, pizza, cena amico, amico concerto, concerto proprietario, proprietario simpatico, simpatico gentile, gentile ottimo, ottimo pizza
+https://www.yelp.it/biz/la-reseda-torino;3986;cameriere, essere, simpatico, disponibile, pizza, essere, insuperabile, cucina, cameriere essere, essere simpatico, simpatico disponibile, disponibile pizza, pizza essere, essere insuperabile, insuperabile cucina
+https://www.yelp.it/biz/la-reseda-torino;3987;locale, grazioso, pulire, adatto, famiglia, locale grazioso, grazioso pulire, pulire adatto, adatto famiglia
+https://www.yelp.it/biz/la-reseda-torino;3988;buono, sera, novembre, locale, cambiare, gestione, vicissitudine, gestore, originario, riprendere, locale, buono sera, sera novembre, novembre locale, locale cambiare, cambiare gestione, gestione vicissitudine, vicissitudine gestore, gestore originario, originario riprendere, riprendere locale
+https://www.yelp.it/biz/la-reseda-torino;3989;personale, simpatico, personale simpatico
+https://www.yelp.it/biz/la-reseda-torino;3990;cibo, divino, più, scelto, anche, cibo, più, semplice, leggero, mitico, crema, catalana, cibo divino, divino più, più scelto, scelto anche, anche cibo, cibo più, più semplice, semplice leggero, leggero mitico, mitico crema, crema catalana
+https://www.yelp.it/biz/la-reseda-torino;3991;prima, essere, sublime, prima essere, essere sublime
+https://www.yelp.it/biz/la-reseda-torino;3992;accoglienza, perfetto, personale, moooolto, gentile, accoglienza perfetto, perfetto personale, personale moooolto, moooolto gentile
+https://www.yelp.it/biz/la-reseda-torino;3993;menù, presentare, deciso, bene, cucina, creativo, stesso, tempo, tradizionale, pizza, essere, squisito, anche, restanti, piatto, meritare, assaggiare, menù presentare, presentare deciso, deciso bene, bene cucina, cucina creativo, creativo stesso, stesso tempo, tempo tradizionale, tradizionale pizza, pizza essere, essere squisito, squisito anche, anche restanti, restanti piatto, piatto meritare, meritare assaggiare
+https://www.yelp.it/biz/la-reseda-torino;3994;molto, accurato, raffinare, presentazione, piatto, molto accurato, accurato raffinare, raffinare presentazione, presentazione piatto
+https://www.yelp.it/biz/la-reseda-torino;3995;dolce, essere, vero, delizia, x, palato, dolce essere, essere vero, vero delizia, delizia x, x palato
+https://www.yelp.it/biz/la-reseda-torino;3996;degno, nota, cucina, parere, controllato, seguire, ampio, esperienza, idea, creativo, qualità, pizza, più, soddisfacente, degno nota, nota cucina, cucina parere, parere controllato, controllato seguire, seguire ampio, ampio esperienza, esperienza idea, idea creativo, creativo qualità, qualità pizza, pizza più, più soddisfacente
+https://www.yelp.it/biz/la-reseda-torino;3997;finalmente, locale, rinnovare, accogliente, ottimo, rapporto, qualità, prezzo, anche, colazione, perfetto, finalmente locale, locale rinnovare, rinnovare accogliente, accogliente ottimo, ottimo rapporto, rapporto qualità, qualità prezzo, prezzo anche, anche colazione, colazione perfetto
+https://www.yelp.it/biz/la-reseda-torino;3998;cena, lavoro, cliente, importante, accoglienza, servizio, superbo, cucina, ottimo, qualità, presentazione, piatto, ottimo, pizzeria, avere, niente, vedere, qualità, scarso, trovare, giro, ottimo, cena lavoro, lavoro cliente, cliente importante, importante accoglienza, accoglienza servizio, servizio superbo, superbo cucina, cucina ottimo, ottimo qualità, qualità presentazione, presentazione piatto, piatto ottimo, ottimo pizzeria, pizzeria avere, avere niente, niente vedere, vedere qualità, qualità scarso, scarso trovare, trovare giro, giro ottimo
+https://www.yelp.it/biz/la-reseda-torino;3999;bello, atmosfera, molto, accogliente, bello atmosfera, atmosfera molto, molto accogliente
+https://www.yelp.it/biz/la-reseda-torino;4000;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/la-reseda-torino;4001;ristorante, pizzeria, conduzione, famigliare, qualità, piatto, ingrediente, sembrare, buono, aspetto, migliore, essere, cortesia, disponibilità, coppia, gestire, ristorante pizzeria, pizzeria conduzione, conduzione famigliare, famigliare qualità, qualità piatto, piatto ingrediente, ingrediente sembrare, sembrare buono, buono aspetto, aspetto migliore, migliore essere, essere cortesia, cortesia disponibilità, disponibilità coppia, coppia gestire
+https://www.yelp.it/biz/la-reseda-torino;4002;resto, ristorazione, essere, buono, media, rispetto, buono, ristorante, trovare, resto ristorazione, ristorazione essere, essere buono, buono media, media rispetto, rispetto buono, buono ristorante, ristorante trovare
+https://www.yelp.it/biz/la-reseda-torino;4003;sempre, ottimo, qualità, sempre ottimo, ottimo qualità
+https://www.yelp.it/biz/la-reseda-torino;4004;accogliere, signore, davvero, cortese, accogliere signore, signore davvero, davvero cortese
+https://www.yelp.it/biz/la-reseda-torino;4005;comunque, consiglio, grande, piccino, complimento, Staff, comunque consiglio, consiglio grande, grande piccino, piccino complimento, complimento staff
+https://www.yelp.it/biz/la-reseda-torino;4006;anche, locale, essere, carino, pulito, anche locale, locale essere, essere carino, carino pulito
+https://www.yelp.it/biz/la-reseda-torino;4007;cuoco, molto, simpatico, cuoco molto, molto simpatico
+https://www.yelp.it/biz/la-reseda-torino;4008;gestore, molto, gentile, menù, vario, invitante, gestore molto, molto gentile, gentile menù, menù vario, vario invitante
+https://www.yelp.it/biz/la-reseda-torino;4009;ottimo, antipasto, pesce, grande, rapporto, qualità, prezzo, ottimo antipasto, antipasto pesce, pesce grande, grande rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/la-reseda-torino;4010;porzione, essere, davvero, abbondante, rapporto, qualità, prezzo, essere, ottimo, porzione essere, essere davvero, davvero abbondante, abbondante rapporto, rapporto qualità, qualità prezzo, prezzo essere, essere ottimo
+https://www.yelp.it/biz/la-reseda-torino;4011;presente, anche, discreto, scelta, dolce, presente anche, anche discreto, discreto scelta, scelta dolce
+https://www.yelp.it/biz/la-reseda-torino;4012;fine, buon, rapporto, qualità, prezzo, pizza, birra, caffè, liquore, fine buon, buon rapporto, rapporto qualità, qualità prezzo, prezzo pizza, pizza birra, birra caffè, caffè liquore
+https://www.yelp.it/biz/la-reseda-torino;4013;pizzeria, discreto, basico, nells, normalità, pizzeria discreto, discreto basico, basico nells, nells normalità
+https://www.yelp.it/biz/la-reseda-torino;4014;fenomenale, prezzo, norma, fenomenale prezzo, prezzo norma
+https://www.yelp.it/biz/la-reseda-torino;4015;antipasto, gustoso, pizza, abbastanza, spesso, piacere, discreto, birra, friulano, provare, antipasto gustoso, gustoso pizza, pizza abbastanza, abbastanza spesso, spesso piacere, piacere discreto, discreto birra, birra friulano, friulano provare
+https://www.yelp.it/biz/la-reseda-torino;4016;locale, adatto, serata, pretesa, locale adatto, adatto serata, serata pretesa
+https://www.yelp.it/biz/la-reseda-torino;4017;personale, essere, gentile, disponibile, assecondare, gusto, desiderio, cliente, personale essere, essere gentile, gentile disponibile, disponibile assecondare, assecondare gusto, gusto desiderio, desiderio cliente
+https://www.yelp.it/biz/la-reseda-torino;4018;semplicemente, favoloso, semplicemente favoloso
+https://www.yelp.it/biz/la-reseda-torino;4019;antipasto, abbondante, ricco, sapore, antipasto abbondante, abbondante ricco, ricco sapore
+https://www.yelp.it/biz/la-reseda-torino;4020;ottimo, dolce, ottimo dolce
+https://www.yelp.it/biz/la-reseda-torino;4021;buon, rapporto, qualità/prezzo, buon rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/la-reseda-torino;4022;simpatia, tanto, assoluto, gratis, simpatia tanto, tanto assoluto, assoluto gratis
+https://www.yelp.it/biz/la-reseda-torino;4023;delizioso, fragrante, mix, sapore, garantire, prodotto, estremo, gustoso, genuino, delizioso fragrante, fragrante mix, mix sapore, sapore garantire, garantire prodotto, prodotto estremo, estremo gustoso, gustoso genuino
+https://www.yelp.it/biz/la-reseda-torino;4024;servizio, infatti, essere, rapido, atmosfera, creare, complesso, essere, familiare, naturale, piacevole, servizio infatti, infatti essere, essere rapido, rapido atmosfera, atmosfera creare, creare complesso, complesso essere, essere familiare, familiare naturale, naturale piacevole
+https://www.yelp.it/biz/la-reseda-torino;4025;inoltre, commensale, tavolo, provare, impasto, integrale, anche, confermare, pizza, ottimo, fattura, inoltre commensale, commensale tavolo, tavolo provare, provare impasto, impasto integrale, integrale anche, anche confermare, confermare pizza, pizza ottimo, ottimo fattura
+https://www.yelp.it/biz/la-reseda-torino;4026;rapporto, qualità, prezzo, ottimo, rapporto qualità, qualità prezzo, prezzo ottimo
+https://www.yelp.it/biz/la-reseda-torino;4027;essere, disponibile, gentile, attenti, essere disponibile, disponibile gentile, gentile attenti
+https://www.yelp.it/biz/la-reseda-torino;4028;qualità, prodotto, essere, molto, buono, costo, pranzo, essere, media, qualità prodotto, prodotto essere, essere molto, molto buono, buono costo, costo pranzo, pranzo essere, essere media
+https://www.yelp.it/biz/la-reseda-torino;4029;gentile, anche, personale, ottimo, anche, prezzo, pizza, dolce, acqua, coperto, contorno, davvero, ottimo, gentile anche, anche personale, personale ottimo, ottimo anche, anche prezzo, prezzo pizza, pizza dolce, dolce acqua, acqua coperto, coperto contorno, contorno davvero, davvero ottimo
+https://www.yelp.it/biz/la-reseda-torino;4030;servizio, impeccabile, servizio impeccabile
+https://www.yelp.it/biz/la-reseda-torino;4031;essere, capolavoro, essere capolavoro
+https://www.yelp.it/biz/la-reseda-torino;4032;piatto, sempre, fresco, preparato, momento, piatto sempre, sempre fresco, fresco preparato, preparato momento
+https://www.yelp.it/biz/la-reseda-torino;4033;ottimo, piatto, pesce, ottimo piatto, piatto pesce
+https://www.yelp.it/biz/la-reseda-torino;4034;piatto, delizioso, piatto delizioso
+https://www.yelp.it/biz/la-reseda-torino;4035;qui, gustare, vero, qui gustare, gustare vero
+https://www.yelp.it/biz/la-reseda-torino;4036;ottimare, anche, pizza, ottimare anche, anche pizza
+https://www.yelp.it/biz/la-reseda-torino;4037;pizza, essere, particolare, pizza essere, essere particolare

@@ -1,0 +1,23 @@
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14382;personale, giovane, cortese, personale giovane, giovane cortese
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14383;ottimo, ottimo, birra, ottimo, ottimo ottimo, ottimo birra, birra ottimo
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14384;provare, credere, provare credere
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14385;mangiare, bene, mangiare bene
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14386;cibo, spettacolare, bello, buono, cibo spettacolare, spettacolare bello, bello buono
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14387;servizio, molto, buono, cibo, vero, ottimo, servizio molto, molto buono, buono cibo, cibo vero, vero ottimo
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14388;patata, abbastanza, buono, patata abbastanza, abbastanza buono
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14389;locale, essere, bello, tipico, personale, giovane, gentile, cercare, sentire, agio, locale essere, essere bello, bello tipico, tipico personale, personale giovane, giovane gentile, gentile cercare, cercare sentire, sentire agio
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14390;buono, fortuna, buono fortuna
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14391;personale, simpatico, personale simpatico
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14392;atmosfera, splendido, atmosfera splendido
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14393;bello, pub, stile, inglese, bello pub, pub stile, stile inglese
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14394;cibo, essere, spettacolare, cibo essere, essere spettacolare
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14395;cucinare, poco, stimolante, cucinare poco, poco stimolante
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14396;buono, idea, giro, buono idea, idea giro
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14397;menù, ricco, vasto, scelta, birra, menù ricco, ricco vasto, vasto scelta, scelta birra
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14398;commento, essere, puro, superfluo, commento essere, essere puro, puro superfluo
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14399;cameriere, essere, gentile, bastare, cameriere essere, essere gentile, gentile bastare
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14400;pulizia, maniacale, cucina, piatto, estremo, notevole, gustoso, adatto, più, piccino, più, grande, pulizia maniacale, maniacale cucina, cucina piatto, piatto estremo, estremo notevole, notevole gustoso, gustoso adatto, adatto più, più piccino, piccino più, più grande
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14401;fantastico, panino, fantastico panino
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14402;complimentare, gestione, complimentare gestione
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14403;buono, scelta, birra, buono scelta, scelta birra
+https://www.yelp.it/biz/the-duke-of-wellington-torino;14404;personale, essere, molto, gentile, sempre, pronto, aiutare, personale essere, essere molto, molto gentile, gentile sempre, sempre pronto, pronto aiutare

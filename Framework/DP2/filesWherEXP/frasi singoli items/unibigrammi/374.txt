@@ -1,0 +1,19 @@
+https://www.yelp.it/biz/japs-torino-3;14405;correggere, conto, correggere conto
+https://www.yelp.it/biz/japs-torino-3;14406;resto, buono, resto buono
+https://www.yelp.it/biz/japs-torino-3;14407;sempre, caro, sempre caro
+https://www.yelp.it/biz/japs-torino-3;14408;super, consigliatissimo, super consigliatissimo
+https://www.yelp.it/biz/japs-torino-3;14409;buono, rapporto, qualità, prezzo, buono rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/japs-torino-3;14410;nota, merito, personale, molto, cordiale, nota merito, merito personale, personale molto, molto cordiale
+https://www.yelp.it/biz/japs-torino-3;14411;ottimo, sushi, ottimo sushi
+https://www.yelp.it/biz/japs-torino-3;14412;servizio, cortese, veloce, servizio cortese, cortese veloce
+https://www.yelp.it/biz/japs-torino-3;14413;molto, meglio, molto meglio
+https://www.yelp.it/biz/japs-torino-3;14414;però, ottimo, qualità, però ottimo, ottimo qualità
+https://www.yelp.it/biz/japs-torino-3;14415;anche, dolce, anche dolce
+https://www.yelp.it/biz/japs-torino-3;14416;grazie, ancora, grazie ancora
+https://www.yelp.it/biz/japs-torino-3;14417;essere, giusto, essere, così, essere giusto, giusto essere, essere così
+https://www.yelp.it/biz/japs-torino-3;14418;ottimo, qualità, prodotto, servizio, ottimo qualità, qualità prodotto, prodotto servizio
+https://www.yelp.it/biz/japs-torino-3;14419;locale, piccolo, pulito, carino, locale piccolo, piccolo pulito, pulito carino
+https://www.yelp.it/biz/japs-torino-3;14420;servizio, cordiale, servizio cordiale
+https://www.yelp.it/biz/japs-torino-3;14421;consiglio, vivo, consegnare, persona, gentile, consiglio vivo, vivo consegnare, consegnare persona, persona gentile
+https://www.yelp.it/biz/japs-torino-3;14422;pesce, ottimo, qualitá, menù, eccellente, pesce ottimo, ottimo qualitá, qualitá menù, menù eccellente
+https://www.yelp.it/biz/japs-torino-3;14423;consigliare, grande, consigliare grande

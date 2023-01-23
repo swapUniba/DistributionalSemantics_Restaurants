@@ -1,0 +1,48 @@
+https://www.yelp.it/biz/la-madia-torino;15161;servizio, molto, buono, servizio molto, molto buono
+https://www.yelp.it/biz/la-madia-torino;15162;guancia, ottimo, guancia ottimo
+https://www.yelp.it/biz/la-madia-torino;15163;carta, vino, discreto, carta vino, vino discreto
+https://www.yelp.it/biz/la-madia-torino;15164;buono, cantina, vino, buono cantina, cantina vino
+https://www.yelp.it/biz/la-madia-torino;15165;personale, gentile, preparare, personale gentile, gentile preparare
+https://www.yelp.it/biz/la-madia-torino;15166;menu, essere, davvero, ottimo, antipasto, soprattutto, polpo, morbido, menu essere, essere davvero, davvero ottimo, ottimo antipasto, antipasto soprattutto, soprattutto polpo, polpo morbido
+https://www.yelp.it/biz/la-madia-torino;15167;bravo, complimentare, bravo complimentare
+https://www.yelp.it/biz/la-madia-torino;15168;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/la-madia-torino;15169;ottimo, piatto, ottimo piatto
+https://www.yelp.it/biz/la-madia-torino;15170;servizio, molto, professionale, servizio molto, molto professionale
+https://www.yelp.it/biz/la-madia-torino;15171;bravo, complimento, presto, bravo complimento, complimento presto
+https://www.yelp.it/biz/la-madia-torino;15172;bravo, bravo, bravo, bravo bravo, bravo bravo
+https://www.yelp.it/biz/la-madia-torino;15173;servizio, ottimo, servizio ottimo
+https://www.yelp.it/biz/la-madia-torino;15174;riuscire, migliorare, essere, già, fantastico, riuscire migliorare, migliorare essere, essere già, già fantastico
+https://www.yelp.it/biz/la-madia-torino;15175;essere, molto, preparato, gentile, sempre, attento, esigenza, essere molto, molto preparato, preparato gentile, gentile sempre, sempre attento, attento esigenza
+https://www.yelp.it/biz/la-madia-torino;15176;servizio, cordiale, servizio cordiale
+https://www.yelp.it/biz/la-madia-torino;15177;qualità, cibo, essere, eccellente, qualità cibo, cibo essere, essere eccellente
+https://www.yelp.it/biz/la-madia-torino;15178;vero, signore, vero signore
+https://www.yelp.it/biz/la-madia-torino;15179;sorpresa, conto, sorpresa conto
+https://www.yelp.it/biz/la-madia-torino;15180;caffè, ottimo, rapporto, qualità, prezzo, caffè ottimo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/la-madia-torino;15181;ambiente, elegante, semplicità, ambiente elegante, elegante semplicità
+https://www.yelp.it/biz/la-madia-torino;15182;personale, discreto, gentile, personale discreto, discreto gentile
+https://www.yelp.it/biz/la-madia-torino;15183;cibo, ottimo, cibo ottimo
+https://www.yelp.it/biz/la-madia-torino;15184;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/la-madia-torino;15185;tavolo, ben, spaziare, tavolo ben, ben spaziare
+https://www.yelp.it/biz/la-madia-torino;15186;morbidezza, croccantezza, stesso, tempo, morbidezza croccantezza, croccantezza stesso, stesso tempo
+https://www.yelp.it/biz/la-madia-torino;15187;dolce, inarrivabile, divini, dolce inarrivabile, inarrivabile divini
+https://www.yelp.it/biz/la-madia-torino;15188;complesso, comunque, stare, bene, complesso comunque, comunque stare, stare bene
+https://www.yelp.it/biz/la-madia-torino;15189;precollina, molto, elegante, ricercare, cibo, ben, preparato, ben, presentare, ottimo, precollina molto, molto elegante, elegante ricercare, ricercare cibo, cibo ben, ben preparato, preparato ben, ben presentare, presentare ottimo
+https://www.yelp.it/biz/la-madia-torino;15190;ottimo, ristorante, comunque, ottimo ristorante, ristorante comunque
+https://www.yelp.it/biz/la-madia-torino;15191;menù, qualità, ottimo, presentazione, piatto, accostamento, molto, interessante, menù qualità, qualità ottimo, ottimo presentazione, presentazione piatto, piatto accostamento, accostamento molto, molto interessante
+https://www.yelp.it/biz/la-madia-torino;15192;piacevole, scoperta, piacevole scoperta
+https://www.yelp.it/biz/la-madia-torino;15193;vedere, spettacolare, vedere spettacolare
+https://www.yelp.it/biz/la-madia-torino;15194;polpo, meraviglioso, ridere, spettacolare, polpo meraviglioso, meraviglioso ridere, ridere spettacolare
+https://www.yelp.it/biz/la-madia-torino;15195;bravo, bravo, bravo bravo
+https://www.yelp.it/biz/la-madia-torino;15196;davvero, squisito, filetto, morbido, saporire, davvero squisito, squisito filetto, filetto morbido, morbido saporire
+https://www.yelp.it/biz/la-madia-torino;15197;sempre, meglio, anche, sempre meglio, meglio anche
+https://www.yelp.it/biz/la-madia-torino;15198;avere, buono, carta, vino, avere buono, buono carta, carta vino
+https://www.yelp.it/biz/la-madia-torino;15199;sala, carino, accogliente, sala carino, carino accogliente
+https://www.yelp.it/biz/la-madia-torino;15200;molto, piacevole, rivisitazioni, piatto, caprese, molto piacevole, piacevole rivisitazioni, rivisitazioni piatto, piatto caprese
+https://www.yelp.it/biz/la-madia-torino;15201;personale, gentile, collaborare, riuscita, sorpresa, festeggiato, personale gentile, gentile collaborare, collaborare riuscita, riuscita sorpresa, sorpresa festeggiato
+https://www.yelp.it/biz/la-madia-torino;15202;raffinato, elegante, raffinato elegante
+https://www.yelp.it/biz/la-madia-torino;15203;personale, qualificato, molto, gentile, personale qualificato, qualificato molto, molto gentile
+https://www.yelp.it/biz/la-madia-torino;15204;sangiok, mojito, sangiok mojito
+https://www.yelp.it/biz/la-madia-torino;15205;complimentare, bravo, complimentare bravo
+https://www.yelp.it/biz/la-madia-torino;15206;personale, cordiale, servizio, ineccepibile, personale cordiale, cordiale servizio, servizio ineccepibile
+https://www.yelp.it/biz/la-madia-torino;15207;grazie, cuore, grazie cuore
+https://www.yelp.it/biz/la-madia-torino;15208;buttare, divertire, buttare divertire

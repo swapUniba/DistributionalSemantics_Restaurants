@@ -1,0 +1,42 @@
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18464;buono, lista, vino, buono lista, lista vino
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18465;rapporto, qualità/prezzo, ottimo, rapporto qualità/prezzo, qualità/prezzo ottimo
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18466;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18467;bello, location, personale, gentile, bello location, location personale, personale gentile
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18468;gesto, molto, apprezzato, gesto molto, molto apprezzato
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18469;ispirare, locale, pulito, servizio, molto, cortese, locale, consigliatissimo, ispirare locale, locale pulito, pulito servizio, servizio molto, molto cortese, cortese locale, locale consigliatissimo
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18470;serata, piacevole, serata piacevole
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18471;pizza, essere, fantastico, pizza essere, essere fantastico
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18472;impasto, soffice, digeribile, impasto soffice, soffice digeribile
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18473;personale, gentile, simpatico, personale gentile, gentile simpatico
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18474;buono, scelta, amaro, buono scelta, scelta amaro
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18475;cosa, piu, bello, essere, velocità, servizio, cosa piu, piu bello, bello essere, essere velocità, velocità servizio
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18476;arredamento, molto, particolare, arredamento molto, molto particolare
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18477;idea, pizza, servire, tagliere, farinata, portare, assaggio, idea pizza, pizza servire, servire tagliere, tagliere farinata, farinata portare, portare assaggio
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18478;buono, servizio, buono servizio
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18479;cliente, contento, soddisfare, cliente contento, contento soddisfare
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18480;personale, gentile, personale gentile
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18481;serata, ragazzo, serata ragazzo
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18482;locale, essere, semplice, pizza, essere, più, buono, mangiare, locale essere, essere semplice, semplice pizza, pizza essere, essere più, più buono, buono mangiare
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18483;pizza, particolare, molto, buono, pizza particolare, particolare molto, molto buono
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18484;bello, idea, bello idea
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18485;farinata, pizza, davvero, buono, possibilità, scelta, molto, vario, farinata pizza, pizza davvero, davvero buono, buono possibilità, possibilità scelta, scelta molto, molto vario
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18486;ottimare, panna, cotto, ottimare panna, panna cotto
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18487;pizza, insuperabile, pizza insuperabile
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18488;pizza, eccezionale, pizza eccezionale
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18489;personale, cortese, attento, personale cortese, cortese attento
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18490;impasto, eccezionale, impasto eccezionale
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18491;provare, pentirsi, provare pentirsi
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18492;davvero, consigliatissimo, davvero consigliatissimo
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18493;ottimo, pizza, ottimo, farinata, ottimo pizza, pizza ottimo, ottimo farinata
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18494;menzione, particolare, ottimo, birra, bevuta, menzione particolare, particolare ottimo, ottimo birra, birra bevuta
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18495;essere, molto, gentile, piacevole, attento, essere molto, molto gentile, gentile piacevole, piacevole attento
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18496;locale, pulito, stiloso, disponibile, personale, gentile, simpatico, locale pulito, pulito stiloso, stiloso disponibile, disponibile personale, personale gentile, gentile simpatico
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18497;semplicemente, ottimo, semplicemente ottimo
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18498;locale, carino, accogliente, locale carino, carino accogliente
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18499;locale, molto, cariare, personale, gentile, mano, locale molto, molto cariare, cariare personale, personale gentile, gentile mano
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18500;ottimo, pizza, ottimo pizza
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18501;bicchiere, buono, bicchiere buono
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18502;pizza, molto, leggero, ottimo, pizza molto, molto leggero, leggero ottimo
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18503;visitare, nuovo, anno, visitare nuovo, nuovo anno
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18504;personale, professionale, gentile, personale professionale, professionale gentile
+https://www.yelp.it/biz/pizza-ad-hoc-torino;18505;scelta, giusto, scelta giusto

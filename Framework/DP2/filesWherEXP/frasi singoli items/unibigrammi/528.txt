@@ -1,0 +1,35 @@
+https://www.yelp.it/biz/barnum-torino;19494;anche, panna, cotto, buono, anche panna, panna cotto, cotto buono
+https://www.yelp.it/biz/barnum-torino;19495;ottimare, scelta, vino, ottimare scelta, scelta vino
+https://www.yelp.it/biz/barnum-torino;19496;consigliare, assoluto, consigliare assoluto
+https://www.yelp.it/biz/barnum-torino;19497;personale, molto, simpatico, personale molto, molto simpatico
+https://www.yelp.it/biz/barnum-torino;19498;locale, essere, buono, stile, trattoria, locale essere, essere buono, buono stile, stile trattoria
+https://www.yelp.it/biz/barnum-torino;19499;cucina, raffinare, locale, semplice, cucina raffinare, raffinare locale, locale semplice
+https://www.yelp.it/biz/barnum-torino;19500;assoluto, provare, assoluto provare
+https://www.yelp.it/biz/barnum-torino;19501;personale, gentile, cortese, personale gentile, gentile cortese
+https://www.yelp.it/biz/barnum-torino;19502;qui, avere, aria, semplice, qui avere, avere aria, aria semplice
+https://www.yelp.it/biz/barnum-torino;19503;molto, buono, anche, vino, sfuso, molto buono, buono anche, anche vino, vino sfuso
+https://www.yelp.it/biz/barnum-torino;19504;molto, buono, porzione, super, mini, molto buono, buono porzione, porzione super, super mini
+https://www.yelp.it/biz/barnum-torino;19505;piacevole, sorpresa, piacevole sorpresa
+https://www.yelp.it/biz/barnum-torino;19506;tagliere, eccezionale, prodotto, particolare, tagliere eccezionale, eccezionale prodotto, prodotto particolare
+https://www.yelp.it/biz/barnum-torino;19507;proprietario, essere, molto, simpatico, sempre, sorridente, proprietario essere, essere molto, molto simpatico, simpatico sempre, sempre sorridente
+https://www.yelp.it/biz/barnum-torino;19508;tagliata, buono, tagliata buono
+https://www.yelp.it/biz/barnum-torino;19509;perfetto, mangiare, bene, soldo, perfetto mangiare, mangiare bene, bene soldo
+https://www.yelp.it/biz/barnum-torino;19510;locale, arredo, molto, semplice, musica, interno, troppo, alto, gusto, cibo, vero, buono, locale arredo, arredo molto, molto semplice, semplice musica, musica interno, interno troppo, troppo alto, alto gusto, gusto cibo, cibo vero, vero buono
+https://www.yelp.it/biz/barnum-torino;19511;piatto, buono, prezzo, assoluto, onesto, piatto buono, buono prezzo, prezzo assoluto, assoluto onesto
+https://www.yelp.it/biz/barnum-torino;19512;vino, sfuso, buono, vino sfuso, sfuso buono
+https://www.yelp.it/biz/barnum-torino;19513;infine, fresco, tiramisù, infine fresco, fresco tiramisù
+https://www.yelp.it/biz/barnum-torino;19514;buon, cibo, buono, atmosfera, prezzo, contenuto, buon cibo, cibo buono, buono atmosfera, atmosfera prezzo, prezzo contenuto
+https://www.yelp.it/biz/barnum-torino;19515;avanti, così, avanti così
+https://www.yelp.it/biz/barnum-torino;19516;buono, sì, rispettoso, buono sì, sì rispettoso
+https://www.yelp.it/biz/barnum-torino;19517;ottimo, abbondante, qualità, ottimo abbondante, abbondante qualità
+https://www.yelp.it/biz/barnum-torino;19518;dolce, amaro, buono, dolce amaro, amaro buono
+https://www.yelp.it/biz/barnum-torino;19519;punto, debole, punto debole
+https://www.yelp.it/biz/barnum-torino;19520;fantastico, tris, formaggio, antipasto, fantastico tris, tris formaggio, formaggio antipasto
+https://www.yelp.it/biz/barnum-torino;19521;semplicità, ottimo, cena, semplicità ottimo, ottimo cena
+https://www.yelp.it/biz/barnum-torino;19522;molto, buono, molto buono
+https://www.yelp.it/biz/barnum-torino;19523;rimanere, deludere, cena, rimanere deludere, deludere cena
+https://www.yelp.it/biz/barnum-torino;19524;locale, po, piccolo, accogliente, locale po, po piccolo, piccolo accogliente
+https://www.yelp.it/biz/barnum-torino;19525;consiglio, vivo, locale, rapporto, qualità, prezzo, essere, ottimo, consiglio vivo, vivo locale, locale rapporto, rapporto qualità, qualità prezzo, prezzo essere, essere ottimo
+https://www.yelp.it/biz/barnum-torino;19526;consigliare, assoluto, consigliare assoluto
+https://www.yelp.it/biz/barnum-torino;19527;consigliare, serata, amico, ragazzo, consigliare serata, serata amico, amico ragazzo
+https://www.yelp.it/biz/barnum-torino;19528;ottimo, rapporto, qualitàprezzo, ottimo rapporto, rapporto qualitàprezzo

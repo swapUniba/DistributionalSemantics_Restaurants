@@ -1,0 +1,37 @@
+https://www.yelp.it/biz/emporio-gastronomico-torino;8023;ottimo, anche, dolce, ottimo anche, anche dolce
+https://www.yelp.it/biz/emporio-gastronomico-torino;8024;pizza, buono, menù, deciso, appetitoso, rendere, arduo, scelta, pizza buono, buono menù, menù deciso, deciso appetitoso, appetitoso rendere, rendere arduo, arduo scelta
+https://www.yelp.it/biz/emporio-gastronomico-torino;8025;realtà, essere, davvero, eccellente, realtà essere, essere davvero, davvero eccellente
+https://www.yelp.it/biz/emporio-gastronomico-torino;8026;personale, sempre, cortese, attento, sorriso, volto, personale sempre, sempre cortese, cortese attento, attento sorriso, sorriso volto
+https://www.yelp.it/biz/emporio-gastronomico-torino;8027;pizza, buono, pizza buono
+https://www.yelp.it/biz/emporio-gastronomico-torino;8028;locale, carino, tavolo, interno, pò, sacrificare, locale carino, carino tavolo, tavolo interno, interno pò, pò sacrificare
+https://www.yelp.it/biz/emporio-gastronomico-torino;8029;ottimo, pizza, ottimo pizza
+https://www.yelp.it/biz/emporio-gastronomico-torino;8030;buono, posizione, buono posizione
+https://www.yelp.it/biz/emporio-gastronomico-torino;8031;servizio, gentile, servizio gentile
+https://www.yelp.it/biz/emporio-gastronomico-torino;8032;buono, però, pizza, buono però, però pizza
+https://www.yelp.it/biz/emporio-gastronomico-torino;8033;grande, favore, grande favore
+https://www.yelp.it/biz/emporio-gastronomico-torino;8034;pizza, completo, differente, pizza completo, completo differente
+https://www.yelp.it/biz/emporio-gastronomico-torino;8035;deciso, valido, deciso valido
+https://www.yelp.it/biz/emporio-gastronomico-torino;8036;soprattutto, ottimo, cena, soprattutto ottimo, ottimo cena
+https://www.yelp.it/biz/emporio-gastronomico-torino;8037;ottimo, qualità, soprattutto, pesce, ottimo qualità, qualità soprattutto, soprattutto pesce
+https://www.yelp.it/biz/emporio-gastronomico-torino;8038;pizza, buono, pranzo, veloce, pizza buono, buono pranzo, pranzo veloce
+https://www.yelp.it/biz/emporio-gastronomico-torino;8039;pizza, birra, dolce, pizza birra, birra dolce
+https://www.yelp.it/biz/emporio-gastronomico-torino;8040;pizza, buono, qualità, pizza buono, buono qualità
+https://www.yelp.it/biz/emporio-gastronomico-torino;8041;cameriere, gentile, servizio, ragionevolmente, rapido, cameriere gentile, gentile servizio, servizio ragionevolmente, ragionevolmente rapido
+https://www.yelp.it/biz/emporio-gastronomico-torino;8042;personale, gentile, disponibile, ben, frequentare, personale gentile, gentile disponibile, disponibile ben, ben frequentare
+https://www.yelp.it/biz/emporio-gastronomico-torino;8043;notevole, presenza, cliente, indicare, già, cibo, essere, buono, notevole presenza, presenza cliente, cliente indicare, indicare già, già cibo, cibo essere, essere buono
+https://www.yelp.it/biz/emporio-gastronomico-torino;8044;gnocco, castelmagno, gnocco castelmagno
+https://www.yelp.it/biz/emporio-gastronomico-torino;8045;personale, gentile, personale gentile
+https://www.yelp.it/biz/emporio-gastronomico-torino;8046;buono, particolare, anche, dolce, buono particolare, particolare anche, anche dolce
+https://www.yelp.it/biz/emporio-gastronomico-torino;8047;personale, molto, gentile, personale molto, molto gentile
+https://www.yelp.it/biz/emporio-gastronomico-torino;8048;carne, gustoso, tipo, taglio, carne gustoso, gustoso tipo, tipo taglio
+https://www.yelp.it/biz/emporio-gastronomico-torino;8049;risotto, molto, buono, risotto molto, molto buono
+https://www.yelp.it/biz/emporio-gastronomico-torino;8050;dolce, notevole, dolce notevole
+https://www.yelp.it/biz/emporio-gastronomico-torino;8051;ottimare, zeppola, crema, ottimare zeppola, zeppola crema
+https://www.yelp.it/biz/emporio-gastronomico-torino;8052;pizza, piatto, essere, buono, pizza piatto, piatto essere, essere buono
+https://www.yelp.it/biz/emporio-gastronomico-torino;8053;servizio, efficiente, pizza, buono, servizio efficiente, efficiente pizza, pizza buono
+https://www.yelp.it/biz/emporio-gastronomico-torino;8054;buono, anche, pizza, buono anche, anche pizza
+https://www.yelp.it/biz/emporio-gastronomico-torino;8055;davvero, impeccabile, davvero impeccabile
+https://www.yelp.it/biz/emporio-gastronomico-torino;8056;locale, molto, cariare, locale molto, molto cariare
+https://www.yelp.it/biz/emporio-gastronomico-torino;8057;ambiente, gradevole, ambiente gradevole
+https://www.yelp.it/biz/emporio-gastronomico-torino;8058;mangiare, molto, bene, mangiare molto, molto bene
+https://www.yelp.it/biz/emporio-gastronomico-torino;8059;cena, fidanzato, sera, movimentare, cena fidanzato, fidanzato sera, sera movimentare

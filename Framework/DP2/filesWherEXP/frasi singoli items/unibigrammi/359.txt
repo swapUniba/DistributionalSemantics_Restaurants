@@ -1,0 +1,34 @@
+https://www.yelp.it/biz/pippo-paranza-torino;14009;personale, gentile, personale gentile
+https://www.yelp.it/biz/pippo-paranza-torino;14010;persona, gentile, persona gentile
+https://www.yelp.it/biz/pippo-paranza-torino;14011;davvero, pessimo, qualità, davvero pessimo, pessimo qualità
+https://www.yelp.it/biz/pippo-paranza-torino;14012;molto, simpatico, disponibile, sempre, molto simpatico, simpatico disponibile, disponibile sempre
+https://www.yelp.it/biz/pippo-paranza-torino;14013;poco, brillante, poco brillante
+https://www.yelp.it/biz/pippo-paranza-torino;14014;rapporto, qualità, \prezzo, essere, buono, rapporto qualità, qualità \prezzo, \prezzo essere, essere buono
+https://www.yelp.it/biz/pippo-paranza-torino;14015;ottimo, dolce, ottimo dolce
+https://www.yelp.it/biz/pippo-paranza-torino;14016;personale, essere, gentile, servizio, veloce, personale essere, essere gentile, gentile servizio, servizio veloce
+https://www.yelp.it/biz/pippo-paranza-torino;14017;friggere, molto, buono, leggero, friggere molto, molto buono, buono leggero
+https://www.yelp.it/biz/pippo-paranza-torino;14018;servizio, impeccabile, personale, molto, gentile, servizio impeccabile, impeccabile personale, personale molto, molto gentile
+https://www.yelp.it/biz/pippo-paranza-torino;14019;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/pippo-paranza-torino;14020;buon, prosecchino, anche, buon prosecchino, prosecchino anche
+https://www.yelp.it/biz/pippo-paranza-torino;14021;pesce, davvero, buono, pesce davvero, davvero buono
+https://www.yelp.it/biz/pippo-paranza-torino;14022;locale, piccolo, personale, gentile, veloce, locale piccolo, piccolo personale, personale gentile, gentile veloce
+https://www.yelp.it/biz/pippo-paranza-torino;14023;buono, qualità, porzione, più, sufficenti, buono qualità, qualità porzione, porzione più, più sufficenti
+https://www.yelp.it/biz/pippo-paranza-torino;14024;locale, carino, via, quadrilatero, locale carino, carino via, via quadrilatero
+https://www.yelp.it/biz/pippo-paranza-torino;14025;assoluto, provare, assoluto provare
+https://www.yelp.it/biz/pippo-paranza-torino;14026;pesce, essere, buono, personale, gentile, pesce essere, essere buono, buono personale, personale gentile
+https://www.yelp.it/biz/pippo-paranza-torino;14027;menù, riempire, tranquillo, persona, solo, fare, padrone, trancio, porzione, essere, ottimo, anche, gusto, menù riempire, riempire tranquillo, tranquillo persona, persona solo, solo fare, fare padrone, padrone trancio, trancio porzione, porzione essere, essere ottimo, ottimo anche, anche gusto
+https://www.yelp.it/biz/pippo-paranza-torino;14028;locale, molto, piccolo, personale, estramamente, gentile, cortese, locale molto, molto piccolo, piccolo personale, personale estramamente, estramamente gentile, gentile cortese
+https://www.yelp.it/biz/pippo-paranza-torino;14029;bello, invenzione, bello invenzione
+https://www.yelp.it/biz/pippo-paranza-torino;14030;locale, molto, carino, sembrare, posto, mare, piccolo, locale molto, molto carino, carino sembrare, sembrare posto, posto mare, mare piccolo
+https://www.yelp.it/biz/pippo-paranza-torino;14031;arredamento, piccolo, accogliente, arredamento piccolo, piccolo accogliente
+https://www.yelp.it/biz/pippo-paranza-torino;14032;conclusione, ottimo, posto, mangiare, piatto, pesce, conclusione ottimo, ottimo posto, posto mangiare, mangiare piatto, piatto pesce
+https://www.yelp.it/biz/pippo-paranza-torino;14033;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/pippo-paranza-torino;14034;davvero, curare, gusto, davvero curare, curare gusto
+https://www.yelp.it/biz/pippo-paranza-torino;14035;rapporto, qualità-prezzo, davvero, buono, rapporto qualità-prezzo, qualità-prezzo davvero, davvero buono
+https://www.yelp.it/biz/pippo-paranza-torino;14036;ottimo, scelta, ottimo scelta
+https://www.yelp.it/biz/pippo-paranza-torino;14037;buono, rapporto, qualità/prezzo, buono rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/pippo-paranza-torino;14038;locale, essere, semplice, cariare, variopinto, specialità, essere, pesce, locale essere, essere semplice, semplice cariare, cariare variopinto, variopinto specialità, specialità essere, essere pesce
+https://www.yelp.it/biz/pippo-paranza-torino;14039;ottimo, ristorantino, conoscere, grazie, tripadvisor, ottimo ristorantino, ristorantino conoscere, conoscere grazie, grazie tripadvisor
+https://www.yelp.it/biz/pippo-paranza-torino;14040;frittura, ottimo, servizio, veloce, frittura ottimo, ottimo servizio, servizio veloce
+https://www.yelp.it/biz/pippo-paranza-torino;14041;raro, accadere, assaggiare, frittura, così, delicato, asciutto, saporito, raro accadere, accadere assaggiare, assaggiare frittura, frittura così, così delicato, delicato asciutto, asciutto saporito
+https://www.yelp.it/biz/pippo-paranza-torino;14042;bene, grazie, bene grazie

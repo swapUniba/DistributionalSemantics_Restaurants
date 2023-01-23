@@ -1,0 +1,220 @@
+https://www.yelp.it/biz/pantagruel-torino;711;personale, cortese, servizio, veloce, personale cortese, cortese servizio, servizio veloce
+https://www.yelp.it/biz/pantagruel-torino;712;pizza, ottimo, qualita, buono, impasto, sottile, ottimo, condire, pizza ottimo, ottimo qualita, qualita buono, buono impasto, impasto sottile, sottile ottimo, ottimo condire
+https://www.yelp.it/biz/pantagruel-torino;713;cottura, perfetto, cottura perfetto
+https://www.yelp.it/biz/pantagruel-torino;714;menù, tradizione, attento, stagionalità, buono, fattura, menù tradizione, tradizione attento, attento stagionalità, stagionalità buono, buono fattura
+https://www.yelp.it/biz/pantagruel-torino;715;sorpresa, gentile, disponibilità, mostrare, orario, tardo, sorpresa gentile, gentile disponibilità, disponibilità mostrare, mostrare orario, orario tardo
+https://www.yelp.it/biz/pantagruel-torino;716;cariare, locale, gentile, personale, cariare locale, locale gentile, gentile personale
+https://www.yelp.it/biz/pantagruel-torino;717;pizzeria, ancora, aprire, locale, carino, personale, gentile, servizio, veloce, pizzeria ancora, ancora aprire, aprire locale, locale carino, carino personale, personale gentile, gentile servizio, servizio veloce
+https://www.yelp.it/biz/pantagruel-torino;718;pizza, buono, caro, media, vegetariano, dolce, pretesa, complesso, buon, rapporto, qualità, prezzo, pizza buono, buono caro, caro media, media vegetariano, vegetariano dolce, dolce pretesa, pretesa complesso, complesso buon, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/pantagruel-torino;719;assoluto, provare, assoluto provare
+https://www.yelp.it/biz/pantagruel-torino;720;week, meglio, prenotare, spesso, essere, week meglio, meglio prenotare, prenotare spesso, spesso essere
+https://www.yelp.it/biz/pantagruel-torino;721;pizza, essere, buono, dolce, anche, servizio, molto, soddisfacente, pizza essere, essere buono, buono dolce, dolce anche, anche servizio, servizio molto, molto soddisfacente
+https://www.yelp.it/biz/pantagruel-torino;722;conto, giusto, sommare, conto giusto, giusto sommare
+https://www.yelp.it/biz/pantagruel-torino;723;personale, gentile, veloce, personale gentile, gentile veloce
+https://www.yelp.it/biz/pantagruel-torino;724;meritare, plauso, particolare, pomodoro, burrata, salsiccia, rucola, mozzarella, pomodoro, oliva, ovvio, nduja, meritare plauso, plauso particolare, particolare pomodoro, pomodoro burrata, burrata salsiccia, salsiccia rucola, rucola mozzarella, mozzarella pomodoro, pomodoro oliva, oliva ovvio, ovvio nduja
+https://www.yelp.it/biz/pantagruel-torino;725;personale, sempre, gentile, personale sempre, sempre gentile
+https://www.yelp.it/biz/pantagruel-torino;726;pizza, é, buono, personale, sempre, attento, cortese, cagnolina, é, sempre, benvenuto, pizza é, é buono, buono personale, personale sempre, sempre attento, attento cortese, cortese cagnolina, cagnolina é, é sempre, sempre benvenuto
+https://www.yelp.it/biz/pantagruel-torino;727;consiglio, deciso, serata, buon, cibo, compagnia, anche, solo, consiglio deciso, deciso serata, serata buon, buon cibo, cibo compagnia, compagnia anche, anche solo
+https://www.yelp.it/biz/pantagruel-torino;728;ottimo, locale, dare, prova, meritare, buon, giudizio, ottimo locale, locale dare, dare prova, prova meritare, meritare buon, buon giudizio
+https://www.yelp.it/biz/pantagruel-torino;729;ottimo, idea, proporre, dimensione, baby, normale, grande, ottimo idea, idea proporre, proporre dimensione, dimensione baby, baby normale, normale grande
+https://www.yelp.it/biz/pantagruel-torino;730;servizio, lodevole, presente, rapido, cortese, servizio lodevole, lodevole presente, presente rapido, rapido cortese
+https://www.yelp.it/biz/pantagruel-torino;731;resto, complesso, meritare, giudizio, positivo, resto complesso, complesso meritare, meritare giudizio, giudizio positivo
+https://www.yelp.it/biz/pantagruel-torino;732;personale, gentile, accogliente, servizio, veloce, personale gentile, gentile accogliente, accogliente servizio, servizio veloce
+https://www.yelp.it/biz/pantagruel-torino;733;buono, pizza, sottile, leggero, buono, dolce, buono pizza, pizza sottile, sottile leggero, leggero buono, buono dolce
+https://www.yelp.it/biz/pantagruel-torino;734;locale, accogliente, personale, molto, gentile, soprattutto, pizza, ottimo, sottile, croccante, punto, giusto, ingrediente, fresco, saporito, locale accogliente, accogliente personale, personale molto, molto gentile, gentile soprattutto, soprattutto pizza, pizza ottimo, ottimo sottile, sottile croccante, croccante punto, punto giusto, giusto ingrediente, ingrediente fresco, fresco saporito
+https://www.yelp.it/biz/pantagruel-torino;735;molto, buono, anche, dolce, oggi, crema, casa, crostata, pasta, meliga, albicocca, molto buono, buono anche, anche dolce, dolce oggi, oggi crema, crema casa, casa crostata, crostata pasta, pasta meliga, meliga albicocca
+https://www.yelp.it/biz/pantagruel-torino;736;birra, caffè, sempre, ottimo, birra caffè, caffè sempre, sempre ottimo
+https://www.yelp.it/biz/pantagruel-torino;737;dimenticare, ottimo, dimenticare ottimo
+https://www.yelp.it/biz/pantagruel-torino;738;pizza, compagnia, amico, indiscutibilmente, buono, pizza compagnia, compagnia amico, amico indiscutibilmente, indiscutibilmente buono
+https://www.yelp.it/biz/pantagruel-torino;739;servizio, cordiale, servizio cordiale
+https://www.yelp.it/biz/pantagruel-torino;740;molto, variegato, carta, ristorante, molto variegato, variegato carta, carta ristorante
+https://www.yelp.it/biz/pantagruel-torino;741;guastare, gentilezza, titolare, personale, guastare gentilezza, gentilezza titolare, titolare personale
+https://www.yelp.it/biz/pantagruel-torino;742;inoltre, essere, vero, veloce, inoltre essere, essere vero, vero veloce
+https://www.yelp.it/biz/pantagruel-torino;743;unico, pecca, essere, prezzo, pò, alto, unico pecca, pecca essere, essere prezzo, prezzo pò, pò alto
+https://www.yelp.it/biz/pantagruel-torino;744;però, tanto, meritare, però tanto, tanto meritare
+https://www.yelp.it/biz/pantagruel-torino;745;pizza, prima, teatro, locale, carino, personale, gentile, servizio, rapido, pizza prima, prima teatro, teatro locale, locale carino, carino personale, personale gentile, gentile servizio, servizio rapido
+https://www.yelp.it/biz/pantagruel-torino;746;locale, tranquillo, personale, molto, gentile, locale tranquillo, tranquillo personale, personale molto, molto gentile
+https://www.yelp.it/biz/pantagruel-torino;747;pizza, molto, buono, focaccia, pesto, pistacchio, eccezionale, pizza molto, molto buono, buono focaccia, focaccia pesto, pesto pistacchio, pistacchio eccezionale
+https://www.yelp.it/biz/pantagruel-torino;748;personale, essere, gentile, personale essere, essere gentile
+https://www.yelp.it/biz/pantagruel-torino;749;unico, pecca, prezzo, pò, più, alto, rispetto, media, simile, locale, torinese, unico pecca, pecca prezzo, prezzo pò, pò più, più alto, alto rispetto, rispetto media, media simile, simile locale, locale torinese
+https://www.yelp.it/biz/pantagruel-torino;750;pizza, super, super, super, buono, pizza super, super super, super super, super buono
+https://www.yelp.it/biz/pantagruel-torino;751;locale, grande, personale, gentile, locale grande, grande personale, personale gentile
+https://www.yelp.it/biz/pantagruel-torino;752;pizza, essere, buono, prezzo, media, pizza essere, essere buono, buono prezzo, prezzo media
+https://www.yelp.it/biz/pantagruel-torino;753;locale, essere, mezzo, pieno, metà, settimana, essere, buon, segno, locale essere, essere mezzo, mezzo pieno, pieno metà, metà settimana, settimana essere, essere buon, buon segno
+https://www.yelp.it/biz/pantagruel-torino;754;bello, finire, qua, bello finire, finire qua
+https://www.yelp.it/biz/pantagruel-torino;755;pizza, essere, piccolo, pizza essere, essere piccolo
+https://www.yelp.it/biz/pantagruel-torino;756;essere, qui, sabato, sera, amico, servizio, ottimo, essere, pieno, cameriere, gentile, essere qui, qui sabato, sabato sera, sera amico, amico servizio, servizio ottimo, ottimo essere, essere pieno, pieno cameriere, cameriere gentile
+https://www.yelp.it/biz/pantagruel-torino;757;pizza, davvero, ottimo, sentire, qualità, ingrediente, pizza davvero, davvero ottimo, ottimo sentire, sentire qualità, qualità ingrediente
+https://www.yelp.it/biz/pantagruel-torino;758;stessa, cameriere, divertire, situazione, stessa cameriere, cameriere divertire, divertire situazione
+https://www.yelp.it/biz/pantagruel-torino;759;locale, essere, carino, soprattutto, essere, super, affollato, locale essere, essere carino, carino soprattutto, soprattutto essere, essere super, super affollato
+https://www.yelp.it/biz/pantagruel-torino;760;titolare, sempre, gentile, disponibile, trovare, comunque, sistemazione, titolare sempre, sempre gentile, gentile disponibile, disponibile trovare, trovare comunque, comunque sistemazione
+https://www.yelp.it/biz/pantagruel-torino;761;pizza, essere, buono, ben, preparare, pizza essere, essere buono, buono ben, ben preparare
+https://www.yelp.it/biz/pantagruel-torino;762;pizza, ottimo, digeribile, cosa, poco, conto, prezzo, più, alto, rispetto, media, compensare, qualità, prodotto, professionalità, pizza ottimo, ottimo digeribile, digeribile cosa, cosa poco, poco conto, conto prezzo, prezzo più, più alto, alto rispetto, rispetto media, media compensare, compensare qualità, qualità prodotto, prodotto professionalità
+https://www.yelp.it/biz/pantagruel-torino;763;personale, molto, gentile, paziente, bambino, essere, cena, classe, personale molto, molto gentile, gentile paziente, paziente bambino, bambino essere, essere cena, cena classe
+https://www.yelp.it/biz/pantagruel-torino;764;piatto, buono, pizza, preparare, bene, servizio, sbadato, piatto buono, buono pizza, pizza preparare, preparare bene, bene servizio, servizio sbadato
+https://www.yelp.it/biz/pantagruel-torino;765;qualità, servizio, prezzo, pò, alto, rispetto, pizzeria, ugualmente, buono, qualità servizio, servizio prezzo, prezzo pò, pò alto, alto rispetto, rispetto pizzeria, pizzeria ugualmente, ugualmente buono
+https://www.yelp.it/biz/pantagruel-torino;766;complimentare, pizzaiolo, complimentare pizzaiolo
+https://www.yelp.it/biz/pantagruel-torino;767;buono, leggero, trovare, anche, pizzeria, buono leggero, leggero trovare, trovare anche, anche pizzeria
+https://www.yelp.it/biz/pantagruel-torino;768;pizza, meglio, impasto, pizza meglio, meglio impasto
+https://www.yelp.it/biz/pantagruel-torino;769;generale, locale, essere, carino, personale, gentile, generale locale, locale essere, essere carino, carino personale, personale gentile
+https://www.yelp.it/biz/pantagruel-torino;770;pizza, vero, ottimo, digeribile, pizza vero, vero ottimo, ottimo digeribile
+https://www.yelp.it/biz/pantagruel-torino;771;personale, gentile, personale gentile
+https://www.yelp.it/biz/pantagruel-torino;772;cura, attenzione, anche, bimbo, piccolo, cura attenzione, attenzione anche, anche bimbo, bimbo piccolo
+https://www.yelp.it/biz/pantagruel-torino;773;buono, accoglienza, servizio, buono, personale, gentile, buono accoglienza, accoglienza servizio, servizio buono, buono personale, personale gentile
+https://www.yelp.it/biz/pantagruel-torino;774;dolce, preconfezionare, buono, dolce preconfezionare, preconfezionare buono
+https://www.yelp.it/biz/pantagruel-torino;775;pizza, essere, vero, ottimo, pizza essere, essere vero, vero ottimo
+https://www.yelp.it/biz/pantagruel-torino;776;buono, anche, altro, proposta, pranzo, secondo, buono anche, anche altro, altro proposta, proposta pranzo, pranzo secondo
+https://www.yelp.it/biz/pantagruel-torino;777;scoprire, caso, sera, rimanere, molto, soddisfare, cibo, servizio, scoprire caso, caso sera, sera rimanere, rimanere molto, molto soddisfare, soddisfare cibo, cibo servizio
+https://www.yelp.it/biz/pantagruel-torino;778;locale, carino, pulire, ambiente, gradevole, personale, gentile, locale carino, carino pulire, pulire ambiente, ambiente gradevole, gradevole personale, personale gentile
+https://www.yelp.it/biz/pantagruel-torino;779;ottimare, pizza, dolce, ottimare pizza, pizza dolce
+https://www.yelp.it/biz/pantagruel-torino;780;servizio, ottimo, servizio ottimo
+https://www.yelp.it/biz/pantagruel-torino;781;generale, molto, buono, pizza, generale molto, molto buono, buono pizza
+https://www.yelp.it/biz/pantagruel-torino;782;arredamento, avere, speciale, quindi, aspettare, pizza, indimenticabile, arredamento avere, avere speciale, speciale quindi, quindi aspettare, aspettare pizza, pizza indimenticabile
+https://www.yelp.it/biz/pantagruel-torino;783;personale, essere, professionale, anche, gentile, personale essere, essere professionale, professionale anche, anche gentile
+https://www.yelp.it/biz/pantagruel-torino;784;ambiente, essere, pulito, cassa, essere, molto, cortese, ambiente essere, essere pulito, pulito cassa, cassa essere, essere molto, molto cortese
+https://www.yelp.it/biz/pantagruel-torino;785;ottimare, pizza, impasto, leggero, alto, basso, ottimo, digeribilità, ottimare pizza, pizza impasto, impasto leggero, leggero alto, alto basso, basso ottimo, ottimo digeribilità
+https://www.yelp.it/biz/pantagruel-torino;786;ambiente, informale, accogliente, ambiente informale, informale accogliente
+https://www.yelp.it/biz/pantagruel-torino;787;personale, adeguato, cordiale, personale adeguato, adeguato cordiale
+https://www.yelp.it/biz/pantagruel-torino;788;ottimo, scegliere, pizza, birra, ottimo scegliere, scegliere pizza, pizza birra
+https://www.yelp.it/biz/pantagruel-torino;789;molto, buono, molto buono
+https://www.yelp.it/biz/pantagruel-torino;790;tempo, attesa, breve, personale, gentile, tempo attesa, attesa breve, breve personale, personale gentile
+https://www.yelp.it/biz/pantagruel-torino;791;posto, piacevole, ambiente, sistemazione, spazioso, giusto, personale, efficiente, posto piacevole, piacevole ambiente, ambiente sistemazione, sistemazione spazioso, spazioso giusto, giusto personale, personale efficiente
+https://www.yelp.it/biz/pantagruel-torino;792;pizza, essere, solito, buono, pizza essere, essere solito, solito buono
+https://www.yelp.it/biz/pantagruel-torino;793;soddisfare, posto, soprattutto, questione, prezzo, qualità, cibo, invece, essere, media, soddisfare posto, posto soprattutto, soprattutto questione, questione prezzo, prezzo qualità, qualità cibo, cibo invece, invece essere, essere media
+https://www.yelp.it/biz/pantagruel-torino;794;ottimo, pizzeria, ultimo, ancora, migliorare, livello, pizza, essere, sicuro, migliore, zona, ottimo pizzeria, pizzeria ultimo, ultimo ancora, ancora migliorare, migliorare livello, livello pizza, pizza essere, essere sicuro, sicuro migliore, migliore zona
+https://www.yelp.it/biz/pantagruel-torino;795;ambiente, conviviale, perfetto, passare, serata, amico, ambiente conviviale, conviviale perfetto, perfetto passare, passare serata, serata amico
+https://www.yelp.it/biz/pantagruel-torino;796;prezzo, valere, qualità, bontà, pizza, prezzo valere, valere qualità, qualità bontà, bontà pizza
+https://www.yelp.it/biz/pantagruel-torino;797;offerta, pizza, essere, molto, ampio, grado, soddisfare, gusto, compreso, focaccia, vario, piatto, azzeccare, offerta pizza, pizza essere, essere molto, molto ampio, ampio grado, grado soddisfare, soddisfare gusto, gusto compreso, compreso focaccia, focaccia vario, vario piatto, piatto azzeccare
+https://www.yelp.it/biz/pantagruel-torino;798;essere, pò, meno, caro, essere pò, pò meno, meno caro
+https://www.yelp.it/biz/pantagruel-torino;799;locale, sfornare, pizza, davvero, buono, buono, selezione, birra, locale sfornare, sfornare pizza, pizza davvero, davvero buono, buono buono, buono selezione, selezione birra
+https://www.yelp.it/biz/pantagruel-torino;800;essere, molto, romantico, posto, gustare, buono, pizza, provatelo, essere molto, molto romantico, romantico posto, posto gustare, gustare buono, buono pizza, pizza provatelo
+https://www.yelp.it/biz/pantagruel-torino;801;impasto, pizza, essere, molto, buono, anche, farinata, essere, eccellente, dire, dolce, impasto pizza, pizza essere, essere molto, molto buono, buono anche, anche farinata, farinata essere, essere eccellente, eccellente dire, dire dolce
+https://www.yelp.it/biz/pantagruel-torino;802;essere, anno, punto, riferimento, buono, pizza, prima, andare, teatro, essere anno, anno punto, punto riferimento, riferimento buono, buono pizza, pizza prima, prima andare, andare teatro
+https://www.yelp.it/biz/pantagruel-torino;803;buono, qualità, ottimo, servizio, buono qualità, qualità ottimo, ottimo servizio
+https://www.yelp.it/biz/pantagruel-torino;804;anche, piatto, elaborare, deciso, valido, anche piatto, piatto elaborare, elaborare deciso, deciso valido
+https://www.yelp.it/biz/pantagruel-torino;805;così, così, dolce, caffè, così così, così dolce, dolce caffè
+https://www.yelp.it/biz/pantagruel-torino;806;anche, cucina, essere, molto, buono, anche cucina, cucina essere, essere molto, molto buono
+https://www.yelp.it/biz/pantagruel-torino;807;servizio, veloce, personale, gentile, disponibile, servizio veloce, veloce personale, personale gentile, gentile disponibile
+https://www.yelp.it/biz/pantagruel-torino;808;insomma, persona, portare, ritornare, piacere, insomma persona, persona portare, portare ritornare, ritornare piacere
+https://www.yelp.it/biz/pantagruel-torino;809;locale, abbastanza, grande, personale, molto, indaffarato, poco, affabile, locale abbastanza, abbastanza grande, grande personale, personale molto, molto indaffarato, indaffarato poco, poco affabile
+https://www.yelp.it/biz/pantagruel-torino;810;pizza, essere, buono, pizza essere, essere buono
+https://www.yelp.it/biz/pantagruel-torino;811;napoletano, abbondante, ottimo, ingrediente, napoletano abbondante, abbondante ottimo, ottimo ingrediente
+https://www.yelp.it/biz/pantagruel-torino;812;pizza, birra, dolce, bastare, quasi, certo, pizza birra, birra dolce, dolce bastare, bastare quasi, quasi certo
+https://www.yelp.it/biz/pantagruel-torino;813;locale, essere, brutto, locale essere, essere brutto
+https://www.yelp.it/biz/pantagruel-torino;814;medio, gentile, limitato, simpatico, medio gentile, gentile limitato, limitato simpatico
+https://www.yelp.it/biz/pantagruel-torino;815;raro, riuscire, trovare, pizzeria, essere, ottimo, essere, pizza, dolce, raro riuscire, riuscire trovare, trovare pizzeria, pizzeria essere, essere ottimo, ottimo essere, essere pizza, pizza dolce
+https://www.yelp.it/biz/pantagruel-torino;816;ottimo, soluzione, pranzo, cena, ottimo soluzione, soluzione pranzo, pranzo cena
+https://www.yelp.it/biz/pantagruel-torino;817;cena, menù, carta, variegato, gustoso, ampio, scelta, pizza, cena menù, menù carta, carta variegato, variegato gustoso, gustoso ampio, ampio scelta, scelta pizza
+https://www.yelp.it/biz/pantagruel-torino;818;dolce, ottimo, dolce ottimo
+https://www.yelp.it/biz/pantagruel-torino;819;attirare, recensioni, positivo, purtroppo, sempre, avere, ragione, attirare recensioni, recensioni positivo, positivo purtroppo, purtroppo sempre, sempre avere, avere ragione
+https://www.yelp.it/biz/pantagruel-torino;820;vero, buono, top, vero buono, buono top
+https://www.yelp.it/biz/pantagruel-torino;821;pizza, sottile, essere, amante, pizza, napoletano, spesso, tiramisù, ottimo, pizza sottile, sottile essere, essere amante, amante pizza, pizza napoletano, napoletano spesso, spesso tiramisù, tiramisù ottimo
+https://www.yelp.it/biz/pantagruel-torino;822;pizza, favoloso, unico, pecca, tiramisù, piuttosto, cremoso, pizza favoloso, favoloso unico, unico pecca, pecca tiramisù, tiramisù piuttosto, piuttosto cremoso
+https://www.yelp.it/biz/pantagruel-torino;823;buono, pizza, buono pizza
+https://www.yelp.it/biz/pantagruel-torino;824;locale, essere, carino, personale, cortese, locale essere, essere carino, carino personale, personale cortese
+https://www.yelp.it/biz/pantagruel-torino;825;pizza, molto, buono, mozzarella, pizza molto, molto buono, buono mozzarella
+https://www.yelp.it/biz/pantagruel-torino;826;bello, serata, bello serata
+https://www.yelp.it/biz/pantagruel-torino;827;completare, caffè, completare caffè
+https://www.yelp.it/biz/pantagruel-torino;828;pizza, essere, buono, servizio, gentile, accurato, pizza essere, essere buono, buono servizio, servizio gentile, gentile accurato
+https://www.yelp.it/biz/pantagruel-torino;829;ottimo, scelta, birra, artiganali, ottimo scelta, scelta birra, birra artiganali
+https://www.yelp.it/biz/pantagruel-torino;830;locale, media, servizio, cortese, abbastanza, veloce, locale media, media servizio, servizio cortese, cortese abbastanza, abbastanza veloce
+https://www.yelp.it/biz/pantagruel-torino;831;pizza, avere, aspetto, molto, invitante, scelta, essere, alquanto, vasto, pizza avere, avere aspetto, aspetto molto, molto invitante, invitante scelta, scelta essere, essere alquanto, alquanto vasto
+https://www.yelp.it/biz/pantagruel-torino;832;personale, gentile, personale gentile
+https://www.yelp.it/biz/pantagruel-torino;833;meritare, voto, più, alto, qualità, pizza, buono, leggero, però, prezzo, eccessivo, essere, lacuna, principale, meritare voto, voto più, più alto, alto qualità, qualità pizza, pizza buono, buono leggero, leggero però, però prezzo, prezzo eccessivo, eccessivo essere, essere lacuna, lacuna principale
+https://www.yelp.it/biz/pantagruel-torino;834;pizza, normale, speciale, rapporto, qualità, prezzo, mercato, pizza normale, normale speciale, speciale rapporto, rapporto qualità, qualità prezzo, prezzo mercato
+https://www.yelp.it/biz/pantagruel-torino;835;personale, tuttavia, molto, cortese, personale tuttavia, tuttavia molto, molto cortese
+https://www.yelp.it/biz/pantagruel-torino;836;locale, molto, accogliente, piacevole, musica, sottofondo, permettere, parlare, piacevolmente, compagnia, locale molto, molto accogliente, accogliente piacevole, piacevole musica, musica sottofondo, sottofondo permettere, permettere parlare, parlare piacevolmente, piacevolmente compagnia
+https://www.yelp.it/biz/pantagruel-torino;837;personale, molto, gentile, pizza, davvero, buono, personale molto, molto gentile, gentile pizza, pizza davvero, davvero buono
+https://www.yelp.it/biz/pantagruel-torino;838;pizza, cucina, essere, ottimo, qualità, pizza cucina, cucina essere, essere ottimo, ottimo qualità
+https://www.yelp.it/biz/pantagruel-torino;839;pulizia, gentilezza, personale, completare, quadro, ottimo, pulizia gentilezza, gentilezza personale, personale completare, completare quadro, quadro ottimo
+https://www.yelp.it/biz/pantagruel-torino;840;panna, cotto, essere, estetico, bello, ben, servire, inoltre, essere, davvero, molto, buono, panna cotto, cotto essere, essere estetico, estetico bello, bello ben, ben servire, servire inoltre, inoltre essere, essere davvero, davvero molto, molto buono
+https://www.yelp.it/biz/pantagruel-torino;841;ragazzo, fare, centro, sorpresa, essere, fantastico, ragazzo fare, fare centro, centro sorpresa, sorpresa essere, essere fantastico
+https://www.yelp.it/biz/pantagruel-torino;842;consiglio, bello, ristorante, consiglio bello, bello ristorante
+https://www.yelp.it/biz/pantagruel-torino;843;pizza, comunque, molto, buono, sottile, solo, po, più, caro, media, pizza comunque, comunque molto, molto buono, buono sottile, sottile solo, solo po, po più, più caro, caro media
+https://www.yelp.it/biz/pantagruel-torino;844;assoluto, dedicare, amante, pizza, sottile, croccante, scegliere, dimensione, diverso, più, tipo, farina, digeribile, appetitoso, assoluto dedicare, dedicare amante, amante pizza, pizza sottile, sottile croccante, croccante scegliere, scegliere dimensione, dimensione diverso, diverso più, più tipo, tipo farina, farina digeribile, digeribile appetitoso
+https://www.yelp.it/biz/pantagruel-torino;845;locale, deciso, piacevole, locale deciso, deciso piacevole
+https://www.yelp.it/biz/pantagruel-torino;846;mangiare, essere, chiaro, qualità, economico, personale, essere, molto, gentile, disponibile, mangiare essere, essere chiaro, chiaro qualità, qualità economico, economico personale, personale essere, essere molto, molto gentile, gentile disponibile
+https://www.yelp.it/biz/pantagruel-torino;847;pizza, ottimo, molto, curare, pizza ottimo, ottimo molto, molto curare
+https://www.yelp.it/biz/pantagruel-torino;848;piatto, davvero, ampio, gustoso, ampio, scegliere, menù, piatto davvero, davvero ampio, ampio gustoso, gustoso ampio, ampio scegliere, scegliere menù
+https://www.yelp.it/biz/pantagruel-torino;849;buono, vino, gustoso, ben, servire, buono vino, vino gustoso, gustoso ben, ben servire
+https://www.yelp.it/biz/pantagruel-torino;850;buono, occasione, pranzo, famiglia, buono occasione, occasione pranzo, pranzo famiglia
+https://www.yelp.it/biz/pantagruel-torino;851;pizzeria, ristorante, personale, cortese, servizio, rapido, pizzeria ristorante, ristorante personale, personale cortese, cortese servizio, servizio rapido
+https://www.yelp.it/biz/pantagruel-torino;852;pizza, essere, assoluto, speciale, poi, essere, troppo, sottile, pizza essere, essere assoluto, assoluto speciale, speciale poi, poi essere, essere troppo, troppo sottile
+https://www.yelp.it/biz/pantagruel-torino;853;sommare, andare, sommare andare
+https://www.yelp.it/biz/pantagruel-torino;854;ingrediente, essere, qualità, essere, interessante, scelta, pizza, diametro, normale, gigante, ingrediente essere, essere qualità, qualità essere, essere interessante, interessante scelta, scelta pizza, pizza diametro, diametro normale, normale gigante
+https://www.yelp.it/biz/pantagruel-torino;855;come, solito, rivelare, altezza, ambiente, molto, accogliente, gentilezza, personale, come solito, solito rivelare, rivelare altezza, altezza ambiente, ambiente molto, molto accogliente, accogliente gentilezza, gentilezza personale
+https://www.yelp.it/biz/pantagruel-torino;856;come, sempre, pizza, essere, ottimo, sottile, croccante, soprattutto, anche, fine, cominciare, raffreddare, mantenere, intatto, gusto, fragranza, come sempre, sempre pizza, pizza essere, essere ottimo, ottimo sottile, sottile croccante, croccante soprattutto, soprattutto anche, anche fine, fine cominciare, cominciare raffreddare, raffreddare mantenere, mantenere intatto, intatto gusto, gusto fragranza
+https://www.yelp.it/biz/pantagruel-torino;857;ottimo, anche, piatto, pantagruelico, mangiare, commensale, dolce, ottimo anche, anche piatto, piatto pantagruelico, pantagruelico mangiare, mangiare commensale, commensale dolce
+https://www.yelp.it/biz/pantagruel-torino;858;buono, anzi, ottimo, buono anzi, anzi ottimo
+https://www.yelp.it/biz/pantagruel-torino;859;servizio, veloce, locale, molto, bello, ottimo, servizio veloce, veloce locale, locale molto, molto bello, bello ottimo
+https://www.yelp.it/biz/pantagruel-torino;860;favoloso, finire, ottimo, dolce, favoloso finire, finire ottimo, ottimo dolce
+https://www.yelp.it/biz/pantagruel-torino;861;buono, dolce, fragola, limone, buono dolce, dolce fragola, fragola limone
+https://www.yelp.it/biz/pantagruel-torino;862;servizio, ottimo, ottimo, atmosfera, proprietario, simpaticissimo, servizio ottimo, ottimo ottimo, ottimo atmosfera, atmosfera proprietario, proprietario simpaticissimo
+https://www.yelp.it/biz/pantagruel-torino;863;contrasto, principale, essere, nome, locale, meravigliosamente, promettente, offerta, norma, contrasto principale, principale essere, essere nome, nome locale, locale meravigliosamente, meravigliosamente promettente, promettente offerta, offerta norma
+https://www.yelp.it/biz/pantagruel-torino;864;buono, dolce, buono dolce
+https://www.yelp.it/biz/pantagruel-torino;865;locale, carino, anche, pochino, stretto, serata, pieno, pizza, buono, sottile, croccante, ben, farcire, locale carino, carino anche, anche pochino, pochino stretto, stretto serata, serata pieno, pieno pizza, pizza buono, buono sottile, sottile croccante, croccante ben, ben farcire
+https://www.yelp.it/biz/pantagruel-torino;866;locale, pò, datare, personale, gentile, veloce, locale pò, pò datare, datare personale, personale gentile, gentile veloce
+https://www.yelp.it/biz/pantagruel-torino;867;pizza, buono, prezzo, alto, rispetto, locale, pari, qualità, pizza buono, buono prezzo, prezzo alto, alto rispetto, rispetto locale, locale pari, pari qualità
+https://www.yelp.it/biz/pantagruel-torino;868;pizza, molto, buono, così, dolce, particolare, crema, pizza molto, molto buono, buono così, così dolce, dolce particolare, particolare crema
+https://www.yelp.it/biz/pantagruel-torino;869;invece, cenare, ottimo, pizza, molto, digeribile, anche, dolce, essere, ottimo, fresco, invece cenare, cenare ottimo, ottimo pizza, pizza molto, molto digeribile, digeribile anche, anche dolce, dolce essere, essere ottimo, ottimo fresco
+https://www.yelp.it/biz/pantagruel-torino;870;davvero, bello, scoperta, davvero bello, bello scoperta
+https://www.yelp.it/biz/pantagruel-torino;871;piccolo, pecca, piccolo pecca
+https://www.yelp.it/biz/pantagruel-torino;872;prezzo, caruccio, però, signore, qualità, prezzo, prezzo caruccio, caruccio però, però signore, signore qualità, qualità prezzo
+https://www.yelp.it/biz/pantagruel-torino;873;servizio, veloce, unire, pizza, qualità, davvero, molto, elevato, pizza, prosciutto, prosciutto, servire, abbondantemente, parte, vassoio, evitare, cuocere, pizza, locale, molto, accogliente, elegante, giudizio, essere, top, servizio veloce, veloce unire, unire pizza, pizza qualità, qualità davvero, davvero molto, molto elevato, elevato pizza, pizza prosciutto, prosciutto prosciutto, prosciutto servire, servire abbondantemente, abbondantemente parte, parte vassoio, vassoio evitare, evitare cuocere, cuocere pizza, pizza locale, locale molto, molto accogliente, accogliente elegante, elegante giudizio, giudizio essere, essere top
+https://www.yelp.it/biz/pantagruel-torino;874;rapporto, qualità/prezzo, assoluto, convincente, rapporto qualità/prezzo, qualità/prezzo assoluto, assoluto convincente
+https://www.yelp.it/biz/pantagruel-torino;875;riprovare, sicuro, gustare, anche, piatto, dolce, riprovare sicuro, sicuro gustare, gustare anche, anche piatto, piatto dolce
+https://www.yelp.it/biz/pantagruel-torino;876;sottolineare, gentilezza, proprietario, ambiente, piacevole, vasto, scelta, pizza, oltre, menù, ristorante, nota, merito, pennette, salmone, sottolineare gentilezza, gentilezza proprietario, proprietario ambiente, ambiente piacevole, piacevole vasto, vasto scelta, scelta pizza, pizza oltre, oltre menù, menù ristorante, ristorante nota, nota merito, merito pennette, pennette salmone
+https://www.yelp.it/biz/pantagruel-torino;877;dolce, superlativo, provare, mitico, crema, pantagruele, pannacotta, dolce superlativo, superlativo provare, provare mitico, mitico crema, crema pantagruele, pantagruele pannacotta
+https://www.yelp.it/biz/pantagruel-torino;878;guardare, menù, accorgersi, pizza, degno, nome, costare, circa, preparare, assaporare, speciale, servizio, impeccabile, invece, guardare menù, menù accorgersi, accorgersi pizza, pizza degno, degno nome, nome costare, costare circa, circa preparare, preparare assaporare, assaporare speciale, speciale servizio, servizio impeccabile, impeccabile invece
+https://www.yelp.it/biz/pantagruel-torino;879;certo, motivazione, prezzo, neanche, imputare, servizio, quanto, personale, innegabilmente, disponibile, essere, certo, locale, livello, certo motivazione, motivazione prezzo, prezzo neanche, neanche imputare, imputare servizio, servizio quanto, quanto personale, personale innegabilmente, innegabilmente disponibile, disponibile essere, essere certo, certo locale, locale livello
+https://www.yelp.it/biz/pantagruel-torino;880;famiglia, pizza, molto, buono, anche, farinata, dolce, famiglia pizza, pizza molto, molto buono, buono anche, anche farinata, farinata dolce
+https://www.yelp.it/biz/pantagruel-torino;881;resto, servizio, essere, buono, anche, molto, veloce, resto servizio, servizio essere, essere buono, buono anche, anche molto, molto veloce
+https://www.yelp.it/biz/pantagruel-torino;882;essere, ottimo, abbondante, secondo, dolce, essere, provare, essere ottimo, ottimo abbondante, abbondante secondo, secondo dolce, dolce essere, essere provare
+https://www.yelp.it/biz/pantagruel-torino;883;servizio, essere, veloce, attesa, vero, breve, molto, cordiale, servizio essere, essere veloce, veloce attesa, attesa vero, vero breve, breve molto, molto cordiale
+https://www.yelp.it/biz/pantagruel-torino;884;pizza, meritare, voto, eccellente, sottile, possibilità, misura, gigante, ingrediente, ottimo, qualità, cottura, giusto, preparazione, ultra-rapida, pizza meritare, meritare voto, voto eccellente, eccellente sottile, sottile possibilità, possibilità misura, misura gigante, gigante ingrediente, ingrediente ottimo, ottimo qualità, qualità cottura, cottura giusto, giusto preparazione, preparazione ultra-rapida
+https://www.yelp.it/biz/pantagruel-torino;885;persinale, molto, cordiale, ospitale, davvero, ottimo, consiglio, provare, persinale molto, molto cordiale, cordiale ospitale, ospitale davvero, davvero ottimo, ottimo consiglio, consiglio provare
+https://www.yelp.it/biz/pantagruel-torino;886;buon, risorante, ottimo, scelta, cibo, buon, rapporto, qualità, prezzo, buon risorante, risorante ottimo, ottimo scelta, scelta cibo, cibo buon, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/pantagruel-torino;887;pizza, ottimo, servizio, veloce, personale, disponibile, cortese, prezzo, media, pizza ottimo, ottimo servizio, servizio veloce, veloce personale, personale disponibile, disponibile cortese, cortese prezzo, prezzo media
+https://www.yelp.it/biz/pantagruel-torino;888;pizza, molto, buono, sottile, pizza molto, molto buono, buono sottile
+https://www.yelp.it/biz/pantagruel-torino;889;cameriere, gentile, cameriere gentile
+https://www.yelp.it/biz/pantagruel-torino;890;davvero, complimentare, davvero complimentare
+https://www.yelp.it/biz/pantagruel-torino;891;locale, molto, delizioso, accogliente, locale molto, molto delizioso, delizioso accogliente
+https://www.yelp.it/biz/pantagruel-torino;892;ottimo, pizza, anche, secondo, essere, meno, parlare, dolce, ottimo pizza, pizza anche, anche secondo, secondo essere, essere meno, meno parlare, parlare dolce
+https://www.yelp.it/biz/pantagruel-torino;893;qualità, ingrediente, essere, alto, servizio, essere, particolarmente, cordiale, celere, qualità ingrediente, ingrediente essere, essere alto, alto servizio, servizio essere, essere particolarmente, particolarmente cordiale, cordiale celere
+https://www.yelp.it/biz/pantagruel-torino;894;molto, cordiale, anche, proprietario, molto cordiale, cordiale anche, anche proprietario
+https://www.yelp.it/biz/pantagruel-torino;895;sempre, rimanere, soddisfare, sempre rimanere, rimanere soddisfare
+https://www.yelp.it/biz/pantagruel-torino;896;davvero, consigliatissimo, servizio, essere, ottimo, trovare, parcheggio, davanti, ristorante, essere, facile, davvero consigliatissimo, consigliatissimo servizio, servizio essere, essere ottimo, ottimo trovare, trovare parcheggio, parcheggio davanti, davanti ristorante, ristorante essere, essere facile
+https://www.yelp.it/biz/pantagruel-torino;897;pizza, vero, buono, possibilità, prendere, essere, normale, gigante, pizza vero, vero buono, buono possibilità, possibilità prendere, prendere essere, essere normale, normale gigante
+https://www.yelp.it/biz/pantagruel-torino;898;rapporto, qualità, prezzo, buono, rapporto qualità, qualità prezzo, prezzo buono
+https://www.yelp.it/biz/pantagruel-torino;899;ristorante, carta, buono, scelta, ristorante carta, carta buono, buono scelta
+https://www.yelp.it/biz/pantagruel-torino;900;ottimo, piatto, ottimo piatto
+https://www.yelp.it/biz/pantagruel-torino;901;locale, ben, arredare, personale, gentile, locale ben, ben arredare, arredare personale, personale gentile
+https://www.yelp.it/biz/pantagruel-torino;902;servizio, cortese, professionale, sufficientemente, celere, servizio cortese, cortese professionale, professionale sufficientemente, sufficientemente celere
+https://www.yelp.it/biz/pantagruel-torino;903;pizza, essere, davvero, ottimo, pizza essere, essere davvero, davvero ottimo
+https://www.yelp.it/biz/pantagruel-torino;904;leggero, gustoso, ingrediente, particolare, ricercare, leggero gustoso, gustoso ingrediente, ingrediente particolare, particolare ricercare
+https://www.yelp.it/biz/pantagruel-torino;905;servizio, essere, veloce, molto, cordiale, servizio essere, essere veloce, veloce molto, molto cordiale
+https://www.yelp.it/biz/pantagruel-torino;906;unico, nota, positivo, essere, cortesia, gentilezza, personale, titolare, unico nota, nota positivo, positivo essere, essere cortesia, cortesia gentilezza, gentilezza personale, personale titolare
+https://www.yelp.it/biz/pantagruel-torino;907;ottimo, pizza, gentile, proprietario, ottimo pizza, pizza gentile, gentile proprietario
+https://www.yelp.it/biz/pantagruel-torino;908;locale, essere, semplice, comunque, accogliente, locale essere, essere semplice, semplice comunque, comunque accogliente
+https://www.yelp.it/biz/pantagruel-torino;909;perfetto, pizza, famiglia, perfetto pizza, pizza famiglia
+https://www.yelp.it/biz/pantagruel-torino;910;troppo, caro, troppo caro
+https://www.yelp.it/biz/pantagruel-torino;911;dolce, molto, buono, particolare, dolce molto, molto buono, buono particolare
+https://www.yelp.it/biz/pantagruel-torino;912;ottimo, proposta, tematico, stagione, caso, carciofo, tagliolino, ottimo, abbondante, pizza, sempre, ben, bilanciato, ottimo proposta, proposta tematico, tematico stagione, stagione caso, caso carciofo, carciofo tagliolino, tagliolino ottimo, ottimo abbondante, abbondante pizza, pizza sempre, sempre ben, ben bilanciato
+https://www.yelp.it/biz/pantagruel-torino;913;pochino, caro, rispetto, location, proprio, altezza, prezzo, pochino caro, caro rispetto, rispetto location, location proprio, proprio altezza, altezza prezzo
+https://www.yelp.it/biz/pantagruel-torino;914;buono, pizza, sottile, gustoso, buono, anche, dolce, crema, mascarpone, cioccolato, grattugiare, sopra, buono pizza, pizza sottile, sottile gustoso, gustoso buono, buono anche, anche dolce, dolce crema, crema mascarpone, mascarpone cioccolato, cioccolato grattugiare, grattugiare sopra
+https://www.yelp.it/biz/pantagruel-torino;915;davvero, bello, realtà, pantagruele, davvero bello, bello realtà, realtà pantagruele
+https://www.yelp.it/biz/pantagruel-torino;916;pizza, napoletano, ottimo, ingrediente, alto, qualità, pizza napoletano, napoletano ottimo, ottimo ingrediente, ingrediente alto, alto qualità
+https://www.yelp.it/biz/pantagruel-torino;917;molto, positivo, variante, birra, caraffa, litro, molto positivo, positivo variante, variante birra, birra caraffa, caraffa litro
+https://www.yelp.it/biz/pantagruel-torino;918;molto, buono, anche, caffo, molto buono, buono anche, anche caffo
+https://www.yelp.it/biz/pantagruel-torino;919;pizza, vero, buono, servizio, veloce, locale, ampio, accogliente, servizio, igienico, confortevole, gestore, cameriere, molto, gentile, pizza vero, vero buono, buono servizio, servizio veloce, veloce locale, locale ampio, ampio accogliente, accogliente servizio, servizio igienico, igienico confortevole, confortevole gestore, gestore cameriere, cameriere molto, molto gentile
+https://www.yelp.it/biz/pantagruel-torino;920;unico, pecca, prezzo, essere, pò, alto, unico pecca, pecca prezzo, prezzo essere, essere pò, pò alto
+https://www.yelp.it/biz/pantagruel-torino;921;volere, ottimo, pizza, cotto, forno, legna, magari, avere, poco, tempo, essere, posto, giusto, volere ottimo, ottimo pizza, pizza cotto, cotto forno, forno legna, legna magari, magari avere, avere poco, poco tempo, tempo essere, essere posto, posto giusto
+https://www.yelp.it/biz/pantagruel-torino;922;personale, essere, molto, cortese, essere, pizza, cucina, essere, ottimo, qualità, personale essere, essere molto, molto cortese, cortese essere, essere pizza, pizza cucina, cucina essere, essere ottimo, ottimo qualità
+https://www.yelp.it/biz/pantagruel-torino;923;qui, mangiare, essere, proprio, piacere, sublime, qui mangiare, mangiare essere, essere proprio, proprio piacere, piacere sublime
+https://www.yelp.it/biz/pantagruel-torino;924;parlare, dolce, consiglio, crema, vero, proprio, paradiso, piacere, parlare dolce, dolce consiglio, consiglio crema, crema vero, vero proprio, proprio paradiso, paradiso piacere
+https://www.yelp.it/biz/pantagruel-torino;925;personale, servizio, cortese, veloce, personale servizio, servizio cortese, cortese veloce
+https://www.yelp.it/biz/pantagruel-torino;926;accoglienza, simpatia, proprietario, fare, differenza, accoglienza simpatia, simpatia proprietario, proprietario fare, fare differenza
+https://www.yelp.it/biz/pantagruel-torino;927;più, grande, più grande
+https://www.yelp.it/biz/pantagruel-torino;928;più, saporito, più saporito
+https://www.yelp.it/biz/pantagruel-torino;929;unico, nota, positivo, essere, bello, vetrinetta, tipo, alcolico, posizionare, sala, davvero, molto, curato, luminoso, unico nota, nota positivo, positivo essere, essere bello, bello vetrinetta, vetrinetta tipo, tipo alcolico, alcolico posizionare, posizionare sala, sala davvero, davvero molto, molto curato, curato luminoso
+https://www.yelp.it/biz/pantagruel-torino;930;ristorante, essere, fenomenale, consiglio, mangiare, benissimo, spendere, poco, ristorante essere, essere fenomenale, fenomenale consiglio, consiglio mangiare, mangiare benissimo, benissimo spendere, spendere poco

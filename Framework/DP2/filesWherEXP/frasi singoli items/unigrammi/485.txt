@@ -1,0 +1,7 @@
+https://www.yelp.it/biz/waxy-torino;18333;ambiente, essere, ampio, accogliente, personale, molto, attento, gentile
+https://www.yelp.it/biz/waxy-torino;18334;ambiente, arredare, gusto
+https://www.yelp.it/biz/waxy-torino;18335;menù, offrire, ottimo, varietà, classico, panini/hamburger/piadine, essere, cucina
+https://www.yelp.it/biz/waxy-torino;18336;locale, cariare
+https://www.yelp.it/biz/waxy-torino;18337;esperienza, pessimo
+https://www.yelp.it/biz/waxy-torino;18338;sempre, molto, affollato
+https://www.yelp.it/biz/waxy-torino;18339;birra, essere, ottimo, temperatura, giusta

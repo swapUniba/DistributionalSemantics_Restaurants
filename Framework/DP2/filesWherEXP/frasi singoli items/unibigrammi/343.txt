@@ -1,0 +1,36 @@
+https://www.yelp.it/biz/la-via-della-seta-torino;13597;cameriere, sorriso, volto, cameriere sorriso, sorriso volto
+https://www.yelp.it/biz/la-via-della-seta-torino;13598;cucina, impeccabile, cucina impeccabile
+https://www.yelp.it/biz/la-via-della-seta-torino;13599;cibo, buono, porzione, giusto, cibo buono, buono porzione, porzione giusto
+https://www.yelp.it/biz/la-via-della-seta-torino;13600;buono, servizio, buono servizio
+https://www.yelp.it/biz/la-via-della-seta-torino;13601;prezzo, essere, norma, ottimo, serata, prezzo essere, essere norma, norma ottimo, ottimo serata
+https://www.yelp.it/biz/la-via-della-seta-torino;13602;ambiente, essere, piacevole, molto, pulito, ambiente essere, essere piacevole, piacevole molto, molto pulito
+https://www.yelp.it/biz/la-via-della-seta-torino;13603;ristorante, carino, personale, gentile, ristorante carino, carino personale, personale gentile
+https://www.yelp.it/biz/la-via-della-seta-torino;13604;cibo, abbastanza, buono, cibo abbastanza, abbastanza buono
+https://www.yelp.it/biz/la-via-della-seta-torino;13605;servizio, essere, gentile, servizio essere, essere gentile
+https://www.yelp.it/biz/la-via-della-seta-torino;13606;vero, molto, buono, vero molto, molto buono
+https://www.yelp.it/biz/la-via-della-seta-torino;13607;finale, abbastanza, soddisfare, finale abbastanza, abbastanza soddisfare
+https://www.yelp.it/biz/la-via-della-seta-torino;13608;personale, essere, molto, gentile, personale essere, essere molto, molto gentile
+https://www.yelp.it/biz/la-via-della-seta-torino;13609;molto, buono, menù, convenzionale, molto buono, buono menù, menù convenzionale
+https://www.yelp.it/biz/la-via-della-seta-torino;13610;ottimo, cucina, alto, qualità, ottimo cucina, cucina alto, alto qualità
+https://www.yelp.it/biz/la-via-della-seta-torino;13611;consigliare, qualità, prezzo, consigliare qualità, qualità prezzo
+https://www.yelp.it/biz/la-via-della-seta-torino;13612;essere, tutto, squisito, essere tutto, tutto squisito
+https://www.yelp.it/biz/la-via-della-seta-torino;13613;antipasto, eccezionale, friggere, ottimo, antipasto eccezionale, eccezionale friggere, friggere ottimo
+https://www.yelp.it/biz/la-via-della-seta-torino;13614;bravo, bravo, bravo, bravo bravo, bravo bravo
+https://www.yelp.it/biz/la-via-della-seta-torino;13615;grande, varietà, cibo, grande varietà, varietà cibo
+https://www.yelp.it/biz/la-via-della-seta-torino;13616;più, caro, media, meritare, più caro, caro media, media meritare
+https://www.yelp.it/biz/la-via-della-seta-torino;13617;pulito, cucina, semplice, ben, fare, pulito cucina, cucina semplice, semplice ben, ben fare
+https://www.yelp.it/biz/la-via-della-seta-torino;13618;locale, molto, pulito, cibo, genuino, leggero, locale molto, molto pulito, pulito cibo, cibo genuino, genuino leggero
+https://www.yelp.it/biz/la-via-della-seta-torino;13619;personale, estremo, gentile, personale estremo, estremo gentile
+https://www.yelp.it/biz/la-via-della-seta-torino;13620;personale, essere, gentile, personale essere, essere gentile
+https://www.yelp.it/biz/la-via-della-seta-torino;13621;consigliare, deciso, consigliare deciso
+https://www.yelp.it/biz/la-via-della-seta-torino;13622;carino, piede, collina, torinese, carino piede, piede collina, collina torinese
+https://www.yelp.it/biz/la-via-della-seta-torino;13623;andare, gennaio, cinese, ottimo, qualità, andare gennaio, gennaio cinese, cinese ottimo, ottimo qualità
+https://www.yelp.it/biz/la-via-della-seta-torino;13624;raviolo, salsa, piccante, essere, vero, squisito, raviolo salsa, salsa piccante, piccante essere, essere vero, vero squisito
+https://www.yelp.it/biz/la-via-della-seta-torino;13625;gentilezza, cinese, gentilezza cinese
+https://www.yelp.it/biz/la-via-della-seta-torino;13626;locale, pulito, luminoso, trovare, piano, interrare, personale, cordiale, sorridente, locale pulito, pulito luminoso, luminoso trovare, trovare piano, piano interrare, interrare personale, personale cordiale, cordiale sorridente
+https://www.yelp.it/biz/la-via-della-seta-torino;13627;locale, essere, pieno, segnale, incoraggiante, locale essere, essere pieno, pieno segnale, segnale incoraggiante
+https://www.yelp.it/biz/la-via-della-seta-torino;13628;personale, gentile, personale gentile
+https://www.yelp.it/biz/la-via-della-seta-torino;13629;andare, rimanere, sicuro, soddisfatto, andare rimanere, rimanere sicuro, sicuro soddisfatto
+https://www.yelp.it/biz/la-via-della-seta-torino;13630;bravo, continuare, così, bravo continuare, continuare così
+https://www.yelp.it/biz/la-via-della-seta-torino;13631;ottimo, locale, pulito, servizio, cortese, efficiente, ottimo locale, locale pulito, pulito servizio, servizio cortese, cortese efficiente
+https://www.yelp.it/biz/la-via-della-seta-torino;13632;consigliare, insomma, consigliare insomma

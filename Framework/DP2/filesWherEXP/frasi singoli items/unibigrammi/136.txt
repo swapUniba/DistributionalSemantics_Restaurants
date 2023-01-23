@@ -1,0 +1,47 @@
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7444;gestione, molto, cortese, gestione molto, molto cortese
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7445;assoluto, favoloso, assoluto favoloso
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7446;mangiare, benissimo, servizio, essere, cordiale, impeccabile, mangiare benissimo, benissimo servizio, servizio essere, essere cordiale, cordiale impeccabile
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7447;unico, pecca, pochino, lento, unico pecca, pecca pochino, pochino lento
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7448;locale, carino, buon, servizio, locale carino, carino buon, buon servizio
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7449;cibo, buono, buono, varietà, cibo buono, buono buono, buono varietà
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7450;molto, consigliare, molto consigliare
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7451;posto, essere, piuttosto, stretto, posto essere, essere piuttosto, piuttosto stretto
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7452;molto, frequentare, molto frequentare
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7453;scelta, felice, scelta felice
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7454;menù, interessante, piatto, ben, presentare, menù interessante, interessante piatto, piatto ben, ben presentare
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7455;personale, molto, gentile, cordiale, personale molto, molto gentile, gentile cordiale
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7456;personale, gentile, personale gentile
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7457;curare, dettaglio, gusto, curare dettaglio, dettaglio gusto
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7458;inoltre, anche, hambuerger, essere, buono, inoltre anche, anche hambuerger, hambuerger essere, essere buono
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7459;essere, molto, bravo, essere molto, molto bravo
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7460;cena, amico, cibo, buono, cucinare, bene, cena amico, amico cibo, cibo buono, buono cucinare, cucinare bene
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7461;ristorante, essere, molto, carino, vero, locale, tipico, ristorante essere, essere molto, molto carino, carino vero, vero locale, locale tipico
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7462;carta, vino, ottimo, etichetta, carta vino, vino ottimo, ottimo etichetta
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7463;resto, successo, resto successo
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7464;personale, gentile, personale gentile
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7465;buon, rapporto, qualità-prezzo, buon rapporto, rapporto qualità-prezzo
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7466;tavolo, abbastanza, numeroso, tavolo abbastanza, abbastanza numeroso
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7467;chicca, finale, chicca finale
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7468;ancora, più, deludente, piatto, dolce, ancora più, più deludente, deludente piatto, piatto dolce
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7469;servizio, ottimo, servizio ottimo
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7470;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7471;plauso, particolare, 'cicci, persona, fantastico, plauso particolare, particolare 'cicci, 'cicci persona, persona fantastico
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7472;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7473;locale, abbastanza, spartano, offrire, qualità, davvero, notevole, piatto, classico, altro, molto, innovativo, quantità, giusto, presentazione, curare, locale abbastanza, abbastanza spartano, spartano offrire, offrire qualità, qualità davvero, davvero notevole, notevole piatto, piatto classico, classico altro, altro molto, molto innovativo, innovativo quantità, quantità giusto, giusto presentazione, presentazione curare
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7474;ricetta, essere, squisito, ricetta essere, essere squisito
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7475;complimentare, continuare, così, complimentare continuare, continuare così
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7476;rapporto, qualità, prezzo, molto, buono, rapporto qualità, qualità prezzo, prezzo molto, molto buono
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7477;locale, carino, giovanile, abbastanza, affollare, piacevole, locale carino, carino giovanile, giovanile abbastanza, abbastanza affollare, affollare piacevole
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7478;posto, essere, sempre, accogliente, personale, molto, disponibile, posto essere, essere sempre, sempre accogliente, accogliente personale, personale molto, molto disponibile
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7479;porre, molto, informale, porre molto, molto informale
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7480;atmosfera, sublime, atmosfera sublime
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7481;ottimo, cena, ottimo cena
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7482;servizio, cordiale, servizio cordiale
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7483;personale, essere, sempre, molto, gentile, disponibile, sopratutto, sorridente, personale essere, essere sempre, sempre molto, molto gentile, gentile disponibile, disponibile sopratutto, sopratutto sorridente
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7484;piccolo, neanche, più, buono, poco, saporito, piccolo neanche, neanche più, più buono, buono poco, poco saporito
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7485;personale, gentile, qualificare, personale gentile, gentile qualificare
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7486;molto, intimo, formare, puffo, molto intimo, intimo formare, formare puffo
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7487;bello, locale, accogliente, divertente, bello locale, locale accogliente, accogliente divertente
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7488;ottimo, rapporto, qualità/prezzo, ottimo rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7489;confortevole, buono, sottovalutare, confortevole buono, buono sottovalutare
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;7490;bello, anche, dehors, estivo, bello anche, anche dehors, dehors estivo

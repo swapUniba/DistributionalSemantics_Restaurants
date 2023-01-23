@@ -1,0 +1,39 @@
+https://www.yelp.it/biz/ala-torino;11230;essere, tutto, squisito
+https://www.yelp.it/biz/ala-torino;11231;molto, buono
+https://www.yelp.it/biz/ala-torino;11232;personale, cortese
+https://www.yelp.it/biz/ala-torino;11233;molto, buono
+https://www.yelp.it/biz/ala-torino;11234;piacere, palato
+https://www.yelp.it/biz/ala-torino;11235;ottimare, carne, ottimo, vino
+https://www.yelp.it/biz/ala-torino;11236;miglior, rapporto, qualità, prezzo
+https://www.yelp.it/biz/ala-torino;11237;buono, scelta, pesce
+https://www.yelp.it/biz/ala-torino;11238;personale, gentile, servizio, veloce
+https://www.yelp.it/biz/ala-torino;11239;bagno, cortile, estremo, spartano
+https://www.yelp.it/biz/ala-torino;11240;rapporto, qualità/prezzo, eccezionale
+https://www.yelp.it/biz/ala-torino;11241;però, buono, parte, lungo
+https://www.yelp.it/biz/ala-torino;11242;rapporto, qualità, prezzo, onesto
+https://www.yelp.it/biz/ala-torino;11243;dolce, sufficiente, cattivo, caffè
+https://www.yelp.it/biz/ala-torino;11244;unico, suggerimento
+https://www.yelp.it/biz/ala-torino;11245;giudizio, complesso, positivo
+https://www.yelp.it/biz/ala-torino;11246;sommare, comunque, buono, esperienza
+https://www.yelp.it/biz/ala-torino;11247;semplice, comunque, gradevole
+https://www.yelp.it/biz/ala-torino;11248;andare, bene, cena, semplice, gogliardica
+https://www.yelp.it/biz/ala-torino;11249;unico, piccolo, difetto, tavolo, molto, ravvicinare
+https://www.yelp.it/biz/ala-torino;11250;servizio, cordiale, veloce
+https://www.yelp.it/biz/ala-torino;11251;scelta, carne, buon, livello
+https://www.yelp.it/biz/ala-torino;11252;posizione, ottimo
+https://www.yelp.it/biz/ala-torino;11253;buono, freschissimo, fare, benissimo
+https://www.yelp.it/biz/ala-torino;11254;essere, solare, gentile
+https://www.yelp.it/biz/ala-torino;11255;molto, buono
+https://www.yelp.it/biz/ala-torino;11256;servizio, essere, molto, veloce, cordiale
+https://www.yelp.it/biz/ala-torino;11257;pesce, freschissimo
+https://www.yelp.it/biz/ala-torino;11258;semplicità, cordialità
+https://www.yelp.it/biz/ala-torino;11259;buon, rapporto, qualità-prezzo
+https://www.yelp.it/biz/ala-torino;11260;buono, amtipasto, dolce
+https://www.yelp.it/biz/ala-torino;11261;broccolo, salto
+https://www.yelp.it/biz/ala-torino;11262;prezzo, contenuto, personale, affabile
+https://www.yelp.it/biz/ala-torino;11263;prezzo, contenuto, buono, qualità
+https://www.yelp.it/biz/ala-torino;11264;buon, viaggio
+https://www.yelp.it/biz/ala-torino;11265;ottimo, trattoria, molto, spartano, accogliente
+https://www.yelp.it/biz/ala-torino;11266;cibo, meraviglioso
+https://www.yelp.it/biz/ala-torino;11267;gusto, spettacolare
+https://www.yelp.it/biz/ala-torino;11268;posto, accogliente

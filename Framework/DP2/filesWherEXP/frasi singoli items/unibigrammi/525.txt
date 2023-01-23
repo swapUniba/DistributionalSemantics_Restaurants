@@ -1,0 +1,36 @@
+https://www.yelp.it/biz/aldente-torino;19411;sapore, lasciare, piacevole, ricordo, servire, simpatia, pazienza, sapore lasciare, lasciare piacevole, piacevole ricordo, ricordo servire, servire simpatia, simpatia pazienza
+https://www.yelp.it/biz/aldente-torino;19412;buono, scelta, cibo, ottimo, buono scelta, scelta cibo, cibo ottimo
+https://www.yelp.it/biz/aldente-torino;19413;gentile, ottimo, rapporto, qualità, prezzo, gentile ottimo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/aldente-torino;19414;ottimo, prezzo, ottimo prezzo
+https://www.yelp.it/biz/aldente-torino;19415;riconsigliare, indubbio, riconsigliare indubbio
+https://www.yelp.it/biz/aldente-torino;19416;porzione, essere, abbondante, prezzo, essere, molto, buono, porzione essere, essere abbondante, abbondante prezzo, prezzo essere, essere molto, molto buono
+https://www.yelp.it/biz/aldente-torino;19417;buono, rapporto, qualità, prezzo, buono rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/aldente-torino;19418;personale, essere, molto, gentile, sorridente, personale essere, essere molto, molto gentile, gentile sorridente
+https://www.yelp.it/biz/aldente-torino;19419;bravo, ragazzo, bravo ragazzo
+https://www.yelp.it/biz/aldente-torino;19420;ambiente, caldo, accogliente, ambiente caldo, caldo accogliente
+https://www.yelp.it/biz/aldente-torino;19421;locale, carino, stile, trattoria, bello, apparecchiatura, attento, dettaglio, locale carino, carino stile, stile trattoria, trattoria bello, bello apparecchiatura, apparecchiatura attento, attento dettaglio
+https://www.yelp.it/biz/aldente-torino;19422;servizio, gentile, accurato, servizio gentile, gentile accurato
+https://www.yelp.it/biz/aldente-torino;19423;locale, molto, cariare, informale, curare, locale molto, molto cariare, cariare informale, informale curare
+https://www.yelp.it/biz/aldente-torino;19424;semplice, prenotare, atmosfera, tranquillo, silenzioso, semplice prenotare, prenotare atmosfera, atmosfera tranquillo, tranquillo silenzioso
+https://www.yelp.it/biz/aldente-torino;19425;vero, ottimo, vero ottimo
+https://www.yelp.it/biz/aldente-torino;19426;piacevole, scoperta, piacevole scoperta
+https://www.yelp.it/biz/aldente-torino;19427;personale, cortese, locale, accogliente, personale cortese, cortese locale, locale accogliente
+https://www.yelp.it/biz/aldente-torino;19428;mangiare, dolce, mangiare dolce
+https://www.yelp.it/biz/aldente-torino;19429;persona, gentile, persona gentile
+https://www.yelp.it/biz/aldente-torino;19430;menù, essere, ricco, ottimo, piatto, menù essere, essere ricco, ricco ottimo, ottimo piatto
+https://www.yelp.it/biz/aldente-torino;19431;servizio, buono, cibo, buono, servizio buono, buono cibo, cibo buono
+https://www.yelp.it/biz/aldente-torino;19432;buon, rapporto, qualità, prezzo, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/aldente-torino;19433;ambiente, familiare, cordiale, ambiente familiare, familiare cordiale
+https://www.yelp.it/biz/aldente-torino;19434;ambiente, decadente, aspetto, polveroso, ambiente decadente, decadente aspetto, aspetto polveroso
+https://www.yelp.it/biz/aldente-torino;19435;buono, rapporto, qualità/prezzo, buono rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/aldente-torino;19436;ottimo, rapporto, qualità/prezzo, ottimo rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/aldente-torino;19437;complesso, buono, trattoria, complesso buono, buono trattoria
+https://www.yelp.it/biz/aldente-torino;19438;personale, cordiale, personale cordiale
+https://www.yelp.it/biz/aldente-torino;19439;unico, pecca, unico pecca
+https://www.yelp.it/biz/aldente-torino;19440;gradire, caffè, gradire caffè
+https://www.yelp.it/biz/aldente-torino;19441;servizio, impeccabile, servizio impeccabile
+https://www.yelp.it/biz/aldente-torino;19442;cibo, ottimo, cibo ottimo
+https://www.yelp.it/biz/aldente-torino;19443;buono, qualità, prezzo, buono qualità, qualità prezzo
+https://www.yelp.it/biz/aldente-torino;19444;trattoria, situare, quadrilatero, romano, servizio, veloce, cortese, trattoria situare, situare quadrilatero, quadrilatero romano, romano servizio, servizio veloce, veloce cortese
+https://www.yelp.it/biz/aldente-torino;19445;cibo, molto, buono, cibo molto, molto buono
+https://www.yelp.it/biz/aldente-torino;19446;cena, fantastico, gustoso, cena fantastico, fantastico gustoso

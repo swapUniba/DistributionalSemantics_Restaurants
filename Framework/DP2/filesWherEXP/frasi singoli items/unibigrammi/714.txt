@@ -1,0 +1,35 @@
+https://www.yelp.it/biz/la-piadineria-torino;24306;ideale, pausa, pranzo, alternativa, solito, pizza, tappa, veloce, ideale pausa, pausa pranzo, pranzo alternativa, alternativa solito, solito pizza, pizza tappa, tappa veloce
+https://www.yelp.it/biz/la-piadineria-torino;24307;complesso, piadina, molto, buono, complesso piadina, piadina molto, molto buono
+https://www.yelp.it/biz/la-piadineria-torino;24308;personale, gentile, personale gentile
+https://www.yelp.it/biz/la-piadineria-torino;24309;avanti, così, avanti così
+https://www.yelp.it/biz/la-piadineria-torino;24310;assortimento, ingrediente, molto, vario, appetitoso, assortimento ingrediente, ingrediente molto, molto vario, vario appetitoso
+https://www.yelp.it/biz/la-piadineria-torino;24311;poi, anche, servizio, essere, veloce, poi anche, anche servizio, servizio essere, essere veloce
+https://www.yelp.it/biz/la-piadineria-torino;24312;spuntino, prima, treno, veloce, essere, ideale, spuntino prima, prima treno, treno veloce, veloce essere, essere ideale
+https://www.yelp.it/biz/la-piadineria-torino;24313;bello, piada, vuoto, bello piada, piada vuoto
+https://www.yelp.it/biz/la-piadineria-torino;24314;buono, solo, fare, buono solo, solo fare
+https://www.yelp.it/biz/la-piadineria-torino;24315;mai, mangiare, piadina, così, buono, mai mangiare, mangiare piadina, piadina così, così buono
+https://www.yelp.it/biz/la-piadineria-torino;24316;personale, simpatico, disponibile, personale simpatico, simpatico disponibile
+https://www.yelp.it/biz/la-piadineria-torino;24317;piadina, leggero, ben, condire, prodotto, fresco, piadina leggero, leggero ben, ben condire, condire prodotto, prodotto fresco
+https://www.yelp.it/biz/la-piadineria-torino;24318;personale, gentile, personale gentile
+https://www.yelp.it/biz/la-piadineria-torino;24319;ottimo, pausa, pranzo, ottimo pausa, pausa pranzo
+https://www.yelp.it/biz/la-piadineria-torino;24320;locale, informale, accogliente, piadina, ottimo, soprattutto, materia, primo, qualità, abbinamento, sapore, interessante, spuntino, veloce, locale informale, informale accogliente, accogliente piadina, piadina ottimo, ottimo soprattutto, soprattutto materia, materia primo, primo qualità, qualità abbinamento, abbinamento sapore, sapore interessante, interessante spuntino, spuntino veloce
+https://www.yelp.it/biz/la-piadineria-torino;24321;spesso, essere, pausa, pranzo, avere, tempo, essere, posto, giusto, spesso essere, essere pausa, pausa pranzo, pranzo avere, avere tempo, tempo essere, essere posto, posto giusto
+https://www.yelp.it/biz/la-piadineria-torino;24322;semplice, gustoso, sfizioso, semplice gustoso, gustoso sfizioso
+https://www.yelp.it/biz/la-piadineria-torino;24323;peccare, piadina, essere, molto, buono, peccare piadina, piadina essere, essere molto, molto buono
+https://www.yelp.it/biz/la-piadineria-torino;24324;personale, cortese, ben, disporre, personale cortese, cortese ben, ben disporre
+https://www.yelp.it/biz/la-piadineria-torino;24325;servizio, molto, veloce, personale, gentile, servizio molto, molto veloce, veloce personale, personale gentile
+https://www.yelp.it/biz/la-piadineria-torino;24326;ottimo, anche, pasto, veloce, consiglio, ottimo anche, anche pasto, pasto veloce, veloce consiglio
+https://www.yelp.it/biz/la-piadineria-torino;24327;davvero, gustoso, davvero gustoso
+https://www.yelp.it/biz/la-piadineria-torino;24328;personale, essere, gentile, personale essere, essere gentile
+https://www.yelp.it/biz/la-piadineria-torino;24329;buono, semplice, gustoso, buono semplice, semplice gustoso
+https://www.yelp.it/biz/la-piadineria-torino;24330;personale, molto, gentile, personale molto, molto gentile
+https://www.yelp.it/biz/la-piadineria-torino;24331;ottimo, pausa, pranzo, veloce, gustoso, ottimo pausa, pausa pranzo, pranzo veloce, veloce gustoso
+https://www.yelp.it/biz/la-piadineria-torino;24332;qualità, molto, buono, qualità molto, molto buono
+https://www.yelp.it/biz/la-piadineria-torino;24333;ingrediente, fresco, buono, qualità, ingrediente fresco, fresco buono, buono qualità
+https://www.yelp.it/biz/la-piadineria-torino;24334;consigliare, vivo, consigliare vivo
+https://www.yelp.it/biz/la-piadineria-torino;24335;piadina, eccezionale, ottimo, qualità, ottimo, sapore, piadina eccezionale, eccezionale ottimo, ottimo qualità, qualità ottimo, ottimo sapore
+https://www.yelp.it/biz/la-piadineria-torino;24336;complimentare, prossimo, complimentare prossimo
+https://www.yelp.it/biz/la-piadineria-torino;24337;punto, riferimento, trovare, piadina, squisito, punto riferimento, riferimento trovare, trovare piadina, piadina squisito
+https://www.yelp.it/biz/la-piadineria-torino;24338;ingrediente, essere, ottimo, qualità, ingrediente essere, essere ottimo, ottimo qualità
+https://www.yelp.it/biz/la-piadineria-torino;24339;provare, anche, dolce, provare anche, anche dolce
+https://www.yelp.it/biz/la-piadineria-torino;24340;ingrediente, essere, buono, qualità, ingrediente essere, essere buono, buono qualità

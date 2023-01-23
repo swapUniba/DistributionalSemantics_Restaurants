@@ -1,0 +1,6 @@
+https://www.yelp.it/biz/dal-vecchio-torino;9667;prezzo, contenuto, buono, varietà, prezzo contenuto, contenuto buono, buono varietà
+https://www.yelp.it/biz/dal-vecchio-torino;9668;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/dal-vecchio-torino;9669;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/dal-vecchio-torino;9670;serata, perfetto, serata perfetto
+https://www.yelp.it/biz/dal-vecchio-torino;9671;piacevole, anche, calice, prosecco, piacevole anche, anche calice, calice prosecco
+https://www.yelp.it/biz/dal-vecchio-torino;9672;fratello, persona, molto, professionale, cordiale, fratello persona, persona molto, molto professionale, professionale cordiale

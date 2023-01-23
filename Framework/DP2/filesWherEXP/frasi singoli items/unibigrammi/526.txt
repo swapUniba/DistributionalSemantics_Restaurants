@@ -1,0 +1,35 @@
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19447;locale, molto, carino, luce, soffuso, locale molto, molto carino, carino luce, luce soffuso
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19448;locale, molto, bello, personale, cortese, locale molto, molto bello, bello personale, personale cortese
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19449;locale, bello, particolare, locale bello, bello particolare
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19450;pizza, essere, davvero, ottimo, pizza essere, essere davvero, davvero ottimo
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19451;locale, carino, luce, pò, troppo, soffuso, punto, locale carino, carino luce, luce pò, pò troppo, troppo soffuso, soffuso punto
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19452;buono, cena, buono cena
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19453;rapporto, qualità, prezzo, molto, buono, rapporto qualità, qualità prezzo, prezzo molto, molto buono
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19454;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19455;ottimo, cibo, personale, disponibile, gentile, ottimo cibo, cibo personale, personale disponibile, disponibile gentile
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19456;ottimo, pizza, ottimo pizza
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19457;serata, davvero, piacevole, serata davvero, davvero piacevole
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19458;posto, consigliatissimo, posto consigliatissimo
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19459;bello, locale, qualità, prezzo, giusta, bello locale, locale qualità, qualità prezzo, prezzo giusta
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19460;personale, sala, molto, cortese, personale sala, sala molto, molto cortese
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19461;rapporto, qualità/prezzo, ottimo, rapporto qualità/prezzo, qualità/prezzo ottimo
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19462;personale, gentile, professionale, personale gentile, gentile professionale
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19463;pizza, davvero, ottimo, migliore, mai, assaggiare, pizza davvero, davvero ottimo, ottimo migliore, migliore mai, mai assaggiare
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19464;pizza, molto, buono, appetitoso, anche, tiramisù, pizza molto, molto buono, buono appetitoso, appetitoso anche, anche tiramisù
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19465;ampio, scegliere, vino, birra, ampio scegliere, scegliere vino, vino birra
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19466;personale, gentile, disporre, personale gentile, gentile disporre
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19467;sintesi, serata, settimana, passare, vero, bene, sintesi serata, serata settimana, settimana passare, passare vero, vero bene
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19468;lucere, molto, soffuso, lucere molto, molto soffuso
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19469;cucina, essere, ottimo, cucina essere, essere ottimo
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19470;dolce, ottimo, dolce ottimo
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19471;unico, cosa, salvare, essere, solo, cameriere, davvero, molto, carino, anche, servire, fare, neanche, piccolo, sorriso, sentire, agio, unico cosa, cosa salvare, salvare essere, essere solo, solo cameriere, cameriere davvero, davvero molto, molto carino, carino anche, anche servire, servire fare, fare neanche, neanche piccolo, piccolo sorriso, sorriso sentire, sentire agio
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19472;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19473;servizio, veloce, accurato, servizio veloce, veloce accurato
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19474;bello, location, pieno, salvario, ben, frequentare, caratteristico, bello location, location pieno, pieno salvario, salvario ben, ben frequentare, frequentare caratteristico
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19475;pizza, spettacolare, prezzo, ottimissimi, pizza spettacolare, spettacolare prezzo, prezzo ottimissimi
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19476;concludere, dolce, caffè, amaro, concludere dolce, dolce caffè, caffè amaro
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19477;volta, piacevole, sorpresa, volta piacevole, piacevole sorpresa
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19478;pizza, davvero, squisito, pizza davvero, davvero squisito
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19479;ottimare, pizza, ottimare pizza
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19480;buono, rapporto, qualità, prezzo, buono rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/bottega-baretti-moncalieri;19481;provare, dolce, provare dolce

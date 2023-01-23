@@ -1,0 +1,48 @@
+https://www.yelp.it/biz/sicomoro-torino;15057;locale, molto, cariare, accogliente, locale molto, molto cariare, cariare accogliente
+https://www.yelp.it/biz/sicomoro-torino;15058;pizza, buono, cosa, normale, locale, molto, essenziale, macarino, pizza buono, buono cosa, cosa normale, normale locale, locale molto, molto essenziale, essenziale macarino
+https://www.yelp.it/biz/sicomoro-torino;15059;dire, buono, dire buono
+https://www.yelp.it/biz/sicomoro-torino;15060;poi, locale, essere, vero, cool, poi locale, locale essere, essere vero, vero cool
+https://www.yelp.it/biz/sicomoro-torino;15061;ottimo, simpatico, ristorante, ottimo simpatico, simpatico ristorante
+https://www.yelp.it/biz/sicomoro-torino;15062;insomma, ottimo, qualità, personale, sorridente, accogliente, insomma ottimo, ottimo qualità, qualità personale, personale sorridente, sorridente accogliente
+https://www.yelp.it/biz/sicomoro-torino;15063;unico, pecca, dolce, unico pecca, pecca dolce
+https://www.yelp.it/biz/sicomoro-torino;15064;cibo, offerto, essere, qualità, ben, curare, sfizioso, cibo offerto, offerto essere, essere qualità, qualità ben, ben curare, curare sfizioso
+https://www.yelp.it/biz/sicomoro-torino;15065;rapporto, qualità, prezzo, ottimo, rapporto qualità, qualità prezzo, prezzo ottimo
+https://www.yelp.it/biz/sicomoro-torino;15066;mangiare, molto, bene, fritto, essere, buono, mangiare molto, molto bene, bene fritto, fritto essere, essere buono
+https://www.yelp.it/biz/sicomoro-torino;15067;personale, gentile, personale gentile
+https://www.yelp.it/biz/sicomoro-torino;15068;pizza, buono, aperto, pizza buono, buono aperto
+https://www.yelp.it/biz/sicomoro-torino;15069;farinata, anche, molto, buono, farinata anche, anche molto, molto buono
+https://www.yelp.it/biz/sicomoro-torino;15070;assoluto, provare, assoluto provare
+https://www.yelp.it/biz/sicomoro-torino;15071;grazie, osservazione, grazie osservazione
+https://www.yelp.it/biz/sicomoro-torino;15072;unico, pecca, servizio, pò, lento, unico pecca, pecca servizio, servizio pò, pò lento
+https://www.yelp.it/biz/sicomoro-torino;15073;assoluto, soddisfatto, bravo, assoluto soddisfatto, soddisfatto bravo
+https://www.yelp.it/biz/sicomoro-torino;15074;personale, gentile, personale gentile
+https://www.yelp.it/biz/sicomoro-torino;15075;pizza, generale, buono, pizza generale, generale buono
+https://www.yelp.it/biz/sicomoro-torino;15076;grazie, davvero, grazie davvero
+https://www.yelp.it/biz/sicomoro-torino;15077;pizza, davvero, buono, ottimo, accoglienza, prezzo, giusto, pizza davvero, davvero buono, buono ottimo, ottimo accoglienza, accoglienza prezzo, prezzo giusto
+https://www.yelp.it/biz/sicomoro-torino;15078;bello, posto, tornare, bello posto, posto tornare
+https://www.yelp.it/biz/sicomoro-torino;15079;bello, ristorante, sushi, freschissimo, buono, bello ristorante, ristorante sushi, sushi freschissimo, freschissimo buono
+https://www.yelp.it/biz/sicomoro-torino;15080;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/sicomoro-torino;15081;ambiente, cariare, ambiente cariare
+https://www.yelp.it/biz/sicomoro-torino;15082;pizza, essere, molto, buono, impasto, leggero, pizza essere, essere molto, molto buono, buono impasto, impasto leggero
+https://www.yelp.it/biz/sicomoro-torino;15083;personale, molto, gentile, servizio, veloce, personale molto, molto gentile, gentile servizio, servizio veloce
+https://www.yelp.it/biz/sicomoro-torino;15084;pizza, davvero, buono, anche, originale, pizza davvero, davvero buono, buono anche, anche originale
+https://www.yelp.it/biz/sicomoro-torino;15085;ottimo, anche, tiramisù, ottimo anche, anche tiramisù
+https://www.yelp.it/biz/sicomoro-torino;15086;location, accogliente, elegante, location accogliente, accogliente elegante
+https://www.yelp.it/biz/sicomoro-torino;15087;servizio, cordiale, gentile, servizio cordiale, cordiale gentile
+https://www.yelp.it/biz/sicomoro-torino;15088;pizza, buono, pizza buono
+https://www.yelp.it/biz/sicomoro-torino;15089;personale, gentile, personale gentile
+https://www.yelp.it/biz/sicomoro-torino;15090;cameriere, essere, molto, gentile, cameriere essere, essere molto, molto gentile
+https://www.yelp.it/biz/sicomoro-torino;15091;pizza, norma, servizio, cortese, poco, professionale, pizza norma, norma servizio, servizio cortese, cortese poco, poco professionale
+https://www.yelp.it/biz/sicomoro-torino;15092;sii, gentile, sii gentile
+https://www.yelp.it/biz/sicomoro-torino;15093;ottimo, ristarante, pizzeria, cuore, ottimo ristarante, ristarante pizzeria, pizzeria cuore
+https://www.yelp.it/biz/sicomoro-torino;15094;personale, cordiale, professionale, personale cordiale, cordiale professionale
+https://www.yelp.it/biz/sicomoro-torino;15095;ben, cotto, ben, condire, ben cotto, cotto ben, ben condire
+https://www.yelp.it/biz/sicomoro-torino;15096;posto, accogliente, luce, abbastanza, soffuso, posto accogliente, accogliente luce, luce abbastanza, abbastanza soffuso
+https://www.yelp.it/biz/sicomoro-torino;15097;ottimo, anche, cuore, caldo, cioccolato, ottimo anche, anche cuore, cuore caldo, caldo cioccolato
+https://www.yelp.it/biz/sicomoro-torino;15098;ottimo, compromesso, ottimo compromesso
+https://www.yelp.it/biz/sicomoro-torino;15099;cucina, essere, perfetto, cucina essere, essere perfetto
+https://www.yelp.it/biz/sicomoro-torino;15100;buono, sorpresa, buono sorpresa
+https://www.yelp.it/biz/sicomoro-torino;15101;unico, accortezza, prenotare, sempre, prima, potreste, trovare, porre, unico accortezza, accortezza prenotare, prenotare sempre, sempre prima, prima potreste, potreste trovare, trovare porre
+https://www.yelp.it/biz/sicomoro-torino;15102;cena, pizza, stratosferico, cena pizza, pizza stratosferico
+https://www.yelp.it/biz/sicomoro-torino;15103;grande, scelta, piatto, pizza, grande scelta, scelta piatto, piatto pizza
+https://www.yelp.it/biz/sicomoro-torino;15104;complimentare, cucina, complimentare cucina

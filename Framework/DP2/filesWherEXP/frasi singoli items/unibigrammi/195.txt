@@ -1,0 +1,42 @@
+https://www.yelp.it/biz/bari-napoli-bari;9189;ottimo, spaghetto, consiglio, vivo, ottimo spaghetto, spaghetto consiglio, consiglio vivo
+https://www.yelp.it/biz/bari-napoli-bari;9190;cibo, ottimo, cibo ottimo
+https://www.yelp.it/biz/bari-napoli-bari;9191;davvero, squisito, davvero squisito
+https://www.yelp.it/biz/bari-napoli-bari;9192;resto, servizio, eccellente, resto servizio, servizio eccellente
+https://www.yelp.it/biz/bari-napoli-bari;9193;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/bari-napoli-bari;9194;qualità, cibo, buon, bere, qualità cibo, cibo buon, buon bere
+https://www.yelp.it/biz/bari-napoli-bari;9195;ambiente, tranquillo, confusionario, ambiente tranquillo, tranquillo confusionario
+https://www.yelp.it/biz/bari-napoli-bari;9196;ambiente, tranquillo, ambiente tranquillo
+https://www.yelp.it/biz/bari-napoli-bari;9197;ingrediente, fresco, impasto, gustoso, leggero, ingrediente fresco, fresco impasto, impasto gustoso, gustoso leggero
+https://www.yelp.it/biz/bari-napoli-bari;9198;locale, carino, personale, cortese, locale carino, carino personale, personale cortese
+https://www.yelp.it/biz/bari-napoli-bari;9199;mai, più, QUESTO, mai più, più questo
+https://www.yelp.it/biz/bari-napoli-bari;9200;nota, positivo, essere, servizio, nota positivo, positivo essere, essere servizio
+https://www.yelp.it/biz/bari-napoli-bari;9201;pizza, buono, tempo, attesa, relativo, breve, prezzo, abbordabile, pizza buono, buono tempo, tempo attesa, attesa relativo, relativo breve, breve prezzo, prezzo abbordabile
+https://www.yelp.it/biz/bari-napoli-bari;9202;pizza, ottimo, pizza ottimo
+https://www.yelp.it/biz/bari-napoli-bari;9203;ottimo, pizza, cornicione, alto, soffice, ottimo pizza, pizza cornicione, cornicione alto, alto soffice
+https://www.yelp.it/biz/bari-napoli-bari;9204;ottimo, soluzione, pranzo, veloce, ottimo soluzione, soluzione pranzo, pranzo veloce
+https://www.yelp.it/biz/bari-napoli-bari;9205;ottimo, locale, personale, gentile, simpatico, ottimo locale, locale personale, personale gentile, gentile simpatico
+https://www.yelp.it/biz/bari-napoli-bari;9206;ottimo, pizza, disponibile, sottile, più, alto, ottimo pizza, pizza disponibile, disponibile sottile, sottile più, più alto
+https://www.yelp.it/biz/bari-napoli-bari;9207;buon, rapporto, qualità, prezzo, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/bari-napoli-bari;9208;provare, credere, provare credere
+https://www.yelp.it/biz/bari-napoli-bari;9209;qualità, pizza, molto, molto, qualità pizza, pizza molto, molto molto
+https://www.yelp.it/biz/bari-napoli-bari;9210;personale, preparato, disponibile, cordiale, personale preparato, preparato disponibile, disponibile cordiale
+https://www.yelp.it/biz/bari-napoli-bari;9211;tavolata, grande, tavolata grande
+https://www.yelp.it/biz/bari-napoli-bari;9212;comunque, prezzo, media, cucina, buono, comunque prezzo, prezzo media, media cucina, cucina buono
+https://www.yelp.it/biz/bari-napoli-bari;9213;meraviglioso, gustoso, meraviglioso gustoso
+https://www.yelp.it/biz/bari-napoli-bari;9214;personale, veloce, personale veloce
+https://www.yelp.it/biz/bari-napoli-bari;9215;buono, pizza, migliore, buono pizza, pizza migliore
+https://www.yelp.it/biz/bari-napoli-bari;9216;locale, molto, accogliente, locale molto, molto accogliente
+https://www.yelp.it/biz/bari-napoli-bari;9217;pizza, sottile, ben, cuocere, pizza sottile, sottile ben, ben cuocere
+https://www.yelp.it/biz/bari-napoli-bari;9218;sembrare, semplice, spaghetto, panna, cotto, sembrare semplice, semplice spaghetto, spaghetto panna, panna cotto
+https://www.yelp.it/biz/bari-napoli-bari;9219;bello, pizza, rapa, deludere, mai, bello pizza, pizza rapa, rapa deludere, deludere mai
+https://www.yelp.it/biz/bari-napoli-bari;9220;parcheggio, facile, parcheggio facile
+https://www.yelp.it/biz/bari-napoli-bari;9221;bello, anche, locale, bello anche, anche locale
+https://www.yelp.it/biz/bari-napoli-bari;9222;pizza, ottimo, pizza ottimo
+https://www.yelp.it/biz/bari-napoli-bari;9223;dolce, così, così, dolce così, così così
+https://www.yelp.it/biz/bari-napoli-bari;9224;ottimo, tagliere, mezzo, metro, pizza, buono, ottimo tagliere, tagliere mezzo, mezzo metro, metro pizza, pizza buono
+https://www.yelp.it/biz/bari-napoli-bari;9225;cameriere, gentile, cameriere gentile
+https://www.yelp.it/biz/bari-napoli-bari;9226;magari, fuga, romantico, magari fuga, fuga romantico
+https://www.yelp.it/biz/bari-napoli-bari;9227;servizio, gentile, servizio gentile
+https://www.yelp.it/biz/bari-napoli-bari;9228;andare, bene, andare bene
+https://www.yelp.it/biz/bari-napoli-bari;9229;porre, giusto, porre giusto
+https://www.yelp.it/biz/bari-napoli-bari;9230;anche, pasto, veloce, anche pasto, pasto veloce

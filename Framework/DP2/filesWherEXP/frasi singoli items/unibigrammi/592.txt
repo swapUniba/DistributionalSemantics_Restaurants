@@ -1,0 +1,55 @@
+https://www.yelp.it/biz/cit-ma-bon-torino;21505;solo, piazza, padellino, buono, solo piazza, piazza padellino, padellino buono
+https://www.yelp.it/biz/cit-ma-bon-torino;21506;esperienza, positivo, esperienza positivo
+https://www.yelp.it/biz/cit-ma-bon-torino;21507;ottimo, anche, farinata, ottimo anche, anche farinata
+https://www.yelp.it/biz/cit-ma-bon-torino;21508;pizza, tegamino, farinata, super, pizza tegamino, tegamino farinata, farinata super
+https://www.yelp.it/biz/cit-ma-bon-torino;21509;essere, cena, posto, locale, arredamento, retrò, però, ottimo, posizione, essere cena, cena posto, posto locale, locale arredamento, arredamento retrò, retrò però, però ottimo, ottimo posizione
+https://www.yelp.it/biz/cit-ma-bon-torino;21510;pizza, padellino, molto, buono, prezzo, onesto, pizza padellino, padellino molto, molto buono, buono prezzo, prezzo onesto
+https://www.yelp.it/biz/cit-ma-bon-torino;21511;buono, pizza, spettacolare, farinata, buono pizza, pizza spettacolare, spettacolare farinata
+https://www.yelp.it/biz/cit-ma-bon-torino;21512;locale, molto, carino, caldo, accogliente, locale molto, molto carino, carino caldo, caldo accogliente
+https://www.yelp.it/biz/cit-ma-bon-torino;21513;buono, svelto, birra, artigianale, buono svelto, svelto birra, birra artigianale
+https://www.yelp.it/biz/cit-ma-bon-torino;21514;farinata, buono, pochino, secco, farinata buono, buono pochino, pochino secco
+https://www.yelp.it/biz/cit-ma-bon-torino;21515;pizza, tegamino, più, buono, farinata, buono, pizza tegamino, tegamino più, più buono, buono farinata, farinata buono
+https://www.yelp.it/biz/cit-ma-bon-torino;21516;ottimo, luogo, trascorrere, piacevole, serata, ottimo luogo, luogo trascorrere, trascorrere piacevole, piacevole serata
+https://www.yelp.it/biz/cit-ma-bon-torino;21517;farinata, essere, vero, buono, farinata essere, essere vero, vero buono
+https://www.yelp.it/biz/cit-ma-bon-torino;21518;migliore, migliore, mangiata, migliore migliore, migliore mangiata
+https://www.yelp.it/biz/cit-ma-bon-torino;21519;cibo, essere, buono, comprendere, dolce, prezzo, giusto, cibo essere, essere buono, buono comprendere, comprendere dolce, dolce prezzo, prezzo giusto
+https://www.yelp.it/biz/cit-ma-bon-torino;21520;fare, ottimo, impasto, digerire, bene, fare ottimo, ottimo impasto, impasto digerire, digerire bene
+https://www.yelp.it/biz/cit-ma-bon-torino;21521;farinata, essere, ottimo, croccante, fuori, morbido, dentro, farinata essere, essere ottimo, ottimo croccante, croccante fuori, fuori morbido, morbido dentro
+https://www.yelp.it/biz/cit-ma-bon-torino;21522;ottimare, farinata, prima, pizza, padellino, cottura, perfetto, farcitura, qualità, ottimare farinata, farinata prima, prima pizza, pizza padellino, padellino cottura, cottura perfetto, perfetto farcitura, farcitura qualità
+https://www.yelp.it/biz/cit-ma-bon-torino;21523;personale, molto, cordiale, attento, personale molto, molto cordiale, cordiale attento
+https://www.yelp.it/biz/cit-ma-bon-torino;21524;ambiente, carino, ambiente carino
+https://www.yelp.it/biz/cit-ma-bon-torino;21525;marinaresco, molto, caldo, retró, marinaresco molto, molto caldo, caldo retró
+https://www.yelp.it/biz/cit-ma-bon-torino;21526;ieri, sera, essere, cena, amico, ieri sera, sera essere, essere cena, cena amico
+https://www.yelp.it/biz/cit-ma-bon-torino;21527;farinata, ottimo, pizza, tegamino, molto, buono, anche, creme, brulé, buono, farinata ottimo, ottimo pizza, pizza tegamino, tegamino molto, molto buono, buono anche, anche creme, creme brulé, brulé buono
+https://www.yelp.it/biz/cit-ma-bon-torino;21528;ambiente, cariare, servizio, tavolo, ambiente cariare, cariare servizio, servizio tavolo
+https://www.yelp.it/biz/cit-ma-bon-torino;21529;semplicemente, perfetto, semplicemente perfetto
+https://www.yelp.it/biz/cit-ma-bon-torino;21530;locale, carino, buono, farinata, locale carino, carino buono, buono farinata
+https://www.yelp.it/biz/cit-ma-bon-torino;21531;pizza, essere, semplicemente, strepitoso, farinata, divino, pizza essere, essere semplicemente, semplicemente strepitoso, strepitoso farinata, farinata divino
+https://www.yelp.it/biz/cit-ma-bon-torino;21532;locale, accogliente, personale, gentile, locale accogliente, accogliente personale, personale gentile
+https://www.yelp.it/biz/cit-ma-bon-torino;21533;amare, pizza, tegamino, urlo, essere, posto, giusto, amare pizza, pizza tegamino, tegamino urlo, urlo essere, essere posto, posto giusto
+https://www.yelp.it/biz/cit-ma-bon-torino;21534;gustoso, pizza, padellino, buono, birra, spina, gustoso pizza, pizza padellino, padellino buono, buono birra, birra spina
+https://www.yelp.it/biz/cit-ma-bon-torino;21535;dire, avere, farinata, eccezionale, pizza, assoluto, ottimo, dire avere, avere farinata, farinata eccezionale, eccezionale pizza, pizza assoluto, assoluto ottimo
+https://www.yelp.it/biz/cit-ma-bon-torino;21536;ottimo, pizza, soprattutto, farinata, ottimo pizza, pizza soprattutto, soprattutto farinata
+https://www.yelp.it/biz/cit-ma-bon-torino;21537;assoluto, provare, assoluto provare
+https://www.yelp.it/biz/cit-ma-bon-torino;21538;pizza, essere, ottimo, così, pure, farinata, pizza essere, essere ottimo, ottimo così, così pure, pure farinata
+https://www.yelp.it/biz/cit-ma-bon-torino;21539;essere, deciso, buono, essere deciso, deciso buono
+https://www.yelp.it/biz/cit-ma-bon-torino;21540;consigliare, farinata, pizza, padellino, consigliare farinata, farinata pizza, pizza padellino
+https://www.yelp.it/biz/cit-ma-bon-torino;21541;ottimo, pizza, padellino, ottimo pizza, pizza padellino
+https://www.yelp.it/biz/cit-ma-bon-torino;21542;prenotare, perchè, locale, simpatico, accogliente, essere, enorme, prenotare perchè, perchè locale, locale simpatico, simpatico accogliente, accogliente essere, essere enorme
+https://www.yelp.it/biz/cit-ma-bon-torino;21543;ambiente, essere, molto, cordiale, familiare, ambiente essere, essere molto, molto cordiale, cordiale familiare
+https://www.yelp.it/biz/cit-ma-bon-torino;21544;comunque, cibo, eccellente, comunque cibo, cibo eccellente
+https://www.yelp.it/biz/cit-ma-bon-torino;21545;gustoso, ricco, gustoso ricco
+https://www.yelp.it/biz/cit-ma-bon-torino;21546;personale, amichevole, cortese, personale amichevole, amichevole cortese
+https://www.yelp.it/biz/cit-ma-bon-torino;21547;personale, simpatico, veloce, personale simpatico, simpatico veloce
+https://www.yelp.it/biz/cit-ma-bon-torino;21548;pizza, teglia, amare, genere, migliore, pizza teglia, teglia amare, amare genere, genere migliore
+https://www.yelp.it/biz/cit-ma-bon-torino;21549;pizza, tegamino, gustoso, leggero, traccia, olio, pizza tegamino, tegamino gustoso, gustoso leggero, leggero traccia, traccia olio
+https://www.yelp.it/biz/cit-ma-bon-torino;21550;esperienza, ripetere, esperienza ripetere
+https://www.yelp.it/biz/cit-ma-bon-torino;21551;vero, migliore, mai, assaggiare, prima, vero migliore, migliore mai, mai assaggiare, assaggiare prima
+https://www.yelp.it/biz/cit-ma-bon-torino;21552;personale, gentile, attento, personale gentile, gentile attento
+https://www.yelp.it/biz/cit-ma-bon-torino;21553;qualità, pizza, molto, buono, leggero, gustoso, qualità pizza, pizza molto, molto buono, buono leggero, leggero gustoso
+https://www.yelp.it/biz/cit-ma-bon-torino;21554;piccolo, molto, arricchire, piccolo molto, molto arricchire
+https://www.yelp.it/biz/cit-ma-bon-torino;21555;consigliare, farinata, pizza, padellino, consigliare farinata, farinata pizza, pizza padellino
+https://www.yelp.it/biz/cit-ma-bon-torino;21556;personale, gentile, veloce, personale gentile, gentile veloce
+https://www.yelp.it/biz/cit-ma-bon-torino;21557;farinata, strepitoso, farinata strepitoso
+https://www.yelp.it/biz/cit-ma-bon-torino;21558;gradevole, cosistenza, pasta, varietà, ingrediente, abbinamento, gradevole cosistenza, cosistenza pasta, pasta varietà, varietà ingrediente, ingrediente abbinamento
+https://www.yelp.it/biz/cit-ma-bon-torino;21559;pizza, buono, pizza buono

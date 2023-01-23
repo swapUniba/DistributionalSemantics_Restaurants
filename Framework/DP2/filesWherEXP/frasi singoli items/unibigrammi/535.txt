@@ -1,0 +1,61 @@
+https://www.yelp.it/biz/al-paradise-palese;19742;locale, piacevole, mare, locale piacevole, piacevole mare
+https://www.yelp.it/biz/al-paradise-palese;19743;salsa, pistacchio, gambero, davvero, gustoso, salsa pistacchio, pistacchio gambero, gambero davvero, davvero gustoso
+https://www.yelp.it/biz/al-paradise-palese;19744;quantità, giusto, qualità, sapore, ottimo, servizio, impeccabile, quantità giusto, giusto qualità, qualità sapore, sapore ottimo, ottimo servizio, servizio impeccabile
+https://www.yelp.it/biz/al-paradise-palese;19745;grazie, ancora, grazie ancora
+https://www.yelp.it/biz/al-paradise-palese;19746;esperienza, sicuro, riduttivo, essere, massimo, esperienza sicuro, sicuro riduttivo, riduttivo essere, essere massimo
+https://www.yelp.it/biz/al-paradise-palese;19747;comunque, grazie, comunque grazie
+https://www.yelp.it/biz/al-paradise-palese;19748;ottimo, locale, ottimo, qualità, prezzo, personale, molto, cordiale, ottimo locale, locale ottimo, ottimo qualità, qualità prezzo, prezzo personale, personale molto, molto cordiale
+https://www.yelp.it/biz/al-paradise-palese;19749;molto, bravo, molto bravo
+https://www.yelp.it/biz/al-paradise-palese;19750;ottimo, pesce, freschissimo, conto, consono, qualità, cena, ottimo pesce, pesce freschissimo, freschissimo conto, conto consono, consono qualità, qualità cena
+https://www.yelp.it/biz/al-paradise-palese;19751;complimentare, avanti, così, complimentare avanti, avanti così
+https://www.yelp.it/biz/al-paradise-palese;19752;grazie, commento, grazie commento
+https://www.yelp.it/biz/al-paradise-palese;19753;essere, scegliere, grazie, giudizio, positivo, cliente, presente, web, essere, molto, gratificare, giorno, oggi, essere scegliere, scegliere grazie, grazie giudizio, giudizio positivo, positivo cliente, cliente presente, presente web, web essere, essere molto, molto gratificare, gratificare giorno, giorno oggi
+https://www.yelp.it/biz/al-paradise-palese;19754;grazie, bello, parola, grazie bello, bello parola
+https://www.yelp.it/biz/al-paradise-palese;19755;pesce, buono, pesce buono
+https://www.yelp.it/biz/al-paradise-palese;19756;servizio, cordiale, servizio cordiale
+https://www.yelp.it/biz/al-paradise-palese;19757;locale, essere, carino, accogliente, locale essere, essere carino, carino accogliente
+https://www.yelp.it/biz/al-paradise-palese;19758;locale, abbastanza, accogliente, locale abbastanza, abbastanza accogliente
+https://www.yelp.it/biz/al-paradise-palese;19759;gentile, cliente, grazie, ottimo, valutazione, gentile cliente, cliente grazie, grazie ottimo, ottimo valutazione
+https://www.yelp.it/biz/al-paradise-palese;19760;caro, grazie, complimento, rivolgere, struttura, personale, caro grazie, grazie complimento, complimento rivolgere, rivolgere struttura, struttura personale
+https://www.yelp.it/biz/al-paradise-palese;19761;caro, saluto, caro saluto
+https://www.yelp.it/biz/al-paradise-palese;19762;tipicità, mare, cozza, buono, eccezionale, crema, pistacchio, gambero, tipicità mare, mare cozza, cozza buono, buono eccezionale, eccezionale crema, crema pistacchio, pistacchio gambero
+https://www.yelp.it/biz/al-paradise-palese;19763;cameriere, simpatico, gentile, cameriere simpatico, simpatico gentile
+https://www.yelp.it/biz/al-paradise-palese;19764;grazie, gentile, parola, ottimo, valutazione, grazie gentile, gentile parola, parola ottimo, ottimo valutazione
+https://www.yelp.it/biz/al-paradise-palese;19765;consiglio, anche, dolce, consiglio anche, anche dolce
+https://www.yelp.it/biz/al-paradise-palese;19766;locale, molto, bello, proprio, lungomare, servizio, sempre, attento, locale molto, molto bello, bello proprio, proprio lungomare, lungomare servizio, servizio sempre, sempre attento
+https://www.yelp.it/biz/al-paradise-palese;19767;caro, saluto, caro saluto
+https://www.yelp.it/biz/al-paradise-palese;19768;locale, essere, carino, ben, curare, locale essere, essere carino, carino ben, ben curare
+https://www.yelp.it/biz/al-paradise-palese;19769;servizio, gentile, troppo, essenziale, servizio gentile, gentile troppo, troppo essenziale
+https://www.yelp.it/biz/al-paradise-palese;19770;rapporto, qualità, prezzo, molto, buono, rapporto qualità, qualità prezzo, prezzo molto, molto buono
+https://www.yelp.it/biz/al-paradise-palese;19771;pizza, essere, sfizioso, buono, pizza essere, essere sfizioso, sfizioso buono
+https://www.yelp.it/biz/al-paradise-palese;19772;soprattutto, ottimo, cottura, pasta, soprattutto ottimo, ottimo cottura, cottura pasta
+https://www.yelp.it/biz/al-paradise-palese;19773;serata, semplice, allegro, spensierato, serata semplice, semplice allegro, allegro spensierato
+https://www.yelp.it/biz/al-paradise-palese;19774;ottimo, gamberoni, fresco, ottimo gamberoni, gamberoni fresco
+https://www.yelp.it/biz/al-paradise-palese;19775;essere, qui, volta, volta, rimanere, soddisfare, essere qui, qui volta, volta volta, volta rimanere, rimanere soddisfare
+https://www.yelp.it/biz/al-paradise-palese;19776;grazie, ancora, grazie ancora
+https://www.yelp.it/biz/al-paradise-palese;19777;grazie, ancora, grazie ancora
+https://www.yelp.it/biz/al-paradise-palese;19778;buono, gustoso, anche, pizza, buono gustoso, gustoso anche, anche pizza
+https://www.yelp.it/biz/al-paradise-palese;19779;cucina, mediterraneo, più, soddisfacente, cucina mediterraneo, mediterraneo più, più soddisfacente
+https://www.yelp.it/biz/al-paradise-palese;19780;giusto, rapporto, qualità, prezzo, giusto rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/al-paradise-palese;19781;grazie, ancora, grazie ancora
+https://www.yelp.it/biz/al-paradise-palese;19782;quindi, complimentare, quindi complimentare
+https://www.yelp.it/biz/al-paradise-palese;19783;tempo, accettabile, sabato, tempo accettabile, accettabile sabato
+https://www.yelp.it/biz/al-paradise-palese;19784;grazie, ancora, grazie ancora
+https://www.yelp.it/biz/al-paradise-palese;19785;tanto, bontà, competenza, disponibilità, tanto bontà, bontà competenza, competenza disponibilità
+https://www.yelp.it/biz/al-paradise-palese;19786;opportuno, prenotare, opportuno prenotare
+https://www.yelp.it/biz/al-paradise-palese;19787;grazie, anche, parola, elogio, relativo, rapidità, servizio, prezzo, accessibile, grazie anche, anche parola, parola elogio, elogio relativo, relativo rapidità, rapidità servizio, servizio prezzo, prezzo accessibile
+https://www.yelp.it/biz/al-paradise-palese;19788;buono, qualità, antipasto, secondo, piatto, buono qualità, qualità antipasto, antipasto secondo, secondo piatto
+https://www.yelp.it/biz/al-paradise-palese;19789;personale, cordiale, simpatico, personale cordiale, cordiale simpatico
+https://www.yelp.it/biz/al-paradise-palese;19790;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/al-paradise-palese;19791;vino, buono, vino buono
+https://www.yelp.it/biz/al-paradise-palese;19792;locale, troppo, affollato, atmosfera, giusta, locale troppo, troppo affollato, affollato atmosfera, atmosfera giusta
+https://www.yelp.it/biz/al-paradise-palese;19793;personale, qualificato, gentile, personale qualificato, qualificato gentile
+https://www.yelp.it/biz/al-paradise-palese;19794;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/al-paradise-palese;19795;rapporto, qualità, prezzo, fantastico, rapporto qualità, qualità prezzo, prezzo fantastico
+https://www.yelp.it/biz/al-paradise-palese;19796;ottimo, scelta, antipasto, ottimo scelta, scelta antipasto
+https://www.yelp.it/biz/al-paradise-palese;19797;ottimo, sugo, pescatore, freschissimi, ottimo sugo, sugo pescatore, pescatore freschissimi
+https://www.yelp.it/biz/al-paradise-palese;19798;grazie, ancora, grazie ancora
+https://www.yelp.it/biz/al-paradise-palese;19799;grazie, ancora, prossimo, occasione, grazie ancora, ancora prossimo, prossimo occasione
+https://www.yelp.it/biz/al-paradise-palese;19800;servizio, essere, perfetto, servizio essere, essere perfetto
+https://www.yelp.it/biz/al-paradise-palese;19801;unico, cosa, passabile, sorbetto, unico cosa, cosa passabile, passabile sorbetto
+https://www.yelp.it/biz/al-paradise-palese;19802;ampio, soddisfare, ampio soddisfare

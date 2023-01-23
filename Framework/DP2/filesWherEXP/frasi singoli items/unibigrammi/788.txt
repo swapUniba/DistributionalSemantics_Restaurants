@@ -1,0 +1,44 @@
+https://www.yelp.it/biz/vintage-torino;26148;elegante, molto, accogliente, elegante molto, molto accogliente
+https://www.yelp.it/biz/vintage-torino;26149;personale, professionale, molto, cordiale, personale professionale, professionale molto, molto cordiale
+https://www.yelp.it/biz/vintage-torino;26150;ottimo, accoglienza, parte, sala, titolare, ottimo accoglienza, accoglienza parte, parte sala, sala titolare
+https://www.yelp.it/biz/vintage-torino;26151;magnifico, sapore, semplice, enfatizzare, giusto, preparazione, magnifico sapore, sapore semplice, semplice enfatizzare, enfatizzare giusto, giusto preparazione
+https://www.yelp.it/biz/vintage-torino;26152;ottimo, guida, ottimo guida
+https://www.yelp.it/biz/vintage-torino;26153;bello, carta, vino, bello carta, carta vino
+https://www.yelp.it/biz/vintage-torino;26154;cibo, abbastanza, buono, imperdibile, cibo abbastanza, abbastanza buono, buono imperdibile
+https://www.yelp.it/biz/vintage-torino;26155;essere, cena, locale, occasione, speciale, essere cena, cena locale, locale occasione, occasione speciale
+https://www.yelp.it/biz/vintage-torino;26156;vero, bello, locale, vero bello, bello locale
+https://www.yelp.it/biz/vintage-torino;26157;ambiente, rilassare, ambiente rilassare
+https://www.yelp.it/biz/vintage-torino;26158;comunque, bello, esperienza, comunque bello, bello esperienza
+https://www.yelp.it/biz/vintage-torino;26159;ristorante, elegante, raffinare, ristorante elegante, elegante raffinare
+https://www.yelp.it/biz/vintage-torino;26160;torinese, sublime, torinese sublime
+https://www.yelp.it/biz/vintage-torino;26161;nome, rispecchiare, perfetto, atmosfera, nome rispecchiare, rispecchiare perfetto, perfetto atmosfera
+https://www.yelp.it/biz/vintage-torino;26162;rapporto, qualità, prezzo, eccellente, rapporto qualità, qualità prezzo, prezzo eccellente
+https://www.yelp.it/biz/vintage-torino;26163;locale, complesso, essere, elegante, locale complesso, complesso essere, essere elegante
+https://www.yelp.it/biz/vintage-torino;26164;vero, ottimo, vero ottimo
+https://www.yelp.it/biz/vintage-torino;26165;oltre, location, mozzafiato, classe, elegante, oltre location, location mozzafiato, mozzafiato classe, classe elegante
+https://www.yelp.it/biz/vintage-torino;26166;ottimo, qualità, ottimo qualità
+https://www.yelp.it/biz/vintage-torino;26167;ottimo, ristorante, elegante, centro, ambiente, lussuoso, menù, ricco, variare, ottimo ristorante, ristorante elegante, elegante centro, centro ambiente, ambiente lussuoso, lussuoso menù, menù ricco, ricco variare
+https://www.yelp.it/biz/vintage-torino;26168;davvero, bello, esperienza, davvero bello, bello esperienza
+https://www.yelp.it/biz/vintage-torino;26169;tiramisù, essere, paradisiaco, tiramisù essere, essere paradisiaco
+https://www.yelp.it/biz/vintage-torino;26170;ottimo, spaghetto, ostrica, ottimo spaghetto, spaghetto ostrica
+https://www.yelp.it/biz/vintage-torino;26171;rapporto, qualità/prezzo, eccellente, rapporto qualità/prezzo, qualità/prezzo eccellente
+https://www.yelp.it/biz/vintage-torino;26172;ritornare, sabato, meraviglioso, ristorante, dire, ritornare sabato, sabato meraviglioso, meraviglioso ristorante, ristorante dire
+https://www.yelp.it/biz/vintage-torino;26173;ambiente, classico, ambiente classico
+https://www.yelp.it/biz/vintage-torino;26174;risotto, porcino, squisito, abbinamento, barolo, altrettanto, ottimo, risotto porcino, porcino squisito, squisito abbinamento, abbinamento barolo, barolo altrettanto, altrettanto ottimo
+https://www.yelp.it/biz/vintage-torino;26175;rapporto, qualità, prezzo, essere, ottimo, rapporto qualità, qualità prezzo, prezzo essere, essere ottimo
+https://www.yelp.it/biz/vintage-torino;26176;anche, grazie, anche grazie
+https://www.yelp.it/biz/vintage-torino;26177;ottimo, servizio, ottimo, cibo, ottimo servizio, servizio ottimo, ottimo cibo
+https://www.yelp.it/biz/vintage-torino;26178;poco, tavolo, fianco, grande, campione, oggi, poco tavolo, tavolo fianco, fianco grande, grande campione, campione oggi
+https://www.yelp.it/biz/vintage-torino;26179;provare, occasione, molto, speciale, provare occasione, occasione molto, molto speciale
+https://www.yelp.it/biz/vintage-torino;26180;cucina, eccellente, servizio, impeccabile, ambiente, caldo, raffinare, cucina eccellente, eccellente servizio, servizio impeccabile, impeccabile ambiente, ambiente caldo, caldo raffinare
+https://www.yelp.it/biz/vintage-torino;26181;esperienza, vero, positivo, esperienza vero, vero positivo
+https://www.yelp.it/biz/vintage-torino;26182;bello, atmosfera, romantico, bello atmosfera, atmosfera romantico
+https://www.yelp.it/biz/vintage-torino;26183;ottimo, ristorante, buon, rapporto, qualità, prezzo, ottimo ristorante, ristorante buon, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/vintage-torino;26184;buono, accoglienza, professionalità, buono, elegante, sala, buono accoglienza, accoglienza professionalità, professionalità buono, buono elegante, elegante sala
+https://www.yelp.it/biz/vintage-torino;26185;prezzo, elevato, locale, cucina, location, meritare, prezzo elevato, elevato locale, locale cucina, cucina location, location meritare
+https://www.yelp.it/biz/vintage-torino;26186;qualità, cibo, ottimo, qualità cibo, cibo ottimo
+https://www.yelp.it/biz/vintage-torino;26187;ambiente, molto, soft, discreto, servizio, attento, curare, ambiente molto, molto soft, soft discreto, discreto servizio, servizio attento, attento curare
+https://www.yelp.it/biz/vintage-torino;26188;buono, qualità-prezzo, buono qualità-prezzo
+https://www.yelp.it/biz/vintage-torino;26189;ambiente, elegante, riservare, cuore, ambiente elegante, elegante riservare, riservare cuore
+https://www.yelp.it/biz/vintage-torino;26190;ambiente, interessante, ambiente interessante
+https://www.yelp.it/biz/vintage-torino;26191;accoglienza, apparenza, freddo, realtà, garbato, piacevole, tornare, più, volta, accoglienza apparenza, apparenza freddo, freddo realtà, realtà garbato, garbato piacevole, piacevole tornare, tornare più, più volta

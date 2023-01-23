@@ -1,0 +1,42 @@
+https://www.yelp.it/biz/filo-di-marianna-torino;1918;mangiare, molto, bene, mangiare molto, molto bene
+https://www.yelp.it/biz/filo-di-marianna-torino;1919;dolce, caffè, limoncello, dolce caffè, caffè limoncello
+https://www.yelp.it/biz/filo-di-marianna-torino;1920;ristorare, molto, carino, accogliente, personale, gentile, ristorare molto, molto carino, carino accogliente, accogliente personale, personale gentile
+https://www.yelp.it/biz/filo-di-marianna-torino;1921;buon, rapporto, qualità/prezzo, buon rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/filo-di-marianna-torino;1922;speranzoso, trovare, buono, cucina, casalingo, speranzoso trovare, trovare buono, buono cucina, cucina casalingo
+https://www.yelp.it/biz/filo-di-marianna-torino;1923;ricordare, premessa, ricordare premessa
+https://www.yelp.it/biz/filo-di-marianna-torino;1924;nota, dolente, dolce, nota dolente, dolente dolce
+https://www.yelp.it/biz/filo-di-marianna-torino;1925;posto, più, piacevole, posto più, più piacevole
+https://www.yelp.it/biz/filo-di-marianna-torino;1926;buono, rapporto, qualità, prezzo, provare, buono rapporto, rapporto qualità, qualità prezzo, prezzo provare
+https://www.yelp.it/biz/filo-di-marianna-torino;1927;cibo, semplice, molto, gustoso, cibo semplice, semplice molto, molto gustoso
+https://www.yelp.it/biz/filo-di-marianna-torino;1928;lodevole, polpo, morbido, lodevole polpo, polpo morbido
+https://www.yelp.it/biz/filo-di-marianna-torino;1929;vero, buono, cucina, vero buono, buono cucina
+https://www.yelp.it/biz/filo-di-marianna-torino;1930;cucina, genuino, fronzolo, cucina genuino, genuino fronzolo
+https://www.yelp.it/biz/filo-di-marianna-torino;1931;ottimo, vino, ottimo vino
+https://www.yelp.it/biz/filo-di-marianna-torino;1932;vino, bianco, casa, buono, vino bianco, bianco casa, casa buono
+https://www.yelp.it/biz/filo-di-marianna-torino;1933;ultimo, prezzo/qualità, ottimo, ultimo prezzo/qualità, prezzo/qualità ottimo
+https://www.yelp.it/biz/filo-di-marianna-torino;1934;posto, giusto, posto giusto
+https://www.yelp.it/biz/filo-di-marianna-torino;1935;locale, semplice, cariare, tranquillo, locale semplice, semplice cariare, cariare tranquillo
+https://www.yelp.it/biz/filo-di-marianna-torino;1936;piccolo, ristorante, molto, carino, piccolo ristorante, ristorante molto, molto carino
+https://www.yelp.it/biz/filo-di-marianna-torino;1937;ottimo, offerta, piatto, saporito, abbondante, ottimo offerta, offerta piatto, piatto saporito, saporito abbondante
+https://www.yelp.it/biz/filo-di-marianna-torino;1938;buon, servizio, buon servizio
+https://www.yelp.it/biz/filo-di-marianna-torino;1939;posizione, simpatico, bello, vetrina, insegnare, insegnare, ristrutturazione, posizione simpatico, simpatico bello, bello vetrina, vetrina insegnare, insegnare insegnare, insegnare ristrutturazione
+https://www.yelp.it/biz/filo-di-marianna-torino;1940;servizio, familiare, gentile, veloce, servizio familiare, familiare gentile, gentile veloce
+https://www.yelp.it/biz/filo-di-marianna-torino;1941;buon, luogo, gustare, piatto, tradizionale, pieno, relax, buon luogo, luogo gustare, gustare piatto, piatto tradizionale, tradizionale pieno, pieno relax
+https://www.yelp.it/biz/filo-di-marianna-torino;1942;servizio, buono, cordialità, simpatia, servizio buono, buono cordialità, cordialità simpatia
+https://www.yelp.it/biz/filo-di-marianna-torino;1943;buono, rapporto, quantità/qualità/prezzo, buono rapporto, rapporto quantità/qualità/prezzo
+https://www.yelp.it/biz/filo-di-marianna-torino;1944;servizio, ottimo, distinguere, servizio ottimo, ottimo distinguere
+https://www.yelp.it/biz/filo-di-marianna-torino;1945;provare, credere, provare credere
+https://www.yelp.it/biz/filo-di-marianna-torino;1946;personale, comunque, cordiale, personale comunque, comunque cordiale
+https://www.yelp.it/biz/filo-di-marianna-torino;1947;dolce, buono, dolce buono
+https://www.yelp.it/biz/filo-di-marianna-torino;1948;generale, buon, rapporto, qualità, prezzo, generale buon, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/filo-di-marianna-torino;1949;essere, spettacolare, essere spettacolare
+https://www.yelp.it/biz/filo-di-marianna-torino;1950;molto, semplice, provare, molto semplice, semplice provare
+https://www.yelp.it/biz/filo-di-marianna-torino;1951;antipasto, pesce, dolce, molto, abbondante, antipasto pesce, pesce dolce, dolce molto, molto abbondante
+https://www.yelp.it/biz/filo-di-marianna-torino;1952;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/filo-di-marianna-torino;1953;ottimo, rapporto, qualità/prezzo, personale, cordiale, ottimo rapporto, rapporto qualità/prezzo, qualità/prezzo personale, personale cordiale
+https://www.yelp.it/biz/filo-di-marianna-torino;1954;personale, riservare, gentile, efficiente, personale riservare, riservare gentile, gentile efficiente
+https://www.yelp.it/biz/filo-di-marianna-torino;1955;essere, buono, essere buono
+https://www.yelp.it/biz/filo-di-marianna-torino;1956;davvero, molto, buono, davvero molto, molto buono
+https://www.yelp.it/biz/filo-di-marianna-torino;1957;wow, incredibile, wow incredibile
+https://www.yelp.it/biz/filo-di-marianna-torino;1958;essere, piacevole, sorpresa, essere piacevole, piacevole sorpresa
+https://www.yelp.it/biz/filo-di-marianna-torino;1959;prezzo, molto, ragionevole, prezzo molto, molto ragionevole

@@ -1,0 +1,8 @@
+https://www.yelp.it/biz/pizzificio-torino;22956;ospitale, gradevole, ospitale gradevole
+https://www.yelp.it/biz/pizzificio-torino;22957;buono, anche, dolce, buono anche, anche dolce
+https://www.yelp.it/biz/pizzificio-torino;22958;locale, piccolo, molto, carino, possibilità, cenare, anche, gazebo, esterno, locale piccolo, piccolo molto, molto carino, carino possibilità, possibilità cenare, cenare anche, anche gazebo, gazebo esterno
+https://www.yelp.it/biz/pizzificio-torino;22959;cortesia, gentilezza, parte, proprietario, attendere, minimo, cortesia gentilezza, gentilezza parte, parte proprietario, proprietario attendere, attendere minimo
+https://www.yelp.it/biz/pizzificio-torino;22960;personale, molto, gentile, essere, super, efficiente, personale molto, molto gentile, gentile essere, essere super, super efficiente
+https://www.yelp.it/biz/pizzificio-torino;22961;bravo, simpatico, bravo simpatico
+https://www.yelp.it/biz/pizzificio-torino;22962;prezzo, essere, deciso, buono, prezzo essere, essere deciso, deciso buono
+https://www.yelp.it/biz/pizzificio-torino;22963;menzione, speciale, gourmet, davvero, saporito, digeribile, menzione speciale, speciale gourmet, gourmet davvero, davvero saporito, saporito digeribile

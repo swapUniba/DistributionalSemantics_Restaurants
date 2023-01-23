@@ -1,0 +1,40 @@
+https://www.yelp.it/biz/pizze-e-cozze-torino;22402;personale, molto, gentile, servizio, veloce, caos, personale molto, molto gentile, gentile servizio, servizio veloce, veloce caos
+https://www.yelp.it/biz/pizze-e-cozze-torino;22403;buono, fortuna, buono fortuna
+https://www.yelp.it/biz/pizze-e-cozze-torino;22404;sempre, molto, succulento, sempre molto, molto succulento
+https://www.yelp.it/biz/pizze-e-cozze-torino;22405;personale, molto, efficiente, gentile, disponibile, personale molto, molto efficiente, efficiente gentile, gentile disponibile
+https://www.yelp.it/biz/pizze-e-cozze-torino;22406;pizza, ottimo, menù, ricco, servizio, affabile, veloce, pizza ottimo, ottimo menù, menù ricco, ricco servizio, servizio affabile, affabile veloce
+https://www.yelp.it/biz/pizze-e-cozze-torino;22407;complesso, soddisfare, complesso soddisfare
+https://www.yelp.it/biz/pizze-e-cozze-torino;22408;vero, squisitezza, vero squisitezza
+https://www.yelp.it/biz/pizze-e-cozze-torino;22409;gusto, speciale, gusto speciale
+https://www.yelp.it/biz/pizze-e-cozze-torino;22410;buono, pizza, tonno, buono pizza, pizza tonno
+https://www.yelp.it/biz/pizze-e-cozze-torino;22411;complimentare, cibo, servizio, complimentare cibo, cibo servizio
+https://www.yelp.it/biz/pizze-e-cozze-torino;22412;personale, gentile, personale gentile
+https://www.yelp.it/biz/pizze-e-cozze-torino;22413;menù, essere, abbastanza, ricco, porzione, super, abbondante, menù essere, essere abbastanza, abbastanza ricco, ricco porzione, porzione super, super abbondante
+https://www.yelp.it/biz/pizze-e-cozze-torino;22414;parte, allestimento, tematico, giorno, ristorante, essere, molto, carino, pizza, eccellente, soprattutto, piatto, davvero, abbondante, parte allestimento, allestimento tematico, tematico giorno, giorno ristorante, ristorante essere, essere molto, molto carino, carino pizza, pizza eccellente, eccellente soprattutto, soprattutto piatto, piatto davvero, davvero abbondante
+https://www.yelp.it/biz/pizze-e-cozze-torino;22415;ingrediente, qualità, impasto, leggero, cottura, ingrediente qualità, qualità impasto, impasto leggero, leggero cottura
+https://www.yelp.it/biz/pizze-e-cozze-torino;22416;gentile, prezzo, norma, gentile prezzo, prezzo norma
+https://www.yelp.it/biz/pizze-e-cozze-torino;22417;pizza, ottimo, servizio, gentile, rapido, buono, qualità/prezzo, pizza ottimo, ottimo servizio, servizio gentile, gentile rapido, rapido buono, buono qualità/prezzo
+https://www.yelp.it/biz/pizze-e-cozze-torino;22418;personale, attento, cortese, personale attento, attento cortese
+https://www.yelp.it/biz/pizze-e-cozze-torino;22419;molto, consigliare, molto consigliare
+https://www.yelp.it/biz/pizze-e-cozze-torino;22420;complimentare, qualità, cuoco, complimentare qualità, qualità cuoco
+https://www.yelp.it/biz/pizze-e-cozze-torino;22421;ottimo, pesce, ottimo pesce
+https://www.yelp.it/biz/pizze-e-cozze-torino;22422;finire, ottimo, rapporto, qualita/prezzo, finire ottimo, ottimo rapporto, rapporto qualita/prezzo
+https://www.yelp.it/biz/pizze-e-cozze-torino;22423;personale, gentile, personale gentile
+https://www.yelp.it/biz/pizze-e-cozze-torino;22424;pizza, buono, napoletano, pizza buono, buono napoletano
+https://www.yelp.it/biz/pizze-e-cozze-torino;22425;finire, gradevole, tiramisù, fragola, limone, finire gradevole, gradevole tiramisù, tiramisù fragola, fragola limone
+https://www.yelp.it/biz/pizze-e-cozze-torino;22426;professionalità, cortesia, posto, professionalità cortesia, cortesia posto
+https://www.yelp.it/biz/pizze-e-cozze-torino;22427;pizza, essere, ottimo, buon, impasto, personale, molto, gentile, professionale, pizza essere, essere ottimo, ottimo buon, buon impasto, impasto personale, personale molto, molto gentile, gentile professionale
+https://www.yelp.it/biz/pizze-e-cozze-torino;22428;esperienza, ripetere, esperienza ripetere
+https://www.yelp.it/biz/pizze-e-cozze-torino;22429;personale, disponibile, cortese, personale disponibile, disponibile cortese
+https://www.yelp.it/biz/pizze-e-cozze-torino;22430;locale, semplice, mano, locale semplice, semplice mano
+https://www.yelp.it/biz/pizze-e-cozze-torino;22431;ambiente, tranquillo, servizio, veloce, cameriere, molto, disponibile, ambiente tranquillo, tranquillo servizio, servizio veloce, veloce cameriere, cameriere molto, molto disponibile
+https://www.yelp.it/biz/pizze-e-cozze-torino;22432;complesso, davvero, ottimo, complesso davvero, davvero ottimo
+https://www.yelp.it/biz/pizze-e-cozze-torino;22433;buono, accoglienza, buono accoglienza
+https://www.yelp.it/biz/pizze-e-cozze-torino;22434;personale, eccellente, personale eccellente
+https://www.yelp.it/biz/pizze-e-cozze-torino;22435;ubicare, quartiere, ristorante, nascere, cenere, precedente, gestione, molto, fortunato, ubicare quartiere, quartiere ristorante, ristorante nascere, nascere cenere, cenere precedente, precedente gestione, gestione molto, molto fortunato
+https://www.yelp.it/biz/pizze-e-cozze-torino;22436;personale, simpatico, gentile, disponibile, personale simpatico, simpatico gentile, gentile disponibile
+https://www.yelp.it/biz/pizze-e-cozze-torino;22437;pesce, essere, favoloso, ovvio, più, caro, pesce essere, essere favoloso, favoloso ovvio, ovvio più, più caro
+https://www.yelp.it/biz/pizze-e-cozze-torino;22438;atmosfera, essere, super, atmosfera essere, essere super
+https://www.yelp.it/biz/pizze-e-cozze-torino;22439;antipasto, buono, secondo, dolce, ottimo, antipasto buono, buono secondo, secondo dolce, dolce ottimo
+https://www.yelp.it/biz/pizze-e-cozze-torino;22440;anche, pizza, buono, tipico, napoletano, anche pizza, pizza buono, buono tipico, tipico napoletano
+https://www.yelp.it/biz/pizze-e-cozze-torino;22441;continuare, così, continuare così

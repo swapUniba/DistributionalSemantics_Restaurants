@@ -1,0 +1,186 @@
+https://www.yelp.it/biz/botta-bari;225;impasto, essere, napoletana, provare, assoluto, impasto essere, essere napoletana, napoletana provare, provare assoluto
+https://www.yelp.it/biz/botta-bari;226;pizza, molto, buono, personale, gentile, prezzo, contenuto, pizza molto, molto buono, buono personale, personale gentile, gentile prezzo, prezzo contenuto
+https://www.yelp.it/biz/botta-bari;227;pizza, complessivo, buono, prezzo, media, pizza complessivo, complessivo buono, buono prezzo, prezzo media
+https://www.yelp.it/biz/botta-bari;228;abbastanza, singolare, abbastanza singolare
+https://www.yelp.it/biz/botta-bari;229;pizzeria, storico, qualità, top, sempre, materia, sempre, vista, essere, ottimo, pizzeria storico, storico qualità, qualità top, top sempre, sempre materia, materia sempre, sempre vista, vista essere, essere ottimo
+https://www.yelp.it/biz/botta-bari;230;pizza, piadina, provare, essere, eccezionale, pizza piadina, piadina provare, provare essere, essere eccezionale
+https://www.yelp.it/biz/botta-bari;231;buono, antipasto, buono antipasto
+https://www.yelp.it/biz/botta-bari;232;anche, prezzo, essere, piacevole, sorpresa, anche prezzo, prezzo essere, essere piacevole, piacevole sorpresa
+https://www.yelp.it/biz/botta-bari;233;buono, antipasto, pizza, buono, buono antipasto, antipasto pizza, pizza buono
+https://www.yelp.it/biz/botta-bari;234;rapporto, qualità/prezzo, ottimo, rapporto qualità/prezzo, qualità/prezzo ottimo
+https://www.yelp.it/biz/botta-bari;235;ottimo, qualità, prezzo, medio-alti, complesso, deciso, positivo, ottimo qualità, qualità prezzo, prezzo medio-alti, medio-alti complesso, complesso deciso, deciso positivo
+https://www.yelp.it/biz/botta-bari;236;impasto, gustoso, digeribile, ingrediente, qualità, servizio, familiare, simpatico, tovaglia, tovagliolo, tessuto, pulito, impasto gustoso, gustoso digeribile, digeribile ingrediente, ingrediente qualità, qualità servizio, servizio familiare, familiare simpatico, simpatico tovaglia, tovaglia tovagliolo, tovagliolo tessuto, tessuto pulito
+https://www.yelp.it/biz/botta-bari;237;antipasto, selezione, dolce, migliorabile, antipasto selezione, selezione dolce, dolce migliorabile
+https://www.yelp.it/biz/botta-bari;238;ampio, scegliere, antipasto, ampio scegliere, scegliere antipasto
+https://www.yelp.it/biz/botta-bari;239;locale, storico, personale, molto, cordiale, pizza, eccezionale, locale storico, storico personale, personale molto, molto cordiale, cordiale pizza, pizza eccezionale
+https://www.yelp.it/biz/botta-bari;240;mangiare, ancora, molto, bene, pizza, eccellente, abbastanza, sottile, antipasto, pò, antico, genuino, casereccio, qui, trovare, sperimentazione, qui, trovare, tradizione, tradizionale, pizza, barese, mangiare ancora, ancora molto, molto bene, bene pizza, pizza eccellente, eccellente abbastanza, abbastanza sottile, sottile antipasto, antipasto pò, pò antico, antico genuino, genuino casereccio, casereccio qui, qui trovare, trovare sperimentazione, sperimentazione qui, qui trovare, trovare tradizione, tradizione tradizionale, tradizionale pizza, pizza barese
+https://www.yelp.it/biz/botta-bari;241;antipasto, pizza, sapore, puglia, vasco, antipasto pizza, pizza sapore, sapore puglia, puglia vasco
+https://www.yelp.it/biz/botta-bari;242;location, essere, eccezionale, cordialità, professionalità, personale, mettere, piano, location essere, essere eccezionale, eccezionale cordialità, cordialità professionalità, professionalità personale, personale mettere, mettere piano
+https://www.yelp.it/biz/botta-bari;243;buono, antipasto, stracciatella, fungo, scamorzina, forno, braciola, involtino, ragù, compreso, piadina, tenero, gustoso, ripieno, pizza, buono antipasto, antipasto stracciatella, stracciatella fungo, fungo scamorzina, scamorzina forno, forno braciola, braciola involtino, involtino ragù, ragù compreso, compreso piadina, piadina tenero, tenero gustoso, gustoso ripieno, ripieno pizza
+https://www.yelp.it/biz/botta-bari;244;anche, spina, fresco, saporito, anche spina, spina fresco, fresco saporito
+https://www.yelp.it/biz/botta-bari;245;ottimo, posto, città, mangiare, bene, posto, essere, migliore, grazie, anche, tradizione, familiare, ottimo posto, posto città, città mangiare, mangiare bene, bene posto, posto essere, essere migliore, migliore grazie, grazie anche, anche tradizione, tradizione familiare
+https://www.yelp.it/biz/botta-bari;246;pizzeria, essere, punto, fermo, gustare, ottimo, pizza, tranquillità, pizzeria essere, essere punto, punto fermo, fermo gustare, gustare ottimo, ottimo pizza, pizza tranquillità
+https://www.yelp.it/biz/botta-bari;247;sempre, gentile, sempre gentile
+https://www.yelp.it/biz/botta-bari;249;consiglio, storico, pizzeria, mangiare, pizza, ottimo, prezzo, congruo, freschezza, ingrediente, dare, idea, pizza, più, caro, consiglio storico, storico pizzeria, pizzeria mangiare, mangiare pizza, pizza ottimo, ottimo prezzo, prezzo congruo, congruo freschezza, freschezza ingrediente, ingrediente dare, dare idea, idea pizza, pizza più, più caro
+https://www.yelp.it/biz/botta-bari;250;pizza, buono, memorabile, modesto, parere, prezzo, davvero, competitivo, mangiare, bere, pizza buono, buono memorabile, memorabile modesto, modesto parere, parere prezzo, prezzo davvero, davvero competitivo, competitivo mangiare, mangiare bere
+https://www.yelp.it/biz/botta-bari;251;anche, semplice, richiesta, soddisfare, ritardo, scortesia, anche semplice, semplice richiesta, richiesta soddisfare, soddisfare ritardo, ritardo scortesia
+https://www.yelp.it/biz/botta-bari;252;pizza, buono, eccezionale, prezzo, tempo, gran, lungo, inferiore, essere, meglio, pizza buono, buono eccezionale, eccezionale prezzo, prezzo tempo, tempo gran, gran lungo, lungo inferiore, inferiore essere, essere meglio
+https://www.yelp.it/biz/botta-bari;253;pizza, ottimo, pizza ottimo
+https://www.yelp.it/biz/botta-bari;255;pizza, ottimo, leggero, impasto, pizza ottimo, ottimo leggero, leggero impasto
+https://www.yelp.it/biz/botta-bari;256;cariare, locale, molto, intimo, cariare locale, locale molto, molto intimo
+https://www.yelp.it/biz/botta-bari;257;fortuna, anche, storico, bontà, pizza, ben, preservare, fortuna anche, anche storico, storico bontà, bontà pizza, pizza ben, ben preservare
+https://www.yelp.it/biz/botta-bari;258;gentile, veloce, gentile veloce
+https://www.yelp.it/biz/botta-bari;259;amare, ambiente, raccogliere, pizzeria, adatto, buono, varietà, antipasto, amare ambiente, ambiente raccogliere, raccogliere pizzeria, pizzeria adatto, adatto buono, buono varietà, varietà antipasto
+https://www.yelp.it/biz/botta-bari;260;perfetto, pizzeria, perfetto pizzeria
+https://www.yelp.it/biz/botta-bari;261;pizza, chiamare, sapore, specialmente, buono, pizza chiamare, chiamare sapore, sapore specialmente, specialmente buono
+https://www.yelp.it/biz/botta-bari;263;eccellente, qualità, ingrediente, gusto, inconfondibile, eccellente qualità, qualità ingrediente, ingrediente gusto, gusto inconfondibile
+https://www.yelp.it/biz/botta-bari;264;eccellente, nota, menzione, speciale, carpaccio, carne, vero, delizioso, rucola, grana, olio, extravergine, eccellente nota, nota menzione, menzione speciale, speciale carpaccio, carpaccio carne, carne vero, vero delizioso, delizioso rucola, rucola grana, grana olio, olio extravergine
+https://www.yelp.it/biz/botta-bari;265;pizza, essere, buono, gustoso, cotta, punto, giusto, vedere, ingrediente, scegliere, pizza essere, essere buono, buono gustoso, gustoso cotta, cotta punto, punto giusto, giusto vedere, vedere ingrediente, ingrediente scegliere
+https://www.yelp.it/biz/botta-bari;266;ambiente, essere, accogliente, cameriere, essere, molto, gentile, ambiente essere, essere accogliente, accogliente cameriere, cameriere essere, essere molto, molto gentile
+https://www.yelp.it/biz/botta-bari;267;servizio, essere, veloce, personale, semplice, sempre, educare, arredo, anche, semplice, dignitoso, tovagliato, posata, servizio essere, essere veloce, veloce personale, personale semplice, semplice sempre, sempre educare, educare arredo, arredo anche, anche semplice, semplice dignitoso, dignitoso tovagliato, tovagliato posata
+https://www.yelp.it/biz/botta-bari;268;forse, posto, mangiare, pizza, migliore, città, forse posto, posto mangiare, mangiare pizza, pizza migliore, migliore città
+https://www.yelp.it/biz/botta-bari;269;grande, classico, deludere, mai, grande classico, classico deludere, deludere mai
+https://www.yelp.it/biz/botta-bari;270;antipasto, dolce, frutta, adeguato, antipasto dolce, dolce frutta, frutta adeguato
+https://www.yelp.it/biz/botta-bari;271;scelta, birra, molto, limitato, forse, unico, aspetto, migliorabile, scelta birra, birra molto, molto limitato, limitato forse, forse unico, unico aspetto, aspetto migliorabile
+https://www.yelp.it/biz/botta-bari;272;personale, professionale, gentile, anche, pò, sbrigativo, personale professionale, professionale gentile, gentile anche, anche pò, pò sbrigativo
+https://www.yelp.it/biz/botta-bari;273;pizza, molto, buono, servizio, efficiente, veloce, personale, molto, cortese, pizza molto, molto buono, buono servizio, servizio efficiente, efficiente veloce, veloce personale, personale molto, molto cortese
+https://www.yelp.it/biz/botta-bari;274;pizza, anche, buono, pizza anche, anche buono
+https://www.yelp.it/biz/botta-bari;275;buon, rapporto, qualità, prezzo, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/botta-bari;276;degustare, ottimo, piadina, posto, giusto, degustare ottimo, ottimo piadina, piadina posto, posto giusto
+https://www.yelp.it/biz/botta-bari;277;locale, storico, personale, gentile, locale storico, storico personale, personale gentile
+https://www.yelp.it/biz/botta-bari;278;anche, pizza, meritare, anche pizza, pizza meritare
+https://www.yelp.it/biz/botta-bari;279;ampio, scegliere, antipasto, qualità, pizza, dire, poco, ampio scegliere, scegliere antipasto, antipasto qualità, qualità pizza, pizza dire, dire poco
+https://www.yelp.it/biz/botta-bari;280;maestro, trattare, sempre, amico, fratello, maestro trattare, trattare sempre, sempre amico, amico fratello
+https://www.yelp.it/biz/botta-bari;281;piadina, poi, semplicemente, indescrivibile, bontà, sapore, piadina poi, poi semplicemente, semplicemente indescrivibile, indescrivibile bontà, bontà sapore
+https://www.yelp.it/biz/botta-bari;282;qualità, cortesia, atmosfera, familiare, ingrediente, fresco, ottimo, scelta, qualità cortesia, cortesia atmosfera, atmosfera familiare, familiare ingrediente, ingrediente fresco, fresco ottimo, ottimo scelta
+https://www.yelp.it/biz/botta-bari;283;pizza, essere, ottimo, stile, napoletano, pò, alto, ben, condire, pizza essere, essere ottimo, ottimo stile, stile napoletano, napoletano pò, pò alto, alto ben, ben condire
+https://www.yelp.it/biz/botta-bari;284;ottimo, pizza, seguire, dolce, ricotta, gelato, limone, ottimo pizza, pizza seguire, seguire dolce, dolce ricotta, ricotta gelato, gelato limone
+https://www.yelp.it/biz/botta-bari;285;servizio, simpatia, cordialità, servizio simpatia, simpatia cordialità
+https://www.yelp.it/biz/botta-bari;286;piadina, essere, favoloso, ciabatta, caldo, stracciatella, parmigiana, assoluto, provare, piadina essere, essere favoloso, favoloso ciabatta, ciabatta caldo, caldo stracciatella, stracciatella parmigiana, parmigiana assoluto, assoluto provare
+https://www.yelp.it/biz/botta-bari;287;personale, essere, molto, mano, pronto, soddisfare, esigenza, personale essere, essere molto, molto mano, mano pronto, pronto soddisfare, soddisfare esigenza
+https://www.yelp.it/biz/botta-bari;288;qualità, impeccabile, ottimo, pizza, qualità impeccabile, impeccabile ottimo, ottimo pizza
+https://www.yelp.it/biz/botta-bari;289;rapporto, qualità/prezzo, eccellente, rapporto qualità/prezzo, qualità/prezzo eccellente
+https://www.yelp.it/biz/botta-bari;290;sicuro, migliore, pizza, città, ingrediente, migliore, qualità, sicuro migliore, migliore pizza, pizza città, città ingrediente, ingrediente migliore, migliore qualità
+https://www.yelp.it/biz/botta-bari;291;qualità, cortesia, tradizione, sempre, massimo, livello, personalmente, essere, più, anno, essere, riferimento, qualità cortesia, cortesia tradizione, tradizione sempre, sempre massimo, massimo livello, livello personalmente, personalmente essere, essere più, più anno, anno essere, essere riferimento
+https://www.yelp.it/biz/botta-bari;292;ambiente, rustico, accogliente, ambiente rustico, rustico accogliente
+https://www.yelp.it/biz/botta-bari;293;pizza, molto, buono, servizio, rapido, pizza molto, molto buono, buono servizio, servizio rapido
+https://www.yelp.it/biz/botta-bari;294;personale, molto, gentile, premuroso, personale molto, molto gentile, gentile premuroso
+https://www.yelp.it/biz/botta-bari;295;bello, serata, davvero, clima, accoglienza, familiare, bello serata, serata davvero, davvero clima, clima accoglienza, accoglienza familiare
+https://www.yelp.it/biz/botta-bari;296;locale, molto, semplice, pulito, locale molto, molto semplice, semplice pulito
+https://www.yelp.it/biz/botta-bari;297;anche, pizza, essere, davvero, gradimento, anche pizza, pizza essere, essere davvero, davvero gradimento
+https://www.yelp.it/biz/botta-bari;298;anche, impasto, cereale, integrale, meritare, assaggiare, anche impasto, impasto cereale, cereale integrale, integrale meritare, meritare assaggiare
+https://www.yelp.it/biz/botta-bari;299;qualità, &prezzo, ottimo, qualità &prezzo, &prezzo ottimo
+https://www.yelp.it/biz/botta-bari;300;cameriere, sempre, sorriso, essere, sempre, disponibile, cameriere sempre, sempre sorriso, sorriso essere, essere sempre, sempre disponibile
+https://www.yelp.it/biz/botta-bari;301;semplice, accogliente, personale, cordiale, disponibile, semplice accogliente, accogliente personale, personale cordiale, cordiale disponibile
+https://www.yelp.it/biz/botta-bari;302;pizza, vero, certezza, migliore, capoluogo, barese, anche, antipasto, tipico, cucina, barese, molto, gustoso, pizza vero, vero certezza, certezza migliore, migliore capoluogo, capoluogo barese, barese anche, anche antipasto, antipasto tipico, tipico cucina, cucina barese, barese molto, molto gustoso
+https://www.yelp.it/biz/botta-bari;303;pizza, estremo, buono, servizio, cortese, porre, mano, informale, pizza estremo, estremo buono, buono servizio, servizio cortese, cortese porre, porre mano, mano informale
+https://www.yelp.it/biz/botta-bari;304;ottimo, rapporto, qualità-prezzo, ottimo rapporto, rapporto qualità-prezzo
+https://www.yelp.it/biz/botta-bari;305;migliore, servizio, migliore, antipasto, migliore, pizza, migliore servizio, servizio migliore, migliore antipasto, antipasto migliore, migliore pizza
+https://www.yelp.it/biz/botta-bari;306;molto, buono, gateau, patata, avvicinare, pizza, rustico, molto buono, buono gateau, gateau patata, patata avvicinare, avvicinare pizza, pizza rustico
+https://www.yelp.it/biz/botta-bari;307;buono, pizza, buono pizza
+https://www.yelp.it/biz/botta-bari;308;arredo, essere, basilare, servizio, essere, semplice, veloce, cortese, arredo essere, essere basilare, basilare servizio, servizio essere, essere semplice, semplice veloce, veloce cortese
+https://www.yelp.it/biz/botta-bari;309;qui, molto, semplice, davvero, buono, ambiente, cordiale, qui molto, molto semplice, semplice davvero, davvero buono, buono ambiente, ambiente cordiale
+https://www.yelp.it/biz/botta-bari;310;prezzo, onesto, tempo, attesa, molto, breve, servizio, buono, prezzo onesto, onesto tempo, tempo attesa, attesa molto, molto breve, breve servizio, servizio buono
+https://www.yelp.it/biz/botta-bari;311;pizza, essere, buono, eccezionale, essere, migliore, pizza essere, essere buono, buono eccezionale, eccezionale essere, essere migliore
+https://www.yelp.it/biz/botta-bari;313;ambiente, accogliente, servizio, veloce, ambiente accogliente, accogliente servizio, servizio veloce
+https://www.yelp.it/biz/botta-bari;314;complesso, qualità, essere, davvero, alto, complesso qualità, qualità essere, essere davvero, davvero alto
+https://www.yelp.it/biz/botta-bari;315;pizza, antipasto, molto, buono, pizza antipasto, antipasto molto, molto buono
+https://www.yelp.it/biz/botta-bari;316;davvero, consiglio, davvero consiglio
+https://www.yelp.it/biz/botta-bari;317;pizza, gustoso, digeribile, pizza gustoso, gustoso digeribile
+https://www.yelp.it/biz/botta-bari;318;consiglio, assaggiare, anche, piadina, consiglio assaggiare, assaggiare anche, anche piadina
+https://www.yelp.it/biz/botta-bari;319;trattoria, carino, servizio, rapido, pizza, migliore, locale, struttura, piccolo, migliorare, atmosfera, davanti, locale, trattoria carino, carino servizio, servizio rapido, rapido pizza, pizza migliore, migliore locale, locale struttura, struttura piccolo, piccolo migliorare, migliorare atmosfera, atmosfera davanti, davanti locale
+https://www.yelp.it/biz/botta-bari;320;cucinare, molto, casereccio, molto, buono, parlare, pizza, semplicemente, ottimo, gustoso, leggero, cucinare molto, molto casereccio, casereccio molto, molto buono, buono parlare, parlare pizza, pizza semplicemente, semplicemente ottimo, ottimo gustoso, gustoso leggero
+https://www.yelp.it/biz/botta-bari;321;ottimo, pizza, ottimo pizza
+https://www.yelp.it/biz/botta-bari;322;impasto, molto, digeribile, ambiente, semplice, accogliente, impasto molto, molto digeribile, digeribile ambiente, ambiente semplice, semplice accogliente
+https://www.yelp.it/biz/botta-bari;323;pizza, normale, sicuro, eccellere, differenza, famoso, eccezionale, piadina, recensione, fa, media, scarso, livello, pizzeria, pizza normale, normale sicuro, sicuro eccellere, eccellere differenza, differenza famoso, famoso eccezionale, eccezionale piadina, piadina recensione, recensione fa, fa media, media scarso, scarso livello, livello pizzeria
+https://www.yelp.it/biz/botta-bari;324;forno, legna, locale, rimanere, come, essere, gusto, anno, spartano, vero, forno legna, legna locale, locale rimanere, rimanere come, come essere, essere gusto, gusto anno, anno spartano, spartano vero
+https://www.yelp.it/biz/botta-bari;325;buono, digeribile, buono digeribile
+https://www.yelp.it/biz/botta-bari;326;capo, essere, eccellente, pizzaiolo, maestria, vine, riportare, pizza, risultato, dire, poco, entusiasmante, capo essere, essere eccellente, eccellente pizzaiolo, pizzaiolo maestria, maestria vine, vine riportare, riportare pizza, pizza risultato, risultato dire, dire poco, poco entusiasmante
+https://www.yelp.it/biz/botta-bari;327;locale, essere, semplice, molto, accogliente, personale, essere, gentile, cordiale, locale essere, essere semplice, semplice molto, molto accogliente, accogliente personale, personale essere, essere gentile, gentile cordiale
+https://www.yelp.it/biz/botta-bari;328;pizza, migliore, bario, essere, solo, pizza migliore, migliore bario, bario essere, essere solo
+https://www.yelp.it/biz/botta-bari;329;pizzeria, essere, locale, storico, conoscere, sempre, qualità, pizza, pizzeria essere, essere locale, locale storico, storico conoscere, conoscere sempre, sempre qualità, qualità pizza
+https://www.yelp.it/biz/botta-bari;330;essere, tipico, pizzeria, personale, molto, bravo, disponibile, incontrare, richiesta, clientela, essere tipico, tipico pizzeria, pizzeria personale, personale molto, molto bravo, bravo disponibile, disponibile incontrare, incontrare richiesta, richiesta clientela
+https://www.yelp.it/biz/botta-bari;331;semplicemente, migliore, pizza, fare, semplicemente migliore, migliore pizza, pizza fare
+https://www.yelp.it/biz/botta-bari;332;ottimo, anche, antipasto, fantastico, patata, ridere, cozza, braciola, resto, ottimo anche, anche antipasto, antipasto fantastico, fantastico patata, patata ridere, ridere cozza, cozza braciola, braciola resto
+https://www.yelp.it/biz/botta-bari;333;gestione, allora, personale, accogliente, ambiente, semplice, spazioso, gestione allora, allora personale, personale accogliente, accogliente ambiente, ambiente semplice, semplice spazioso
+https://www.yelp.it/biz/botta-bari;334;assaggiare, integrale, buono, assaggiare integrale, integrale buono
+https://www.yelp.it/biz/botta-bari;335;ovvio, bello, scelta, gusto, pizza, ovvio bello, bello scelta, scelta gusto, gusto pizza
+https://www.yelp.it/biz/botta-bari;336;essere, buono, pizza, valere, essere buono, buono pizza, pizza valere
+https://www.yelp.it/biz/botta-bari;337;ingrediente, sempre, fresco, buono, qualità, ingrediente sempre, sempre fresco, fresco buono, buono qualità
+https://www.yelp.it/biz/botta-bari;338;ambiente, gentile, assai, cordiale, ambiente gentile, gentile assai, assai cordiale
+https://www.yelp.it/biz/botta-bari;339;locale, piccolo, prezzo, giusto, cosa, ormai, raro, città, locale piccolo, piccolo prezzo, prezzo giusto, giusto cosa, cosa ormai, ormai raro, raro città
+https://www.yelp.it/biz/botta-bari;340;antipasto, buono, antipasto buono
+https://www.yelp.it/biz/botta-bari;341;consiglio, vivo, pizza, patata, vero, buono, consiglio vivo, vivo pizza, pizza patata, patata vero, vero buono
+https://www.yelp.it/biz/botta-bari;342;locale, storico, gustare, ottimo, antipasto, pizza, favoloso, mitico, piadina, locale storico, storico gustare, gustare ottimo, ottimo antipasto, antipasto pizza, pizza favoloso, favoloso mitico, mitico piadina
+https://www.yelp.it/biz/botta-bari;343;antipasto, buono, abbonato, pizza, tradizionale, essere, affiancare, nuovo, cereale, integrale, antipasto buono, buono abbonato, abbonato pizza, pizza tradizionale, tradizionale essere, essere affiancare, affiancare nuovo, nuovo cereale, cereale integrale
+https://www.yelp.it/biz/botta-bari;344;abbinare, prodotto, freschissimi, utilizzare, abbinare prodotto, prodotto freschissimi, freschissimi utilizzare
+https://www.yelp.it/biz/botta-bari;345;complimento, Staff, complimento staff
+https://www.yelp.it/biz/botta-bari;346;piacere, pizza, spessore, medio-alto, croccante, soffice, stesso, tempo, essere, scelta, ideale, piacere pizza, pizza spessore, spessore medio-alto, medio-alto croccante, croccante soffice, soffice stesso, stesso tempo, tempo essere, essere scelta, scelta ideale
+https://www.yelp.it/biz/botta-bari;347;ambiente, rustico, familiare, servizio, veloce, personale, gentile, professionale, efficiente, ingrediente, freschissimi, possibilità, scegliere, farina, ambiente rustico, rustico familiare, familiare servizio, servizio veloce, veloce personale, personale gentile, gentile professionale, professionale efficiente, efficiente ingrediente, ingrediente freschissimi, freschissimi possibilità, possibilità scegliere, scegliere farina
+https://www.yelp.it/biz/botta-bari;348;ottimo, pizza, ottimo pizza
+https://www.yelp.it/biz/botta-bari;349;parlare, qualità, antipasto, pizza, eccellente, parlare qualità, qualità antipasto, antipasto pizza, pizza eccellente
+https://www.yelp.it/biz/botta-bari;350;pizzeria, storico, ottimo, servizio, sempre, molto, affollare, sabato, pizzeria storico, storico ottimo, ottimo servizio, servizio sempre, sempre molto, molto affollare, affollare sabato
+https://www.yelp.it/biz/botta-bari;351;personale, cordiale, cibo, ottimo, pulizia, impeccabile, ottimo, rapporto, qualità, prezzo, personale cordiale, cordiale cibo, cibo ottimo, ottimo pulizia, pulizia impeccabile, impeccabile ottimo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/botta-bari;352;buono, come, magiavo, tempo, buono come, come magiavo, magiavo tempo
+https://www.yelp.it/biz/botta-bari;353;anno, migliorare, qualità, anno migliorare, migliorare qualità
+https://www.yelp.it/biz/botta-bari;354;servizio, veloce, cortese, servizio veloce, veloce cortese
+https://www.yelp.it/biz/botta-bari;355;ottimo, pizza, ottimo pizza
+https://www.yelp.it/biz/botta-bari;356;pizza, buono, migliore, antipasto, buono, servizio, molto, cordiale, rapporto, qualità/prezzo, ottimo, pizza buono, buono migliore, migliore antipasto, antipasto buono, buono servizio, servizio molto, molto cordiale, cordiale rapporto, rapporto qualità/prezzo, qualità/prezzo ottimo
+https://www.yelp.it/biz/botta-bari;357;gradire, ritorno, locale, storico, bari, vantare, migliore, migliore, pizza, bario, antipasto, caldo, freddo, gradire ritorno, ritorno locale, locale storico, storico bari, bari vantare, vantare migliore, migliore migliore, migliore pizza, pizza bario, bario antipasto, antipasto caldo, caldo freddo
+https://www.yelp.it/biz/botta-bari;358;pizza, norcina, molto, buono, personale, molto, cortese, largo, affluenza, sabato, sera, pizza norcina, norcina molto, molto buono, buono personale, personale molto, molto cortese, cortese largo, largo affluenza, affluenza sabato, sabato sera
+https://www.yelp.it/biz/botta-bari;359;consiglio, vivo, locale, tradizione, offrire, buono, pizza, antipasto, stuzzicante, cortesia, servizio, consiglio vivo, vivo locale, locale tradizione, tradizione offrire, offrire buono, buono pizza, pizza antipasto, antipasto stuzzicante, stuzzicante cortesia, cortesia servizio
+https://www.yelp.it/biz/botta-bari;360;servizio, accurato, personale, gentile, professionale, servizio accurato, accurato personale, personale gentile, gentile professionale
+https://www.yelp.it/biz/botta-bari;361;eccellente, pizza, ottimo, antipasto, eccellente pizza, pizza ottimo, ottimo antipasto
+https://www.yelp.it/biz/botta-bari;362;qualità, massimo, livello, ingrediente, preparare, momento, vista, qualità massimo, massimo livello, livello ingrediente, ingrediente preparare, preparare momento, momento vista
+https://www.yelp.it/biz/botta-bari;363;personale, simpatico, cortese, pizza, ottimo, consiglio, vivo, assaggiare, medaglione, eccezionale, personale simpatico, simpatico cortese, cortese pizza, pizza ottimo, ottimo consiglio, consiglio vivo, vivo assaggiare, assaggiare medaglione, medaglione eccezionale
+https://www.yelp.it/biz/botta-bari;365;brutto, nemmeno, eccezionale, brutto nemmeno, nemmeno eccezionale
+https://www.yelp.it/biz/botta-bari;366;personale, media, barese, essere, cosa, buono, personale media, media barese, barese essere, essere cosa, cosa buono
+https://www.yelp.it/biz/botta-bari;367;pizza, infine, gran, qualità, pizza infine, infine gran, gran qualità
+https://www.yelp.it/biz/botta-bari;368;essere, lavoro, piacere, assoluto, indispensabile, dare, colpo, cerchio, essere lavoro, lavoro piacere, piacere assoluto, assoluto indispensabile, indispensabile dare, dare colpo, colpo cerchio
+https://www.yelp.it/biz/botta-bari;369;bello, mangiare, pizzeria, bello mangiare, mangiare pizzeria
+https://www.yelp.it/biz/botta-bari;370;essere, sempre, posticino, pizza, essere, anche, buono, essere sempre, sempre posticino, posticino pizza, pizza essere, essere anche, anche buono
+https://www.yelp.it/biz/botta-bari;371;occhio, vigile, attento, preparare, pizza, simpatia, cordialità, simpatico, neologismo, imperturbabile, capigliatura, occhio vigile, vigile attento, attento preparare, preparare pizza, pizza simpatia, simpatia cordialità, cordialità simpatico, simpatico neologismo, neologismo imperturbabile, imperturbabile capigliatura
+https://www.yelp.it/biz/botta-bari;372;sicuro, consigliare, provare, serata, insegna, buono, pizza, relax, sicuro consigliare, consigliare provare, provare serata, serata insegna, insegna buono, buono pizza, pizza relax
+https://www.yelp.it/biz/botta-bari;373;pizza, più, buono, pizza più, più buono
+https://www.yelp.it/biz/botta-bari;374;pizza, buono, migliore, mai, mangiare, assoluto, pizza buono, buono migliore, migliore mai, mai mangiare, mangiare assoluto
+https://www.yelp.it/biz/botta-bari;375;prezzo, giusto, personale, gentile, servizio, impeccabile, prezzo giusto, giusto personale, personale gentile, gentile servizio, servizio impeccabile
+https://www.yelp.it/biz/botta-bari;376;ultimo, essere, davvero, delizia, ultimo essere, essere davvero, davvero delizia
+https://www.yelp.it/biz/botta-bari;377;personale, simpatico, atmosfera, informale, personale simpatico, simpatico atmosfera, atmosfera informale
+https://www.yelp.it/biz/botta-bari;378;cibo, fantastico, pizza, impasto, morbido, digeribile, ingrediente, qualità, cibo fantastico, fantastico pizza, pizza impasto, impasto morbido, morbido digeribile, digeribile ingrediente, ingrediente qualità
+https://www.yelp.it/biz/botta-bari;379;personale, é, molto, cortese, personale é, é molto, molto cortese
+https://www.yelp.it/biz/botta-bari;380;essere, poco, fantastico, essere, solito, piadina, essere poco, poco fantastico, fantastico essere, essere solito, solito piadina
+https://www.yelp.it/biz/botta-bari;381;ottimo, pizza, buono, antipasto, ottimo pizza, pizza buono, buono antipasto
+https://www.yelp.it/biz/botta-bari;382;personale, gentile, complesso, buono, qualità, cucina, personale gentile, gentile complesso, complesso buono, buono qualità, qualità cucina
+https://www.yelp.it/biz/botta-bari;383;locale, invitante, accogliente, gustare, migliore, pizza, mangiare, riconoscere, subito, prodotto, qualità, locale invitante, invitante accogliente, accogliente gustare, gustare migliore, migliore pizza, pizza mangiare, mangiare riconoscere, riconoscere subito, subito prodotto, prodotto qualità
+https://www.yelp.it/biz/botta-bari;384;locale, semplice, pizza, ottimo, anche, piadina, locale semplice, semplice pizza, pizza ottimo, ottimo anche, anche piadina
+https://www.yelp.it/biz/botta-bari;385;personale, disponibile, educare, personale disponibile, disponibile educare
+https://www.yelp.it/biz/botta-bari;386;pizza, essere, davvero, buono, migliore, città, fare, prodotto, qualità, pizza essere, essere davvero, davvero buono, buono migliore, migliore città, città fare, fare prodotto, prodotto qualità
+https://www.yelp.it/biz/botta-bari;387;impasto, essere, ottimo, pasta, croccante, sfizioso, impasto essere, essere ottimo, ottimo pasta, pasta croccante, croccante sfizioso
+https://www.yelp.it/biz/botta-bari;388;buono, antipasto, buono antipasto
+https://www.yelp.it/biz/botta-bari;389;rapporto, qualità/prezzo, essere, migliore, mangiare, bene, sommare, aspetto, tollerabile, rapporto qualità/prezzo, qualità/prezzo essere, essere migliore, migliore mangiare, mangiare bene, bene sommare, sommare aspetto, aspetto tollerabile
+https://www.yelp.it/biz/botta-bari;390;incredibile, riscoprire, costantemente, qualità, piadina, offerto, incredibile riscoprire, riscoprire costantemente, costantemente qualità, qualità piadina, piadina offerto
+https://www.yelp.it/biz/botta-bari;391;rapporto, qualità/costo, insuperabile, accompagnare, cortesia, simpatia, rapporto qualità/costo, qualità/costo insuperabile, insuperabile accompagnare, accompagnare cortesia, cortesia simpatia
+https://www.yelp.it/biz/botta-bari;392;tornare, volentieri, tornare volentieri
+https://www.yelp.it/biz/botta-bari;393;pizza, davvero, ottimo, ingrediente, qualità, cuocere, perfetto, pizza davvero, davvero ottimo, ottimo ingrediente, ingrediente qualità, qualità cuocere, cuocere perfetto
+https://www.yelp.it/biz/botta-bari;394;migliore, pizza, città, locale, accogliente, migliore pizza, pizza città, città locale, locale accogliente
+https://www.yelp.it/biz/botta-bari;395;qualità, prodotto, servire, tavola, essere, indescrivibile, sempre, prodotto, fresco, specialità, casa, poi, pizza, qualità prodotto, prodotto servire, servire tavola, tavola essere, essere indescrivibile, indescrivibile sempre, sempre prodotto, prodotto fresco, fresco specialità, specialità casa, casa poi, poi pizza
+https://www.yelp.it/biz/botta-bari;396;ingrediente, essere, eccellente, impasto, pizza, avere, sapore, eccezionale, somigliare, molto, pizza, napoletano, prosciutto, crudo, servire, anche, antipasto, essere, qualità, superiore, ingrediente essere, essere eccellente, eccellente impasto, impasto pizza, pizza avere, avere sapore, sapore eccezionale, eccezionale somigliare, somigliare molto, molto pizza, pizza napoletano, napoletano prosciutto, prosciutto crudo, crudo servire, servire anche, anche antipasto, antipasto essere, essere qualità, qualità superiore
+https://www.yelp.it/biz/botta-bari;397;pizza, ingrediente, ottimo, livello, pizza ingrediente, ingrediente ottimo, ottimo livello
+https://www.yelp.it/biz/botta-bari;398;ottimo, anche, breve, pausa, piadina, preparare, farcire, ottimo anche, anche breve, breve pausa, pausa piadina, piadina preparare, preparare farcire
+https://www.yelp.it/biz/botta-bari;399;davvero, eccellente, complimentare, davvero eccellente, eccellente complimentare
+https://www.yelp.it/biz/botta-bari;400;pizza, ottimo, piadina, ingrediente, preparare, davanti, rimanere, meraviglia, paragone, pizza ottimo, ottimo piadina, piadina ingrediente, ingrediente preparare, preparare davanti, davanti rimanere, rimanere meraviglia, meraviglia paragone
+https://www.yelp.it/biz/botta-bari;401;sempre, molto, buono, pizza, sempre molto, molto buono, buono pizza
+https://www.yelp.it/biz/botta-bari;402;pizza, buono, solo, anche, cibo, essere, buono, pizza buono, buono solo, solo anche, anche cibo, cibo essere, essere buono
+https://www.yelp.it/biz/botta-bari;403;essere, sempre, piacere, mangiare, pizza, botta, essere sempre, sempre piacere, piacere mangiare, mangiare pizza, pizza botta
+https://www.yelp.it/biz/botta-bari;404;impasto, ottimo, mozzarella, molto, buono, fila, vero, impasto ottimo, ottimo mozzarella, mozzarella molto, molto buono, buono fila, fila vero
+https://www.yelp.it/biz/botta-bari;405;qualità, varietà, antipasto, pizza, cotta, forno, legna, essere, ottimo, servizio, essere, professionale, cordiale, qualità varietà, varietà antipasto, antipasto pizza, pizza cotta, cotta forno, forno legna, legna essere, essere ottimo, ottimo servizio, servizio essere, essere professionale, professionale cordiale
+https://www.yelp.it/biz/botta-bari;406;ottimo, rapporto, qualità-prezzo, ottimo rapporto, rapporto qualità-prezzo
+https://www.yelp.it/biz/botta-bari;407;arredamento, essere, tradizionale, casereccio, servizio, abbastanza, rapido, arredamento essere, essere tradizionale, tradizionale casereccio, casereccio servizio, servizio abbastanza, abbastanza rapido
+https://www.yelp.it/biz/botta-bari;408;posto, essere, certezza, posto essere, essere certezza
+https://www.yelp.it/biz/botta-bari;409;ottimo, pizza, troppo, sottile, cotta, forno, legna, vero, propria, garazia, qualità, ottimo pizza, pizza troppo, troppo sottile, sottile cotta, cotta forno, forno legna, legna vero, vero propria, propria garazia, garazia qualità
+https://www.yelp.it/biz/botta-bari;410;pizza, davvero, buono, particolare, tipico, fare, pizza davvero, davvero buono, buono particolare, particolare tipico, tipico fare
+https://www.yelp.it/biz/botta-bari;411;terminare, bene, fine, prendere, gelato, cassare, pistacchio, buono, terminare bene, bene fine, fine prendere, prendere gelato, gelato cassare, cassare pistacchio, pistacchio buono
+https://www.yelp.it/biz/botta-bari;412;ottimo, pizza, integrale, gentilezza, cameriere, grande, senso, ospitalità, cortesia, titolare, generoso, regalare, ns, ottimo pizza, pizza integrale, integrale gentilezza, gentilezza cameriere, cameriere grande, grande senso, senso ospitalità, ospitalità cortesia, cortesia titolare, titolare generoso, generoso regalare, regalare ns
+https://www.yelp.it/biz/botta-bari;413;ottimo, pizza, super, consigliare, ottimo pizza, pizza super, super consigliare
+https://www.yelp.it/biz/botta-bari;414;personale, poi, sempre, educare, personale poi, poi sempre, sempre educare
+https://www.yelp.it/biz/botta-bari;415;buono, pure, dolce, buono pure, pure dolce

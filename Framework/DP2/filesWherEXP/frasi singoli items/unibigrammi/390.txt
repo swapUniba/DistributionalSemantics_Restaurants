@@ -1,0 +1,48 @@
+https://www.yelp.it/biz/pai-bikery-torino;15009;soffice, spumoso, soffice spumoso
+https://www.yelp.it/biz/pai-bikery-torino;15010;unico, pecca, unico pecca
+https://www.yelp.it/biz/pai-bikery-torino;15011;deciso, invece, bocciare, cheesecake, fidanzato, deciso invece, invece bocciare, bocciare cheesecake, cheesecake fidanzato
+https://www.yelp.it/biz/pai-bikery-torino;15012;contesto, molto, cordiale, contesto molto, molto cordiale
+https://www.yelp.it/biz/pai-bikery-torino;15013;ottimo, variante, proposta, ottimo variante, variante proposta
+https://www.yelp.it/biz/pai-bikery-torino;15014;molto, simpatico, molto simpatico
+https://www.yelp.it/biz/pai-bikery-torino;15015;complimento, ottimo, complimento ottimo
+https://www.yelp.it/biz/pai-bikery-torino;15016;piatto, essere, buono, bello, piatto essere, essere buono, buono bello
+https://www.yelp.it/biz/pai-bikery-torino;15017;cucina, ottimo, davvero, gustoso, cucina ottimo, ottimo davvero, davvero gustoso
+https://www.yelp.it/biz/pai-bikery-torino;15018;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/pai-bikery-torino;15019;personale, essere, gentile, disponibile, personale essere, essere gentile, gentile disponibile
+https://www.yelp.it/biz/pai-bikery-torino;15020;idea, bakery, unire, officina/negozio, bicicletta, idea bakery, bakery unire, unire officina/negozio, officina/negozio bicicletta
+https://www.yelp.it/biz/pai-bikery-torino;15021;sorpresa, stupendo, sorpresa stupendo
+https://www.yelp.it/biz/pai-bikery-torino;15022;disponibile, gentile, piatto, disponibile gentile, gentile piatto
+https://www.yelp.it/biz/pai-bikery-torino;15023;assoluto, ottimo, anche, prezzo, assoluto ottimo, ottimo anche, anche prezzo
+https://www.yelp.it/biz/pai-bikery-torino;15024;gustare, attesa, piatto, durare, ben, poco, gustare attesa, attesa piatto, piatto durare, durare ben, ben poco
+https://www.yelp.it/biz/pai-bikery-torino;15025;accogliente, ideale, brunch, amico, accogliente ideale, ideale brunch, brunch amico
+https://www.yelp.it/biz/pai-bikery-torino;15026;buon, brunch, buon brunch
+https://www.yelp.it/biz/pai-bikery-torino;15027;ambiente, simpatico, servizio, gentile, ambiente simpatico, simpatico servizio, servizio gentile
+https://www.yelp.it/biz/pai-bikery-torino;15028;prezzo, molto, ragionevole, prezzo molto, molto ragionevole
+https://www.yelp.it/biz/pai-bikery-torino;15029;bello, scoperta, bello scoperta
+https://www.yelp.it/biz/pai-bikery-torino;15030;ambiente, giovanile, caratteristico, personale, molto, affabile, ambiente giovanile, giovanile caratteristico, caratteristico personale, personale molto, molto affabile
+https://www.yelp.it/biz/pai-bikery-torino;15031;favoloso, brunch, salato, dolce, favoloso brunch, brunch salato, salato dolce
+https://www.yelp.it/biz/pai-bikery-torino;15032;ottimo, salato, dolce, ottimo salato, salato dolce
+https://www.yelp.it/biz/pai-bikery-torino;15033;personale, molto, gentile, personale molto, molto gentile
+https://www.yelp.it/biz/pai-bikery-torino;15034;unico, pecca, unico pecca
+https://www.yelp.it/biz/pai-bikery-torino;15035;buono, brunch, domenicale, eccentrico, innovativo, menù, buono brunch, brunch domenicale, domenicale eccentrico, eccentrico innovativo, innovativo menù
+https://www.yelp.it/biz/pai-bikery-torino;15036;comunque, provare, divertire, comunque provare, provare divertire
+https://www.yelp.it/biz/pai-bikery-torino;15037;personale, simpatico, disponibile, personale simpatico, simpatico disponibile
+https://www.yelp.it/biz/pai-bikery-torino;15038;prezzo, molto, buono, prezzo molto, molto buono
+https://www.yelp.it/biz/pai-bikery-torino;15039;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/pai-bikery-torino;15040;personale, gentile, personale gentile
+https://www.yelp.it/biz/pai-bikery-torino;15041;ottimo, colazione, stile, salare, americano, ottimo colazione, colazione stile, stile salare, salare americano
+https://www.yelp.it/biz/pai-bikery-torino;15042;locale, essere, molto, carino, locale essere, essere molto, molto carino
+https://www.yelp.it/biz/pai-bikery-torino;15043;preparare, cura, ottimo, ingrediente, preparare cura, cura ottimo, ottimo ingrediente
+https://www.yelp.it/biz/pai-bikery-torino;15044;particolarissima, interessante, personale, curato, molto, disponibile, particolarissima interessante, interessante personale, personale curato, curato molto, molto disponibile
+https://www.yelp.it/biz/pai-bikery-torino;15045;bravo, bravo, bravo bravo
+https://www.yelp.it/biz/pai-bikery-torino;15046;offrire, ampio, varietà, scelta, offrire ampio, ampio varietà, varietà scelta
+https://www.yelp.it/biz/pai-bikery-torino;15047;brunch, domenica, essere, sempre, ottimo, brunch domenica, domenica essere, essere sempre, sempre ottimo
+https://www.yelp.it/biz/pai-bikery-torino;15048;ottimo, birra, ottimo birra
+https://www.yelp.it/biz/pai-bikery-torino;15049;brunch, eguale, brunch eguale
+https://www.yelp.it/biz/pai-bikery-torino;15050;colazione, base, salato, dolce, squisito, colazione base, base salato, salato dolce, dolce squisito
+https://www.yelp.it/biz/pai-bikery-torino;15051;ottimo, brunch, ottimo brunch
+https://www.yelp.it/biz/pai-bikery-torino;15052;essere, superlativo, essere superlativo
+https://www.yelp.it/biz/pai-bikery-torino;15053;continuare, così, continuare così
+https://www.yelp.it/biz/pai-bikery-torino;15054;consigliare, pazienza, consigliare pazienza
+https://www.yelp.it/biz/pai-bikery-torino;15055;essere, delizioso, essere delizioso
+https://www.yelp.it/biz/pai-bikery-torino;15056;atmosfera, essere, accogliente, atmosfera essere, essere accogliente

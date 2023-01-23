@@ -1,0 +1,44 @@
+https://www.yelp.it/biz/doubletree-torino;22339;consiglio, assoluto
+https://www.yelp.it/biz/doubletree-torino;22340;ottimo, bello, stanza, moderno, confortevole
+https://www.yelp.it/biz/doubletree-torino;22341;bagno, molto, bello, doccia, doppio
+https://www.yelp.it/biz/doubletree-torino;22342;struttura, bello, confortevole
+https://www.yelp.it/biz/doubletree-torino;22343;ottimo, posizione
+https://www.yelp.it/biz/doubletree-torino;22344;ambiente, accogliente, luminoso, moderno
+https://www.yelp.it/biz/doubletree-torino;22345;ottimo, colazione
+https://www.yelp.it/biz/doubletree-torino;22346;buono, colazione
+https://www.yelp.it/biz/doubletree-torino;22347;rapporto, qualità, prezzo, inimmaginabile
+https://www.yelp.it/biz/doubletree-torino;22348;gentile, preparato
+https://www.yelp.it/biz/doubletree-torino;22349;personale, gentile, professionale
+https://www.yelp.it/biz/doubletree-torino;22350;cosa, importante, problema, parcheggio
+https://www.yelp.it/biz/doubletree-torino;22351;molto, gentile
+https://www.yelp.it/biz/doubletree-torino;22352;colazione, ricchissimo, gustoso
+https://www.yelp.it/biz/doubletree-torino;22353;strutturare, molto, bello, rifinito, servizio, personale, ottimo
+https://www.yelp.it/biz/doubletree-torino;22354;ottimo, posizione
+https://www.yelp.it/biz/doubletree-torino;22355;dolcetto, benvenuto
+https://www.yelp.it/biz/doubletree-torino;22356;location, essere, perfetto, vicino
+https://www.yelp.it/biz/doubletree-torino;22357;struttura, nuovo, essere, davvero, bello
+https://www.yelp.it/biz/doubletree-torino;22358;camera, essere, bello
+https://www.yelp.it/biz/doubletree-torino;22359;accoglienza, professionale, cortese
+https://www.yelp.it/biz/doubletree-torino;22360;personale, reception, essere, gentile, cordiale
+https://www.yelp.it/biz/doubletree-torino;22361;splendido, spazio, comune, camera, familiare, ben, insonorizzare
+https://www.yelp.it/biz/doubletree-torino;22362;bello, bagno
+https://www.yelp.it/biz/doubletree-torino;22363;colazione, ottimo, livello
+https://www.yelp.it/biz/doubletree-torino;22364;vero, bello
+https://www.yelp.it/biz/doubletree-torino;22365;ottimare, anche, colazione
+https://www.yelp.it/biz/doubletree-torino;22366;albergo, essere, ottimo
+https://www.yelp.it/biz/doubletree-torino;22367;personale, competente, cordiale
+https://www.yelp.it/biz/doubletree-torino;22368;bello, struttura
+https://www.yelp.it/biz/doubletree-torino;22369;ottimo, accoglienza, veloce, efficiente
+https://www.yelp.it/biz/doubletree-torino;22370;pulizia, camera, buono
+https://www.yelp.it/biz/doubletree-torino;22371;colazione, buono, prodotto, fresco
+https://www.yelp.it/biz/doubletree-torino;22372;pulizia, impeccabile
+https://www.yelp.it/biz/doubletree-torino;22373;quadro, stupendo, vedere, assoluto
+https://www.yelp.it/biz/doubletree-torino;22374;bello, struttura, contesto, visitare
+https://www.yelp.it/biz/doubletree-torino;22375;cibo, ottimo, personale, cordiale
+https://www.yelp.it/biz/doubletree-torino;22376;pausa, pranzo
+https://www.yelp.it/biz/doubletree-torino;22377;personale, molto, gentile
+https://www.yelp.it/biz/doubletree-torino;22378;personale, molto, gentile, disponibile
+https://www.yelp.it/biz/doubletree-torino;22379;equilibrato, rapporto, qualità/prezzo
+https://www.yelp.it/biz/doubletree-torino;22380;particolarmente, gradevole, bagno, locale, doccia, parte, molto, spazioso
+https://www.yelp.it/biz/doubletree-torino;22381;personale, essere, cortese
+https://www.yelp.it/biz/doubletree-torino;22382;andare, bene, lavoro

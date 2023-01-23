@@ -1,0 +1,35 @@
+https://www.yelp.it/biz/roar-roads-torino;4207;servizio, essere, gentile, rapido, servizio essere, essere gentile, gentile rapido
+https://www.yelp.it/biz/roar-roads-torino;4208;ottimo, birra, ottimo birra
+https://www.yelp.it/biz/roar-roads-torino;4209;esempio, stasera, cozza, marinaro, ottimo, esempio stasera, stasera cozza, cozza marinaro, marinaro ottimo
+https://www.yelp.it/biz/roar-roads-torino;4210;tutto, accompagnare, buono, birra, tutto accompagnare, accompagnare buono, buono birra
+https://www.yelp.it/biz/roar-roads-torino;4211;buon, cibo, buono, birra, buon cibo, cibo buono, buono birra
+https://www.yelp.it/biz/roar-roads-torino;4212;ragazzo, disponibile, gentile, sorridente, ragazzo disponibile, disponibile gentile, gentile sorridente
+https://www.yelp.it/biz/roar-roads-torino;4213;essere, fresco, buono, qualità, essere fresco, fresco buono, buono qualità
+https://www.yelp.it/biz/roar-roads-torino;4214;servizio, veloce, impeccabile, servizio veloce, veloce impeccabile
+https://www.yelp.it/biz/roar-roads-torino;4215;molto, apprezzabile, salettine, molto apprezzabile, apprezzabile salettine
+https://www.yelp.it/biz/roar-roads-torino;4216;continuare, così, continuare così
+https://www.yelp.it/biz/roar-roads-torino;4217;essere, cosa, assai, raro, essere cosa, cosa assai, assai raro
+https://www.yelp.it/biz/roar-roads-torino;4218;bello, risposta, bello risposta
+https://www.yelp.it/biz/roar-roads-torino;4219;avere, ampio, offerta, pietanza, buono, qualità, ottimo, rapporto, qualità/prezzo, avere ampio, ampio offerta, offerta pietanza, pietanza buono, buono qualità, qualità ottimo, ottimo rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/roar-roads-torino;4220;cibo, fresco, personale, cortese, rapidità, servizio, sabato, sera, cibo fresco, fresco personale, personale cortese, cortese rapidità, rapidità servizio, servizio sabato, sabato sera
+https://www.yelp.it/biz/roar-roads-torino;4221;buono, scelta, birra, personale, cortese, buono scelta, scelta birra, birra personale, personale cortese
+https://www.yelp.it/biz/roar-roads-torino;4222;dire, inimitabile, dire inimitabile
+https://www.yelp.it/biz/roar-roads-torino;4223;ottimo, locale, prezzo, contenuto, ottimo, cibo, ottimo locale, locale prezzo, prezzo contenuto, contenuto ottimo, ottimo cibo
+https://www.yelp.it/biz/roar-roads-torino;4224;personale, é, molto, cortese, personale é, é molto, molto cortese
+https://www.yelp.it/biz/roar-roads-torino;4225;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/roar-roads-torino;4226;molto, buono, anche, birra, molto buono, buono anche, anche birra
+https://www.yelp.it/biz/roar-roads-torino;4227;piacevole, certezza, piacevole certezza
+https://www.yelp.it/biz/roar-roads-torino;4228;servizio, veloce, locale, carino, po, scortesia, servizio veloce, veloce locale, locale carino, carino po, po scortesia
+https://www.yelp.it/biz/roar-roads-torino;4229;fortunato, poi, fortunato poi
+https://www.yelp.it/biz/roar-roads-torino;4230;essere, buono, essere buono
+https://www.yelp.it/biz/roar-roads-torino;4231;poi, libero, provare, poi libero, libero provare
+https://www.yelp.it/biz/roar-roads-torino;4232;buon, servizio, prezzo, essere, deciso, competitivo, buon servizio, servizio prezzo, prezzo essere, essere deciso, deciso competitivo
+https://www.yelp.it/biz/roar-roads-torino;4233;birra, fresco, birra fresco
+https://www.yelp.it/biz/roar-roads-torino;4234;veloce, cortese, cibo, davvero, buono, veloce cortese, cortese cibo, cibo davvero, davvero buono
+https://www.yelp.it/biz/roar-roads-torino;4235;posto, ideale, cena, anche, pub, posto ideale, ideale cena, cena anche, anche pub
+https://www.yelp.it/biz/roar-roads-torino;4236;molto, buono, posizione, rimanere, centro, città, molto buono, buono posizione, posizione rimanere, rimanere centro, centro città
+https://www.yelp.it/biz/roar-roads-torino;4237;prezzo, essere, modico, rapporto, ottimo, livello, qualitativo, prezzo essere, essere modico, modico rapporto, rapporto ottimo, ottimo livello, livello qualitativo
+https://www.yelp.it/biz/roar-roads-torino;4238;meritare, attenzione, meritare attenzione
+https://www.yelp.it/biz/roar-roads-torino;4239;giusto, punto, cottura, ottimo, ragù, porzione, abbondante, giusto punto, punto cottura, cottura ottimo, ottimo ragù, ragù porzione, porzione abbondante
+https://www.yelp.it/biz/roar-roads-torino;4240;rapporto, qualità/prezzo, ottimo, rapporto qualità/prezzo, qualità/prezzo ottimo
+https://www.yelp.it/biz/roar-roads-torino;4241;proprietario, cuoco, essere, sempre, cordiale, cucina, essere, buono, generoso, proprietario cuoco, cuoco essere, essere sempre, sempre cordiale, cordiale cucina, cucina essere, essere buono, buono generoso

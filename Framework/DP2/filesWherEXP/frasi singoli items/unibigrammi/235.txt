@@ -1,0 +1,6 @@
+https://www.yelp.it/biz/tor-na-torino;10386;carta, vino, ottimo, carta vino, vino ottimo
+https://www.yelp.it/biz/tor-na-torino;10387;rapporto, prezzo/qualità, deciso, elevato, rapporto prezzo/qualità, prezzo/qualità deciso, deciso elevato
+https://www.yelp.it/biz/tor-na-torino;10388;salsa, pomodoro, altrettanto, salsa pomodoro, pomodoro altrettanto
+https://www.yelp.it/biz/tor-na-torino;10389;qualità, ingrediente, buono, preparazione, convincere, qualità ingrediente, ingrediente buono, buono preparazione, preparazione convincere
+https://www.yelp.it/biz/tor-na-torino;10390;locale, speciale, locale speciale
+https://www.yelp.it/biz/tor-na-torino;10391;personale, molto, accogliente, personale molto, molto accogliente

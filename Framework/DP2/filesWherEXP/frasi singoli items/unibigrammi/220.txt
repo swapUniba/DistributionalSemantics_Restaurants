@@ -1,0 +1,25 @@
+https://www.yelp.it/biz/nishiki-torino;9973;misto, notevole, misto notevole
+https://www.yelp.it/biz/nishiki-torino;9974;complimentare, riso, pollo, verdura, molto, saporito, complimentare riso, riso pollo, pollo verdura, verdura molto, molto saporito
+https://www.yelp.it/biz/nishiki-torino;9975;cordialità, simpatia, personale, cordialità simpatia, simpatia personale
+https://www.yelp.it/biz/nishiki-torino;9976;personale, molto, gentile, disponibile, personale molto, molto gentile, gentile disponibile
+https://www.yelp.it/biz/nishiki-torino;9977;cenetta, dehor, cenetta dehor
+https://www.yelp.it/biz/nishiki-torino;9978;buono, servizio, buono servizio
+https://www.yelp.it/biz/nishiki-torino;9979;locale, pulito, sushi, buono, locale pulito, pulito sushi, sushi buono
+https://www.yelp.it/biz/nishiki-torino;9980;rapporto, qualità, prezzo, ottimo, servizio, veloce, ambiente, carino, vivo, consigliare, rapporto qualità, qualità prezzo, prezzo ottimo, ottimo servizio, servizio veloce, veloce ambiente, ambiente carino, carino vivo, vivo consigliare
+https://www.yelp.it/biz/nishiki-torino;9981;cibo, ottimo, personale, molto, gentile, cibo ottimo, ottimo personale, personale molto, molto gentile
+https://www.yelp.it/biz/nishiki-torino;9982;menù, carta, scelta, discreto, menù carta, carta scelta, scelta discreto
+https://www.yelp.it/biz/nishiki-torino;9983;buono, anche, resto, buono anche, anche resto
+https://www.yelp.it/biz/nishiki-torino;9984;can, rispetto, can rispetto
+https://www.yelp.it/biz/nishiki-torino;9985;ottimo, pranzo/cena, compagnia, grande, mangiate, ottimo pranzo/cena, pranzo/cena compagnia, compagnia grande, grande mangiate
+https://www.yelp.it/biz/nishiki-torino;9986;cibo, é, buono, cibo é, é buono
+https://www.yelp.it/biz/nishiki-torino;9987;personale, cordiale, simpatico, personale cordiale, cordiale simpatico
+https://www.yelp.it/biz/nishiki-torino;9988;molto, buono, tartaro, molto buono, buono tartaro
+https://www.yelp.it/biz/nishiki-torino;9989;disponibile, pesce, fresco, ottimo, scelta, qualità/prezzo, eccezionale, disponibile pesce, pesce fresco, fresco ottimo, ottimo scelta, scelta qualità/prezzo, qualità/prezzo eccezionale
+https://www.yelp.it/biz/nishiki-torino;9990;personale, essere, cortese, personale essere, essere cortese
+https://www.yelp.it/biz/nishiki-torino;9991;rapporto, qualità, prezzo, essere, molto, buono, rapporto qualità, qualità prezzo, prezzo essere, essere molto, molto buono
+https://www.yelp.it/biz/nishiki-torino;9992;locale, semplice, accogliente, locale semplice, semplice accogliente
+https://www.yelp.it/biz/nishiki-torino;9993;personale, essere, disponibile, gentile, personale essere, essere disponibile, disponibile gentile
+https://www.yelp.it/biz/nishiki-torino;9994;cosa, davvero, onesto, corretto, cosa davvero, davvero onesto, onesto corretto
+https://www.yelp.it/biz/nishiki-torino;9995;sempre, top, sempre top
+https://www.yelp.it/biz/nishiki-torino;9996;ristorante, piccolo, rispetto, vecchio, sede, sicuro, accogliente, ristorante piccolo, piccolo rispetto, rispetto vecchio, vecchio sede, sede sicuro, sicuro accogliente
+https://www.yelp.it/biz/nishiki-torino;9997;servizio, ottimo, servizio ottimo

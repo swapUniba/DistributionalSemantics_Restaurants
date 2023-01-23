@@ -1,0 +1,144 @@
+https://www.yelp.it/biz/la-ristonomia-torino;24734;buono, offerta, vino, buono offerta, offerta vino
+https://www.yelp.it/biz/la-ristonomia-torino;24735;locale, molto, carino, arredamento, ricercare, ben, abbinare, locale molto, molto carino, carino arredamento, arredamento ricercare, ricercare ben, ben abbinare
+https://www.yelp.it/biz/la-ristonomia-torino;24736;locale, carino, mangiare, buono, vino, buono, onesto, pò, caro, locale carino, carino mangiare, mangiare buono, buono vino, vino buono, buono onesto, onesto pò, pò caro
+https://www.yelp.it/biz/la-ristonomia-torino;24737;tempo, attesa, perfetto, tempo attesa, attesa perfetto
+https://www.yelp.it/biz/la-ristonomia-torino;24738;convenzionare, beneficiare, sconto, apprezzabile, convenzionare beneficiare, beneficiare sconto, sconto apprezzabile
+https://www.yelp.it/biz/la-ristonomia-torino;24739;grazie, gestore, collaboratore, grazie gestore, gestore collaboratore
+https://www.yelp.it/biz/la-ristonomia-torino;24740;locale, accogliente, curare, dettaglio, locale accogliente, accogliente curare, curare dettaglio
+https://www.yelp.it/biz/la-ristonomia-torino;24741;personale, disponibile, preparato, cibo, ottimo, personale disponibile, disponibile preparato, preparato cibo, cibo ottimo
+https://www.yelp.it/biz/la-ristonomia-torino;24742;ottimo, prezzo, anche, pranzo, veloce, gustoso, ottimo prezzo, prezzo anche, anche pranzo, pranzo veloce, veloce gustoso
+https://www.yelp.it/biz/la-ristonomia-torino;24743;cortesia, simpatia, qualità, sempre, più, difficile, trovare, contemporaneo, contraddistinguere, locale, molto, accogliente, cortesia simpatia, simpatia qualità, qualità sempre, sempre più, più difficile, difficile trovare, trovare contemporaneo, contemporaneo contraddistinguere, contraddistinguere locale, locale molto, molto accogliente
+https://www.yelp.it/biz/la-ristonomia-torino;24744;cena, base, accompagnare, ottimo, squisito, cena base, base accompagnare, accompagnare ottimo, ottimo squisito
+https://www.yelp.it/biz/la-ristonomia-torino;24745;servizio, cameriere, impeccabile, servizio cameriere, cameriere impeccabile
+https://www.yelp.it/biz/la-ristonomia-torino;24746;servizio, eccellente, personale, molto, gentile, servizio eccellente, eccellente personale, personale molto, molto gentile
+https://www.yelp.it/biz/la-ristonomia-torino;24747;comunque, bello, serata, locale, molto, accogliente, comunque bello, bello serata, serata locale, locale molto, molto accogliente
+https://www.yelp.it/biz/la-ristonomia-torino;24748;ottimo, cena, perfino, eccessivo, quantità, portare, giusto, rapporto, qualità, prezzo, ottimo cena, cena perfino, perfino eccessivo, eccessivo quantità, quantità portare, portare giusto, giusto rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/la-ristonomia-torino;24749;locale, essere, moderno, ristrutturare, recente, fresco, luminoso, piacevole, locale essere, essere moderno, moderno ristrutturare, ristrutturare recente, recente fresco, fresco luminoso, luminoso piacevole
+https://www.yelp.it/biz/la-ristonomia-torino;24750;inspirare, convivialità, relax, pausa, pranzo, inspirare convivialità, convivialità relax, relax pausa, pausa pranzo
+https://www.yelp.it/biz/la-ristonomia-torino;24751;buono, zuppa, farro, buono zuppa, zuppa farro
+https://www.yelp.it/biz/la-ristonomia-torino;24752;portato, abbondante, qualità, media, servizio, pò, lento, portato abbondante, abbondante qualità, qualità media, media servizio, servizio pò, pò lento
+https://www.yelp.it/biz/la-ristonomia-torino;24753;panna, cuocere, dolce, panna cuocere, cuocere dolce
+https://www.yelp.it/biz/la-ristonomia-torino;24754;prima, impressione, molto, cariare, prima impressione, impressione molto, molto cariare
+https://www.yelp.it/biz/la-ristonomia-torino;24755;vino, buon, livello, vino buon, buon livello
+https://www.yelp.it/biz/la-ristonomia-torino;24756;piccolo, pecca, servizio, piccolo pecca, pecca servizio
+https://www.yelp.it/biz/la-ristonomia-torino;24757;servizo, cortese, gentile, servizo cortese, cortese gentile
+https://www.yelp.it/biz/la-ristonomia-torino;24758;offerto, piacevole, compagnia, maitre, intero, offerto piacevole, piacevole compagnia, compagnia maitre, maitre intero
+https://www.yelp.it/biz/la-ristonomia-torino;24759;ottimo, esperienza, ottimo, cibo, ottimo, servizio, ottimo esperienza, esperienza ottimo, ottimo cibo, cibo ottimo, ottimo servizio
+https://www.yelp.it/biz/la-ristonomia-torino;24760;dire, pratico, eccezionale, Tutto, dire pratico, pratico eccezionale, eccezionale tutto
+https://www.yelp.it/biz/la-ristonomia-torino;24761;personale, sala, attento, disponibile, educare, personale sala, sala attento, attento disponibile, disponibile educare
+https://www.yelp.it/biz/la-ristonomia-torino;24762;piatto, ottimo, servizio, location, favola, piatto ottimo, ottimo servizio, servizio location, location favola
+https://www.yelp.it/biz/la-ristonomia-torino;24763;buono, carta, vino, ottimo, servizio, cortese, professionale, buono carta, carta vino, vino ottimo, ottimo servizio, servizio cortese, cortese professionale
+https://www.yelp.it/biz/la-ristonomia-torino;24764;location, essere, davvero, molto, carino, cameriere, molto, gentile, location essere, essere davvero, davvero molto, molto carino, carino cameriere, cameriere molto, molto gentile
+https://www.yelp.it/biz/la-ristonomia-torino;24765;davvero, molto, gustoso, davvero molto, molto gustoso
+https://www.yelp.it/biz/la-ristonomia-torino;24766;accogliente, stesso, tempo, raffinato, accogliente stesso, stesso tempo, tempo raffinato
+https://www.yelp.it/biz/la-ristonomia-torino;24767;cibo, qualità, ricercare, gusto, indelebile, cibo qualità, qualità ricercare, ricercare gusto, gusto indelebile
+https://www.yelp.it/biz/la-ristonomia-torino;24768;anche, personale, cordiale, attento, anche personale, personale cordiale, cordiale attento
+https://www.yelp.it/biz/la-ristonomia-torino;24769;proposta, essere, davvero, valido, proposta essere, essere davvero, davvero valido
+https://www.yelp.it/biz/la-ristonomia-torino;24770;molto, buono, molto buono
+https://www.yelp.it/biz/la-ristonomia-torino;24771;anche, l, offerta, vino, essere, ampio, anche l, l offerta, offerta vino, vino essere, essere ampio
+https://www.yelp.it/biz/la-ristonomia-torino;24772;carta, vino, abbastanza, ricco, carta vino, vino abbastanza, abbastanza ricco
+https://www.yelp.it/biz/la-ristonomia-torino;24773;cibo, delizioso, dettaglio, curato, location, moderno, raffinato, cibo delizioso, delizioso dettaglio, dettaglio curato, curato location, location moderno, moderno raffinato
+https://www.yelp.it/biz/la-ristonomia-torino;24774;molto, buono, anche, dolce, casa, molto buono, buono anche, anche dolce, dolce casa
+https://www.yelp.it/biz/la-ristonomia-torino;24775;molto, buono, invece, vino, dolce, molto buono, buono invece, invece vino, vino dolce
+https://www.yelp.it/biz/la-ristonomia-torino;24776;volta, anche, servire, piatto, ordinare, anche, personale, sempre, molto, gentile, scusare, offerta, ottimo, volta anche, anche servire, servire piatto, piatto ordinare, ordinare anche, anche personale, personale sempre, sempre molto, molto gentile, gentile scusare, scusare offerta, offerta ottimo
+https://www.yelp.it/biz/la-ristonomia-torino;24777;ristorante, essere, bello, arredare, meravigliosamente, molto, ampio, abbastanza, affollato, quindi, consiglio, prenotare, ristorante essere, essere bello, bello arredare, arredare meravigliosamente, meravigliosamente molto, molto ampio, ampio abbastanza, abbastanza affollato, affollato quindi, quindi consiglio, consiglio prenotare
+https://www.yelp.it/biz/la-ristonomia-torino;24778;servizio, impeccabile, servizio impeccabile
+https://www.yelp.it/biz/la-ristonomia-torino;24779;servizio, davvero, impeccabile, servizio davvero, davvero impeccabile
+https://www.yelp.it/biz/la-ristonomia-torino;24780;friggere, eccezionale, davvero, buono, friggere eccezionale, eccezionale davvero, davvero buono
+https://www.yelp.it/biz/la-ristonomia-torino;24781;dolce, indimenticabile, dolce indimenticabile
+https://www.yelp.it/biz/la-ristonomia-torino;24782;servizio, buono, veloce, servizio buono, buono veloce
+https://www.yelp.it/biz/la-ristonomia-torino;24783;qualità, prezzo, ottimo, materia, primo, alto, livello, spiegazione, piatto, parte, personale, ottimo, qualità prezzo, prezzo ottimo, ottimo materia, materia primo, primo alto, alto livello, livello spiegazione, spiegazione piatto, piatto parte, parte personale, personale ottimo
+https://www.yelp.it/biz/la-ristonomia-torino;24784;molto, buono, prodotto, sicuro, qualità, offerta, carta, vino, molto buono, buono prodotto, prodotto sicuro, sicuro qualità, qualità offerta, offerta carta, carta vino
+https://www.yelp.it/biz/la-ristonomia-torino;24785;personale, essere, vero, gentile, competente, personale essere, essere vero, vero gentile, gentile competente
+https://www.yelp.it/biz/la-ristonomia-torino;24786;dire, essere, buono, dire essere, essere buono
+https://www.yelp.it/biz/la-ristonomia-torino;24787;ambiente, moderno, molto, servizio, curato, grande, gentilezza, offerta, carta, ampio, gusto, tradizione, piemontese, pesce, piatto, ambiente moderno, moderno molto, molto servizio, servizio curato, curato grande, grande gentilezza, gentilezza offerta, offerta carta, carta ampio, ampio gusto, gusto tradizione, tradizione piemontese, piemontese pesce, pesce piatto
+https://www.yelp.it/biz/la-ristonomia-torino;24788;ambiente, essere, molto, elegante, raffinare, arredamento, moderno, semplice, rendere, informale, accogliente, ambiente essere, essere molto, molto elegante, elegante raffinare, raffinare arredamento, arredamento moderno, moderno semplice, semplice rendere, rendere informale, informale accogliente
+https://www.yelp.it/biz/la-ristonomia-torino;24789;qualità, prodotto, essere, eccellente, pesce, freschissimo, prodotto, ottimo, qualità, qualità prodotto, prodotto essere, essere eccellente, eccellente pesce, pesce freschissimo, freschissimo prodotto, prodotto ottimo, ottimo qualità
+https://www.yelp.it/biz/la-ristonomia-torino;24790;bello, locale, vero, curare, allestimento, personale, sala, gentile, bello locale, locale vero, vero curare, curare allestimento, allestimento personale, personale sala, sala gentile
+https://www.yelp.it/biz/la-ristonomia-torino;24791;complimentare, dire, complimentare dire
+https://www.yelp.it/biz/la-ristonomia-torino;24792;accoglienza, contempo, cordiale, formale, accoglienza contempo, contempo cordiale, cordiale formale
+https://www.yelp.it/biz/la-ristonomia-torino;24793;servizio, essere, perfetto, gentile, efficiente, servizio essere, essere perfetto, perfetto gentile, gentile efficiente
+https://www.yelp.it/biz/la-ristonomia-torino;24794;cibo, curare, ottimo, cibo curare, curare ottimo
+https://www.yelp.it/biz/la-ristonomia-torino;24795;porre, molto, cariare, elegante, essere, eccessivo, formale, porre molto, molto cariare, cariare elegante, elegante essere, essere eccessivo, eccessivo formale
+https://www.yelp.it/biz/la-ristonomia-torino;24796;personale, affabile, personale affabile
+https://www.yelp.it/biz/la-ristonomia-torino;24797;cena, essere, ottimo, cena essere, essere ottimo
+https://www.yelp.it/biz/la-ristonomia-torino;24798;davvero, molto, bello, davvero molto, molto bello
+https://www.yelp.it/biz/la-ristonomia-torino;24799;buono, colazione, lavoro, buono colazione, colazione lavoro
+https://www.yelp.it/biz/la-ristonomia-torino;24800;porzione, soddisfacente, porzione soddisfacente
+https://www.yelp.it/biz/la-ristonomia-torino;24801;arredamento, simpatico, arredamento simpatico
+https://www.yelp.it/biz/la-ristonomia-torino;24802;qualità, cibo, eccezionale, servizio, veloce, attento, curare, qualità cibo, cibo eccezionale, eccezionale servizio, servizio veloce, veloce attento, attento curare
+https://www.yelp.it/biz/la-ristonomia-torino;24803;cibo, ottimo, qualità, servizio, impeccabile, atmosfera, perfetto, cibo ottimo, ottimo qualità, qualità servizio, servizio impeccabile, impeccabile atmosfera, atmosfera perfetto
+https://www.yelp.it/biz/la-ristonomia-torino;24804;menù, fare, venire, acquolina, bocca, solo, leggere, menù fare, fare venire, venire acquolina, acquolina bocca, bocca solo, solo leggere
+https://www.yelp.it/biz/la-ristonomia-torino;24805;cucina, essere, sicuro, livello, ingrediente, ricercato, impiattamento, raffinato, buon, gusto, cucina essere, essere sicuro, sicuro livello, livello ingrediente, ingrediente ricercato, ricercato impiattamento, impiattamento raffinato, raffinato buon, buon gusto
+https://www.yelp.it/biz/la-ristonomia-torino;24806;carta, vino, importante, dolce, squisito, carta vino, vino importante, importante dolce, dolce squisito
+https://www.yelp.it/biz/la-ristonomia-torino;24807;rapporto, qualità, prezzo, corretto, rapporto qualità, qualità prezzo, prezzo corretto
+https://www.yelp.it/biz/la-ristonomia-torino;24808;importante, scelta, carne, internazionale, vero, intenditore, importante scelta, scelta carne, carne internazionale, internazionale vero, vero intenditore
+https://www.yelp.it/biz/la-ristonomia-torino;24809;personale, educare, attento, esigenza, cliente, personale educare, educare attento, attento esigenza, esigenza cliente
+https://www.yelp.it/biz/la-ristonomia-torino;24810;carta, vino, vasto, scelta, prezzo, adeguato, accontentare, palato, carta vino, vino vasto, vasto scelta, scelta prezzo, prezzo adeguato, adeguato accontentare, accontentare palato
+https://www.yelp.it/biz/la-ristonomia-torino;24811;cibo, buono, qualità, buono, gambero, rosso, salmone, cibo buono, buono qualità, qualità buono, buono gambero, gambero rosso, rosso salmone
+https://www.yelp.it/biz/la-ristonomia-torino;24812;certo, ritornare, prezzo, trovare, sicuro, servizio, migliore, certo ritornare, ritornare prezzo, prezzo trovare, trovare sicuro, sicuro servizio, servizio migliore
+https://www.yelp.it/biz/la-ristonomia-torino;24813;sosta, giornata, lavoro, rivelare, essere, quasi, tappa, gastronomico, grazie, elevato, qualità, simpaticissimo, raffinare, posto, sosta giornata, giornata lavoro, lavoro rivelare, rivelare essere, essere quasi, quasi tappa, tappa gastronomico, gastronomico grazie, grazie elevato, elevato qualità, qualità simpaticissimo, simpaticissimo raffinare, raffinare posto
+https://www.yelp.it/biz/la-ristonomia-torino;24814;via, simpatico, elegante, stretto, strada, accanto, essere, tavolino, aperto, via simpatico, simpatico elegante, elegante stretto, stretto strada, strada accanto, accanto essere, essere tavolino, tavolino aperto
+https://www.yelp.it/biz/la-ristonomia-torino;24815;ristorare, molto, piacevole, ristorare molto, molto piacevole
+https://www.yelp.it/biz/la-ristonomia-torino;24816;ambiente, atmosfera, ambiente atmosfera
+https://www.yelp.it/biz/la-ristonomia-torino;24817;servizio, ottimo, servizio ottimo
+https://www.yelp.it/biz/la-ristonomia-torino;24818;locale, essere, contemporaneo, metrochic, fare, architetto, gusto, dettaglio, piacevole, mancare, anima, locale essere, essere contemporaneo, contemporaneo metrochic, metrochic fare, fare architetto, architetto gusto, gusto dettaglio, dettaglio piacevole, piacevole mancare, mancare anima
+https://www.yelp.it/biz/la-ristonomia-torino;24819;buono, vino, calice, buono, dolce, buono vino, vino calice, calice buono, buono dolce
+https://www.yelp.it/biz/la-ristonomia-torino;24820;perfino, conto, essere, buono, perfino conto, conto essere, essere buono
+https://www.yelp.it/biz/la-ristonomia-torino;24821;ottimare, pausa, pranzo, piatto, ben, presentare, soprattutto, buono, ben, cucinare, ottimare pausa, pausa pranzo, pranzo piatto, piatto ben, ben presentare, presentare soprattutto, soprattutto buono, buono ben, ben cucinare
+https://www.yelp.it/biz/la-ristonomia-torino;24822;essere, ottimo, essere ottimo
+https://www.yelp.it/biz/la-ristonomia-torino;24823;cena, davvero, ottimo, base, pesce, cena davvero, davvero ottimo, ottimo base, base pesce
+https://www.yelp.it/biz/la-ristonomia-torino;24824;bravo, davvero, complimento, continuare, strada, intraprendere, bravo davvero, davvero complimento, complimento continuare, continuare strada, strada intraprendere
+https://www.yelp.it/biz/la-ristonomia-torino;24825;molto, affollare, pranzo, molto affollare, affollare pranzo
+https://www.yelp.it/biz/la-ristonomia-torino;24826;servizio, essere, veloce, cordiale, servizio essere, essere veloce, veloce cordiale
+https://www.yelp.it/biz/la-ristonomia-torino;24827;buono, carta, vino, accompagnare, carta, variegato, unire, tradizione, nuovo, proposta, buono carta, carta vino, vino accompagnare, accompagnare carta, carta variegato, variegato unire, unire tradizione, tradizione nuovo, nuovo proposta
+https://www.yelp.it/biz/la-ristonomia-torino;24828;unico, nota, stonato, musica, filodiffusione, unico nota, nota stonato, stonato musica, musica filodiffusione
+https://www.yelp.it/biz/la-ristonomia-torino;24829;atmosfera, sempre, accogliente, rilassare, personale, molto, gentile, attento, esigenza, commensale, atmosfera sempre, sempre accogliente, accogliente rilassare, rilassare personale, personale molto, molto gentile, gentile attento, attento esigenza, esigenza commensale
+https://www.yelp.it/biz/la-ristonomia-torino;24830;locale, elegante, qualità, menu, spendere, circa, cena, persona, assaggiare, locale elegante, elegante qualità, qualità menu, menu spendere, spendere circa, circa cena, cena persona, persona assaggiare
+https://www.yelp.it/biz/la-ristonomia-torino;24831;personale, essere, gentile, premuroso, personale essere, essere gentile, gentile premuroso
+https://www.yelp.it/biz/la-ristonomia-torino;24832;parte, dire, cibo, é, qualità, personale, gentile, locale, accogliente, parte dire, dire cibo, cibo é, é qualità, qualità personale, personale gentile, gentile locale, locale accogliente
+https://www.yelp.it/biz/la-ristonomia-torino;24833;personale, molto, cortese, consigliare, personale molto, molto cortese, cortese consigliare
+https://www.yelp.it/biz/la-ristonomia-torino;24834;locale, raffinare, buono, distanza, tavolo, locale raffinare, raffinare buono, buono distanza, distanza tavolo
+https://www.yelp.it/biz/la-ristonomia-torino;24835;proposta, crudo, insolito, piuttosto, interessante, proposta crudo, crudo insolito, insolito piuttosto, piuttosto interessante
+https://www.yelp.it/biz/la-ristonomia-torino;24836;occorrere, essere, pronto, gusto, inatteso, occorrere essere, essere pronto, pronto gusto, gusto inatteso
+https://www.yelp.it/biz/la-ristonomia-torino;24837;ampio, soddisfare, ampio soddisfare
+https://www.yelp.it/biz/la-ristonomia-torino;24838;molto, buono, molto buono
+https://www.yelp.it/biz/la-ristonomia-torino;24839;servizio, tavolo, veloce, personale, gentile, servizio tavolo, tavolo veloce, veloce personale, personale gentile
+https://www.yelp.it/biz/la-ristonomia-torino;24840;piatto, prendere, essere, vero, buono, particolare, descrivere, maniera, eccezionale, effettivo, speciale, piatto prendere, prendere essere, essere vero, vero buono, buono particolare, particolare descrivere, descrivere maniera, maniera eccezionale, eccezionale effettivo, effettivo speciale
+https://www.yelp.it/biz/la-ristonomia-torino;24841;presentare, bene, anche, offerta, piatto, qualità, essere, altalenare, seduta, locale, anche, tempo, attesa, pranzo, altalenare, presentare bene, bene anche, anche offerta, offerta piatto, piatto qualità, qualità essere, essere altalenare, altalenare seduta, seduta locale, locale anche, anche tempo, tempo attesa, attesa pranzo, pranzo altalenare
+https://www.yelp.it/biz/la-ristonomia-torino;24842;nuovo, cordiale, sorridente, nuovo cordiale, cordiale sorridente
+https://www.yelp.it/biz/la-ristonomia-torino;24843;provare, pranzo, lavoro, speedy, cenette, tranquillo, sfizioso, provare pranzo, pranzo lavoro, lavoro speedy, speedy cenette, cenette tranquillo, tranquillo sfizioso
+https://www.yelp.it/biz/la-ristonomia-torino;24844;locale, assai, carino, arredamento, amabile, musica, sottofondo, volume, giusto, molto, piacevole, genere, locale assai, assai carino, carino arredamento, arredamento amabile, amabile musica, musica sottofondo, sottofondo volume, volume giusto, giusto molto, molto piacevole, piacevole genere
+https://www.yelp.it/biz/la-ristonomia-torino;24845;ottimo, cena, prezzo, onesto, ottimo cena, cena prezzo, prezzo onesto
+https://www.yelp.it/biz/la-ristonomia-torino;24846;spesa, medio, antipasto, mezzo, dolce, acqua, vino, caffè, spesa medio, medio antipasto, antipasto mezzo, mezzo dolce, dolce acqua, acqua vino, vino caffè
+https://www.yelp.it/biz/la-ristonomia-torino;24847;posto, essere, molto, carino, posto essere, essere molto, molto carino
+https://www.yelp.it/biz/la-ristonomia-torino;24848;chiedere, thè, portare, ricco, scelta, tisana, chiedere thè, thè portare, portare ricco, ricco scelta, scelta tisana
+https://www.yelp.it/biz/la-ristonomia-torino;24849;locale, accattivante, posizione, seme, centrale, locale accattivante, accattivante posizione, posizione seme, seme centrale
+https://www.yelp.it/biz/la-ristonomia-torino;24850;abbastanza, fighetta, clientela, comunque, frequentabile, abbastanza fighetta, fighetta clientela, clientela comunque, comunque frequentabile
+https://www.yelp.it/biz/la-ristonomia-torino;24851;locale, apparenza, sembrare, molto, moderno, presentare, forte, attenzione, particolare, locale apparenza, apparenza sembrare, sembrare molto, molto moderno, moderno presentare, presentare forte, forte attenzione, attenzione particolare
+https://www.yelp.it/biz/la-ristonomia-torino;24852;locale, accontentare, gusto, gentilezza, personale, ottimo, cibo, locale accontentare, accontentare gusto, gusto gentilezza, gentilezza personale, personale ottimo, ottimo cibo
+https://www.yelp.it/biz/la-ristonomia-torino;24853;ottimo, spadellati, carciofo, ottimo, pasta, fresco, colatura, dare, luce, ottimo spadellati, spadellati carciofo, carciofo ottimo, ottimo pasta, pasta fresco, fresco colatura, colatura dare, dare luce
+https://www.yelp.it/biz/la-ristonomia-torino;24854;locale, giovane, informale, accoglienza, gentile, locale giovane, giovane informale, informale accoglienza, accoglienza gentile
+https://www.yelp.it/biz/la-ristonomia-torino;24855;molto, ampio, scelta, pietanza, molto ampio, ampio scelta, scelta pietanza
+https://www.yelp.it/biz/la-ristonomia-torino;24856;personale, essere, molto, educare, gentile, personale essere, essere molto, molto educare, educare gentile
+https://www.yelp.it/biz/la-ristonomia-torino;24857;sera, locale, trasformare, diventare, perfetto, cena, lavoro, così, come, romantico, uscita, coppia, sera locale, locale trasformare, trasformare diventare, diventare perfetto, perfetto cena, cena lavoro, lavoro così, così come, come romantico, romantico uscita, uscita coppia
+https://www.yelp.it/biz/la-ristonomia-torino;24858;personale, cortese, premuroso, personale cortese, cortese premuroso
+https://www.yelp.it/biz/la-ristonomia-torino;24859;personale, molto, simpatico, gentile, sorridente, personale molto, molto simpatico, simpatico gentile, gentile sorridente
+https://www.yelp.it/biz/la-ristonomia-torino;24860;cucina, esprimere, ottimo, qualità, cucina esprimere, esprimere ottimo, ottimo qualità
+https://www.yelp.it/biz/la-ristonomia-torino;24861;insomma, valido, alternativa, piacevole, serata, insomma valido, valido alternativa, alternativa piacevole, piacevole serata
+https://www.yelp.it/biz/la-ristonomia-torino;24862;locale, molto, curato, raffinare, locale molto, molto curato, curato raffinare
+https://www.yelp.it/biz/la-ristonomia-torino;24863;bello, atmosfera, bello atmosfera
+https://www.yelp.it/biz/la-ristonomia-torino;24864;sicuro, essere, bello, sorpresa, scoprire, ristorante, sicuro essere, essere bello, bello sorpresa, sorpresa scoprire, scoprire ristorante
+https://www.yelp.it/biz/la-ristonomia-torino;24865;bagno, semplice, pulito, grande, vetrata, bello, veduta, chiesa, bagno semplice, semplice pulito, pulito grande, grande vetrata, vetrata bello, bello veduta, veduta chiesa
+https://www.yelp.it/biz/la-ristonomia-torino;24866;servizio, ottimo, gentile, preparare, servizio ottimo, ottimo gentile, gentile preparare
+https://www.yelp.it/biz/la-ristonomia-torino;24867;menu, scelta, interessante, menu scelta, scelta interessante
+https://www.yelp.it/biz/la-ristonomia-torino;24868;vero, goduria, vero goduria
+https://www.yelp.it/biz/la-ristonomia-torino;24869;particolare, piacevole, gusto, particolare piacevole, piacevole gusto
+https://www.yelp.it/biz/la-ristonomia-torino;24870;personale, essere, super, gentile, attento, particolare, personale essere, essere super, super gentile, gentile attento, attento particolare
+https://www.yelp.it/biz/la-ristonomia-torino;24871;molto, cariare, ben, arredare, sembrare, quasi, locale, soluzione, molto cariare, cariare ben, ben arredare, arredare sembrare, sembrare quasi, quasi locale, locale soluzione
+https://www.yelp.it/biz/la-ristonomia-torino;24872;bello, location, bello location
+https://www.yelp.it/biz/la-ristonomia-torino;24873;vino, ottimo, vino ottimo
+https://www.yelp.it/biz/la-ristonomia-torino;24874;molto, buono, sempre, presentare, modo, piacevole, personale, squisito, gentile, competente, molto buono, buono sempre, sempre presentare, presentare modo, modo piacevole, piacevole personale, personale squisito, squisito gentile, gentile competente
+https://www.yelp.it/biz/la-ristonomia-torino;24875;cibo, risultare, davvero, delizioso, cibo risultare, risultare davvero, davvero delizioso
+https://www.yelp.it/biz/la-ristonomia-torino;24876;cameriere, molto, cordiale, cameriere molto, molto cordiale
+https://www.yelp.it/biz/la-ristonomia-torino;24877;atmosfera, cordiale, prezzo, adeguato, atmosfera cordiale, cordiale prezzo, prezzo adeguato

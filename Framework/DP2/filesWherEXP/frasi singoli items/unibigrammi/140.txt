@@ -1,0 +1,38 @@
+https://www.yelp.it/biz/il-padellino-torino;7620;pizza, padellino, pizza padellino
+https://www.yelp.it/biz/il-padellino-torino;7621;locale, carino, forse, pò, troppo, scuro, locale carino, carino forse, forse pò, pò troppo, troppo scuro
+https://www.yelp.it/biz/il-padellino-torino;7622;ambiente, ben, caratterizzare, servizio, essere, veloce, ambiente ben, ben caratterizzare, caratterizzare servizio, servizio essere, essere veloce
+https://www.yelp.it/biz/il-padellino-torino;7623;piccolo, leggero, permettere, accompagnare, anche, antipasto, dolce, anche, piccolo leggero, leggero permettere, permettere accompagnare, accompagnare anche, anche antipasto, antipasto dolce, dolce anche
+https://www.yelp.it/biz/il-padellino-torino;7624;essere, vero, piacere, potere, nuovo, mangiare, locale, fare, davvero, buono, digeribile, essere vero, vero piacere, piacere potere, potere nuovo, nuovo mangiare, mangiare locale, locale fare, fare davvero, davvero buono, buono digeribile
+https://www.yelp.it/biz/il-padellino-torino;7625;pizza, ottimo, farinata, ancora, più, pizza ottimo, ottimo farinata, farinata ancora, ancora più
+https://www.yelp.it/biz/il-padellino-torino;7626;adatto, celiaci, adatto celiaci
+https://www.yelp.it/biz/il-padellino-torino;7627;molto, sbrigativo, essere, adatto, amare, aspettare, troppo, molto sbrigativo, sbrigativo essere, essere adatto, adatto amare, amare aspettare, aspettare troppo
+https://www.yelp.it/biz/il-padellino-torino;7628;servizio, attento, cordiale, servizio attento, attento cordiale
+https://www.yelp.it/biz/il-padellino-torino;7629;locale, carino, anche, tavolo, poco, ammassare, locale carino, carino anche, anche tavolo, tavolo poco, poco ammassare
+https://www.yelp.it/biz/il-padellino-torino;7630;personale, essere, molto, cortese, servizio, essere, solerte, personale essere, essere molto, molto cortese, cortese servizio, servizio essere, essere solerte
+https://www.yelp.it/biz/il-padellino-torino;7631;particolarità, essere, pizza, padellino, particolarità essere, essere pizza, pizza padellino
+https://www.yelp.it/biz/il-padellino-torino;7632;cariare, trenino, situare, sala, vicino, cucina, cariare trenino, trenino situare, situare sala, sala vicino, vicino cucina
+https://www.yelp.it/biz/il-padellino-torino;7633;farinata, davvero, eccellente, farinata davvero, davvero eccellente
+https://www.yelp.it/biz/il-padellino-torino;7634;farinata, dignitoso, buono, dolce, farinata dignitoso, dignitoso buono, buono dolce
+https://www.yelp.it/biz/il-padellino-torino;7635;pizza, padellino, buono, pizza padellino, padellino buono
+https://www.yelp.it/biz/il-padellino-torino;7636;servizio, veloce, cortese, servizio veloce, veloce cortese
+https://www.yelp.it/biz/il-padellino-torino;7637;buono, anche, farinata, buono anche, anche farinata
+https://www.yelp.it/biz/il-padellino-torino;7638;ampio, assortimento, dolce, ampio assortimento, assortimento dolce
+https://www.yelp.it/biz/il-padellino-torino;7639;locale, carino, posto, pò, stretto, locale carino, carino posto, posto pò, pò stretto
+https://www.yelp.it/biz/il-padellino-torino;7640;bello, posto, pranzare, bello posto, posto pranzare
+https://www.yelp.it/biz/il-padellino-torino;7641;farinata, essere, ottimo, farinata essere, essere ottimo
+https://www.yelp.it/biz/il-padellino-torino;7642;personale, cortese, personale cortese
+https://www.yelp.it/biz/il-padellino-torino;7643;pizza, essere, buono, pizza essere, essere buono
+https://www.yelp.it/biz/il-padellino-torino;7644;personale, essere, gentile, solerte, personale essere, essere gentile, gentile solerte
+https://www.yelp.it/biz/il-padellino-torino;7645;ottimo, dolce, ottimo dolce
+https://www.yelp.it/biz/il-padellino-torino;7646;personale, molto, gentile, personale molto, molto gentile
+https://www.yelp.it/biz/il-padellino-torino;7647;molto, buono, molto buono
+https://www.yelp.it/biz/il-padellino-torino;7648;bis, dolce, bis dolce
+https://www.yelp.it/biz/il-padellino-torino;7649;servizio, veloce, gentile, pizza, ottimo, antipasto, abbondante, servizio veloce, veloce gentile, gentile pizza, pizza ottimo, ottimo antipasto, antipasto abbondante
+https://www.yelp.it/biz/il-padellino-torino;7650;molto, buono, molto buono
+https://www.yelp.it/biz/il-padellino-torino;7651;molto, gentile, molto gentile
+https://www.yelp.it/biz/il-padellino-torino;7652;buono, gustoso, soffice, buono gustoso, gustoso soffice
+https://www.yelp.it/biz/il-padellino-torino;7653;pizza, padellino, ottimo, pizza padellino, padellino ottimo
+https://www.yelp.it/biz/il-padellino-torino;7654;cosa, essere, pizza, essere, ottimo, cosa essere, essere pizza, pizza essere, essere ottimo
+https://www.yelp.it/biz/il-padellino-torino;7655;essere, soffice, davvero, gustoso, essere soffice, soffice davvero, davvero gustoso
+https://www.yelp.it/biz/il-padellino-torino;7656;servizio, veloce, personale, gentile, servizio veloce, veloce personale, personale gentile
+https://www.yelp.it/biz/il-padellino-torino;7657;ottimo, rapporto, qualità/prezzo, ottimo rapporto, rapporto qualità/prezzo

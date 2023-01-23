@@ -1,0 +1,653 @@
+15;settimana servizio, servizio veloce, veloce qualità, qualità eccellente
+32;impeccabile servizio, servizio carta, carta vino, vino qualità, qualità prodotto
+39;sempre molto, molto gentile, gentile competente
+44;servizio essere, essere eccezionale, eccezionale personale, personale sempre, sempre molto, molto attento, attento rapido, rapido preparare
+49;personale molto, molto cortese, cortese professionale
+50;solo bello, bello anche, anche molto, molto gustoso, gustoso provare
+51;personale gentile, gentile servizio, servizio veloce
+53;materia primo, primo ottimo, ottimo qualità, qualità consentire, consentire locale, locale distinguere, distinguere massa
+55;giusto rapporto, rapporto qualità, qualità prezzo, prezzo tornare, tornare presto
+63;fantastico location, location prezzo, prezzo giusto, giusto personale, personale gentile, gentile servizio, servizio veloce
+64;complimento riguardare, riguardare solo, solo food, food essere, essere eccellente, eccellente fare, fare materia, materia primo, primo ottimo, ottimo prim', prim' ordine, ordine proprietario, proprietario organizzazione
+65;locale estetico, estetico bello, bello luminoso, luminoso pulito, pulito essenziale
+72;ottimo qualità, qualità personale, personale impeccabile, impeccabile qualificare, qualificare location, location accogliere, accogliere preparazione, preparazione sushi, sushi goduriosa, goduriosa vista, vista palato
+77;ambiente accogliente, accogliente fine, fine personale, personale gentile, gentile disponibile
+80;posto molto, molto accogliente, accogliente pulito, pulito cucina, cucina vista, vista sale
+81;cucina credere, credere chiedere, chiedere meglio, meglio piatto, piatto ben, ben presentare, presentare soprattutto, soprattutto pesce, pesce ottimo, ottimo qualità
+87;dolce preparato, preparato essere, essere molto, molto buono
+88;curare dettaglio, dettaglio personale, personale gentile
+94;buono vasto, vasto scelta, scelta cibo, cibo qualità, qualità bontà, bontà personale, personale gentile, gentile qualificare
+101;cibo curare, curare minimo, minimo dettaglio, dettaglio pesce, pesce fresco, fresco ricetta, ricetta ricercare, ricercare gusto, gusto squisito
+103;là locale, locale curato, curato pulito, pulito servizio, servizio essere, essere perfetto, perfetto discreto, discreto veloce
+117;posto raffinato, raffinato personale, personale gentile, gentile preparare
+121;servizio sempre, sempre impeccabile, impeccabile gentile, gentile venire, venire volta
+123;cibo essere, essere ottimo, ottimo luogo, luogo deliziare, deliziare palato
+124;molto buono, buono anche, anche dolce
+127;come titolo, titolo essere, essere parola, parola personale, personale cortese, cortese cibo, cibo ottimo, ottimo servizio, servizio efficiente
+139;ottimo cena, cena tranquillo
+140;locale essere, essere molto, molto carino, carino accogliente, accogliente personale, personale perfetto, perfetto grande, grande chiarezza, chiarezza menù, menù ampio, ampio possibilità, possibilità scelta
+143;molto buono, buono qualità, qualità piatto, piatto offrire
+144;servizio ben, ben organizzato, organizzato veloce, veloce gentile
+145;ambiente curato, curato ospitale, ospitale personale, personale servizio, servizio capace, capace competente, competente molto, molto cortese
+148;pesce fresco, fresco ottimo, ottimo qualità
+150;personale molto, molto cordiale, cordiale professionale, professionale buono, buono qualità, qualità cucina, cucina caratterizzare, caratterizzare varietà, varietà molto, molto ampio, ampio vista, vista jap, jap zona
+153;interno locale, locale molto, molto carino, carino spazioso, spazioso anche, anche essere, essere gente, gente sentire, sentire opprimere
+156;curare minimo, minimo dettaglio, dettaglio intimo, intimo ambiente, ambiente molto, molto pulito, pulito personale, personale sala, sala gentile, gentile proprietario, proprietario accogliere, accogliere sempre, sempre sorriso, sorriso avere, avere particolare, particolare cura, cura cliente, cliente parlare, parlare sushi
+158;sapore eccezionale, eccezionale tonno, tonno sembrare, sembrare vivo, vivo colore, colore sapore, sapore ottimo, ottimo consistenza
+163;ambiente cariare, cariare molto, molto pulito, pulito personale, personale cordiale, cordiale professionale, professionale sushi, sushi molto, molto buono, buono buono, buono scelta, scelta eccepire
+164;locale figo, figo chic, chic spazioso, spazioso accogliere, accogliere grazie, grazie anche, anche competenza, competenza proprietario, proprietario personale
+173;anche dolce, dolce essere, essere ottimo, ottimo fattura
+183;resto molto, molto attento, attento gentile
+184;ristorare molto, molto cariare, cariare elegante, elegante personale, personale gentile, gentile disponibile
+193;servizio essere, essere sempre, sempre impeccabile, impeccabile volta, volta sedere, sedere interno, interno gradire, gradire molto, molto più, più rispetto, rispetto esterno
+199;buono essere, essere semifreddo, semifreddo cioccolato, cioccolato cocco, cocco pistacchio
+200;esperienza veloce, veloce away, away soluzione, soluzione già, già pronto, pronto portare, portare via, via preparare
+209;ottimo locale, locale ottimo, ottimo cucina, cucina ricetta, ricetta molto, molto variegato, variegato scontato, scontato servizio, servizio veloce, veloce attento, attento cordiale
+213;anche dolce, dolce essere, essere eccezionale, eccezionale cheesecake, cheesecake torta, torta riso, riso soffiare, soffiare essere, essere divino
+214;locale ampio, ampio piacevole, piacevole vista, vista donare, donare relax, relax accoglienza
+216;ricco scelta, scelta vino, vino birra
+222;locale molto, molto curato, curato estetico, estetico servizio, servizio impeccabile, impeccabile cameriere, cameriere occhiale, occhiale dare, dare ottimo, ottimo consiglio, consiglio cibo, cibo ovvio, ovvio ottimo
+225;cibo ottimo, ottimo qualità, qualità pesce, pesce sempre, sempre fresco, fresco servizio, servizio impeccabile
+228;cibo ottimo, ottimo varietà, varietà scelta
+230;personale gentile, gentile attento, attento cliente
+239;buon ristorante, ristorante giapponese, giapponese arredare, arredare gusto, gusto molto, molto carino, carino cibo, cibo essere, essere buono, buono ben, ben servire, servire scegliere, scegliere molto, molto ampio, ampio personale, personale molto, molto preparato, preparato consigliare, consigliare pietanza
+242;servizio domicilio, domicilio sempre, sempre puntuale, puntuale impeccabile
+243;scoprire giappo, giappo soprattutto, soprattutto servizio, servizio asportare, asportare sempre, sempre dare, dare soddisfazione
+246;favoloso dolce, dolce possibilità, possibilità vasto, vasto scelta
+247;prezzo assoluto, assoluto media, media servizio, servizio molto, molto attento, attento impeccabile
+251;assoluto impeccabile, impeccabile impeccabile, impeccabile ridere, ridere grande, grande qualità, qualità così, così condimento, condimento pesce, pesce molto, molto fresco, fresco esaltare, esaltare salsa, salsa squisito
+252;locale raffinato, raffinato ben, ben curare, curare personale, personale gentile, gentile preparare, preparare cibo, cibo ricercato, ricercato qualità, qualità essere, essere punto, punto forza
+253;bello location, location alto, alto qualità, qualità personale, personale competente, competente formare, formare formula, formula vincente, vincente ristorante
+262;davvero ottimo, ottimo rapporto, rapporto qualità, qualità prezzo, prezzo personale, personale gentile, gentile bello, bello anche, anche location
+265;qualità pulizia, pulizia gentilezza, gentilezza eleganza, eleganza soprattutto, soprattutto bontà, bontà pietanza
+269;ambiente cariare, cariare locale, locale molto, molto grande, grande piuttosto, piuttosto raccogliere, raccogliere soprattutto, soprattutto attorno, attorno grande, grande piastra, piastra cucinare, cucinare momento, momento pesce, pesce freschissimo
+278;mangiare abbastanza, abbastanza bene, bene rapporto, rapporto qualità, qualità prezzo, prezzo davvero, davvero eccezzionale
+281;mangiare ristorante, ristorante credere, credere essere, essere migliore, migliore giapponese, giapponese torino, torino pesce, pesce freschissimo, freschissimo locale, locale molto, molto raffinato
+283;pizza molto, molto buono, buono personale, personale gentile, gentile prezzo, prezzo contenuto
+284;pizza complessivo, complessivo buono, buono prezzo, prezzo media
+285;pizzeria storico, storico qualità, qualità top, top sempre, sempre materia, materia sempre, sempre vista, vista essere, essere ottimo
+289;ottimo qualità, qualità prezzo, prezzo medio-alti, medio-alti complesso, complesso deciso, deciso positivo
+305;pizza buono, buono memorabile, memorabile modesto, modesto parere, parere prezzo, prezzo davvero, davvero competitivo, competitivo mangiare, mangiare bere
+314;pizza ottimo, ottimo leggero, leggero impasto
+315;cariare locale, locale molto, molto intimo
+320;eccellente qualità, qualità ingrediente, ingrediente gusto, gusto inconfondibile
+323;ambiente essere, essere accogliente, accogliente cameriere, cameriere essere, essere molto, molto gentile
+325;servizio essere, essere veloce, veloce personale, personale semplice, semplice sempre, sempre educare, educare arredo, arredo anche, anche semplice, semplice dignitoso, dignitoso tovagliato, tovagliato posata
+333;pizza molto, molto buono, buono servizio, servizio efficiente, efficiente veloce, veloce personale, personale molto, molto cortese
+339;qualità cortesia, cortesia atmosfera, atmosfera familiare, familiare ingrediente, ingrediente fresco, fresco ottimo, ottimo scelta
+344;personale essere, essere molto, molto mano, mano pronto, pronto soddisfare, soddisfare esigenza
+345;sicuro migliore, migliore pizza, pizza città, città ingrediente, ingrediente migliore, migliore qualità
+347;stancare mai, mai ripetere, ripetere attualmente, attualmente botta, botta essere, essere pizzeria, pizzeria numero, numero bario, bario punto, punto vista, vista locale, locale grande, grande spazioso, spazioso comodare, comodare anche, anche famiglia, famiglia bimbo, bimbo passeggino, passeggino servizio, servizio impeccabile, impeccabile giusto, giusto tempo, tempo qualità, qualità indiscusso, indiscusso antipasto, antipasto ingrediente, ingrediente pizza, pizza eccezionale, eccezionale prezzo, prezzo basso
+349;pizza molto, molto buono, buono servizio, servizio rapido
+350;personale molto, molto gentile, gentile premuroso
+351;bello serata, serata davvero, davvero clima, clima accoglienza, accoglienza familiare
+354;dire mangiare, mangiare bene, bene antipasto, antipasto molto, molto semplice, semplice gustoso, gustoso buono, buono qualità
+360;semplice accogliente, accogliente personale, personale cordiale, cordiale disponibile
+362;pizza estremo, estremo buono, buono servizio, servizio cortese, cortese porre, porre mano, mano informale
+367;arredo essere, essere basilare, basilare servizio, servizio essere, essere semplice, semplice veloce, veloce cortese
+368;qui molto, molto semplice, semplice davvero, davvero buono, buono ambiente, ambiente cordiale
+369;prezzo onesto, onesto tempo, tempo attesa, attesa molto, molto breve, breve servizio, servizio buono
+373;pizza antipasto, antipasto molto, molto buono
+377;impasto molto, molto digeribile, digeribile ambiente, ambiente semplice, semplice accogliente
+394;ingrediente sempre, sempre fresco, fresco buono, buono qualità
+403;abbinare prodotto, prodotto freschissimi, freschissimi utilizzare
+406;ambiente rustico, rustico familiare, familiare servizio, servizio veloce, veloce personale, personale gentile, gentile professionale, professionale efficiente, efficiente ingrediente, ingrediente freschissimi, freschissimi possibilità, possibilità scegliere, scegliere farina
+409;pizzeria storico, storico ottimo, ottimo servizio, servizio sempre, sempre molto, molto affollare, affollare sabato
+411;personale cordiale, cordiale cibo, cibo ottimo, ottimo pulizia, pulizia impeccabile, impeccabile ottimo, ottimo rapporto, rapporto qualità, qualità prezzo
+417;pizza buono, buono migliore, migliore bario, bario antipasto, antipasto buono, buono servizio, servizio molto, molto cordiale, cordiale rapporto, rapporto qualità/prezzo, qualità/prezzo ottimo
+421;servizio accurato, accurato personale, personale gentile, gentile professionale
+422;eccellente pizza, pizza ottimo, ottimo antipasto
+423;qualità massimo, massimo livello, livello ingrediente, ingrediente preparare, preparare momento, momento vista
+428;pizza infine, infine gran, gran qualità
+440;personale simpatico, simpatico atmosfera, atmosfera informale
+449;locale semplice, semplice pizza, pizza ottimo, ottimo anche, anche piadina
+455;pizza davvero, davvero ottimo, ottimo ingrediente, ingrediente qualità, qualità cuocere, cuocere perfetto
+459;qualità prodotto, prodotto servire, servire tavola, tavola essere, essere indescrivibile, indescrivibile sempre, sempre prodotto, prodotto fresco, fresco specialità, specialità casa, casa poi, poi pizza
+487;Munù ricco, ricco cibo, cibo ottimo
+494;ristorante molto, molto caratteristico, caratteristico atmosfera, atmosfera profumo, profumo sapore
+495;location centrale, centrale bario, bario essere, essere locale, locale raccolto, raccolto accogliente, accogliente ideale, ideale cenetta, cenetta romantico, romantico anche, anche passare, passare serata, serata compagnia, compagnia ottimo, ottimo amico, amico famiglia
+496;maggior parte, parte piatto, piatto offrire, offrire possibilità, possibilità gustare, gustare anche, anche celiaci, celiaci cioè, cioè versione, versione glutine
+502;già conquistare, conquistare squisito, squisito agnolotto, agnolotto ripieno, ripieno scampo, scampo saporito, saporito spaghetto, spaghetto cozza
+505;bello posto, posto accogliente, accogliente caldo, caldo piacevole
+514;ottimo pranzo, pranzo santo, santo stefano, stefano famiglia, famiglia servizio, servizio impeccabile, impeccabile menù, menù glutine
+525;essere sabato, sabato sera, sera ristorante, ristorante scegliere, scegliere offrire, offrire varietà, varietà incredibile, incredibile cibo, cibo glutine, glutine essere, essere vero, vero sorpresa, sorpresa affollare, affollare locale, locale essere, essere gentile, gentile tavolo, tavolo traballare, traballare immediato, immediato cortesia, cortesia prontezza, prontezza sostituire, sostituire gestore, gestore avvicinare, avvicinare costantemente, costantemente avere, avere riscontro, riscontro gradimento, gradimento pietanza, pietanza vasto, vasto scegliere, scegliere perfino, perfino orecchietta, orecchietta glutine
+533;molto delicato, delicato giusto, giusto porzione
+534;concludere molto, molto buono, buono cannuolo, cannuolo siciliano, siciliano essere, essere pistacchio
+545;cucina é, é raffinato, raffinato ancorare, ancorare prodotto, prodotto barese, barese preparare, preparare ottimo
+569;personale super, super cortese, cortese servizio, servizio veloce, veloce esaustivo
+575;ristorante chic, chic elegante, elegante accogliente, accogliente pulito
+580;ottimo accoglienza, accoglienza ristorante, ristorante vero, vero classe, classe vero, vero chicca, chicca essere, essere cibo
+581;estremo gustoso, gustoso sublime
+582;molto preparato, preparato anche, anche cibo, cibo ottimo, ottimo qualità
+587;locale accogliente, accogliente proprietario, proprietario collaboratore, collaboratore cortese, cortese simpatico, simpatico cibo, cibo ottimo, ottimo servizio, servizio veloce, veloce panzerotti, panzerotti anche, anche leccare, leccare baffo
+590;locale davvero, davvero raffinato, raffinato elegante
+594;raffinato cibo, cibo ottimo, ottimo pietanza, pietanza gluten-free, gluten-free sublime, sublime ottimo, ottimo rapporto, rapporto qualità, qualità prezzo
+596;bravo ottimo, ottimo ristorante, ristorante gusto, gusto simpatia, simpatia competenza, competenza qualità, qualità bravo, bravo glutine, glutine eccellente, eccellente complimentare
+599;eccezionale antipasto, antipasto consigliatissimo, consigliatissimo cioccolato, cioccolato preparare, preparare delizioso, delizioso pietanza, pietanza anche, anche glutine
+602;birra spina, spina molto, molto buono, buono finalmente, finalmente freddo, freddo freddo
+604;servizio gentile, gentile veloce, veloce capace, capace anche, anche familiare
+630;personale essere, essere attento, attento simpatico
+634;locale ampio, ampio molto, molto carino
+639;ampio scegliere, scegliere dolce, dolce pane, pane fare, fare casa
+641;amico bario, bario ristorare, ristorare molto, molto carino, carino infinità, infinità piatto, piatto glutine
+648;cibo servizio, servizio molto, molto buono
+659;birra artigianale, artigianale rossa, rossa molto, molto buono
+662;scegliere elegante, elegante raffinare, raffinare locale, locale utilizzare, utilizzare applicazione, applicazione celiaci, celiaci speranza, speranza mangiare, mangiare buono, buono pizza, pizza spendere, spendere tombola
+670;servizio essere, essere cortese, cortese attento, attento piatto, piatto ottimo
+699;personale essere, essere cordiale, cordiale affabile, affabile premuroso, premuroso proprietario, proprietario simpatico, simpatico cortese, cortese permettere, permettere sentire, sentire agio
+704;personale gentile, gentile disponibile, disponibile piatto, piatto essere, essere anche, anche glutine, glutine volta, volta mangiare, mangiare pasta, pasta vero, vero ottimo
+708;locale discreto, discreto elegante, elegante ben, ben servire, servire professionalità, professionalità competenza, competenza giusto, giusto velocità
+723;ottimare carta, carta dolce, dolce gentilezza, gentilezza personale
+724;molto variegato, variegato amplissimo, amplissimo scelta
+730;fine mancare, mancare meraviglioso, meraviglioso sporcamussi, sporcamussi caldo, caldo pezzo, pezzo pastiera
+738;ambiente curare, curare confortevole, confortevole accoglienza, accoglienza affabile, affabile sentire, sentire subito, subito famiglia, famiglia formalit, formalit luogo
+744;migliore pizza, pizza mai, mai assaggiare, assaggiare ottimo, ottimo impasto, impasto limitare, limitare provare, provare solo, solo pizza, pizza aspettativa, aspettativa deludere, deludere occasione, occasione festa, festa compleanno
+747;risultato finale, finale ottimo, ottimo rapporto, rapporto qualit, qualit prezzo-servizio, prezzo-servizio eccepire, eccepire vino, vino ottimo, ottimo bevanda, bevanda pane, pane ottimo, ottimo buono, buono torcere, torcere compleanno, compleanno spettacolare
+757;cioccolato appena, appena passabile, passabile rapporto, rapporto qualit, qualit prezzo, prezzo piuttosto, piuttosto alto
+759;cortesia velocità, velocità servizio, servizio polpo, polpo squisito, squisito ottimo, ottimo semifreddo, semifreddo perfetto, perfetto chiudere, chiudere serata, serata avere, avere anche, anche pizza, pizza provare
+765;buono frittura, frittura pesce, pesce ottimo
+774;buono anche, anche musica, musica vivo
+780;locale molto, molto curato, curato ottimo, ottimo servizio, servizio personale, personale estremo, estremo gradevole, gradevole simpatico, simpatico allietare, allietare serata
+785;accompagnare ottimo, ottimo vino, vino gentilezza, gentilezza personale, personale atmosfera, atmosfera rilassare
+788;ottimo particolare, particolare antipasto, antipasto molto, molto buono, buono gustare, gustare buono, buono pizza, pizza settimana, settimana anche, anche panzerotti, panzerotti vino, vino casa, casa buono, buono primitivo
+795;Venerdi panzerotti, panzerotti barese, barese eccezionale, eccezionale gentilezza, gentilezza servizio, servizio cortese, cortese rapido
+806;crostata ricotta, ricotta pera, pera libidine
+807;cosa fantastico, fantastico avere, avere davvero, davvero tanto, tanto attenzione, attenzione fornire, fornire cibo, cibo glutine, glutine dire, dire figlio, figlio ottimo
+814;dire essere, essere perfetto, perfetto anche, anche altro, altro pietanza, pietanza solo, solo pizza, pizza soprattutto, soprattutto dolce
+820;servizio eccellente, eccellente cordiale, cordiale ottimo, ottimo rapporto, rapporto prezzo
+824;bello location, location ambiente, ambiente molto, molto raffinato, raffinato buono, buono accoglienza
+826;dolce ottimo, ottimo qualit
+827;location molto, molto carino, carino finalmente, finalmente ottimo, ottimo menù, menù glutine
+846;perfetto pizza, pizza infrasettimanale, infrasettimanale cena, cena amico, amico sabato, sabato sera, sera anche, anche pranzo, pranzo lavoro, lavoro veloce
+848;arredamento caldo, caldo accogliente, accogliente decidere, decidere scrivere, scrivere opinione, opinione perch, perch sempre, sempre trovare, trovare agio, agio disponibilit, disponibilit cortesia, cortesia personale, personale fatto, fatto gustare, gustare proposta, proposta culinaria, culinaria ottimo, ottimo pizza, pizza importante
+850;apprezzare molto, molto anche, anche fatto, fatto ben, ben attrezzare, attrezzare servire, servire piatto, piatto giusto, giusto anche, anche persona, persona celiache
+852;dimenticare assaggiare, assaggiare potere, potere anche, anche dolce, dolce modo, modo dolce, dolce gustoso, gustoso concludere, concludere passaggio, passaggio ristorante
+859;ottimo pranzo, pranzo abbondante, abbondante soprattutto, soprattutto ottimo, ottimo qualit, qualit anche, anche servizio, servizio perfetto
+862;buono composta, composta frutta, frutta fresco, fresco abbondante, abbondante discreto, discreto dolcetto, dolcetto finale, finale fetta, fetta colombo, colombo artigianale
+871;personale cortese, cortese servizio, servizio veloce
+872;pizza ottimo, ottimo qualita, qualita buono, buono impasto, impasto sottile, sottile ottimo, ottimo condire
+879;cariare locale, locale gentile, gentile personale
+882;locale gradevole, gradevole personale, personale cortese, cortese disponibile, disponibile attento, attento pizza, pizza squisito, squisito preferito, preferito rustico, rustico trevisana, trevisana consigliare, consigliare vivo
+883;week meglio, meglio prenotare, prenotare spesso
+884;perch pizza, pizza essere, essere buono, buono dolce, dolce anche, anche servizio, servizio molto, molto soddisfacente
+890;consiglio deciso, deciso serata, serata buon, buon cibo, cibo compagnia, compagnia anche, anche solo
+893;servizio lodevole, lodevole presente, presente rapido, rapido cortese
+895;personale gentile, gentile accogliente, accogliente servizio, servizio veloce
+896;buono pizza, pizza sottile, sottile leggero, leggero buono, buono dolce
+898;molto buono, buono anche, anche dolce, dolce oggi, oggi crema, crema casa, casa crostata, crostata pasta, pasta meliga, meliga albicocca
+899;birra caff, caff sempre, sempre ottimo
+902;molto variegato, variegato carta, carta ristorante
+904;inoltre essere, essere vero, vero veloce
+906;pizza prima, prima teatro, teatro locale, locale carino, carino personale, personale gentile, gentile servizio, servizio rapido
+915;essere qui, qui sabato, sabato sera, sera amico, amico servizio, servizio ottimo, ottimo essere, essere pieno, pieno cameriere, cameriere gentile
+933;buono accoglienza, accoglienza servizio, servizio buono, buono personale, personale gentile
+935;buono anche, anche altro, altro proposta, proposta pranzo, pranzo secondo
+945;generale molto, molto buono, buono pizza
+950;ottimo scegliere, scegliere pizza, pizza birra
+952;tempo attesa, attesa breve, breve personale, personale gentile
+953;posto piacevole, piacevole ambiente, ambiente sistemazione, sistemazione spazioso, spazioso giusto, giusto personale, personale efficiente
+956;dolce prendere, prendere bonet, bonet anche, anche soddisfare, soddisfare assaggiare, assaggiare dolce, dolce tipico, tipico posto, posto essere, essere molto, molto pi, pi soddisfacente
+958;ambiente conviviale, conviviale perfetto, perfetto passare, passare serata, serata amico
+967;buono qualit, qualit ottimo, ottimo servizio
+970;anche piatto, piatto elaborato, elaborato deciso, deciso valido
+975;servizio veloce, veloce personale, personale gentile, gentile disponibile
+983;raro riuscire, riuscire trovare, trovare pizzeria, pizzeria essere, essere ottimo, ottimo essere, essere pizza, pizza dolce
+985;cena carta, carta variegato, variegato gustoso, gustoso ampio, ampio scelta, scelta pizza
+990;locale carino, carino personale, personale cortese
+1001;pizza ottimo, ottimo servizio, servizio rapido, rapido prezzo, prezzo esorbitante
+1002;locale molto, molto accogliente, accogliente piacevole, piacevole musica, musica sottofondo, sottofondo permettere, permettere parlare, parlare piacevolmente, piacevolmente compagnia
+1003;personale molto, molto gentile, gentile pizza, pizza davvero, davvero buono
+1007;panna cotto, cotto essere, essere estetico, estetico bello, bello ben, ben servire, servire inoltre, inoltre essere, essere davvero, davvero molto, molto buono
+1015;pizza ottimo, ottimo molto, molto curare
+1016;piatto davvero, davvero ampio, ampio gustoso, gustoso ampio, ampio scelta
+1017;buono vino, vino gustoso, gustoso ben, ben servire
+1019;pizzeria ristorante, ristorante personale, personale cortese, cortese servizio, servizio rapido
+1030;servizio veloce, veloce locale, locale molto, molto bello, bello ottimo
+1032;buono dolce, dolce fragola, fragola limone
+1035;mangiare ottimo, ottimo pizza, pizza sottolineare, sottolineare buono, buono dolce
+1036;servizio ottimo, ottimo ottimo, ottimo atmosfera, atmosfera proprietario, proprietario simpaticissimo
+1039;locale carino, carino anche, anche pochino, pochino stretto, stretto serata, serata pieno, pieno pizza, pizza buono, buono sottile, sottile croccante, croccante ben, ben farcire
+1040;locale pò, pò datare, datare personale, personale gentile, gentile veloce
+1042;pizza molto, molto buono, buono cos, cos dolce, dolce particolare, particolare crema, crema pantagruele
+1043;invece cenare, cenare pantagruele, pantagruele ottimo, ottimo pizza, pizza molto, molto digeribile, digeribile anche, anche dolce, dolce essere, essere ottimo, ottimo fresco
+1050;dolce superlativo, superlativo provare, provare mitico, mitico crema, crema pantagruele, pantagruele pannacotta
+1055;famiglia pizza, pizza molto, molto buono, buono anche, anche farinata, farinata dolce
+1056;resto servizio, servizio buono, buono anche, anche molto, molto veloce
+1058;accogliere subito, subito molto, molto bene, bene proprietario, proprietario offrire, offrire focaccia, focaccia casa, casa attesa, attesa ordinazione, ordinazione personale, personale molto, molto cortese, cortese provare, provare pizza, pizza integrale, integrale anche
+1059;consiglio lasciare, lasciare spazietto, spazietto deliziare, deliziare palato, palato dolce, dolce casa, casa crema, crema pantagruele, pantagruele panna, panna cotto
+1061;essere ottimo, ottimo abbondante, abbondante secondo, secondo dolce, dolce essere, essere provare
+1062;servizio veloce, veloce attesa, attesa vero, vero breve, breve molto, molto cordiale
+1064;molto cordiale, cordiale ospitale, ospitale davvero, davvero ottimo, ottimo consiglio, consiglio provare
+1065;buon risorante, risorante ottimo, ottimo scelta, scelta cibo, cibo buon, buon rapporto, rapporto qualità, qualità prezzo
+1067;pizza ottimo, ottimo servizio, servizio veloce, veloce personale, personale disponibile, disponibile cortese, cortese prezzo, prezzo media
+1071;locale molto, molto delizioso, delizioso accogliente
+1072;ottimo pizza, pizza anche, anche secondo, secondo essere, essere meno, meno parlare, parlare dolce
+1075;davvero consigliatissimo, consigliatissimo servizio, servizio ottimo, ottimo trovare, trovare parcheggio, parcheggio davanti, davanti ristorante, ristorante facile
+1080;servizio cortese, cortese professionale, professionale sufficientemente, sufficientemente celere
+1086;locale semplice, semplice comunque, comunque accogliente
+1088;dolce molto, molto buono, buono particolare
+1097;molto positivo, positivo variante, variante birra, birra caraffa, caraffa litro
+1098;molto buono, buono anche, anche caffo
+1099;pizza vero, vero buono, buono servizio, servizio veloce, veloce locale, locale ampio, ampio accogliente, accogliente servizio, servizio igienico, igienico confortevole, confortevole gestore, gestore cameriere, cameriere molto, molto gentile
+1103;personale molto, molto cortese, cortese essere, essere pizza, pizza cucina, cucina essere, essere ottimo, ottimo qualit
+1105;parlare dolce, dolce consiglio, consiglio crema, crema panragruele, panragruele vero, vero proprio, proprio paradiso, paradiso piacere
+1106;personale servizio, servizio cortese, cortese veloce
+1108;unico nota, nota positivo, positivo bello, bello vetrinetta, vetrinetta tipo, tipo alcolico, alcolico posizionare, posizionare sala, sala davvero, davvero molto, molto curato, curato luminoso
+1110;gusto cioccolato, cioccolato essere, essere fantastico, fantastico gelare, gelare cremoso, cremoso tenere, tenere pensare, pensare basso, basso temperatura, temperatura voluto, voluto rimandare, rimandare proprio, proprio idea, idea cioccolato, cioccolato anche, anche consistenza
+1115;ottimo cioccolato, cioccolato fondente, fondente cremare, cremare pistacchio
+1118;ambiente certo, certo accogliente, accogliente salotto, salotto vintage, vintage colore, colore tenue
+1150;locale molto, molto carino, carino ben, ben curare, curare arredamento
+1156;fundo panna, panna capolavoro
+1164;cioccolato cremare, cremare molto, molto buono, buono panna, panna ottimo
+1193;ambiente curato, curato luminoso, luminoso pulito, pulito accogliente
+1316;servizio professionale, professionale disponibile, disponibile gentile, gentile proporre, proporre gusto, gusto assaggiare, assaggiare prima, prima fare, fare gelato, gelato prendere, prendere scelta, scelta migliore, migliore anche, anche turno, turno lavoro, lavoro incasinato
+1325;molto gentile, gentile piccolo, piccolo ristorante
+1329;cura attenzione, attenzione precisione, precisione certosino, certosino gi, gi servizio, servizio esito, esito definire, definire affettuoso, affettuoso presentare, presentare personalmente, personalmente creazione, creazione incutere, incutere certo, certo rispetto, rispetto reverenziale
+1336;scoprire sapore, sapore tradizione, tradizione seguire, seguire principio, principio salute, salute cibo
+1340;davvero cena, cena ricco, ricco unico, unico genere, genere accompagnare, accompagnare servizio, servizio impeccabile
+1346;cibo vegetariano, vegetariano integrale, integrale vero, vero buono
+1354;cucina fantastico, fantastico boccone, boccone boccone, boccone assaporare, assaporare sentire, sentire ingrediente, ingrediente riconoscere
+1356;accogliere grande, grande attenzione, attenzione cura
+1357;freschissimo davvero, davvero molto, molto buono
+1360;simpatico giovanile, giovanile l, l ambiente, ambiente particolare, particolare scelta, scelta men, men tema
+1364;bello localino, localino tavolo, tavolo molto, molto carino, carino ben, ben curare
+1366;cucina ottimo, ottimo livello, livello servizio, servizio attento
+1371;locale indubbio, indubbio caratteristico, caratteristico cos, cos dare, dare pi, pi comprendere, comprendere granch
+1378;buono biologico, biologico scelta, scelta vino
+1380;atmosfera accogliente, accogliente finemente, finemente elegante
+1386;cucina ben, ben fare, fare vero, vero gustoso
+1388;curato originale, originale posto, posto vero, vero affascinante
+1390;delizioso localino, localino rumoroso, rumoroso curare, curare perfezione
+1393;cucina vegana, vegana alto, alto qualit, qualit maestria, maestria grande, grande gentilezza, gentilezza riguardare, riguardare servizio, servizio piccolo, piccolo grande, grande ristorante
+1397;posto accogliente, accogliente persona, persona grande, grande gentilezza, gentilezza soprattutto, soprattutto cucina, cucina straordinario, straordinario curato, curato attento, attento stagione, stagione prodotto, prodotto terra, terra grande, grande conoscenza, conoscenza uso, uso ortaggio, ortaggio anche, anche noto, noto utilizzare
+1404;ottimo esperienza, esperienza anche, anche perch, perch mangiare, mangiare bene, bene stare, stare bene
+1407;essere tutto, tutto perfetto, perfetto locale, locale piacevole, piacevole piccolo, piccolo accogliente, accogliente gentilezza, gentilezza cortesia, cortesia personale, personale sempre, sempre molto, molto attento, attento mai, mai invadente, invadente disponibilit, disponibilit simpatia, simpatia portata, portata spiegare, spiegare piatto, piatto meglio, meglio assaporare, assaporare poi, poi magico, magico portata, portata essere, essere scoperta, scoperta gusto, gusto consistenza, consistenza profumo
+1408;vero eccezionale, eccezionale variet, variet abbinamento, abbinamento miscellanea, miscellanea sapore, sapore fondere, fondere insieme, insieme lasciare, lasciare palato, palato piacevole, piacevole sensazione
+1413;esatto vegetale, vegetale cucina, cucina sano, sano gustoso, gustoso essenza, essenza cibo, cibo copertura, copertura sapore, sapore vero, vero ingrediente, ingrediente edulcorare, edulcorare aroma, aroma esaltatori
+1418;esperienza culinario, culinario alto, alto livello, livello pieno, pieno sorpresa, sorpresa davvero, davvero superlativo
+1421;musica sottofondo, sottofondo ambiente, ambiente filo-francese, filo-francese tavolo, tavolo piccolo, piccolo delicato, delicato tovaglia, tovaglia bianco, bianco cameriere, cameriere mettere, mettere ricordare, ricordare provenza
+1423;ambiente piccolo, piccolo delizioso, delizioso colore, colore tenue, tenue luce, luce soffuso, soffuso abbracciare, abbracciare gentilezza, gentilezza sopraffino, sopraffino pu, pu godere, godere piatto, piatto rivedere, rivedere corretto, corretto rispetto, rispetto corrente, corrente modo, modo cibare
+1427;servizio molto, molto attento, attento gentile, gentile locale, locale piccolo, piccolo ben, ben curare
+1441;materia prima, prima eccellente, eccellente qualit
+1442;ottimo cucina, cucina vegetariano, vegetariano ingrediente, ingrediente selezionato, selezionato presentazione, presentazione ricercato, ricercato rendere, rendere piatto, piatto proporre, proporre leggero, leggero gustoso
+1448;locale molto, molto piccolo, piccolo servizio, servizio cortese
+1453;locale piccolo, piccolo molto, molto gradevole, gradevole avere, avere cucina, cucina vista, vista cosa, cosa ristorante, ristorante permettere
+1457;anche gustare, gustare ottimo, ottimo vino, vino bianco, bianco biologico, biologico essere, essere piu, piu soddisfare, soddisfare scelta, scelta pranzo, pranzo veloce
+1463;parlare tiramis, tiramis fare, fare vero, vero ottimo
+1487;consiglio pausa, pausa pranzo, pranzo gustoso
+1491;pranzo panino, panino volo, volo ideale
+1514;buono cheesecake, cheesecake frutto, frutto bosco
+1518;servizio rapido, rapido impeccabile, impeccabile apprezzare, apprezzare cortesia, cortesia disponibilit, disponibilit ragazzo, ragazzo sala, sala parere, parere capire, capire responsabile, responsabile altro, altro cameriere
+1532;cibo ottimo, ottimo prezzo, prezzo commisurare, commisurare servizio
+1545;servizio stato, stato veloce, veloce cortese
+1550;essere occasione, occasione salone, salone libro, libro trovare, trovare panino, panino giusto, giusto felice, felice soluzione, soluzione pranzo, pranzo veloce, veloce gustoso
+1553;perfetto pranzo, pranzo veloce, veloce sostanzioso
+1558;servizio cordiale, cordiale veloce, veloce guastare, guastare mai
+1560;personale molto, molto gentile, gentile servizio, servizio celere
+1565;affettare fresco, fresco ingrediente, ingrediente ottimo, ottimo qualit, qualit pane, pane morbido, morbido fragrante, fragrante regalare, regalare piacevole, piacevole esperienza, esperienza pur, pur trattare, trattare semplice, semplice panino
+1575;locale carino, carino bello, bello servizio, servizio gentile, gentile veloce
+1578;provare tiramis
+1583;posto estetico, estetico gradevole, gradevole ricco, ricco scelta
+1592;panino molto, molto buono, buono ingrediente, ingrediente qualit, qualit peccato, peccato essere, essere piccolo, piccolo saziare
+1597;ottimo prezzo, prezzo alto, alto essere, essere centro, centro commerciale
+1619;materia prima, prima buono, buono qualit, qualit anche, anche aggiungere, aggiungere piare, piare gusto, gusto frutta
+1652;atmosfera fmiliare, fmiliare buono, buono coniugare, coniugare qualit, qualit eccellente, eccellente prezzo, prezzo contenuto
+1675;gelare genuino, genuino artigianale, artigianale gusto, gusto buon, buon segno, segno frutto, frutto stagione
+1765;locale cariare, cariare molto, molto pulito
+1766;ottimo ingrediente, ingrediente davvero, davvero molto, molto buono
+1783;sabato festa, festa pranzo, pranzo presentare, presentare locale, locale mangiare, mangiare buono, buono carne, carne ben, ben bimbo
+1790;personale gentile, gentile preparato, preparato tempo, tempo attesa, attesa essere, essere accettabile
+1792;location carino, carino caratteristica, caratteristica curare
+1801;personale disponibile, disponibile gentile, gentile veloce
+1807;locale ampio, ampio cariare, cariare pulire
+1811;carne sicuro, sicuro qualit, qualit complesso, complesso eccezionale
+1816;servizio abbastanza, abbastanza veloce, veloce molto, molto conveniente, conveniente menu
+1820;posto giusto, giusto piccolo, piccolo pausa, pausa pranzo, pranzo sacrificare, sacrificare palato
+1823;locale carino, carino anche, anche ben, ben attrezzare, attrezzare bambino
+1831;avere birra, birra glutine, glutine dolce, dolce pane, pane idem, idem personale, personale gentile, gentile locale, locale accogliente
+1833;locale molto, molto cariare, cariare accogliente, accogliente dividere, dividere piano, piano accontentare, accontentare tipo, tipo clientela
+1834;locale molto, molto adatto, adatto cena, cena veloce
+1837;area bimbo, bimbo famiglia, famiglia fondamentale
+1840;locale bello, bello pulito, pulito semplice
+1844;interno piano, piano terra, terra piuttosto, piuttosto piccolo, piccolo piano, piano interrare, interrare piare, piare spazioso, spazioso presente, presente anche, anche piccolo, piccolo area, area bimbo
+1847;buono anche, anche birra, birra artigianale, artigianale proporre, proporre simpatico, simpatico personale, personale giovane, giovane simpatico
+1848;posto piccino, piccino piano, piano superiore, superiore carino, carino ampio, ampio sala, sala sotterraneo, sotterraneo gioco, gioco bimbo, bimbo ideale, ideale famiglia
+1853;servizio essere, essere molto, molto celere, celere essere, essere tutto, tutto squisito
+1854;bello comodo, comodo area, area bimbo, bimbo infatti, infatti bimbo, bimbo mangiare, mangiare buono, buono dedicare, dedicare bambino, bambino divertire, divertire tanto, tanto giocare, giocare area, area preposto, preposto adiacente, adiacente tavolo
+1858;migliore fast, fast food, food citt, citt ottimo, ottimo qualit, qualit cibo, cibo adatto, adatto anche, anche famiglia, famiglia bimbo, bimbo anche, anche divertire, divertire piccolo, piccolo aereo, aereo gioco, gioco dedicare, dedicare unico, unico neo, neo hamburgheria, hamburgheria adatto, adatto bambino, bambino passeggino, passeggino momento, momento accedere, accedere locale, locale essere, essere decina, decina gradino, gradino fare
+1872;ingrediente ottimo, ottimo personale, personale molto, molto gentile, gentile disponibile
+1874;ottimo cucina, cucina qualit, qualit ampio, ampio spazio, spazio anche, anche bimbo
+1876;ottimo carne, carne glia, glia amante, amante pollo, pollo ottimo, ottimo kebabum, kebabum pollo
+1880;patatina perfetto, perfetto appunto, appunto vasto, vasto scelta, scelta salsa, salsa cucina, cucina vista
+1883;essere volta, volta hamburgheria, hamburgheria buono, buono scelta, scelta cibo, cibo qualit, qualit birra, birra artigianale, artigianale buono, buono pane, pane utilizzare, utilizzare media, media carne, carne buono, buono qualit, qualit magari, magari abbondante, abbondante andare, andare bene, bene stesso
+1885;locale presentare, presentare molto, molto accogliente, accogliente pulire, pulire personale, personale accogliente, accogliente gentile
+1895;miglior vita
+1896;ingrediente saporito, saporito qualit, qualit patatina, patatina friggere, friggere perfezione, perfezione piemontese, piemontese vero, vero bont
+1907;locale molto, molto spartano, spartano personale, personale molto, molto gentile
+1908;locale carino, carino arredare, arredare stile, stile moderno
+1910;carne buono, buono qualit, qualit possibilit, possibilit cottura, cottura hoc, hoc ingrediente, ingrediente ottimo, ottimo ampio, ampio scelta, scelta salsa, salsa discreto, discreto completo, completo panino, panino patata, patata bibita, bibita prezzo, prezzo abbordabile
+1915;ottimo pausa, pausa pranzo, pranzo veloce, veloce caro
+1916;gustare ottimo, ottimo panino, panino carne, carne nostrano, nostrano prodotto, prodotto qualit
+1920;carne eccellente, eccellente fattura, fattura formaggio, formaggio gustoso, gustoso verdura, verdura fresco, fresco bibita, bibita rigoroso, rigoroso made, made fare, fare locale, locale punto, punto riferimento, riferimento settore
+1923;ideale pausa, pausa quotidianit, quotidianit frenesia, frenesia cittadino
+1924;provare volta, volta piacere, piacere molto, molto carne, carne ottimo, ottimo saporito, saporito pancetta, pancetta croccante, croccante pane, pane essere, essere soffice, soffice fresco
+1925;anche patatina, patatina fritto, fritto alno, alno molto, molto buono
+1930;meta ideale, ideale pausa, pausa pranzo, pranzo veloce, veloce efficace
+1931;ottimo panino, panino guanciale, guanciale essere, essere buono, buono cottura, cottura essere, essere puntino
+1934;ottimo cercare, cercare pasto, pasto veloce, veloce qualità, qualità accompagnare, accompagnare buono, buono birra
+1943;locale molto, molto elegante, elegante raffinare
+1948;andare mangiare, mangiare pizza, pizza ieri, ieri sera, sera locale, locale raffinato, raffinato cameriere, cameriere molto, molto gentile, gentile seppur, seppur indaffarato
+1954;bello locale, locale ampio, ampio pulito, pulito ordinare, ordinare personale, personale molto, molto gentile, gentile ben, ben disponibile, disponibile richiesta, richiesta cliente
+1963;locale raffinato, raffinato elegante, elegante personale, personale cortese, cortese servizio, servizio eccellente, eccellente ottimo, ottimo rapporto, rapporto qualit, qualit prezzo
+1972;accettare prenotazione, prenotazione solo, solo mezz', mezz' ora, ora prima, prima accogliere, accogliere simpatia, simpatia suggerire, suggerire ottimo, ottimo pizza, pizza giorno, giorno servire, servire tempo, tempo ragionevole, ragionevole pizza, pizza buono, buono molto, molto ricco, ricco condimento
+1979;moderno pizzeria, pizzeria location, location accogliente, accogliente servizo, servizo veloce
+1985;locale piuttosto, piuttosto raffinato, raffinato servizio, servizio preparato, preparato efficiente, efficiente qualit, qualit quantit, quantit cibo, cibo ottimo
+2027;aria condizionato, condizionato possibilit, possibilit seguire, seguire evento, evento sportivo, sportivo servizio, servizio rapido, rapido soddisfacente
+2036;particolare essere, essere celiaco, celiaco sempre, sempre apprezzare, apprezzare qualit, qualit pizza, pizza glutine, glutine sede, sede storico, storico pizzeria, pizzeria bario, bario fornire, fornire servizio
+2047;atmosfera piacevole, piacevole informale, informale comunque, comunque giusto, giusto attenzione, attenzione dettaglio
+2097;locale ampio, ampio servizio, servizio efficiente, efficiente gentile
+2105;locale accogliente, accogliente pulito, pulito luminoso, luminoso personale, personale educare, educare professionale
+2114;locale molto, molto elegante, elegante come, come tradizione, tradizione veronique, veronique personale, personale cortese, cortese simpatico, simpatico grande, grande proprietario, proprietario carlo
+2132;sabato sera, sera porre, porre raffinato, raffinato personale, personale molto, molto cortese, cortese professionale
+2139;carino molto, molto arieggiare, arieggiare verandina, verandina retro, retro adatto, adatto gruppo, gruppo famiglia, famiglia molto, molto numeroso
+2197;locale molto, molto intimo, intimo ben, ben curare, curare personale, personale educare, educare cortese, cortese parlare, parlare buono, buono pizza, pizza base, base integrale, integrale bello, bello vedere, vedere soprattutto, soprattutto mangiare
+2210;pizza integrale, integrale scamorza, scamorza affumicato, affumicato spettacolare, spettacolare ottimo, ottimo anche, anche cozza, cozza marinara, marinara ottimo, ottimo anche, anche dolce, dolce cioccolato, cioccolato pera, pera bravo, bravo tornare
+2229;pizza servire, servire ancora, ancora fumante, fumante tagliere, tagliere legno, legno eccellente, eccellente preparare, preparare ingrediente, ingrediente qualit, qualit leggero, leggero gustoso, gustoso tempo, tempo stesso
+2248;impasto molto, molto morbido, morbido essere, essere bio, bio integrale, integrale servire, servire tagliari, tagliari legno, legno personalmente, personalmente adorare
+2250;parte locale, locale molto, molto grande, grande comodare, comodare parcheggio, parcheggio prezzo, prezzo abbordabile, abbordabile calcolare, calcolare essere, essere centro, centro torino, torino pulito, pulito personale, personale gentile
+2252;punto forza, forza credere, credere essere, essere variet, variet scelta, scelta pizza, pizza anche, anche impasto, impasto integrale, integrale biologico, biologico scelta, scelta rivelare, rivelare buono
+2254;pizza avere, avere ottimo, ottimo sapore, sapore anche, anche maggiormente, maggiormente condire
+2260;buono prezzo, prezzo norma, norma prodotto, prodotto fresco, fresco genuino
+2277;pizza integrale, integrale bufaline, bufaline squisito, squisito ottimo, ottimo impasto, impasto qualit, qualit prodotto
+2282;pizza buono, buono farina, farina bio, bio solo
+2500;pizza dolce, dolce molto, molto buono, buono buon, buon servizio, servizio affollamento
+2501;locale essere, essere molto, molto curare, curare aperto, aperto interno, interno spazio, spazio verandato
+2502;momento difficile, difficile trovare, trovare amicizia, amicizia gentilezza, gentilezza cortesia
+2503;antipasto molto, molto buono, buono pizza, pizza buono, buono dolce, dolce egregio
+2504;ottimo pizza, pizza bassa, bassa come, come tradizione, tradizione barese, barese dolce, dolce qualità
+2505;commensale intollerante, intollerante lattosio, lattosio preparare, preparare antipasto, antipasto dolce, dolce dedicare
+2506;festeggiare mangiare, mangiare delizioso, delizioso antipasto, antipasto pizza, pizza buono, buono dolce, dolce ottimo
+2507;ottimare frittura, frittura pesce, pesce vino, vino dolce
+2508;oggi confermare, confermare pieno, pieno voto, voto quanto, quanto essere, essere grado, grado offrire, offrire eccellente, eccellente pranzo, pranzo antipasto, antipasto dolce
+2509;buono dolce, dolce mandorla, mandorla servire
+2510;dolce frutta, frutta freschissimi
+2511;molto buono, buono dolce, dolce artigianale, artigianale preparare, preparare pasticceria
+2512;dolce provare, provare fetta, fetta torta, torta nocciola, nocciola zabaione, zabaione caldo, caldo delizioso
+2513;finire dolce, dolce nocciola, nocciola crema, crema mascarpone, mascarpone assoluto, assoluto provare
+2514;mangiare benissimo, benissimo locale, locale molto, molto carino, carino accogliente, accogliente personale, personale davvero, davvero gentile, gentile disponibile
+2515;servizio molto, molto cordiale, cordiale accogliente
+2516;proprietario sempre, sempre gentile, gentile cameriere, cameriere disponibile, disponibile particolare, particolare ringraziamento, ringraziamento andare, andare simpatia, simpatia cordialità
+2517;punto vero, vero forza, forza essere, essere posizione, posizione tavolo, tavolo esterno, esterno velocità, velocità pienone, pienone simpatia, simpatia proprietario, proprietario sardo, sardo scoprire, scoprire debole, debole isola, isola popolo, popolo sardo, sardo offrire, offrire ottimo, ottimo mirto
+2518;servizio molto, molto accurato, accurato preciso, preciso cibo, cibo ottimo, ottimo posizione, posizione delizioso
+2519;personale gentile, gentile cortese, cortese cibo, cibo ottimo, ottimo genuino, genuino locale, locale semplice, semplice ben, ben arredare, arredare pulito
+2520;simpatia proprietario, proprietario essere, essere meraviglioso, meraviglioso avere, avere davvero, davvero piacere, piacere stare, stare bene, bene piazza, piazza delizioso, delizioso bontà/qualità, bontà/qualità carne, carne pietanza, pietanza prendere, prendere cottura, cottura sapidità, sapidità tenerezza, tenerezza dimenticare, dimenticare certo
+2521;strepitoso anche, anche dolce, dolce consigliatissimo, consigliatissimo sorbetto, sorbetto mela, mela dolce, dolce tipico, tipico piemontese, piemontese cioccolato
+2522;qualità cortesia, cortesia trovare, trovare locale
+2523;materia primo, primo davvero, davvero qualità, qualità particolare, particolare battuta, battuta carne, carne crudo, crudo essere, essere spettacolare
+2525;proprietario mano, mano molto, molto amichevole, amichevole soprattutto, soprattutto competente
+2526;cena ottimo, ottimo prezzo, prezzo norma
+2527;davvero buono, buono ben, ben presentare, presentare gnocco, gnocco gorgo, gorgo nocciola, nocciola stufato, stufato cinghiale, cinghiale polenta, polenta eccezionale
+2528;accompagnare buon, buon vino, vino rosso, rosso caffè, caffè amaro, amaro gentilmente, gentilmente offerto
+2529;ottimo pranzo, pranzo abbondante, abbondante soprattutto, soprattutto ottimo, ottimo qualità, qualità anche, anche servizio, servizio perfetto
+2530;pranzo scegliere, scegliere menu, menu prodotto, prodotto origine, origine animale
+2531;cibo vegetariano, vegetariano integrale, integrale vero, vero buono
+2532;menù sfizioso, sfizioso solo, solo vegetariano, vegetariano ben, ben fare, fare gustoso
+2533;cibo ricercato, ricercato alimento, alimento qualità
+2534;concept cucina, cucina vegetariano, vegetariano finalmente, finalmente aprire, aprire città, città offrire, offrire attento, attento cura, cura dettaglio, dettaglio cliente
+2535;fantastico carne, carne patito, patito eccellente
+2536;panino carne, carne bovino, bovino piemontese, piemontese molto, molto buono
+2537;locale accogliente, accogliente personale, personale gentile
+2538;bello pasticceria, pasticceria colazione, colazione delizioso, delizioso piacevole, piacevole merenda, merenda comodo, comodo sedere, sedere tavolino
+2539;essere ottimo, ottimo essere, essere ampio, ampio scegliere, scegliere farciture, farciture crema, crema pasticceria, pasticceria pistacchio, pistacchio frutto, frutto bosco, bosco ecc
+2540;conoscere anno, anno storico, storico pasticceria, pasticceria elegante, elegante quartiere
+2541;oltre servire, servire ottimo, ottimo prodotto, prodotto caffetteria, caffetteria grande, grande scelta, scelta pasticceria, pasticceria recentemente, recentemente scoprire, scoprire occasione, occasione festa, festa compleanno
+2542;pasticceria ottimo, ottimo contesto, contesto avere, avere invidiare, invidiare stessi, stessi locale, locale centro, centro anzi, anzi gentilezza, gentilezza cortesia, cortesia anche, anche superiore
+2543;ordinare cornetto, cornetto cioccolato, cioccolato cappuccino
+2544;prendere spesso, spesso caffè, caffè volta, volta fermare, fermare pranzo, pranzo caffè, caffè ottimo, ottimo macchiare, macchiare perfezione
+2545;prodotto fresco, fresco pasticceria, pasticceria cotto, cotto microonda, microonda scongelare, scongelare servizio, servizio veloce, veloce anche, anche locale, locale affollato, affollato caffè, caffè cappuccino, cappuccino ottimo
+2546;cappuccino squisito, squisito fresco, fresco burroso, burroso grande, grande varietà, varietà pasticceria, pasticceria secco
+2547;locale accogliente, accogliente piacevole, piacevole qualità, qualità caffetteria, caffetteria pasta, pasta essere, essere ottimo
+2548;assoluto consigliare, consigliare anche, anche buon, buon caffè
+2549;offrire vasto, vasto varietà, varietà soluzione, soluzione colazione, colazione partire, partire tipo, tipo ripieno, ripieno vetrina, vetrina contenere, contenere selezione, selezione pasticcino, pasticcino pasta, pasta secco
+2550;locale ampio, ampio pulito, pulito molto, molto elegante
+2551;veneziana essere, essere invece, invece più, più leggero, leggero sapore, sapore più, più delicato
+2552;qualità caffè, caffè media
+2553;oggi famiglia, famiglia andare, andare fare, fare colazione, colazione bello, bello bar, bar ordinare, ordinare cappuccino, cappuccino caffè, caffè crema, crema nocciola, nocciola vero, vero speciale
+2554;molto raffinato, raffinato accurato, accurato cibo, cibo essere, essere personale, personale ambiente
+2555;anche torta, torta ben, ben presentare, presentare essere, essere buono, buono scelta, scelta brioches
+2556;poi mangiare, mangiare pesce, pesce avere, avere solo, solo imbarazzo, imbarazzo scelta, scelta freschissimo
+2557;anche carne, carne essere, essere meno, meno maiale, maiale vitello, vitello essere, essere tenero
+2558;antipasto essere, essere buono, buono anche, anche fare, fare bis
+2559;anche secondo, secondo essere, essere buono
+2560;ambiente molto, molto silenzioso, silenzioso ottimo, ottimo cibo, cibo qualità, qualità piatto, piatto menù, menù molto, molto appetire
+2561;inoltre prendere, prendere antipasto, antipasto tipo, tipo carpaccio, carpaccio carne, carne pietanza, pietanza casa, casa abbastanza, abbastanza gradevole
+2562;essere cena, cena ristorante, ristorante famiglia, famiglia locale, locale elegante, elegante proprio, proprio piede, piede offrire, offrire menù, menù particolare, particolare tipico, tipico tradizione, tradizione piemontese, piemontese anche, anche molto, molto particolare, particolare finanziera, finanziera lumaca, lumaca ottimo, ottimo brasato, brasato immancabile, immancabile agnolotto
+2563;essere famiglia, famiglia ristorante, ristorante domenica, domenica pranzo, pranzo essere, essere pranzo, pranzo stupendo, stupendo rilassare, rilassare cibo, cibo essere, essere ottimo, ottimo vista, vista torino, torino essere, essere meraviglioso
+2564;ideale anche, anche famiglia, famiglia bambino, bambino mettere, mettere disposizione, disposizione seggiolino, seggiolino bimbo, bimbo piccolo, piccolo stra, stra comodo
+2565;essere presente, presente piatto, piatto salato, salato antipasto, antipasto secondo, secondo grande, grande varietà, varietà dolce
+2566;conclusione locale, locale familiare, familiare cibo, cibo buono, buono qualità, qualità accompagnare, accompagnare prezzo, prezzo onesto
+2567;ambiente essere, essere accogliente, accogliente familiare
+2568;locale organizzato, organizzato gioco, gioco bambino
+2569;locale carino, carino anche, anche ben, ben attrezzare, attrezzare bambino
+2570;prenotare trascorrere, trascorrere sabato, sabato sera, sera amico, amico considerare, considerare avere, avere bambino, bambino celiaca, celiaca locale, locale avere, avere disposizione, disposizione menù, menù privo, privo glutine
+2571;pizzeria essere, essere perfetto, perfetto ampio, ampio locale, locale tavolo, tavolo personale, personale premuroso, premuroso giardino, giardino molto, molto grande, grande anche, anche parco, parco gioco, gioco bambino
+2572;esterno essere, essere parco, parco gioco, gioco pubblico, pubblico quindi, quindi avere, avere bambini/ragazzi, bambini/ragazzi apprifittarne
+2573;atmosfera caldo, caldo accogliente
+2574;oltre mangiare, mangiare bene, bene servizio, servizio accogliente, accogliente atmosfera, atmosfera molto, molto romantico
+2575;estate terrazzina, terrazzina mare, mare essere, essere davvero, davvero romantico, romantico intimo, intimo anche, anche autunno, autunno inverno, inverno terrazzina, terrazzina coperta, coperta ospitare, ospitare cliente
+2576;atmosfera giusto, giusto serata, serata romantico
+2577;luogo perfetto, perfetto cenetta, cenetta romantico, romantico cuore, cuore antipasto, antipasto eccellente, eccellente secondo, secondo ottimo, ottimo personale, personale gentile, gentile cordiale
+2578;ottimo serata, serata romantico
+2579;consiglio trovare, trovare voglia, voglia trascorrere, trascorrere serata, serata tranquillo, tranquillo locale, locale romantico, romantico accogliente
+2580;adorare atmosfera, atmosfera caldo, caldo romantico, romantico piccolo, piccolo locale, locale pietra, pietra lume, lume candela, candela musica, musica sottofondo
+2581;cucina essere, essere molto, molto vario, vario accurato, accurato servizio, servizio veloce, veloce anche, anche locale, locale essere, essere sempre, sempre pieno, pieno feriale, feriale festivo
+2582;pranzare trattoria, trattoria giorno, giorno feriale, feriale locale, locale essere, essere quasi, quasi pieno, pieno servizio, servizio essere, essere molto, molto veloce, veloce cortese
+2583;serata feriale, feriale cenare, cenare ristorante, ristorante messicano-argentino, messicano-argentino apprezzare, apprezzare buon, buon cibo, cibo proporre, proporre porzione, porzione generoso
+2584;atmosfera particolare, particolare porre, porre piccolo, piccolo giorno, giorno feriale, feriale sedere, sedere pace
+2585;ristorante poco, poco affollato, affollato location, location suggestivo, suggestivo interno, interno soffitto, soffitto parete, parete pietra, pietra arredamento, arredamento gradevole
+2586;prenotare week, week end, end turno, turno creare, creare problema, problema comunque, comunque servire, servire fretta
+2700;dolce frutta, frutta freschissimi
+2701;dolce frutta, frutta freschissimi
+2702;bello pasticceria, pasticceria colazione, colazione delizioso, delizioso piacevole, piacevole merenda, merenda comodo, comodo sedere, sedere tavolino
+2703;bello pasticceria, pasticceria colazione, colazione delizioso, delizioso piacevole, piacevole merenda, merenda comodo, comodo sedere, sedere tavolino
+2704;bello pasticceria, pasticceria colazione, colazione delizioso, delizioso piacevole, piacevole merenda, merenda comodo, comodo sedere, sedere tavolino
+2705;essere ottimo, ottimo essere, essere ampio, ampio scegliere, scegliere farciture, farciture crema, crema pasticceria, pasticceria pistacchio, pistacchio frutto, frutto bosco, bosco ecc
+2706;essere ottimo, ottimo essere, essere ampio, ampio scegliere, scegliere farciture, farciture crema, crema pasticceria, pasticceria pistacchio, pistacchio frutto, frutto bosco, bosco ecc
+2707;essere ottimo, ottimo essere, essere ampio, ampio scegliere, scegliere farciture, farciture crema, crema pasticceria, pasticceria pistacchio, pistacchio frutto, frutto bosco, bosco ecc
+2708;molto buono, buono anche, anche caffo
+2709;molto buono, buono anche, anche caffo
+2710;buono cheesecake, cheesecake frutto, frutto bosco
+2711;buono cheesecake, cheesecake frutto, frutto bosco
+2712;pasticceria ottimo, ottimo contesto, contesto avere, avere invidiare, invidiare stessi, stessi locale, locale centro, centro anzi, anzi gentilezza, gentilezza cortesia, cortesia anche, anche superiore
+2713;pasticceria ottimo, ottimo contesto, contesto avere, avere invidiare, invidiare stessi, stessi locale, locale centro, centro anzi, anzi gentilezza, gentilezza cortesia, cortesia anche, anche superiore
+2714;pasticceria ottimo, ottimo contesto, contesto avere, avere invidiare, invidiare stessi, stessi locale, locale centro, centro anzi, anzi gentilezza, gentilezza cortesia, cortesia anche, anche superiore
+2715;pasticceria ottimo, ottimo contesto, contesto avere, avere invidiare, invidiare stessi, stessi locale, locale centro, centro anzi, anzi gentilezza, gentilezza cortesia, cortesia anche, anche superiore
+2716;cappuccino squisito, squisito fresco, fresco burroso, burroso grande, grande varietà, varietà pasticceria, pasticceria secco
+2717;cappuccino squisito, squisito fresco, fresco burroso, burroso grande, grande varietà, varietà pasticceria, pasticceria secco
+2718;cappuccino squisito, squisito fresco, fresco burroso, burroso grande, grande varietà, varietà pasticceria, pasticceria secco
+2719;ordinare cornetto, cornetto cioccolato, cioccolato cappuccino
+2801;ottimo pranzo, pranzo abbondante, abbondante soprattutto, soprattutto ottimo, ottimo qualità, qualità anche, anche servizio, servizio perfetto
+2802;ottimo pranzo, pranzo abbondante, abbondante soprattutto, soprattutto ottimo, ottimo qualità, qualità anche, anche servizio, servizio perfetto
+2803;ottimo pranzo, pranzo abbondante, abbondante soprattutto, soprattutto ottimo, ottimo qualità, qualità anche, anche servizio, servizio perfetto
+2804;ottimo pranzo, pranzo abbondante, abbondante soprattutto, soprattutto ottimo, ottimo qualità, qualità anche, anche servizio, servizio perfetto
+2805;antipasto essere, essere buono, buono anche, anche fare, fare bis
+2806;molto raffinato, raffinato accurato, accurato cibo, cibo essere, essere personale, personale ambiente
+2807;molto raffinato, raffinato accurato, accurato cibo, cibo essere, essere personale, personale ambiente
+2808;molto raffinato, raffinato accurato, accurato cibo, cibo essere, essere personale, personale ambiente
+2809;cibo servizio, servizio molto, molto buono
+2810;cibo servizio, servizio molto, molto buono
+2811;anche secondo, secondo essere, essere buono
+2812;anche secondo, secondo essere, essere buono
+2813;anche secondo, secondo essere, essere buono
+2814;anche secondo, secondo essere, essere buono
+2815;qualità pulizia, pulizia gentilezza, gentilezza eleganza, eleganza soprattutto, soprattutto bontà, bontà pietanza
+2816;qualità pulizia, pulizia gentilezza, gentilezza eleganza, eleganza soprattutto, soprattutto bontà, bontà pietanza
+2900;ambiente conviviale, conviviale perfetto, perfetto passare, passare serata, serata amico
+2901;ambiente conviviale, conviviale perfetto, perfetto passare, passare serata, serata amico
+2902;ambiente conviviale, conviviale perfetto, perfetto passare, passare serata, serata amico
+2903;ambiente conviviale, conviviale perfetto, perfetto passare, passare serata, serata amico
+2904;ambiente conviviale, conviviale perfetto, perfetto passare, passare serata, serata amico
+2905;consiglio deciso, deciso serata, serata buon, buon cibo, cibo compagnia, compagnia anche, anche solo
+2906;consiglio deciso, deciso serata, serata buon, buon cibo, cibo compagnia, compagnia anche, anche solo
+2907;consiglio deciso, deciso serata, serata buon, buon cibo, cibo compagnia, compagnia anche, anche solo
+2908;pizza estremo, estremo buono, buono servizio, servizio cortese, cortese porre, porre mano, mano informale
+2909;pizza estremo, estremo buono, buono servizio, servizio cortese, cortese porre, porre mano, mano informale
+2910;pizza estremo, estremo buono, buono servizio, servizio cortese, cortese porre, porre mano, mano informale
+2911;aria condizionato, condizionato possibilit, possibilit seguire, seguire evento, evento sportivo, sportivo servizio, servizio rapido, rapido soddisfacente
+2912;aria condizionato, condizionato possibilit, possibilit seguire, seguire evento, evento sportivo, sportivo servizio, servizio rapido, rapido soddisfacente
+2913;aria condizionato, condizionato possibilit, possibilit seguire, seguire evento, evento sportivo, sportivo servizio, servizio rapido, rapido soddisfacente
+2914;ricco scelta, scelta vino, vino birra
+2915;ricco scelta, scelta vino, vino birra
+2916;cena ottimo, ottimo prezzo, prezzo norma
+2917;cena ottimo, ottimo prezzo, prezzo norma
+2918;cena ottimo, ottimo prezzo, prezzo norma
+2919;cena ottimo, ottimo prezzo, prezzo norma
+2920;cena ottimo, ottimo prezzo, prezzo norma
+2921;pizza molto, molto buono, buono servizio, servizio rapido
+2922;pizza molto, molto buono, buono servizio, servizio rapido
+2923;pizza molto, molto buono, buono servizio, servizio rapido
+2924;pizza molto, molto buono, buono servizio, servizio rapido
+2925;pizza estremo, estremo buono, buono servizio, servizio cortese, cortese porre, porre mano, mano informale
+2926;pizza estremo, estremo buono, buono servizio, servizio cortese, cortese porre, porre mano, mano informale
+2927;pizza estremo, estremo buono, buono servizio, servizio cortese, cortese porre, porre mano, mano informale
+2928;pizza estremo, estremo buono, buono servizio, servizio cortese, cortese porre, porre mano, mano informale
+3000;posto raffinato, raffinato personale, personale gentile, gentile preparare
+3001;posto raffinato, raffinato personale, personale gentile, gentile preparare
+3002;posto raffinato, raffinato personale, personale gentile, gentile preparare
+3003;curare minimo, minimo dettaglio, dettaglio intimo, intimo ambiente, ambiente molto, molto pulito, pulito personale, personale sala, sala gentile, gentile proprietario, proprietario accogliere, accogliere sempre, sempre sorriso, sorriso avere, avere particolare, particolare cura, cura cliente, cliente parlare, parlare sushi
+3004;curare minimo, minimo dettaglio, dettaglio intimo, intimo ambiente, ambiente molto, molto pulito, pulito personale, personale sala, sala gentile, gentile proprietario, proprietario accogliere, accogliere sempre, sempre sorriso, sorriso avere, avere particolare, particolare cura, cura cliente, cliente parlare, parlare sushi
+3005;cariare locale, locale molto, molto intimo
+3006;cariare locale, locale molto, molto intimo
+3007;locale davvero, davvero raffinato, raffinato elegante
+3008;locale davvero, davvero raffinato, raffinato elegante
+3009;locale davvero, davvero raffinato, raffinato elegante
+3010;buono anche, anche musica, musica vivo
+3011;buono anche, anche musica, musica vivo
+3012;locale molto, molto elegante, elegante raffinare
+3013;locale molto, molto elegante, elegante raffinare
+3014;locale molto, molto elegante, elegante raffinare
+3015;atmosfera caldo, caldo accogliente
+3016;atmosfera caldo, caldo accogliente
+3017;oltre mangiare, mangiare bene, bene servizio, servizio accogliente, accogliente atmosfera, atmosfera molto, molto romantico
+3018;oltre mangiare, mangiare bene, bene servizio, servizio accogliente, accogliente atmosfera, atmosfera molto, molto romantico
+3019;oltre mangiare, mangiare bene, bene servizio, servizio accogliente, accogliente atmosfera, atmosfera molto, molto romantico
+3020;oltre mangiare, mangiare bene, bene servizio, servizio accogliente, accogliente atmosfera, atmosfera molto, molto romantico
+3021;atmosfera giusto, giusto serata, serata romantico
+3022;atmosfera giusto, giusto serata, serata romantico
+3023;atmosfera giusto, giusto serata, serata romantico
+3024;atmosfera giusto, giusto serata, serata romantico
+3025;ottimo serata, serata romantico
+3026;ottimo serata, serata romantico
+3027;ottimo serata, serata romantico
+3028;ottimo serata, serata romantico
+3029;consiglio trovare, trovare voglia, voglia trascorrere, trascorrere serata, serata tranquillo, tranquillo locale, locale romantico, romantico accogliente
+3030;consiglio trovare, trovare voglia, voglia trascorrere, trascorrere serata, serata tranquillo, tranquillo locale, locale romantico, romantico accogliente
+3031;consiglio trovare, trovare voglia, voglia trascorrere, trascorrere serata, serata tranquillo, tranquillo locale, locale romantico, romantico accogliente
+3032;consiglio trovare, trovare voglia, voglia trascorrere, trascorrere serata, serata tranquillo, tranquillo locale, locale romantico, romantico accogliente
+3033;adorare atmosfera, atmosfera caldo, caldo romantico, romantico piccolo, piccolo locale, locale pietra, pietra lume, lume candela, candela musica, musica sottofondo
+3034;adorare atmosfera, atmosfera caldo, caldo romantico, romantico piccolo, piccolo locale, locale pietra, pietra lume, lume candela, candela musica, musica sottofondo
+3035;adorare atmosfera, atmosfera caldo, caldo romantico, romantico piccolo, piccolo locale, locale pietra, pietra lume, lume candela, candela musica, musica sottofondo
+3036;adorare atmosfera, atmosfera caldo, caldo romantico, romantico piccolo, piccolo locale, locale pietra, pietra lume, lume candela, candela musica, musica sottofondo
+3037;adorare atmosfera, atmosfera caldo, caldo romantico, romantico piccolo, piccolo locale, locale pietra, pietra lume, lume candela, candela musica, musica sottofondo
+3100;bello serata, serata davvero, davvero clima, clima accoglienza, accoglienza familiare
+3101;bello serata, serata davvero, davvero clima, clima accoglienza, accoglienza familiare
+3102;bello serata, serata davvero, davvero clima, clima accoglienza, accoglienza familiare
+3103;locale ampio, ampio molto, molto carino
+3104;locale ampio, ampio molto, molto carino
+3105;davvero consigliatissimo, consigliatissimo servizio, servizio ottimo, ottimo trovare, trovare parcheggio, parcheggio davanti, davanti ristorante, ristorante facile
+3106;davvero consigliatissimo, consigliatissimo servizio, servizio ottimo, ottimo trovare, trovare parcheggio, parcheggio davanti, davanti ristorante, ristorante facile
+3107;atmosfera fmiliare, fmiliare buono, buono coniugare, coniugare qualit, qualit eccellente, eccellente prezzo, prezzo contenuto
+3108;atmosfera fmiliare, fmiliare buono, buono coniugare, coniugare qualit, qualit eccellente, eccellente prezzo, prezzo contenuto
+3109;atmosfera fmiliare, fmiliare buono, buono coniugare, coniugare qualit, qualit eccellente, eccellente prezzo, prezzo contenuto
+3110;atmosfera fmiliare, fmiliare buono, buono coniugare, coniugare qualit, qualit eccellente, eccellente prezzo, prezzo contenuto
+3111;locale carino, carino anche, anche ben, ben attrezzare, attrezzare bambino
+3112;locale carino, carino anche, anche ben, ben attrezzare, attrezzare bambino
+3113;locale carino, carino anche, anche ben, ben attrezzare, attrezzare bambino
+3114;locale carino, carino anche, anche ben, ben attrezzare, attrezzare bambino
+3115;area bimbo, bimbo famiglia, famiglia fondamentale
+3116;area bimbo, bimbo famiglia, famiglia fondamentale
+3117;area bimbo, bimbo famiglia, famiglia fondamentale
+3118;posto piccino, piccino piano, piano superiore, superiore carino, carino ampio, ampio sala, sala sotterraneo, sotterraneo gioco, gioco bimbo, bimbo ideale, ideale famiglia
+3119;posto piccino, piccino piano, piano superiore, superiore carino, carino ampio, ampio sala, sala sotterraneo, sotterraneo gioco, gioco bimbo, bimbo ideale, ideale famiglia
+3120;carino molto, molto arieggiare, arieggiare verandina, verandina retro, retro adatto, adatto gruppo, gruppo famiglia, famiglia molto, molto numeroso
+3121;carino molto, molto arieggiare, arieggiare verandina, verandina retro, retro adatto, adatto gruppo, gruppo famiglia, famiglia molto, molto numeroso
+3122;carino molto, molto arieggiare, arieggiare verandina, verandina retro, retro adatto, adatto gruppo, gruppo famiglia, famiglia molto, molto numeroso
+3123;parte locale, locale molto, molto grande, grande comodare, comodare parcheggio, parcheggio prezzo, prezzo abbordabile, abbordabile calcolare, calcolare essere, essere centro, centro torino, torino pulito, pulito personale, personale gentile
+3124;parte locale, locale molto, molto grande, grande comodare, comodare parcheggio, parcheggio prezzo, prezzo abbordabile, abbordabile calcolare, calcolare essere, essere centro, centro torino, torino pulito, pulito personale, personale gentile
+3125;ideale anche, anche famiglia, famiglia bambino, bambino mettere, mettere disposizione, disposizione seggiolino, seggiolino bimbo, bimbo piccolo, piccolo stra, stra comodo
+3126;ideale anche, anche famiglia, famiglia bambino, bambino mettere, mettere disposizione, disposizione seggiolino, seggiolino bimbo, bimbo piccolo, piccolo stra, stra comodo
+3200;consiglio pausa, pausa pranzo, pranzo gustoso
+3201;consiglio pausa, pausa pranzo, pranzo gustoso
+3202;consiglio pausa, pausa pranzo, pranzo gustoso
+3203;ottimo pausa, pausa pranzo, pranzo veloce, veloce caro
+3204;ottimo pausa, pausa pranzo, pranzo veloce, veloce caro
+3205;ottimo pausa, pausa pranzo, pranzo veloce, veloce caro
+3206;ottimo cercare, cercare pasto, pasto veloce, veloce qualità, qualità accompagnare, accompagnare buono, buono birra
+3207;ottimo cercare, cercare pasto, pasto veloce, veloce qualità, qualità accompagnare, accompagnare buono, buono birra
+3208;esperienza veloce, veloce away, away soluzione, soluzione già, già pronto, pronto portare, portare via, via preparare
+3209;esperienza veloce, veloce away, away soluzione, soluzione già, già pronto, pronto portare, portare via, via preparare
+3210;pranzo panino, panino volo, volo ideale
+3211;pranzo panino, panino volo, volo ideale
+3212;pranzo panino, panino volo, volo ideale
+3213;atmosfera particolare, particolare porre, porre piccolo, piccolo giorno, giorno feriale, feriale sedere, sedere pace
+3214;atmosfera particolare, particolare porre, porre piccolo, piccolo giorno, giorno feriale, feriale sedere, sedere pace
+3215;pranzare trattoria, trattoria giorno, giorno feriale, feriale locale, locale essere, essere quasi, quasi pieno, pieno servizio, servizio essere, essere molto, molto veloce, veloce cortese
+3216;pranzare trattoria, trattoria giorno, giorno feriale, feriale locale, locale essere, essere quasi, quasi pieno, pieno servizio, servizio essere, essere molto, molto veloce, veloce cortese
+3217;perfetto pranzo, pranzo veloce, veloce sostanzioso
+3218;perfetto pranzo, pranzo veloce, veloce sostanzioso
+3219;servizio veloce, veloce attesa, attesa vero, vero breve, breve molto, molto cordiale
+3220;servizio veloce, veloce attesa, attesa vero, vero breve, breve molto, molto cordiale
+3221;settimana servizio, servizio veloce, veloce qualità, qualità eccellente
+3222;settimana servizio, servizio veloce, veloce qualità, qualità eccellente
+3223;settimana servizio, servizio veloce, veloce qualità, qualità eccellente
+3300;prenotare week, week end, end turno, turno creare, creare problema, problema comunque, comunque servire, servire fretta
+3301;prenotare week, week end, end turno, turno creare, creare problema, problema comunque, comunque servire, servire fretta
+3302;prenotare week, week end, end turno, turno creare, creare problema, problema comunque, comunque servire, servire fretta
+3303;prenotare week, week end, end turno, turno creare, creare problema, problema comunque, comunque servire, servire fretta
+3304;essere qui, qui sabato, sabato sera, sera amico, amico servizio, servizio ottimo, ottimo essere, essere pieno, pieno cameriere, cameriere gentile
+3305;essere qui, qui sabato, sabato sera, sera amico, amico servizio, servizio ottimo, ottimo essere, essere pieno, pieno cameriere, cameriere gentile
+3306;essere qui, qui sabato, sabato sera, sera amico, amico servizio, servizio ottimo, ottimo essere, essere pieno, pieno cameriere, cameriere gentile
+3307;essere qui, qui sabato, sabato sera, sera amico, amico servizio, servizio ottimo, ottimo essere, essere pieno, pieno cameriere, cameriere gentile
+3308;sabato festa, festa pranzo, pranzo presentare, presentare locale, locale mangiare, mangiare buono, buono carne, carne ben, ben bimbo
+3309;sabato festa, festa pranzo, pranzo presentare, presentare locale, locale mangiare, mangiare buono, buono carne, carne ben, ben bimbo
+3310;sabato festa, festa pranzo, pranzo presentare, presentare locale, locale mangiare, mangiare buono, buono carne, carne ben, ben bimbo
+3311;sabato festa, festa pranzo, pranzo presentare, presentare locale, locale mangiare, mangiare buono, buono carne, carne ben, ben bimbo
+3500;momento difficile, difficile trovare, trovare amicizia, amicizia gentilezza, gentilezza cortesia
+3501;momento difficile, difficile trovare, trovare amicizia, amicizia gentilezza, gentilezza cortesia
+3502;momento difficile, difficile trovare, trovare amicizia, amicizia gentilezza, gentilezza cortesia
+3503;proprietario mano, mano molto, molto amichevole, amichevole soprattutto, soprattutto competente
+3504;proprietario mano, mano molto, molto amichevole, amichevole soprattutto, soprattutto competente
+3505;proprietario mano, mano molto, molto amichevole, amichevole soprattutto, soprattutto competente
+3506;locale accogliente, accogliente personale, personale gentile
+3507;locale accogliente, accogliente personale, personale gentile
+3700;patatina perfetto, perfetto appunto, appunto vasto, vasto scelta, scelta salsa, salsa cucina, cucina vista
+3701;patatina perfetto, perfetto appunto, appunto vasto, vasto scelta, scelta salsa, salsa cucina, cucina vista
+3702;ottimo carne, carne glia, glia amante, amante pollo, pollo ottimo, ottimo kebabum, kebabum pollo
+3703;ottimo carne, carne glia, glia amante, amante pollo, pollo ottimo, ottimo kebabum, kebabum pollo
+3704;anche patatina, patatina fritto, fritto alno, alno molto, molto buono
+3705;anche patatina, patatina fritto, fritto alno, alno molto, molto buono
+3706;anche patatina, patatina fritto, fritto alno, alno molto, molto buono
+3707;fantastico carne, carne patito, patito eccellente
+3708;fantastico carne, carne patito, patito eccellente
+3709;fantastico carne, carne patito, patito eccellente
+3710;panino carne, carne bovino, bovino piemontese, piemontese molto, molto buono
+3711;panino carne, carne bovino, bovino piemontese, piemontese molto, molto buono
+3712;panino carne, carne bovino, bovino piemontese, piemontese molto, molto buono
+3800;particolare essere, essere celiaco, celiaco sempre, sempre apprezzare, apprezzare qualit, qualit pizza, pizza glutine, glutine sede, sede storico, storico pizzeria, pizzeria bario, bario fornire, fornire servizio
+3801;particolare essere, essere celiaco, celiaco sempre, sempre apprezzare, apprezzare qualit, qualit pizza, pizza glutine, glutine sede, sede storico, storico pizzeria, pizzeria bario, bario fornire, fornire servizio
+3802;particolare essere, essere celiaco, celiaco sempre, sempre apprezzare, apprezzare qualit, qualit pizza, pizza glutine, glutine sede, sede storico, storico pizzeria, pizzeria bario, bario fornire, fornire servizio
+3803;particolare essere, essere celiaco, celiaco sempre, sempre apprezzare, apprezzare qualit, qualit pizza, pizza glutine, glutine sede, sede storico, storico pizzeria, pizzeria bario, bario fornire, fornire servizio
+3804;particolare essere, essere celiaco, celiaco sempre, sempre apprezzare, apprezzare qualit, qualit pizza, pizza glutine, glutine sede, sede storico, storico pizzeria, pizzeria bario, bario fornire, fornire servizio
+3805;pizza integrale, integrale scamorza, scamorza affumicato, affumicato spettacolare, spettacolare ottimo, ottimo anche, anche cozza, cozza marinara, marinara ottimo, ottimo anche, anche dolce, dolce cioccolato, cioccolato pera, pera bravo, bravo tornare
+3806;pizza integrale, integrale scamorza, scamorza affumicato, affumicato spettacolare, spettacolare ottimo, ottimo anche, anche cozza, cozza marinara, marinara ottimo, ottimo anche, anche dolce, dolce cioccolato, cioccolato pera, pera bravo, bravo tornare
+3807;pizza integrale, integrale scamorza, scamorza affumicato, affumicato spettacolare, spettacolare ottimo, ottimo anche, anche cozza, cozza marinara, marinara ottimo, ottimo anche, anche dolce, dolce cioccolato, cioccolato pera, pera bravo, bravo tornare
+3808;pizza integrale, integrale scamorza, scamorza affumicato, affumicato spettacolare, spettacolare ottimo, ottimo anche, anche cozza, cozza marinara, marinara ottimo, ottimo anche, anche dolce, dolce cioccolato, cioccolato pera, pera bravo, bravo tornare
+3809;pizza integrale, integrale scamorza, scamorza affumicato, affumicato spettacolare, spettacolare ottimo, ottimo anche, anche cozza, cozza marinara, marinara ottimo, ottimo anche, anche dolce, dolce cioccolato, cioccolato pera, pera bravo, bravo tornare
+3810;pizza buono, buono farina, farina bio, bio solo
+3811;pizza buono, buono farina, farina bio, bio solo
+3812;pizza buono, buono farina, farina bio, bio solo
+3813;pizza buono, buono farina, farina bio, bio solo
+3814;cibo vegetariano, vegetariano integrale, integrale vero, vero buono
+3815;cibo vegetariano, vegetariano integrale, integrale vero, vero buono
+3816;cibo vegetariano, vegetariano integrale, integrale vero, vero buono
+3817;cibo vegetariano, vegetariano integrale, integrale vero, vero buono

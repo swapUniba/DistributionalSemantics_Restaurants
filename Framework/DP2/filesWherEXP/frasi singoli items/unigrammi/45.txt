@@ -1,0 +1,160 @@
+https://www.yelp.it/biz/pizzeria-pieros-torino;4038;locale, piccolo, super, informale, davvero, carino
+https://www.yelp.it/biz/pizzeria-pieros-torino;4039;buono, pizza, mattone, anche, essere, pò, piccolo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4040;prezzo, onesto, dire, servizio, cortese
+https://www.yelp.it/biz/pizzeria-pieros-torino;4041;buono, anche
+https://www.yelp.it/biz/pizzeria-pieros-torino;4042;cibo, ottimo, locale, carino, arredare, quadro, interessante, parete, cameriere, giovane, efficiente, gentile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4043;fuori, sembrare, menù, particolare, ingrediente, ricercare, tartufo, rendere, locale, speciale
+https://www.yelp.it/biz/pizzeria-pieros-torino;4044;sorpresa, meraviglia, servizio, accurato, elegante, massimo, disponibilità, personale
+https://www.yelp.it/biz/pizzeria-pieros-torino;4045;impressione, ottimo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4046;personale, gentile, preparare
+https://www.yelp.it/biz/pizzeria-pieros-torino;4047;sempre, gentile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4048;grande, peccare, però, essere, lunghissima, attesa, essere, semplicemente, prendere, ordinazione, aspettare, piatto
+https://www.yelp.it/biz/pizzeria-pieros-torino;4049;pizza, buono, parlare, essere, eccezionale, possibile, ordirnarla, modo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4050;quelli, servire, farinata, indimenticabile, fragrante, saporire
+https://www.yelp.it/biz/pizzeria-pieros-torino;4051;volta, particolare, trascurabile, pizza, risultare, perfetto, digestione
+https://www.yelp.it/biz/pizzeria-pieros-torino;4052;ambiente, essere, piacevole, ragazzo, molto, simpatico, prezzo, più, onesto
+https://www.yelp.it/biz/pizzeria-pieros-torino;4053;farinata, davvero, ottimo, migliore
+https://www.yelp.it/biz/pizzeria-pieros-torino;4054;prezzo, contenuto, personale, gentile, simpatico
+https://www.yelp.it/biz/pizzeria-pieros-torino;4055;ottimo, pizza, ottimo, farinata
+https://www.yelp.it/biz/pizzeria-pieros-torino;4056;impasto, asciutto, sapore
+https://www.yelp.it/biz/pizzeria-pieros-torino;4057;pizza, tradizionale, padellino, essere, discreto, farinata, essere, superlativo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4058;luogo, essere, adatto, visitatore, centro, città
+https://www.yelp.it/biz/pizzeria-pieros-torino;4059;servizio, gentile, veloce
+https://www.yelp.it/biz/pizzeria-pieros-torino;4060;rappresentare, ottimo, punto, riferimento, centro, persona, celiache
+https://www.yelp.it/biz/pizzeria-pieros-torino;4061;pizza, tegamino, risultare, buono, magari, rinnovare, pò, parte, dolce
+https://www.yelp.it/biz/pizzeria-pieros-torino;4062;essere, gentile, veloce
+https://www.yelp.it/biz/pizzeria-pieros-torino;4063;servizio, veloce, cortese, prezzo, super, economico, adatto, studente
+https://www.yelp.it/biz/pizzeria-pieros-torino;4064;peccare, personale, davvero, gentile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4065;ottimo, mirto, finale
+https://www.yelp.it/biz/pizzeria-pieros-torino;4066;gentilezza, soprattutto, competenza, personale, essere
+https://www.yelp.it/biz/pizzeria-pieros-torino;4067;qualità, discutibile, pizza, padellino, piccolo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4068;piacere, farinata, pizza, tegamino, rimanere, ampio, soddisfatto
+https://www.yelp.it/biz/pizzeria-pieros-torino;4069;personale, simpatico, deciso, disponibile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4070;personale, accogliente, giovane
+https://www.yelp.it/biz/pizzeria-pieros-torino;4071;essere, locale, trovare, lentezza, semplicità, tanto, tanto, proposta, scadere, qualità, rendere, arduo, divenire, punto, riferimento
+https://www.yelp.it/biz/pizzeria-pieros-torino;4072;media, comunque, soddisfatto
+https://www.yelp.it/biz/pizzeria-pieros-torino;4073;comunque, pizza, é, buono
+https://www.yelp.it/biz/pizzeria-pieros-torino;4074;complesso, locale, discreto, spartano, cariare
+https://www.yelp.it/biz/pizzeria-pieros-torino;4075;bastare, poco, migliorare, molto
+https://www.yelp.it/biz/pizzeria-pieros-torino;4076;piccolo, sorpresa
+https://www.yelp.it/biz/pizzeria-pieros-torino;4077;quindi, nient', affatto, elastico
+https://www.yelp.it/biz/pizzeria-pieros-torino;4078;pizzeria, centro, facile, raggiungere, locale, piccolo, carino
+https://www.yelp.it/biz/pizzeria-pieros-torino;4079;anche, farinata, essere, ottimo, livello
+https://www.yelp.it/biz/pizzeria-pieros-torino;4080;locale, semplice, ragazzo, gentile, simpatico, offrire, servizio, molto, curato
+https://www.yelp.it/biz/pizzeria-pieros-torino;4081;bravo, ragazzo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4082;pizza, glutine, essere, buono
+https://www.yelp.it/biz/pizzeria-pieros-torino;4083;però, complesso, meritare
+https://www.yelp.it/biz/pizzeria-pieros-torino;4084;molto, buono, pizza, tegamino, tanto, gusto, soprattutto, digeribile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4085;gustoso, anche, farinata
+https://www.yelp.it/biz/pizzeria-pieros-torino;4086;prezzo, essere, conveniente, pizza, farinata, semplice
+https://www.yelp.it/biz/pizzeria-pieros-torino;4087;locale, informale, rilassare
+https://www.yelp.it/biz/pizzeria-pieros-torino;4088;parlare, farinata, essere, buono
+https://www.yelp.it/biz/pizzeria-pieros-torino;4089;cariare, informale, centro, torino
+https://www.yelp.it/biz/pizzeria-pieros-torino;4090;menù, vario, interessante
+https://www.yelp.it/biz/pizzeria-pieros-torino;4091;personale, molto, cordiale, servizio, adeguato
+https://www.yelp.it/biz/pizzeria-pieros-torino;4092;punto, tattico, molto, centrale, mangiare, gustoso, veloce, tornare, visitare, splendido, città
+https://www.yelp.it/biz/pizzeria-pieros-torino;4093;locale, cuore, semplice, pretesa, giovanile, abbastanza, pulito
+https://www.yelp.it/biz/pizzeria-pieros-torino;4094;pizza, essere, buono, alto, leggero
+https://www.yelp.it/biz/pizzeria-pieros-torino;4095;potenziale, essere, bastare, poco, ritornare, essere, grazioso, buono, pizzeria, pop
+https://www.yelp.it/biz/pizzeria-pieros-torino;4096;personale, essere, pò, frettoloso, garbato, pizza, essere, media
+https://www.yelp.it/biz/pizzeria-pieros-torino;4097;buono, pizza, tegamino, più, leggero
+https://www.yelp.it/biz/pizzeria-pieros-torino;4098;farinata, ottimo, pizza, padellino, buono, anche, piattino, buono, rapporto, qualità, prezzo, essere, ottimo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4099;gestore, gentile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4100;sempre, aperto
+https://www.yelp.it/biz/pizzeria-pieros-torino;4101;farinata, essere, buono
+https://www.yelp.it/biz/pizzeria-pieros-torino;4102;conoscere, anno, fa, università, luogo, tornare, sempre, molto, volentieri
+https://www.yelp.it/biz/pizzeria-pieros-torino;4103;molto, buono
+https://www.yelp.it/biz/pizzeria-pieros-torino;4104;locale, spartano, adatto, cena, informale, veloce, vicino, centro
+https://www.yelp.it/biz/pizzeria-pieros-torino;4105;ragazzo, tavolo, ameno, essere, gentile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4106;farinata, iniziale, davvero, gradito, pizza, essere, leggero, digeribile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4107;cameriere, gentile, anche, proprietario, essere, disponibile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4108;voto, essere, ottimo, proporre, confezionare
+https://www.yelp.it/biz/pizzeria-pieros-torino;4109;pò, piú, attenzione, dettaglio, sorriso, più, rilassare, guastare
+https://www.yelp.it/biz/pizzeria-pieros-torino;4110;ottimare, proposta, piccolo, accogliente, locale, croccante, saporire, punto, giusto
+https://www.yelp.it/biz/pizzeria-pieros-torino;4111;gustare, semplice, arrichita, salume, prosciutto, crudo, cuocere, lardo, soppressata, formaggio, gorgonzola, stracchino
+https://www.yelp.it/biz/pizzeria-pieros-torino;4112;accoppiamento, buono
+https://www.yelp.it/biz/pizzeria-pieros-torino;4113;buono, anche, farinata
+https://www.yelp.it/biz/pizzeria-pieros-torino;4114;posticino, tranquillo, molto, accogliente
+https://www.yelp.it/biz/pizzeria-pieros-torino;4115;personale, giovanile, cordiale
+https://www.yelp.it/biz/pizzeria-pieros-torino;4116;ottimare, farinata, molto, buono, anche, pizza
+https://www.yelp.it/biz/pizzeria-pieros-torino;4117;dolce, piacevole, ben, costruire
+https://www.yelp.it/biz/pizzeria-pieros-torino;4118;coerente, risultare, divertente
+https://www.yelp.it/biz/pizzeria-pieros-torino;4119;posto, carino, molto, stretto
+https://www.yelp.it/biz/pizzeria-pieros-torino;4120;essere, buono
+https://www.yelp.it/biz/pizzeria-pieros-torino;4121;saporito, gustoso
+https://www.yelp.it/biz/pizzeria-pieros-torino;4122;pizza, normale, anche, accettabile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4123;vicino, centro, ottimo, qualità, pizza, conto, assoluto, abbordabile, guastare, mai, buono, anche, birra, gentile, cameriere
+https://www.yelp.it/biz/pizzeria-pieros-torino;4124;ottimo, rapporto, qualità/prezzo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4125;personale, simpaticissimo, prezzo, abbordabile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4126;perfetto, sempre
+https://www.yelp.it/biz/pizzeria-pieros-torino;4127;ottimo, posto, pranzo, cena, mangiare, ottimo, pizza, padellino, davvero, ben, cuocere, avere, sensibilità, aggiungere, elemento, solo, cottura
+https://www.yelp.it/biz/pizzeria-pieros-torino;4128;servizio, ottimo, anche, semplice, veloce, attenzione
+https://www.yelp.it/biz/pizzeria-pieros-torino;4129;assoluto, consigliabile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4130;buon, posto, pizza, padellino, veloce, ottimo, farinata, adatto, anche, celiaci
+https://www.yelp.it/biz/pizzeria-pieros-torino;4131;pizza, padellino, impasto, atipico, incontrare, gusto
+https://www.yelp.it/biz/pizzeria-pieros-torino;4132;cosa, essere, pizza, essere, eccezionale, gusto, farinata, forse, migliore
+https://www.yelp.it/biz/pizzeria-pieros-torino;4133;personale, giovane, simpatico, ambiente, accogliente, fronzolo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4134;ottimo, anche, prezzo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4135;servizio, essere, gentile, lento
+https://www.yelp.it/biz/pizzeria-pieros-torino;4136;servizio, approssimativo, disinteressato, lento, buono, farinata
+https://www.yelp.it/biz/pizzeria-pieros-torino;4137;propietari, simpatico, locale, spartano, accogliente
+https://www.yelp.it/biz/pizzeria-pieros-torino;4138;anche, farinata, semplice, accompagnare, essere, sempre, buono
+https://www.yelp.it/biz/pizzeria-pieros-torino;4139;anno, riuscire, trovare, farinata, davvero, buono, pizza, padellino, altrettanto, gustoso, glutine
+https://www.yelp.it/biz/pizzeria-pieros-torino;4140;atmosfera, essere, via, mezzo, bistrare, pub, molto, semplice, ideale, pasto, informale, anche, piuttosto, rapido
+https://www.yelp.it/biz/pizzeria-pieros-torino;4141;personale, essere, molto, disponibile, servizio, abbastanza, veloce
+https://www.yelp.it/biz/pizzeria-pieros-torino;4142;consiglio, provare, essere, vero, buono
+https://www.yelp.it/biz/pizzeria-pieros-torino;4143;pizza, anche, eccellente, cottura, perfetto, consistenza, forse, unico, pecca, po, piccolo, essere, più, spesso, normale, fine, sazio, comunque
+https://www.yelp.it/biz/pizzeria-pieros-torino;4144;ottimo, anche, celiaci
+https://www.yelp.it/biz/pizzeria-pieros-torino;4145;farinata, essere, molto, buono, croccante, essere, sopra
+https://www.yelp.it/biz/pizzeria-pieros-torino;4146;ottimo, farinata, servizio, semplice, cortese
+https://www.yelp.it/biz/pizzeria-pieros-torino;4147;anche, farinata, strepitoso
+https://www.yelp.it/biz/pizzeria-pieros-torino;4148;impasto, pizza, essere, molto, buono, unico, cosa, essere, dimensione
+https://www.yelp.it/biz/pizzeria-pieros-torino;4149;pizza, essere, molto, buono, soprattutto, ingrediente, essere, qualità
+https://www.yelp.it/biz/pizzeria-pieros-torino;4150;pizza, molto, saporito, ambiente, molto, carino
+https://www.yelp.it/biz/pizzeria-pieros-torino;4151;piacere, essere, rapporto, qualità, prezzo, mto, vantaggioso, attenzione, esigenza, celiaci, pizza, glutine, ambiente, vecchio, pò, unto, genuino
+https://www.yelp.it/biz/pizzeria-pieros-torino;4152;proprietario, essere, ragazzo, giovane, apparenza, irriverente, realtà, mto, simpatico, gentile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4153;pizza, sempre, molto, buono, farinata, ottimo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4154;anche, pizza, celiaci, essere, ottimo, vero, minimo, differenza, tradizionale
+https://www.yelp.it/biz/pizzeria-pieros-torino;4155;posizione, comodo, personale, molto, gentile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4156;pizza, tegamino, buono
+https://www.yelp.it/biz/pizzeria-pieros-torino;4157;farinata, lardo, arnad, meritare, assaggio
+https://www.yelp.it/biz/pizzeria-pieros-torino;4158;ottimare, pizza, padellino
+https://www.yelp.it/biz/pizzeria-pieros-torino;4159;diametro, contenuto, bello, alto, tradizione, napoletano, prevedere, davvero, molto, buono, leggero, saporire, stesso, tempo, accompagnare, ovvio, bello, birrozza, assoluto, onesto, riguardare, pizza, bere
+https://www.yelp.it/biz/pizzeria-pieros-torino;4160;bello, esposizione, quadro, parete, tocco, più, locale, mano, punto, giusto
+https://www.yelp.it/biz/pizzeria-pieros-torino;4161;pizza, tegamino, qui, essere, molto, buono, come, resto, anche, farinata, però, locale
+https://www.yelp.it/biz/pizzeria-pieros-torino;4162;farinata, buono, buono, ungere, pizza, tegamino, sembrare, friggere
+https://www.yelp.it/biz/pizzeria-pieros-torino;4163;pizza, padellino, molto, buono, pò, più, grande, normale, molto, buono, anche, farinata, pizza, glutine
+https://www.yelp.it/biz/pizzeria-pieros-torino;4164;locale, essere, buono, maso, mangiare, bene
+https://www.yelp.it/biz/pizzeria-pieros-torino;4165;molto, buono, farinata, croccante, morbido
+https://www.yelp.it/biz/pizzeria-pieros-torino;4166;complesso, però, accettabile, tipo, serata
+https://www.yelp.it/biz/pizzeria-pieros-torino;4167;avvenire, essere, buono, norma, regola, offrire, tipo, risarcimento, mancato, servizio
+https://www.yelp.it/biz/pizzeria-pieros-torino;4168;concludere, amare, buono, farinata, pizza, padellino, andateci
+https://www.yelp.it/biz/pizzeria-pieros-torino;4169;farinata, saporire
+https://www.yelp.it/biz/pizzeria-pieros-torino;4170;stessa, pizza, tegamino, essere, abbastanza, piccolo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4171;pasta, saporito, croccante, punto, giusto
+https://www.yelp.it/biz/pizzeria-pieros-torino;4172;posto, essere, particolarmente, degno, nota, personale, essere, molto, gentile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4173;personale, essere, gentile, pò, musone
+https://www.yelp.it/biz/pizzeria-pieros-torino;4174;consiglio, sorridere, pò, più, così, anche, cliente, sentire, meglio
+https://www.yelp.it/biz/pizzeria-pieros-torino;4175;posto, spartano, assoluto, verace
+https://www.yelp.it/biz/pizzeria-pieros-torino;4176;posto, essere, carino, piccino, abbastanza, accogliente, quadro, muro, essere, vendita, tavola, sedia, tovagliolo, lasciare, pò, desiderare
+https://www.yelp.it/biz/pizzeria-pieros-torino;4177;atmosfera, informale, servizio, volta, lento, cameriere, sorridere, po, più
+https://www.yelp.it/biz/pizzeria-pieros-torino;4178;locale, essere, pieno, centro, via, tranquillo, atmosfera, essere, informale, proprietario, gentile, servizio, rapido
+https://www.yelp.it/biz/pizzeria-pieros-torino;4179;pizza, padellino, essere, buono, focaccia, ripieno, anche, farinata, essere, davvero, superbo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4180;pizza, tegamino, essere, ottimo, qualità, digeribilita, gusto, distinguere, pizza, mattone, anche, altro, pizza, tegamino
+https://www.yelp.it/biz/pizzeria-pieros-torino;4181;notevole, farinata, migliore
+https://www.yelp.it/biz/pizzeria-pieros-torino;4182;ottimare, accoglienza, servizio, cibo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4183;molto, buono, anche, rapporto, qualità/prezzo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4184;essere, pò, più, motivato, mettere, pò, più, entusiamo, lavoro, accoglienza, cliente
+https://www.yelp.it/biz/pizzeria-pieros-torino;4185;vedere, comunque, critica, costruttivo, punto, vista
+https://www.yelp.it/biz/pizzeria-pieros-torino;4186;pizza, tegamino, essere, sempre, molto, buono, ingrediente, essere, qualità, farinata, essere, davvero, speciale
+https://www.yelp.it/biz/pizzeria-pieros-torino;4187;resto, essere, sempre, molto, gentile, veloce, servire, tavolo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4188;bello, stagione, mangiare, dehor, esterno
+https://www.yelp.it/biz/pizzeria-pieros-torino;4189;farinatà, essere, migliore, migliore, trovare, città
+https://www.yelp.it/biz/pizzeria-pieros-torino;4190;anche, pizza, tegamino, essere, massimo, livello
+https://www.yelp.it/biz/pizzeria-pieros-torino;4191;servizio, essere, veloce, gestore, essere, molto, gentile
+https://www.yelp.it/biz/pizzeria-pieros-torino;4192;ideale, mangiare, buono, pizza, padellino, ottimo, farinata, buon, prezzo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4193;ambiente, semplice, gestore, gentile, ideale, mangiare, bene, semplicemente, buon, prezzo
+https://www.yelp.it/biz/pizzeria-pieros-torino;4194;anche, server, parlare, molto, inglese, avere, menu, inglese, essere, piacevole
+https://www.yelp.it/biz/pizzeria-pieros-torino;4195;pizza, essere, delizioso, avere, anche, opzione, glutine
+https://www.yelp.it/biz/pizzeria-pieros-torino;4196;naturalmente, farinata, essere, delizioso, bene
+https://www.yelp.it/biz/pizzeria-pieros-torino;4197;prezzo, essere, molto, ragionevole, circa

@@ -1,0 +1,36 @@
+https://www.yelp.it/biz/timeout-bari;8314;bravo, ragazzo, prossimo, bravo ragazzo, ragazzo prossimo
+https://www.yelp.it/biz/timeout-bari;8315;adatto, anche, famiglia, bambino, adatto anche, anche famiglia, famiglia bambino
+https://www.yelp.it/biz/timeout-bari;8316;posto, cibo, qualità, ottimo, posto cibo, cibo qualità, qualità ottimo
+https://www.yelp.it/biz/timeout-bari;8317;sapore, panino, essere, eccezionale, rispettare, sapore panino, panino essere, essere eccezionale, eccezionale rispettare
+https://www.yelp.it/biz/timeout-bari;8318;piacevole, trascorrere, serata, diverso, compagnia, anche, sport, diretto, tv, piacevole trascorrere, trascorrere serata, serata diverso, diverso compagnia, compagnia anche, anche sport, sport diretto, diretto tv
+https://www.yelp.it/biz/timeout-bari;8319;dolce, servire, dolce servire
+https://www.yelp.it/biz/timeout-bari;8320;molto, caratteristico, tema, sport, molto caratteristico, caratteristico tema, tema sport
+https://www.yelp.it/biz/timeout-bari;8321;essere, spazioso, accogliente, essere spazioso, spazioso accogliente
+https://www.yelp.it/biz/timeout-bari;8322;buon, posto, mangiare, vedere, sport, buon posto, posto mangiare, mangiare vedere, vedere sport
+https://www.yelp.it/biz/timeout-bari;8323;comunque, abbastanza, buono, cibo, comunque abbastanza, abbastanza buono, buono cibo
+https://www.yelp.it/biz/timeout-bari;8324;salsa, molto, buono, menù, ricco, salsa molto, molto buono, buono menù, menù ricco
+https://www.yelp.it/biz/timeout-bari;8325;dire, panino, perfetto, dire panino, panino perfetto
+https://www.yelp.it/biz/timeout-bari;8326;servizio, essere, impeccabile, sempre, disponibile, panino, insalata, ottimo, qualità, servizio essere, essere impeccabile, impeccabile sempre, sempre disponibile, disponibile panino, panino insalata, insalata ottimo, ottimo qualità
+https://www.yelp.it/biz/timeout-bari;8327;rapporto, qualità, prezzo, essere, giusto, rapporto qualità, qualità prezzo, prezzo essere, essere giusto
+https://www.yelp.it/biz/timeout-bari;8328;bravo, ragazzo, servizio, tavolo, bravo ragazzo, ragazzo servizio, servizio tavolo
+https://www.yelp.it/biz/timeout-bari;8329;grande, merito, andare, servizio, veloce, professionale, grande merito, merito andare, andare servizio, servizio veloce, veloce professionale
+https://www.yelp.it/biz/timeout-bari;8330;vero, ottimo, idea, diverso, altro, locale, vero ottimo, ottimo idea, idea diverso, diverso altro, altro locale
+https://www.yelp.it/biz/timeout-bari;8331;locale, atmosfera, regalare, partita, emozionante, locale atmosfera, atmosfera regalare, regalare partita, partita emozionante
+https://www.yelp.it/biz/timeout-bari;8332;pane, poco, friabile, pane poco, poco friabile
+https://www.yelp.it/biz/timeout-bari;8333;essere, provare, consigliatissimo, eccellente, essere provare, provare consigliatissimo, consigliatissimo eccellente
+https://www.yelp.it/biz/timeout-bari;8334;locale, essere, molto, accogliente, locale essere, essere molto, molto accogliente
+https://www.yelp.it/biz/timeout-bari;8335;deciso, troppo, qualità, servizio, deciso troppo, troppo qualità, qualità servizio
+https://www.yelp.it/biz/timeout-bari;8336;locale, bello, locale bello
+https://www.yelp.it/biz/timeout-bari;8337;qualità, ottimo, qualità ottimo
+https://www.yelp.it/biz/timeout-bari;8338;resto, positivo, resto positivo
+https://www.yelp.it/biz/timeout-bari;8339;personale, gentile, personale gentile
+https://www.yelp.it/biz/timeout-bari;8340;molto, buono, però, molto buono, buono però
+https://www.yelp.it/biz/timeout-bari;8341;servizio, veloce, personale, cordiale, servizio veloce, veloce personale, personale cordiale
+https://www.yelp.it/biz/timeout-bari;8342;cibo, ottimo, perfetto, rapporto, qualità, prezzo, cibo ottimo, ottimo perfetto, perfetto rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/timeout-bari;8343;dire, davvero, eccezionale, dire davvero, davvero eccezionale
+https://www.yelp.it/biz/timeout-bari;8344;partita, però, molto, bello, tv, angolo, audio, bello, forte, partita però, però molto, molto bello, bello tv, tv angolo, angolo audio, audio bello, bello forte
+https://www.yelp.it/biz/timeout-bari;8345;posto, essere, bello, posto essere, essere bello
+https://www.yelp.it/biz/timeout-bari;8346;cibo, essere, buono, cibo essere, essere buono
+https://www.yelp.it/biz/timeout-bari;8347;favola, finire, pezzo, favola finire, finire pezzo
+https://www.yelp.it/biz/timeout-bari;8348;buono, pizza, buono pizza
+https://www.yelp.it/biz/timeout-bari;8349;personale, simpatia, accogliente, personale simpatia, simpatia accogliente

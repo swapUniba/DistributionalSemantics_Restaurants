@@ -1,0 +1,39 @@
+https://www.yelp.it/biz/shizen-torino;9807;cibo, ottimo, gusto, delicato, cibo ottimo, ottimo gusto, gusto delicato
+https://www.yelp.it/biz/shizen-torino;9808;buono, carta, vino, buono carta, carta vino
+https://www.yelp.it/biz/shizen-torino;9809;molto, carino, anche, bambino, molto carino, carino anche, anche bambino
+https://www.yelp.it/biz/shizen-torino;9810;buono, vero, tanto, fantasia, buono vero, vero tanto, tanto fantasia
+https://www.yelp.it/biz/shizen-torino;9811;presentazione, gradevole, piatto, presentazione gradevole, gradevole piatto
+https://www.yelp.it/biz/shizen-torino;9812;professionale, gentile, competente, professionale gentile, gentile competente
+https://www.yelp.it/biz/shizen-torino;9813;menù, davvero, esteso, buono, carta, vino, eccellente, menù davvero, davvero esteso, esteso buono, buono carta, carta vino, vino eccellente
+https://www.yelp.it/biz/shizen-torino;9814;piatto, avere, sapore, unico, essere, molto, particolare, piatto avere, avere sapore, sapore unico, unico essere, essere molto, molto particolare
+https://www.yelp.it/biz/shizen-torino;9815;anzi, giapponese, buono, anzi giapponese, giapponese buono
+https://www.yelp.it/biz/shizen-torino;9816;buono, scelta, vino, buono scelta, scelta vino
+https://www.yelp.it/biz/shizen-torino;9817;qualità, ottimo, piatto, tipico, curato, ben, presentare, qualità ottimo, ottimo piatto, piatto tipico, tipico curato, curato ben, ben presentare
+https://www.yelp.it/biz/shizen-torino;9818;qualità, originalità, ottimo, servizio, bello, location, qualità originalità, originalità ottimo, ottimo servizio, servizio bello, bello location
+https://www.yelp.it/biz/shizen-torino;9819;cibo, essere, sempre, buono, cibo essere, essere sempre, sempre buono
+https://www.yelp.it/biz/shizen-torino;9820;bravo, davvero, bravo davvero
+https://www.yelp.it/biz/shizen-torino;9821;conto, deciso, caro, conto deciso, deciso caro
+https://www.yelp.it/biz/shizen-torino;9822;livello, eccellente, gusto, vista, livello eccellente, eccellente gusto, gusto vista
+https://www.yelp.it/biz/shizen-torino;9823;anche, scelta, vino, essere, abbondante, anche scelta, scelta vino, vino essere, essere abbondante
+https://www.yelp.it/biz/shizen-torino;9824;ambiente, ricercare, elegante, ambiente ricercare, ricercare elegante
+https://www.yelp.it/biz/shizen-torino;9825;servizio, buono, servizio buono
+https://www.yelp.it/biz/shizen-torino;9826;portare, particolarmente, ricercare, portare particolarmente, particolarmente ricercare
+https://www.yelp.it/biz/shizen-torino;9827;personale, gentile, personale gentile
+https://www.yelp.it/biz/shizen-torino;9828;buon, cibo, bello, ristorante, ottimo, personale, buon cibo, cibo bello, bello ristorante, ristorante ottimo, ottimo personale
+https://www.yelp.it/biz/shizen-torino;9829;molto, consigliare, molto consigliare
+https://www.yelp.it/biz/shizen-torino;9830;semplicemente, perfetto, presentazione, alto, qualità, ingrediente, semplicemente perfetto, perfetto presentazione, presentazione alto, alto qualità, qualità ingrediente
+https://www.yelp.it/biz/shizen-torino;9831;buono, personale, sempre, cordiale, location, molto, raffinato, buono personale, personale sempre, sempre cordiale, cordiale location, location molto, molto raffinato
+https://www.yelp.it/biz/shizen-torino;9832;davvero, bravo, davvero bravo
+https://www.yelp.it/biz/shizen-torino;9833;cena, davvero, ottimo, visita, cena davvero, davvero ottimo, ottimo visita
+https://www.yelp.it/biz/shizen-torino;9834;bravo, bravo, bravo bravo
+https://www.yelp.it/biz/shizen-torino;9835;buono, però, buono però
+https://www.yelp.it/biz/shizen-torino;9836;cucina, ottimo, servizio, pronto, cortese, cucina ottimo, ottimo servizio, servizio pronto, pronto cortese
+https://www.yelp.it/biz/shizen-torino;9837;servizio, essere, ottimo, servizio essere, essere ottimo
+https://www.yelp.it/biz/shizen-torino;9838;carta, vino, molto, appropriato, carta vino, vino molto, molto appropriato
+https://www.yelp.it/biz/shizen-torino;9839;prezzo, po, alto, prezzo po, po alto
+https://www.yelp.it/biz/shizen-torino;9840;continuare, così, continuare così
+https://www.yelp.it/biz/shizen-torino;9841;clientela, serio, vedere, locale, molto, importante, clientela serio, serio vedere, vedere locale, locale molto, molto importante
+https://www.yelp.it/biz/shizen-torino;9842;ottimo, piatto, ben, impiattati, grande, materia, primo, alto, qualità, ottimo piatto, piatto ben, ben impiattati, impiattati grande, grande materia, materia primo, primo alto, alto qualità
+https://www.yelp.it/biz/shizen-torino;9843;locale, molto, cariare, personale, gentile, disponibile, locale molto, molto cariare, cariare personale, personale gentile, gentile disponibile
+https://www.yelp.it/biz/shizen-torino;9844;incredibilmente, veloce, incredibilmente veloce
+https://www.yelp.it/biz/shizen-torino;9845;qualità, prodotto, essere, eccellente, qualità prodotto, prodotto essere, essere eccellente

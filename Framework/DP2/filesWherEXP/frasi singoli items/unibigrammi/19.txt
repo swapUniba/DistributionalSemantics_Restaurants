@@ -1,0 +1,43 @@
+https://www.yelp.it/biz/kyoto-torino;2102;accoglienza, cordiale, personale, gentile, accoglienza cordiale, cordiale personale, personale gentile
+https://www.yelp.it/biz/kyoto-torino;2103;resto, molto, buono, spiedino, pollo, generale, gusto, cibo, essere, gradevole, resto molto, molto buono, buono spiedino, spiedino pollo, pollo generale, generale gusto, gusto cibo, cibo essere, essere gradevole
+https://www.yelp.it/biz/kyoto-torino;2104;cibo, ottimo, menu, offrire, tanto, servizio, magnifico, cibo ottimo, ottimo menu, menu offrire, offrire tanto, tanto servizio, servizio magnifico
+https://www.yelp.it/biz/kyoto-torino;2105;consiglio, assoluto, consiglio assoluto
+https://www.yelp.it/biz/kyoto-torino;2106;ideale, cenetta, romantaica, ideale cenetta, cenetta romantaica
+https://www.yelp.it/biz/kyoto-torino;2107;molto, buono, molto, gentile, molto, disponibile, molto buono, buono molto, molto gentile, gentile molto, molto disponibile
+https://www.yelp.it/biz/kyoto-torino;2108;generale, completo, soddisfare, generale completo, completo soddisfare
+https://www.yelp.it/biz/kyoto-torino;2109;servizio, veloce, cortese, servizio veloce, veloce cortese
+https://www.yelp.it/biz/kyoto-torino;2110;ottimo, sushi, ottimo sushi
+https://www.yelp.it/biz/kyoto-torino;2111;buon, menù, buon menù
+https://www.yelp.it/biz/kyoto-torino;2112;rapporto, qualità, prezzo, corretto, rapporto qualità, qualità prezzo, prezzo corretto
+https://www.yelp.it/biz/kyoto-torino;2113;personale, cortese, sorridente, attento, personale cortese, cortese sorridente, sorridente attento
+https://www.yelp.it/biz/kyoto-torino;2114;prezzo, imbattibile, prezzo imbattibile
+https://www.yelp.it/biz/kyoto-torino;2115;buono, servizio, impeccabile, veloce, buono servizio, servizio impeccabile, impeccabile veloce
+https://www.yelp.it/biz/kyoto-torino;2116;essere, pranzo, cena, consiglio, essere pranzo, pranzo cena, cena consiglio
+https://www.yelp.it/biz/kyoto-torino;2117;po, scarno, po scarno
+https://www.yelp.it/biz/kyoto-torino;2118;personale, cortese, personale cortese
+https://www.yelp.it/biz/kyoto-torino;2119;menù, can, vero, menù can, can vero
+https://www.yelp.it/biz/kyoto-torino;2120;personale, proprietà, gentile, personale proprietà, proprietà gentile
+https://www.yelp.it/biz/kyoto-torino;2121;dire, perfetto, dire perfetto
+https://www.yelp.it/biz/kyoto-torino;2122;sempre, trovare, bene, sempre trovare, trovare bene
+https://www.yelp.it/biz/kyoto-torino;2123;pesce, ridere, ottimo, qualità, pesce ridere, ridere ottimo, ottimo qualità
+https://www.yelp.it/biz/kyoto-torino;2124;personale, davvero, gentile, padrone, casa, cameriere, personale davvero, davvero gentile, gentile padrone, padrone casa, casa cameriere
+https://www.yelp.it/biz/kyoto-torino;2125;servizio, veloce, cameriere, abbastanza, gentile, servizio veloce, veloce cameriere, cameriere abbastanza, abbastanza gentile
+https://www.yelp.it/biz/kyoto-torino;2126;personale, essere, sempre, molto, cortese, disponibile, personale essere, essere sempre, sempre molto, molto cortese, cortese disponibile
+https://www.yelp.it/biz/kyoto-torino;2127;personale, essere, sorridente, disponibile, sapere, funzione, menù, essere, pronto, spiegare, personale essere, essere sorridente, sorridente disponibile, disponibile sapere, sapere funzione, funzione menù, menù essere, essere pronto, pronto spiegare
+https://www.yelp.it/biz/kyoto-torino;2128;ovvio, piacere, tipo, cucina, ovvio piacere, piacere tipo, tipo cucina
+https://www.yelp.it/biz/kyoto-torino;2129;cortese, gentile, titolare, cortese gentile, gentile titolare
+https://www.yelp.it/biz/kyoto-torino;2130;ottimo, posto, cena, alternativo, costo, pizza, ottimo posto, posto cena, cena alternativo, alternativo costo, costo pizza
+https://www.yelp.it/biz/kyoto-torino;2131;ottimo, ottimo, ottimo, ottimo ottimo, ottimo ottimo
+https://www.yelp.it/biz/kyoto-torino;2132;ristorante, consigliatissimo, ristorante consigliatissimo
+https://www.yelp.it/biz/kyoto-torino;2133;perchè, locale, essere, accettabile, certo, splendore, perchè locale, locale essere, essere accettabile, accettabile certo, certo splendore
+https://www.yelp.it/biz/kyoto-torino;2134;davvero, eccezionale, davvero eccezionale
+https://www.yelp.it/biz/kyoto-torino;2135;scelta, sushi, pietanza, cinese, essere, davvero, alto, essere, ottimo, qualità, scelta sushi, sushi pietanza, pietanza cinese, cinese essere, essere davvero, davvero alto, alto essere, essere ottimo, ottimo qualità
+https://www.yelp.it/biz/kyoto-torino;2136;personale, molto, gentile, personale molto, molto gentile
+https://www.yelp.it/biz/kyoto-torino;2137;stra, consiglio, stra consiglio
+https://www.yelp.it/biz/kyoto-torino;2138;molto, buono, sushi, molto buono, buono sushi
+https://www.yelp.it/biz/kyoto-torino;2139;personale, cortese, ambiente, tranquillo, personale cortese, cortese ambiente, ambiente tranquillo
+https://www.yelp.it/biz/kyoto-torino;2140;resto, essere, vero, perfetto, resto essere, essere vero, vero perfetto
+https://www.yelp.it/biz/kyoto-torino;2141;eccellente, grande, quantità, servizio, preciso, eccellente grande, grande quantità, quantità servizio, servizio preciso
+https://www.yelp.it/biz/kyoto-torino;2142;ritorno, sempre, volentieri, ritorno sempre, sempre volentieri
+https://www.yelp.it/biz/kyoto-torino;2143;sushi, essere, davvero, buono, sushi essere, essere davvero, davvero buono
+https://www.yelp.it/biz/kyoto-torino;2144;rapporto, qualità, prezzo, essere, piuttosto, buono, rapporto qualità, qualità prezzo, prezzo essere, essere piuttosto, piuttosto buono

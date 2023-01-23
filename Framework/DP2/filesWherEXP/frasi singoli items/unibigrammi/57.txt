@@ -1,0 +1,36 @@
+https://www.yelp.it/biz/nuova-dezzuto-torino;4535;personale, attento, gentile, personale attento, attento gentile
+https://www.yelp.it/biz/nuova-dezzuto-torino;4536;essere, buono, essere buono
+https://www.yelp.it/biz/nuova-dezzuto-torino;4537;cappuccino, ottimo, cappuccino ottimo
+https://www.yelp.it/biz/nuova-dezzuto-torino;4538;meritare, colazione, sicuro, meritare colazione, colazione sicuro
+https://www.yelp.it/biz/nuova-dezzuto-torino;4539;cortesia, professionalità, accogliente, raffinare, cortesia professionalità, professionalità accogliente, accogliente raffinare
+https://www.yelp.it/biz/nuova-dezzuto-torino;4540;cappuccino, degno, nota, vero, ottimo, cappuccino degno, degno nota, nota vero, vero ottimo
+https://www.yelp.it/biz/nuova-dezzuto-torino;4541;ciliegina, torta, conto, ciliegina torta, torta conto
+https://www.yelp.it/biz/nuova-dezzuto-torino;4542;locale, essere, molto, grazioso, locale essere, essere molto, molto grazioso
+https://www.yelp.it/biz/nuova-dezzuto-torino;4543;ottimo, stuzzichini, ottimo stuzzichini
+https://www.yelp.it/biz/nuova-dezzuto-torino;4544;servizio, essere, inappuntabile, cortese, servizio essere, essere inappuntabile, inappuntabile cortese
+https://www.yelp.it/biz/nuova-dezzuto-torino;4545;provare, panino, dolce, provare panino, panino dolce
+https://www.yelp.it/biz/nuova-dezzuto-torino;4546;nocciola, pistacchio, crema, nocciola pistacchio, pistacchio crema
+https://www.yelp.it/biz/nuova-dezzuto-torino;4547;valutare, pasticceria, prodotto, essere, eccezionale, valutare pasticceria, pasticceria prodotto, prodotto essere, essere eccezionale
+https://www.yelp.it/biz/nuova-dezzuto-torino;4548;nuovo, viso, conoscere, essere, tempo, mitico, bar, via, condurre, attività, cortesia, attenzione, cliente, essere, indispensabile, nuovo viso, viso conoscere, conoscere essere, essere tempo, tempo mitico, mitico bar, bar via, via condurre, condurre attività, attività cortesia, cortesia attenzione, attenzione cliente, cliente essere, essere indispensabile
+https://www.yelp.it/biz/nuova-dezzuto-torino;4549;qualità, buono, bastare, qualità buono, buono bastare
+https://www.yelp.it/biz/nuova-dezzuto-torino;4550;bello, locale, bello locale
+https://www.yelp.it/biz/nuova-dezzuto-torino;4551;buono, ovvio, pasticceria, anche, gelato, buono ovvio, ovvio pasticceria, pasticceria anche, anche gelato
+https://www.yelp.it/biz/nuova-dezzuto-torino;4552;personale, gentile, altrettanto, efficiente, personale gentile, gentile altrettanto, altrettanto efficiente
+https://www.yelp.it/biz/nuova-dezzuto-torino;4553;caffè, dolcino, aperitivo, qui, sbagliare, caffè dolcino, dolcino aperitivo, aperitivo qui, qui sbagliare
+https://www.yelp.it/biz/nuova-dezzuto-torino;4554;anche, solo, caffè, anche solo, solo caffè
+https://www.yelp.it/biz/nuova-dezzuto-torino;4555;posto, essere, molto, elegante, ben, frequentare, posto essere, essere molto, molto elegante, elegante ben, ben frequentare
+https://www.yelp.it/biz/nuova-dezzuto-torino;4556;splendido, elegante, location, zona, splendido elegante, elegante location, location zona
+https://www.yelp.it/biz/nuova-dezzuto-torino;4557;personale, essere, molto, professionale, molto, gentile, attento, personale essere, essere molto, molto professionale, professionale molto, molto gentile, gentile attento
+https://www.yelp.it/biz/nuova-dezzuto-torino;4558;grazie, attenzione, grazie attenzione
+https://www.yelp.it/biz/nuova-dezzuto-torino;4559;bello, arredamento, ambiente, raffinato, bello arredamento, arredamento ambiente, ambiente raffinato
+https://www.yelp.it/biz/nuova-dezzuto-torino;4560;struttura, bello, elegante, compensare, pessimo, qualità, scortesia, struttura bello, bello elegante, elegante compensare, compensare pessimo, pessimo qualità, qualità scortesia
+https://www.yelp.it/biz/nuova-dezzuto-torino;4561;provare, credere, provare credere
+https://www.yelp.it/biz/nuova-dezzuto-torino;4562;meritare, pranzo, aperitivo, meritare pranzo, pranzo aperitivo
+https://www.yelp.it/biz/nuova-dezzuto-torino;4563;anche, torta, ben, presentare, essere, buono, scelta, brioches, anche torta, torta ben, ben presentare, presentare essere, essere buono, buono scelta, scelta brioches
+https://www.yelp.it/biz/nuova-dezzuto-torino;4564;pensare, posto, essere, cariare, pensare posto, posto essere, essere cariare
+https://www.yelp.it/biz/nuova-dezzuto-torino;4565;caffè, buono, caffè buono
+https://www.yelp.it/biz/nuova-dezzuto-torino;4566;carino, arredamento, carino arredamento
+https://www.yelp.it/biz/nuova-dezzuto-torino;4567;bello, esperienza, bello esperienza
+https://www.yelp.it/biz/nuova-dezzuto-torino;4568;anche, titolare, ottimo, persona, anche titolare, titolare ottimo, ottimo persona
+https://www.yelp.it/biz/nuova-dezzuto-torino;4569;ottimare, farinata, mozzarella, speciale, frittata, eccezionale, ottimare farinata, farinata mozzarella, mozzarella speciale, speciale frittata, frittata eccezionale
+https://www.yelp.it/biz/nuova-dezzuto-torino;4570;dolce, gustoso, dolce gustoso

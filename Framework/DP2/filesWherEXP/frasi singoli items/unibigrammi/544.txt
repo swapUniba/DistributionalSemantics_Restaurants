@@ -1,0 +1,58 @@
+https://www.yelp.it/biz/il-caciucco-torino;20080;ottimo, passatempo, palato, ottimo passatempo, passatempo palato
+https://www.yelp.it/biz/il-caciucco-torino;20081;vero, curare, cucinare, benissimo, vero curare, curare cucinare, cucinare benissimo
+https://www.yelp.it/biz/il-caciucco-torino;20082;anche, dolce, anche dolce
+https://www.yelp.it/biz/il-caciucco-torino;20083;piatto, ben, presentare, molto, delizioso, piatto ben, ben presentare, presentare molto, molto delizioso
+https://www.yelp.it/biz/il-caciucco-torino;20084;servizio, cortese, servizio cortese
+https://www.yelp.it/biz/il-caciucco-torino;20085;qualità, cibo, ottimo, qualità cibo, cibo ottimo
+https://www.yelp.it/biz/il-caciucco-torino;20086;ultimo, vero, raffinare, sapore, ultimo vero, vero raffinare, raffinare sapore
+https://www.yelp.it/biz/il-caciucco-torino;20087;provare, piatto, raffinato, gusto, particolare, provare piatto, piatto raffinato, raffinato gusto, gusto particolare
+https://www.yelp.it/biz/il-caciucco-torino;20088;accoglienza, ottimo, personale, servizio, molto, curare, accoglienza ottimo, ottimo personale, personale servizio, servizio molto, molto curare
+https://www.yelp.it/biz/il-caciucco-torino;20089;davvero, bello, scoperta, complimento, davvero bello, bello scoperta, scoperta complimento
+https://www.yelp.it/biz/il-caciucco-torino;20090;personale, molto, gentile, attento, personale molto, molto gentile, gentile attento
+https://www.yelp.it/biz/il-caciucco-torino;20091;buon, rapporto, qualità, prezzo, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/il-caciucco-torino;20092;attenzione, maniacale, servizio, deciso, impeccabile, attenzione maniacale, maniacale servizio, servizio deciso, deciso impeccabile
+https://www.yelp.it/biz/il-caciucco-torino;20093;cucina, molto, molto, raffinato, cucina molto, molto molto, molto raffinato
+https://www.yelp.it/biz/il-caciucco-torino;20094;molto, buono, molto buono
+https://www.yelp.it/biz/il-caciucco-torino;20095;giudizio, assoluto, positivo, giudizio assoluto, assoluto positivo
+https://www.yelp.it/biz/il-caciucco-torino;20096;bello, posticino, tranquillo, bello posticino, posticino tranquillo
+https://www.yelp.it/biz/il-caciucco-torino;20097;pasta, scampo, delizioso, pasta scampo, scampo delizioso
+https://www.yelp.it/biz/il-caciucco-torino;20098;dolce, ottimo, dolce ottimo
+https://www.yelp.it/biz/il-caciucco-torino;20099;personale, cortese, attento, personale cortese, cortese attento
+https://www.yelp.it/biz/il-caciucco-torino;20100;mettere, notevole, molto, elegante, mettere notevole, notevole molto, molto elegante
+https://www.yelp.it/biz/il-caciucco-torino;20101;piatto, tradizionale, buono, piatto tradizionale, tradizionale buono
+https://www.yelp.it/biz/il-caciucco-torino;20102;cameriere, gentile, efficiente, cameriere gentile, gentile efficiente
+https://www.yelp.it/biz/il-caciucco-torino;20103;unico, nota, stonare, dolce, unico nota, nota stonare, stonare dolce
+https://www.yelp.it/biz/il-caciucco-torino;20104;risotto, delicato, gustoso, risotto delicato, delicato gustoso
+https://www.yelp.it/biz/il-caciucco-torino;20105;scoperta, positivo, scoperta positivo
+https://www.yelp.it/biz/il-caciucco-torino;20106;personale, molto, gentile, efficiente, personale molto, molto gentile, gentile efficiente
+https://www.yelp.it/biz/il-caciucco-torino;20107;dire, sempre, bello, servizio, super, dire sempre, sempre bello, bello servizio, servizio super
+https://www.yelp.it/biz/il-caciucco-torino;20108;personale, molto, gentile, consigliare, personale molto, molto gentile, gentile consigliare
+https://www.yelp.it/biz/il-caciucco-torino;20109;personale, professionale, cordiale, personale professionale, professionale cordiale
+https://www.yelp.it/biz/il-caciucco-torino;20110;ottimo, dolce, ottimo dolce
+https://www.yelp.it/biz/il-caciucco-torino;20111;delizioso, anche, decentrare, delizioso anche, anche decentrare
+https://www.yelp.it/biz/il-caciucco-torino;20112;giovane, molto, ambizioso, giovane molto, molto ambizioso
+https://www.yelp.it/biz/il-caciucco-torino;20113;sorpresa, essere, dolce, sorpresa essere, essere dolce
+https://www.yelp.it/biz/il-caciucco-torino;20114;locale, essere, vero, bello, intimo, curare, locale essere, essere vero, vero bello, bello intimo, intimo curare
+https://www.yelp.it/biz/il-caciucco-torino;20115;cameriere, essere, gentile, molto, preparato, piatto, cameriere essere, essere gentile, gentile molto, molto preparato, preparato piatto
+https://www.yelp.it/biz/il-caciucco-torino;20116;cibo, molto, buono, particolare, cibo molto, molto buono, buono particolare
+https://www.yelp.it/biz/il-caciucco-torino;20117;casa, buono, anche, semplice, casa buono, buono anche, anche semplice
+https://www.yelp.it/biz/il-caciucco-torino;20118;accompagnare, buon, prosecco, accompagnare buon, buon prosecco
+https://www.yelp.it/biz/il-caciucco-torino;20119;buono, curare, buono curare
+https://www.yelp.it/biz/il-caciucco-torino;20120;buono, carta, vino, buono carta, carta vino
+https://www.yelp.it/biz/il-caciucco-torino;20121;buon, cura, cliente, ingresso, locale, buon cura, cura cliente, cliente ingresso, ingresso locale
+https://www.yelp.it/biz/il-caciucco-torino;20122;piatto, preparare, cura, essere, amore, materia, prima, fresco, qualità, piatto preparare, preparare cura, cura essere, essere amore, amore materia, materia prima, prima fresco, fresco qualità
+https://www.yelp.it/biz/il-caciucco-torino;20123;servizio, essere, delicato, professionale, servizio essere, essere delicato, delicato professionale
+https://www.yelp.it/biz/il-caciucco-torino;20124;servizio, lode, mai, invasivo, veloce, punto, giusto, gentile, preciso, simpatico, oltre, cambio, posare, portata, servizio lode, lode mai, mai invasivo, invasivo veloce, veloce punto, punto giusto, giusto gentile, gentile preciso, preciso simpatico, simpatico oltre, oltre cambio, cambio posare, posare portata
+https://www.yelp.it/biz/il-caciucco-torino;20125;ristorante, essere, elegante, sobrio, accoglienza, cura, cliente, essere, superbo, qualità, ristorante essere, essere elegante, elegante sobrio, sobrio accoglienza, accoglienza cura, cura cliente, cliente essere, essere superbo, superbo qualità
+https://www.yelp.it/biz/il-caciucco-torino;20126;cenare, sabato, sera, cenare sabato, sabato sera
+https://www.yelp.it/biz/il-caciucco-torino;20127;squisito, risotto, squisito risotto
+https://www.yelp.it/biz/il-caciucco-torino;20128;zona, particolarmente, bello, zona particolarmente, particolarmente bello
+https://www.yelp.it/biz/il-caciucco-torino;20129;servizio, attento, cortese, servizio attento, attento cortese
+https://www.yelp.it/biz/il-caciucco-torino;20130;qualità, prezzo, ottimo, qualità prezzo, prezzo ottimo
+https://www.yelp.it/biz/il-caciucco-torino;20131;bravo, bravo, continuare, così, bravo bravo, bravo continuare, continuare così
+https://www.yelp.it/biz/il-caciucco-torino;20132;buono, pinot, grigio, buono pinot, pinot grigio
+https://www.yelp.it/biz/il-caciucco-torino;20133;complesso, ottimo, scelta, complesso ottimo, ottimo scelta
+https://www.yelp.it/biz/il-caciucco-torino;20134;buono, carta, vino, ottimo, prosecco, buono carta, carta vino, vino ottimo, ottimo prosecco
+https://www.yelp.it/biz/il-caciucco-torino;20135;molto, buono, cucinare, modo, perfetto, molto buono, buono cucinare, cucinare modo, modo perfetto
+https://www.yelp.it/biz/il-caciucco-torino;20136;buono, qualità, prezzo, consigliatissimo, buono qualità, qualità prezzo, prezzo consigliatissimo
+https://www.yelp.it/biz/il-caciucco-torino;20137;ambiente, molto, curato, elegante, ambiente molto, molto curato, curato elegante

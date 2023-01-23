@@ -1,0 +1,20 @@
+https://www.yelp.it/biz/black-angus-turin;17643;vino, discreto, vino discreto
+https://www.yelp.it/biz/black-angus-turin;17644;vino, discreto, vino discreto
+https://www.yelp.it/biz/black-angus-turin;17645;davvero, buono, carne, davvero buono, buono carne
+https://www.yelp.it/biz/black-angus-turin;17646;caso, molto, buono, caso molto, molto buono
+https://www.yelp.it/biz/black-angus-turin;17647;rapporto, qualità, prezzo, pessimo, rapporto qualità, qualità prezzo, prezzo pessimo
+https://www.yelp.it/biz/black-angus-turin;17648;carne, molto, tenero, servire, pietra, ollare, diretto, tavolo, carne molto, molto tenero, tenero servire, servire pietra, pietra ollare, ollare diretto, diretto tavolo
+https://www.yelp.it/biz/black-angus-turin;17649;complesso, buono, rapporto, qualità/prezzo, complesso buono, buono rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/black-angus-turin;17650;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/black-angus-turin;17651;vero, molto, buono, tenero, gustoso, pochissimo, scarto, vero molto, molto buono, buono tenero, tenero gustoso, gustoso pochissimo, pochissimo scarto
+https://www.yelp.it/biz/black-angus-turin;17652;deciso, meglio, deciso meglio
+https://www.yelp.it/biz/black-angus-turin;17653;consiglio, tortino, gianduia, consiglio tortino, tortino gianduia
+https://www.yelp.it/biz/black-angus-turin;17654;piatto, essere, squisito, piatto essere, essere squisito
+https://www.yelp.it/biz/black-angus-turin;17655;consigliare, vivo, consigliare vivo
+https://www.yelp.it/biz/black-angus-turin;17656;giudizio, complesso, molto, positivo, giudizio complesso, complesso molto, molto positivo
+https://www.yelp.it/biz/black-angus-turin;17657;buono, rapporto, qualità, prezzo, buono rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/black-angus-turin;17658;buono, rapporto, qualità, prezzo, buono rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/black-angus-turin;17659;carne, essere, ottimo, carne essere, essere ottimo
+https://www.yelp.it/biz/black-angus-turin;17660;qualita, buono, attenzione, qualita buono, buono attenzione
+https://www.yelp.it/biz/black-angus-turin;17661;ottimo, vino, ottimo, scelta, carne, ottimo vino, vino ottimo, ottimo scelta, scelta carne
+https://www.yelp.it/biz/black-angus-turin;17662;buono, rapporto, qualità/quantità/prezzo, buono rapporto, rapporto qualità/quantità/prezzo

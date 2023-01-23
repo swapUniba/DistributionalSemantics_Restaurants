@@ -1,0 +1,14 @@
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;18829;locale, bello, caffè, buono, buono, locale bello, bello caffè, caffè buono, buono buono
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;18830;scelta, colazione, scelta colazione
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;18831;darei, meno, darei meno
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;18832;personale, coridale, servizio, buono, personale coridale, coridale servizio, servizio buono
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;18833;prezzo, buono, prezzo buono
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;18834;personale, cortese, offrire, dubbio, meglio, personale cortese, cortese offrire, offrire dubbio, dubbio meglio
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;18835;ampio, scegliere, ampio scegliere
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;18836;caffè, essere, buono, fortunato, caffè essere, essere buono, buono fortunato
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;18837;meritare, assoluto, meritare assoluto
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;18838;poi, magico, romantico, via, poi magico, magico romantico, romantico via
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;18839;personale, molto, cortese, disponibile, personale molto, molto cortese, cortese disponibile
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;18840;locale, molto, carino, ubicare, centro, locale molto, molto carino, carino ubicare, ubicare centro
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;18841;personale, sala, gentile, sveglio, simpatico, personale sala, sala gentile, gentile sveglio, sveglio simpatico
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;18842;ottimo, succo, arancia, ottimo succo, succo arancia

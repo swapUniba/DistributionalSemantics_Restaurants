@@ -1,0 +1,24 @@
+https://www.yelp.it/biz/walima-torino;2332;locale, molto, caratteristico, locale molto, molto caratteristico
+https://www.yelp.it/biz/walima-torino;2333;ambientazione, molto, fedele, originale, ambientazione molto, molto fedele, fedele originale
+https://www.yelp.it/biz/walima-torino;2334;porre, molto, rilassare, porre molto, molto rilassare
+https://www.yelp.it/biz/walima-torino;2335;qui, perfetto, qui perfetto
+https://www.yelp.it/biz/walima-torino;2336;piacevole, eccezionale, piacevole eccezionale
+https://www.yelp.it/biz/walima-torino;2337;ambiente, essere, molto, suggestivo, locale, carino, caratteristico, prezzo, medio, onesto, anche, trovare, meno, zona, ambiente essere, essere molto, molto suggestivo, suggestivo locale, locale carino, carino caratteristico, caratteristico prezzo, prezzo medio, medio onesto, onesto anche, anche trovare, trovare meno, meno zona
+https://www.yelp.it/biz/walima-torino;2338;dolce, essere, buono, dolce essere, essere buono
+https://www.yelp.it/biz/walima-torino;2339;servizio, gentile, servizio gentile
+https://www.yelp.it/biz/walima-torino;2340;discreto, accogliente, anche, superlativo, discreto accogliente, accogliente anche, anche superlativo
+https://www.yelp.it/biz/walima-torino;2341;ideale, trascorrere, serata, rilassare, ideale trascorrere, trascorrere serata, serata rilassare
+https://www.yelp.it/biz/walima-torino;2342;the, verde, essere, vero, eccezionale, the verde, verde essere, essere vero, vero eccezionale
+https://www.yelp.it/biz/walima-torino;2343;ottimo, soluzione, passare, serata, alternativo, ottimo soluzione, soluzione passare, passare serata, serata alternativo
+https://www.yelp.it/biz/walima-torino;2650;bello, mezzo, frequentato, romano, essere, locale, riconoscibile, solo, piccolo, porticina, bello mezzo, mezzo frequentato, frequentato romano, romano essere, essere locale, locale riconoscibile, riconoscibile solo, solo piccolo, piccolo porticina
+https://www.yelp.it/biz/walima-torino;2651;locale, molto, caratteristico, locale molto, molto caratteristico
+https://www.yelp.it/biz/walima-torino;2652;ambientazione, molto, fedele, originale, ambientazione molto, molto fedele, fedele originale
+https://www.yelp.it/biz/walima-torino;2653;qui, perfetto, qui perfetto
+https://www.yelp.it/biz/walima-torino;2654;bello, locale, stile, marocchino/egiziano, piano, bello locale, locale stile, stile marocchino/egiziano, marocchino/egiziano piano
+https://www.yelp.it/biz/walima-torino;2655;dolce, essere, buono, dolce essere, essere buono
+https://www.yelp.it/biz/walima-torino;2656;servizio, gentile, servizio gentile
+https://www.yelp.it/biz/walima-torino;2657;servizio, ottimo, cameriere, sempre, movimento, pronto, servizio ottimo, ottimo cameriere, cameriere sempre, sempre movimento, movimento pronto
+https://www.yelp.it/biz/walima-torino;2658;discreto, accogliente, anche, superlativo, discreto accogliente, accogliente anche, anche superlativo
+https://www.yelp.it/biz/walima-torino;2659;the, verde, essere, vero, eccezionale, the verde, verde essere, essere vero, vero eccezionale
+https://www.yelp.it/biz/walima-torino;2660;locale, molto, molto, bello, amare, stile, orientale, locale molto, molto molto, molto bello, bello amare, amare stile, stile orientale
+https://www.yelp.it/biz/walima-torino;2661;consigliare, serata, tranquillo, piacevole, consigliare serata, serata tranquillo, tranquillo piacevole

@@ -1,0 +1,34 @@
+https://www.yelp.it/biz/mordillo-torino;21696;pranzo, veloce, economico, pranzo veloce, veloce economico
+https://www.yelp.it/biz/mordillo-torino;21697;personale, gentile, personale gentile
+https://www.yelp.it/biz/mordillo-torino;21698;servizio, essere, veloce, cordiale, servizio essere, essere veloce, veloce cordiale
+https://www.yelp.it/biz/mordillo-torino;21699;prezzo, economico, pranzo, veloce, prezzo economico, economico pranzo, pranzo veloce
+https://www.yelp.it/biz/mordillo-torino;21700;personale, cordiale, personale cordiale
+https://www.yelp.it/biz/mordillo-torino;21701;locale, carino, mancare, posto, sedere, locale carino, carino mancare, mancare posto, posto sedere
+https://www.yelp.it/biz/mordillo-torino;21702;locale, essere, luminoso, ampio, scelta, vasto, buono, qualità, locale essere, essere luminoso, luminoso ampio, ampio scelta, scelta vasto, vasto buono, buono qualità
+https://www.yelp.it/biz/mordillo-torino;21703;caldo, molto, gustoso, caldo molto, molto gustoso
+https://www.yelp.it/biz/mordillo-torino;21704;pizza, buono, media, pizza buono, buono media
+https://www.yelp.it/biz/mordillo-torino;21705;personale, cortese, personale cortese
+https://www.yelp.it/biz/mordillo-torino;21706;locale, essere, scelta, giusto, locale essere, essere scelta, scelta giusto
+https://www.yelp.it/biz/mordillo-torino;21707;servizio, veloce, personale, gentile, servizio veloce, veloce personale, personale gentile
+https://www.yelp.it/biz/mordillo-torino;21708;consigliare, pranzo, veloce, consigliare pranzo, pranzo veloce
+https://www.yelp.it/biz/mordillo-torino;21709;servizio, essere, ragazzo, essere, molto, gentile, servizio essere, essere ragazzo, ragazzo essere, essere molto, molto gentile
+https://www.yelp.it/biz/mordillo-torino;21710;qualità, così, così, prezzo, qualità così, così così, così prezzo
+https://www.yelp.it/biz/mordillo-torino;21711;ragazzo, cassa, essere, molto, gentile, ragazzo cassa, cassa essere, essere molto, molto gentile
+https://www.yelp.it/biz/mordillo-torino;21712;buono, anche, patatina, preparare, momento, buono anche, anche patatina, patatina preparare, preparare momento
+https://www.yelp.it/biz/mordillo-torino;21713;molto, conveniente, locale, pieno, centro, molto conveniente, conveniente locale, locale pieno, pieno centro
+https://www.yelp.it/biz/mordillo-torino;21714;buon, appetito, buon appetito
+https://www.yelp.it/biz/mordillo-torino;21715;prezzo, essere, modico, ottimo, varietà, menù, prezzo essere, essere modico, modico ottimo, ottimo varietà, varietà menù
+https://www.yelp.it/biz/mordillo-torino;21716;consiglio, pranzo, veloce, consiglio pranzo, pranzo veloce
+https://www.yelp.it/biz/mordillo-torino;21717;anche, lasagna, essere, ottimo, anche lasagna, lasagna essere, essere ottimo
+https://www.yelp.it/biz/mordillo-torino;21718;rapporto, qualità-prezzo, rapporto qualità-prezzo
+https://www.yelp.it/biz/mordillo-torino;21719;posto, accogliente, personale, più, disponibile, molto, gentile, posto accogliente, accogliente personale, personale più, più disponibile, disponibile molto, molto gentile
+https://www.yelp.it/biz/mordillo-torino;21720;altro, piatto, essere, buono, prezzo, davvero, conveniente, altro piatto, piatto essere, essere buono, buono prezzo, prezzo davvero, davvero conveniente
+https://www.yelp.it/biz/mordillo-torino;21721;cliente, spiacere, trovare, bene, cliente spiacere, spiacere trovare, trovare bene
+https://www.yelp.it/biz/mordillo-torino;21722;personale, cordiale, simpatico, personale cordiale, cordiale simpatico
+https://www.yelp.it/biz/mordillo-torino;21723;personale, cordiale, veloce, personale cordiale, cordiale veloce
+https://www.yelp.it/biz/mordillo-torino;21724;grazie, recensione, positivo, grazie recensione, recensione positivo
+https://www.yelp.it/biz/mordillo-torino;21725;grazie, recensione, positivo, grazie recensione, recensione positivo
+https://www.yelp.it/biz/mordillo-torino;21726;grazie, recensione, positivo, grazie recensione, recensione positivo
+https://www.yelp.it/biz/mordillo-torino;21727;grazie, recensione, positivo, grazie recensione, recensione positivo
+https://www.yelp.it/biz/mordillo-torino;21728;ottimo, locale, centro, ragazzo, gentile, ottimo locale, locale centro, centro ragazzo, ragazzo gentile
+https://www.yelp.it/biz/mordillo-torino;21729;buono, ragionevole, buono ragionevole

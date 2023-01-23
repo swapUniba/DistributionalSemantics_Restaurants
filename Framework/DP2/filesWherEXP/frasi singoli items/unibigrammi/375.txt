@@ -1,0 +1,33 @@
+https://www.yelp.it/biz/ristorante-peppino-torino;14424;essere, possibile, assaggiare, piatto, locale, buono, carne, pesce, essere possibile, possibile assaggiare, assaggiare piatto, piatto locale, locale buono, buono carne, carne pesce
+https://www.yelp.it/biz/ristorante-peppino-torino;14425;pranzare, sabato, ambiente, accogliente, femminile, pranzare sabato, sabato ambiente, ambiente accogliente, accogliente femminile
+https://www.yelp.it/biz/ristorante-peppino-torino;14426;buon, appetito, buon appetito
+https://www.yelp.it/biz/ristorante-peppino-torino;14427;personale, essere, carino, disponibile, personale essere, essere carino, carino disponibile
+https://www.yelp.it/biz/ristorante-peppino-torino;14428;personale, sempre, cordiale, simpatico, ottimo, cucina, menù, giorno, carta, personale sempre, sempre cordiale, cordiale simpatico, simpatico ottimo, ottimo cucina, cucina menù, menù giorno, giorno carta
+https://www.yelp.it/biz/ristorante-peppino-torino;14429;servizio, veloce, personale, cortese, servizio veloce, veloce personale, personale cortese
+https://www.yelp.it/biz/ristorante-peppino-torino;14430;poi, mancare, sorpresa, poi mancare, mancare sorpresa
+https://www.yelp.it/biz/ristorante-peppino-torino;14431;ringraziamento, particolare, ringraziamento particolare
+https://www.yelp.it/biz/ristorante-peppino-torino;14432;personale, cortese, servizio, veloce, personale cortese, cortese servizio, servizio veloce
+https://www.yelp.it/biz/ristorante-peppino-torino;14433;personale, essere, molto, cordiale, disponibile, personale essere, essere molto, molto cordiale, cordiale disponibile
+https://www.yelp.it/biz/ristorante-peppino-torino;14434;discreto, particolare, almeno, riguardare, menù, discreto particolare, particolare almeno, almeno riguardare, riguardare menù
+https://www.yelp.it/biz/ristorante-peppino-torino;14435;molto, meglio, secondo, molto meglio, meglio secondo
+https://www.yelp.it/biz/ristorante-peppino-torino;14436;promuovere, sommare, promuovere sommare
+https://www.yelp.it/biz/ristorante-peppino-torino;14437;piatto, essere, ottimo, qualità, abbondante, piatto essere, essere ottimo, ottimo qualità, qualità abbondante
+https://www.yelp.it/biz/ristorante-peppino-torino;14438;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/ristorante-peppino-torino;14439;discreto, dolce, discreto dolce
+https://www.yelp.it/biz/ristorante-peppino-torino;14440;personale, gentile, personale gentile
+https://www.yelp.it/biz/ristorante-peppino-torino;14441;cibo, semplice, buono, pizza, cibo semplice, semplice buono, buono pizza
+https://www.yelp.it/biz/ristorante-peppino-torino;14442;servizio, svolgere, maniera, corretto, personale, gentile, disponibile, veloce, abbastanza, competente, servizio svolgere, svolgere maniera, maniera corretto, corretto personale, personale gentile, gentile disponibile, disponibile veloce, veloce abbastanza, abbastanza competente
+https://www.yelp.it/biz/ristorante-peppino-torino;14443;antipasto, casa, però, essere, buono, antipasto casa, casa però, però essere, essere buono
+https://www.yelp.it/biz/ristorante-peppino-torino;14444;qualità, essere, buono, servizio, preciso, veloce, qualità essere, essere buono, buono servizio, servizio preciso, preciso veloce
+https://www.yelp.it/biz/ristorante-peppino-torino;14445;cameriere, gentile, cameriere gentile
+https://www.yelp.it/biz/ristorante-peppino-torino;14446;mangiare, semplice, bene, mangiare semplice, semplice bene
+https://www.yelp.it/biz/ristorante-peppino-torino;14447;semplicemente, delizioso, semplicemente delizioso
+https://www.yelp.it/biz/ristorante-peppino-torino;14448;molto, gustoso, servizio, impeccabile, molto gustoso, gustoso servizio, servizio impeccabile
+https://www.yelp.it/biz/ristorante-peppino-torino;14449;bello, posto, bello posto
+https://www.yelp.it/biz/ristorante-peppino-torino;14450;indirizzo, eccezionale, indirizzo eccezionale
+https://www.yelp.it/biz/ristorante-peppino-torino;14451;personale, efficiente, gentile, inutile, formalismo, personale efficiente, efficiente gentile, gentile inutile, inutile formalismo
+https://www.yelp.it/biz/ristorante-peppino-torino;14452;desiderare, pranzo, economico, veloce, cibo, buono, essere, perfetto, desiderare pranzo, pranzo economico, economico veloce, veloce cibo, cibo buono, buono essere, essere perfetto
+https://www.yelp.it/biz/ristorante-peppino-torino;14453;molto, gentile, molto gentile
+https://www.yelp.it/biz/ristorante-peppino-torino;14454;assoluto, saporito, digeribile, assoluto saporito, saporito digeribile
+https://www.yelp.it/biz/ristorante-peppino-torino;14455;personale, cortese, qualificare, personale cortese, cortese qualificare
+https://www.yelp.it/biz/ristorante-peppino-torino;14456;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo

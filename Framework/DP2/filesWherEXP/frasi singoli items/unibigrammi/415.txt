@@ -1,0 +1,43 @@
+https://www.yelp.it/biz/signorvino-torino;16020;bello, scelta, vino, bello scelta, scelta vino
+https://www.yelp.it/biz/signorvino-torino;16021;personale, attento, cortese, personale attento, attento cortese
+https://www.yelp.it/biz/signorvino-torino;16022;essere, davvero, piacere, leggere, recensione, così, bello, cliente, simpatico, essere davvero, davvero piacere, piacere leggere, leggere recensione, recensione così, così bello, bello cliente, cliente simpatico
+https://www.yelp.it/biz/signorvino-torino;16023;personale, gentile, servizio, efficiente, veloce, personale gentile, gentile servizio, servizio efficiente, efficiente veloce
+https://www.yelp.it/biz/signorvino-torino;16024;grazie, ancora, grazie ancora
+https://www.yelp.it/biz/signorvino-torino;16025;buongiorno, sicuro, fare, ottimo, scelta, buongiorno sicuro, sicuro fare, fare ottimo, ottimo scelta
+https://www.yelp.it/biz/signorvino-torino;16026;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/signorvino-torino;16027;posto, delizioso, curato, informale, impatto, posto delizioso, delizioso curato, curato informale, informale impatto
+https://www.yelp.it/biz/signorvino-torino;16028;serata, amico, aperitivo, ambiente, accogliente, informale, serata amico, amico aperitivo, aperitivo ambiente, ambiente accogliente, accogliente informale
+https://www.yelp.it/biz/signorvino-torino;16029;ottimo, anche, dolce, ottimo anche, anche dolce
+https://www.yelp.it/biz/signorvino-torino;16030;molto, valido, molto valido
+https://www.yelp.it/biz/signorvino-torino;16031;fuori, sembrare, semplice, curare, enoteca/vendita, vino, fuori sembrare, sembrare semplice, semplice curare, curare enoteca/vendita, enoteca/vendita vino
+https://www.yelp.it/biz/signorvino-torino;16032;delicato, delizioso, delicato delizioso
+https://www.yelp.it/biz/signorvino-torino;16033;buono, dolce, buono dolce
+https://www.yelp.it/biz/signorvino-torino;16034;enoteca, avere, ampio, scelta, vino, enoteca avere, avere ampio, ampio scelta, scelta vino
+https://www.yelp.it/biz/signorvino-torino;16035;locale, essere, sicuro, molto, suggestivo, accogliente, giovane, locale essere, essere sicuro, sicuro molto, molto suggestivo, suggestivo accogliente, accogliente giovane
+https://www.yelp.it/biz/signorvino-torino;16036;ovvio, degno, nota, vasto, scelta, vino, ovvio degno, degno nota, nota vasto, vasto scelta, scelta vino
+https://www.yelp.it/biz/signorvino-torino;16037;gentile, disponibile, gentile disponibile
+https://www.yelp.it/biz/signorvino-torino;16038;caro, saluto, caro saluto
+https://www.yelp.it/biz/signorvino-torino;16039;accompagnare, vino, rosè, squisito, accompagnare vino, vino rosè, rosè squisito
+https://www.yelp.it/biz/signorvino-torino;16040;fondo, sala, sviluppare, ristorante, bello, contesto, fondo sala, sala sviluppare, sviluppare ristorante, ristorante bello, bello contesto
+https://www.yelp.it/biz/signorvino-torino;16041;ottimo, aperitivo, ottimo aperitivo
+https://www.yelp.it/biz/signorvino-torino;16042;deciso, caro, deciso caro
+https://www.yelp.it/biz/signorvino-torino;16043;cameriere, giovane, socievole, cameriere giovane, giovane socievole
+https://www.yelp.it/biz/signorvino-torino;16044;proseguire, arrivare, sala, essere, possibile, fare, aperitivo, prezzo, contenuto, ottimo, qualità, proseguire arrivare, arrivare sala, sala essere, essere possibile, possibile fare, fare aperitivo, aperitivo prezzo, prezzo contenuto, contenuto ottimo, ottimo qualità
+https://www.yelp.it/biz/signorvino-torino;16045;personale, gentile, veloce, personale gentile, gentile veloce
+https://www.yelp.it/biz/signorvino-torino;16046;porre, molto, cariare, personale, competente, piacevole, porre molto, molto cariare, cariare personale, personale competente, competente piacevole
+https://www.yelp.it/biz/signorvino-torino;16047;grazie, presto, grazie presto
+https://www.yelp.it/biz/signorvino-torino;16048;meritare, comunque, visita, meritare comunque, comunque visita
+https://www.yelp.it/biz/signorvino-torino;16049;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/signorvino-torino;16050;proporre, semplice, veloce, proporre semplice, semplice veloce
+https://www.yelp.it/biz/signorvino-torino;16051;vino, eccellente, ottimo, qualità, ampio, scelta, vino eccellente, eccellente ottimo, ottimo qualità, qualità ampio, ampio scelta
+https://www.yelp.it/biz/signorvino-torino;16052;personale, cordiale, ambiente, molto, gradevole, personale cordiale, cordiale ambiente, ambiente molto, molto gradevole
+https://www.yelp.it/biz/signorvino-torino;16053;complesso, ottimo, posto, mangiare, fare, aperitivo, complesso ottimo, ottimo posto, posto mangiare, mangiare fare, fare aperitivo
+https://www.yelp.it/biz/signorvino-torino;16054;peccare, esperienza, estremo, deludente, peccare esperienza, esperienza estremo, estremo deludente
+https://www.yelp.it/biz/signorvino-torino;16055;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/signorvino-torino;16056;personale, cortese, efficiente, personale cortese, cortese efficiente
+https://www.yelp.it/biz/signorvino-torino;16057;servizio, impeccabile, indimenticabile, servizio impeccabile, impeccabile indimenticabile
+https://www.yelp.it/biz/signorvino-torino;16058;conclusione, ottimo, vino, molto, caro, rispetto, qualità, offrire, resto, conclusione ottimo, ottimo vino, vino molto, molto caro, caro rispetto, rispetto qualità, qualità offrire, offrire resto
+https://www.yelp.it/biz/signorvino-torino;16059;locale, davvero, carino, posizione, centrale, locale davvero, davvero carino, carino posizione, posizione centrale
+https://www.yelp.it/biz/signorvino-torino;16060;molto, bello, accogliente, molto bello, bello accogliente
+https://www.yelp.it/biz/signorvino-torino;16061;poco, ricercato, cucinare, molto, semplice, poco ricercato, ricercato cucinare, cucinare molto, molto semplice
+https://www.yelp.it/biz/signorvino-torino;16062;ottimo, posto, anche, aperitivo, ottimo posto, posto anche, anche aperitivo

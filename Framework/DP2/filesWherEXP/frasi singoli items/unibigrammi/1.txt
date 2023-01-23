@@ -1,0 +1,205 @@
+https://www.yelp.it/biz/taiki-bari;1;fantasticamente, buono, innovativo, cucina, molto, particolare, sapore, deciso, fantasticamente buono, buono innovativo, innovativo cucina, cucina molto, molto particolare, particolare sapore, sapore deciso
+https://www.yelp.it/biz/taiki-bari;2;idem, servizio, impeccabile, idem servizio, servizio impeccabile
+https://www.yelp.it/biz/taiki-bari;3;carta, vino, essere, sempre, impeccabile, così, servizio, carta vino, vino essere, essere sempre, sempre impeccabile, impeccabile così, così servizio
+https://www.yelp.it/biz/taiki-bari;4;sushi, sashimi, vero, buono, ben, presentare, sushi sashimi, sashimi vero, vero buono, buono ben, ben presentare
+https://www.yelp.it/biz/taiki-bari;5;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/taiki-bari;6;servizio, locale, essere, pieno, cortese, attesa, giusto, servizio locale, locale essere, essere pieno, pieno cortese, cortese attesa, attesa giusto
+https://www.yelp.it/biz/taiki-bari;7;finire, cioccosushi, dolce, ottimo, finire cioccosushi, cioccosushi dolce, dolce ottimo
+https://www.yelp.it/biz/taiki-bari;8;sapore, piatto, essere, addirittura, migliore, aspetto, dolce, davvero, ottimo, sapore piatto, piatto essere, essere addirittura, addirittura migliore, migliore aspetto, aspetto dolce, dolce davvero, davvero ottimo
+https://www.yelp.it/biz/taiki-bari;10;rispecchiare, assoluto, standard, poco, veritiero, rispecchiare assoluto, assoluto standard, standard poco, poco veritiero
+https://www.yelp.it/biz/taiki-bari;11;sempre, soddisfare, sempre soddisfare
+https://www.yelp.it/biz/taiki-bari;12;settimana, servizio, veloce, qualità, eccellente, settimana servizio, servizio veloce, veloce qualità, qualità eccellente
+https://www.yelp.it/biz/taiki-bari;13;ottimo, rapporto, qualità, prezzo, bello, location, personale, gentile, ottimo rapporto, rapporto qualità, qualità prezzo, prezzo bello, bello location, location personale, personale gentile
+https://www.yelp.it/biz/taiki-bari;14;piatto, essere, buono, dolce, parte, spesa, valere, impresa, piatto essere, essere buono, buono dolce, dolce parte, parte spesa, spesa valere, valere impresa
+https://www.yelp.it/biz/taiki-bari;15;soddisfacente, anche, dolce, soddisfacente anche, anche dolce
+https://www.yelp.it/biz/taiki-bari;16;tornare, taiki, altro, sera, cena, piacere, amico, tornare taiki, taiki altro, altro sera, sera cena, cena piacere, piacere amico
+https://www.yelp.it/biz/taiki-bari;17;essere, serata, fantastico, insegna, ottimo, cibo, buon, vino, dolce, superlativo, essere serata, serata fantastico, fantastico insegna, insegna ottimo, ottimo cibo, cibo buon, buon vino, vino dolce, dolce superlativo
+https://www.yelp.it/biz/taiki-bari;18;qualità, prodotto, cibo, sofisticato, rendere, davvero, speciale, cena, qualità prodotto, prodotto cibo, cibo sofisticato, sofisticato rendere, rendere davvero, davvero speciale, speciale cena
+https://www.yelp.it/biz/taiki-bari;19;grazie, taiki, grazie taiki
+https://www.yelp.it/biz/taiki-bari;20;deciso, caro, qualità, deciso caro, caro qualità
+https://www.yelp.it/biz/taiki-bari;21;impeccabile, servizio, carta, vino, qualità, prodotto, impeccabile servizio, servizio carta, carta vino, vino qualità, qualità prodotto
+https://www.yelp.it/biz/taiki-bari;22;speciale, essere, davvero, gustoso, sapore, ricco, raffinare, speciale essere, essere davvero, davvero gustoso, gustoso sapore, sapore ricco, ricco raffinare
+https://www.yelp.it/biz/taiki-bari;23;posto, essere, certezza, posto essere, essere certezza
+https://www.yelp.it/biz/taiki-bari;24;qualità, pesce, eccezionale, personale, alto, qualificato, qualità pesce, pesce eccezionale, eccezionale personale, personale alto, alto qualificato
+https://www.yelp.it/biz/taiki-bari;26;sempre, molto, gentile, competente, sempre molto, molto gentile, gentile competente
+https://www.yelp.it/biz/taiki-bari;27;cena, entusiasmante, buono, cena entusiasmante, entusiasmante buono
+https://www.yelp.it/biz/taiki-bari;28;grazie, splendido, serata, bello, figura, grazie splendido, splendido serata, serata bello, bello figura
+https://www.yelp.it/biz/taiki-bari;29;qualità, ingrediente, sempre, top, abbinamento, originale, salsa, delizioso, ottimo, proposta, presentare, sempre, maniera, impeccabile, qualità ingrediente, ingrediente sempre, sempre top, top abbinamento, abbinamento originale, originale salsa, salsa delizioso, delizioso ottimo, ottimo proposta, proposta presentare, presentare sempre, sempre maniera, maniera impeccabile
+https://www.yelp.it/biz/taiki-bari;30;servizio, essere, eccezionale, personale, sempre, molto, attento, rapido, preparare, servizio essere, essere eccezionale, eccezionale personale, personale sempre, sempre molto, molto attento, attento rapido, rapido preparare
+https://www.yelp.it/biz/taiki-bari;31;rendere, cena, impeccabile, rendere cena, cena impeccabile
+https://www.yelp.it/biz/taiki-bari;32;deciso, ottimo, migliore, assoluto, deciso ottimo, ottimo migliore, migliore assoluto
+https://www.yelp.it/biz/taiki-bari;33;cibo, qualità, super, cibo qualità, qualità super
+https://www.yelp.it/biz/taiki-bari;34;qualità, professionalità, cortesia, essere, valore, ristorante, qualità professionalità, professionalità cortesia, cortesia essere, essere valore, valore ristorante
+https://www.yelp.it/biz/taiki-bari;35;persino, dolce, essere, ottimo, persino dolce, dolce essere, essere ottimo
+https://www.yelp.it/biz/taiki-bari;36;personale, molto, cortese, professionale, personale molto, molto cortese, cortese professionale
+https://www.yelp.it/biz/taiki-bari;37;solo, bello, anche, molto, gustoso, solo bello, bello anche, anche molto, molto gustoso
+https://www.yelp.it/biz/taiki-bari;38;personale, gentile, servizio, veloce, personale gentile, gentile servizio, servizio veloce
+https://www.yelp.it/biz/taiki-bari;39;qualitativo, migliore, qualitativo migliore
+https://www.yelp.it/biz/taiki-bari;40;cibo, strepitoso, accurato, presentare, cibo strepitoso, strepitoso accurato, accurato presentare
+https://www.yelp.it/biz/taiki-bari;41;terminare, cena, pensare, già, prossimo, acquolina, bocca, terminare cena, cena pensare, pensare già, già prossimo, prossimo acquolina, acquolina bocca
+https://www.yelp.it/biz/taiki-bari;42;estasi, palato, estasi palato
+https://www.yelp.it/biz/taiki-bari;44;materia, primo, ottimo, qualità, consentire, locale, distinguere, massa, materia primo, primo ottimo, ottimo qualità, qualità consentire, consentire locale, locale distinguere, distinguere massa
+https://www.yelp.it/biz/taiki-bari;45;consiglio, lasciare, posticino, libero, dolce, essere, più, buono, mai, assaggiare, consiglio lasciare, lasciare posticino, posticino libero, libero dolce, dolce essere, essere più, più buono, buono mai, mai assaggiare
+https://www.yelp.it/biz/taiki-bari;46;proposta, sushi, limitato, poco, soddisfacente, proposta sushi, sushi limitato, limitato poco, poco soddisfacente
+https://www.yelp.it/biz/taiki-bari;47;ristorante, sushi, can, qualità, pesce, essere, buono, alga, essere, pò, duro, gommoso, avere, vasto, carta, vino, dolce, essere, eccellente, ristorante sushi, sushi can, can qualità, qualità pesce, pesce essere, essere buono, buono alga, alga essere, essere pò, pò duro, duro gommoso, gommoso avere, avere vasto, vasto carta, carta vino, vino dolce, dolce essere, essere eccellente
+https://www.yelp.it/biz/taiki-bari;48;buon, giapponese, buon giapponese
+https://www.yelp.it/biz/taiki-bari;49;cameriere, organizzatore, buon, livello, cameriere organizzatore, organizzatore buon, buon livello
+https://www.yelp.it/biz/taiki-bari;50;fantastico, location, prezzo, giusto, personale, gentile, servizio, veloce, fantastico location, location prezzo, prezzo giusto, giusto personale, personale gentile, gentile servizio, servizio veloce
+https://www.yelp.it/biz/taiki-bari;51;complimento, riguardare, solo, food, essere, eccellente, fare, materia, primo, ottimo, prim', ordine, proprietario, organizzazione, complimento riguardare, riguardare solo, solo food, food essere, essere eccellente, eccellente fare, fare materia, materia primo, primo ottimo, ottimo prim', prim' ordine, ordine proprietario, proprietario organizzazione
+https://www.yelp.it/biz/taiki-bari;52;locale, estetico, bello, luminoso, pulito, essenziale, locale estetico, estetico bello, bello luminoso, luminoso pulito, pulito essenziale
+https://www.yelp.it/biz/taiki-bari;53;posizione, qui, salire, grazie, giudizio, cliente, vero, posizione qui, qui salire, salire grazie, grazie giudizio, giudizio cliente, cliente vero
+https://www.yelp.it/biz/taiki-bari;54;avere, esperienza, can, avere esperienza, esperienza can
+https://www.yelp.it/biz/taiki-bari;55;ottimo, qualità, personale, impeccabile, qualificare, location, accogliere, preparazione, sushi, goduriosa, vista, palato, ottimo qualità, qualità personale, personale impeccabile, impeccabile qualificare, qualificare location, location accogliere, accogliere preparazione, preparazione sushi, sushi goduriosa, goduriosa vista, vista palato
+https://www.yelp.it/biz/taiki-bari;56;locale, bello, personale, gentile, cibo, ottimo, qualità, tonno, essere, gradimento, capitare, essere, top, locale bello, bello personale, personale gentile, gentile cibo, cibo ottimo, ottimo qualità, qualità tonno, tonno essere, essere gradimento, gradimento capitare, capitare essere, essere top
+https://www.yelp.it/biz/taiki-bari;57;professionalità, qualità, cortesia, essere, elemento, caratterizzare, professionalità qualità, qualità cortesia, cortesia essere, essere elemento, elemento caratterizzare
+https://www.yelp.it/biz/taiki-bari;58;qualità, pesce, ottimo, qualità pesce, pesce ottimo
+https://www.yelp.it/biz/taiki-bari;59;cibo, buono, qualità, cibo buono, buono qualità
+https://www.yelp.it/biz/taiki-bari;60;location, interno, avere, bello, atmosfera, fuori, lasciare, pò, desiderare, location interno, interno avere, avere bello, bello atmosfera, atmosfera fuori, fuori lasciare, lasciare pò, pò desiderare
+https://www.yelp.it/biz/taiki-bari;62;molto, buono, così, dolce, molto buono, buono così, così dolce
+https://www.yelp.it/biz/taiki-bari;63;molto, carino, molto carino
+https://www.yelp.it/biz/taiki-bari;64;ambiente, accogliente, fine, personale, gentile, disponibile, ambiente accogliente, accogliente fine, fine personale, personale gentile, gentile disponibile
+https://www.yelp.it/biz/taiki-bari;65;qualità, essere, indiscusso, qualità essere, essere indiscusso
+https://www.yelp.it/biz/taiki-bari;66;piatto, particolare, variegato, piatto particolare, particolare variegato
+https://www.yelp.it/biz/taiki-bari;67;tipologia, standard, prezzo, essere, ottimo, tipologia standard, standard prezzo, prezzo essere, essere ottimo
+https://www.yelp.it/biz/taiki-bari;68;posto, molto, accogliente, pulito, cucina, vista, sale, posto molto, molto accogliente, accogliente pulito, pulito cucina, cucina vista, vista sale
+https://www.yelp.it/biz/taiki-bari;70;qualità, netto, superiore, preparare, classe, godere, fondo, qualità netto, netto superiore, superiore preparare, preparare classe, classe godere, godere fondo
+https://www.yelp.it/biz/taiki-bari;71;dolce, preparato, essere, molto, buono, dolce preparato, preparato essere, essere molto, molto buono
+https://www.yelp.it/biz/taiki-bari;72;curare, dettaglio, personale, gentile, curare dettaglio, dettaglio personale, personale gentile
+https://www.yelp.it/biz/taiki-bari;73;davvero, posto, provare, mettere, preferito, davvero posto, posto provare, provare mettere, mettere preferito
+https://www.yelp.it/biz/taiki-bari;74;mangiare, giusto, bene, pagare, giusto, mangiare giusto, giusto bene, bene pagare, pagare giusto
+https://www.yelp.it/biz/taiki-bari;75;sushi, ottimo, qualità, personale, cortese, ottimo, dolce, sushi ottimo, ottimo qualità, qualità personale, personale cortese, cortese ottimo, ottimo dolce
+https://www.yelp.it/biz/taiki-bari;76;piatto, esempio, essere, molto, delicato, piatto esempio, esempio essere, essere molto, molto delicato
+https://www.yelp.it/biz/taiki-bari;77;buono, vasto, scelta, cibo, qualità, bontà, personale, gentile, qualificare, buono vasto, vasto scelta, scelta cibo, cibo qualità, qualità bontà, bontà personale, personale gentile, gentile qualificare
+https://www.yelp.it/biz/taiki-bari;78;davvero, complimento, davvero complimento
+https://www.yelp.it/biz/taiki-bari;79;qualità, pesce, indiscutibile, qualità pesce, pesce indiscutibile
+https://www.yelp.it/biz/taiki-bari;80;personale, sempre, molto, gentile, disponibile, pronto, soddisfare, cliente, meglio, personale sempre, sempre molto, molto gentile, gentile disponibile, disponibile pronto, pronto soddisfare, soddisfare cliente, cliente meglio
+https://www.yelp.it/biz/taiki-bari;81;bello, location, stesso, edificio, sheraton, bello location, location stesso, stesso edificio, edificio sheraton
+https://www.yelp.it/biz/taiki-bari;82;ottimo, scelta, qualità, integrazione, già, vario, menu, ulteriore, portare, giorno, ottimo scelta, scelta qualità, qualità integrazione, integrazione già, già vario, vario menu, menu ulteriore, ulteriore portare, portare giorno
+https://www.yelp.it/biz/taiki-bari;83;cibo, curare, minimo, dettaglio, pesce, fresco, ricetta, ricercare, gusto, squisito, cibo curare, curare minimo, minimo dettaglio, dettaglio pesce, pesce fresco, fresco ricetta, ricetta ricercare, ricercare gusto, gusto squisito
+https://www.yelp.it/biz/taiki-bari;84;là, locale, curato, pulito, servizio, essere, perfetto, discreto, veloce, là locale, locale curato, curato pulito, pulito servizio, servizio essere, essere perfetto, perfetto discreto, discreto veloce
+https://www.yelp.it/biz/taiki-bari;85;qualità, pesce, essere, davvero, eccellente, tonno, salmone, soprattutto, grasso, freschissimi, nigiri, perfetto, rapporto, riso/pesce, qualità pesce, pesce essere, essere davvero, davvero eccellente, eccellente tonno, tonno salmone, salmone soprattutto, soprattutto grasso, grasso freschissimi, freschissimi nigiri, nigiri perfetto, perfetto rapporto, rapporto riso/pesce
+https://www.yelp.it/biz/taiki-bari;86;prezzo, norma, buon, giapponese, avere, niente, vedere, fusion, eccelso, avere, sicuro, prezzo, portare, molto, prezzo norma, norma buon, buon giapponese, giapponese avere, avere niente, niente vedere, vedere fusion, fusion eccelso, eccelso avere, avere sicuro, sicuro prezzo, prezzo portare, portare molto
+https://www.yelp.it/biz/taiki-bari;87;essere, é, provare, assoluto, essere é, é provare, provare assoluto
+https://www.yelp.it/biz/taiki-bari;88;rapporto, qualità, prezzo, ottimo, rapporto qualità, qualità prezzo, prezzo ottimo
+https://www.yelp.it/biz/taiki-bari;89;ambiente, piacevole, ideale, cena, lavoro, ambiente piacevole, piacevole ideale, ideale cena, cena lavoro
+https://www.yelp.it/biz/taiki-bari;90;ottimo, ristorante, giapponese, bello, quartiere, mangiare, carta, vero, bene, ottimo ristorante, ristorante giapponese, giapponese bello, bello quartiere, quartiere mangiare, mangiare carta, carta vero, vero bene
+https://www.yelp.it/biz/taiki-bari;91;qualità, sempre, ottimo, dire, qualità sempre, sempre ottimo, ottimo dire
+https://www.yelp.it/biz/taiki-bari;92;consiglio, passare, ottimo, serata, compagnia, consiglio passare, passare ottimo, ottimo serata, serata compagnia
+https://www.yelp.it/biz/taiki-bari;93;fantastico, struttura, favoloso, prezzo, pò, alto, cameriere, vero, bravo, inoltre, essere, cucina, vista, ristorante, tocco, classe, fantastico struttura, struttura favoloso, favoloso prezzo, prezzo pò, pò alto, alto cameriere, cameriere vero, vero bravo, bravo inoltre, inoltre essere, essere cucina, cucina vista, vista ristorante, ristorante tocco, tocco classe
+https://www.yelp.it/biz/taiki-bari;94;sempre, gran, qualità, portata, ottimo, location, vastità, scelta, domicilio, sorpresa, sempre gran, gran qualità, qualità portata, portata ottimo, ottimo location, location vastità, vastità scelta, scelta domicilio, domicilio sorpresa
+https://www.yelp.it/biz/taiki-bari;96;certezza, bravo, certezza bravo
+https://www.yelp.it/biz/taiki-bari;97;semplicemente, delizioso, semplicemente delizioso
+https://www.yelp.it/biz/taiki-bari;98;posto, raffinato, personale, gentile, preparare, posto raffinato, raffinato personale, personale gentile, gentile preparare
+https://www.yelp.it/biz/taiki-bari;99;rapporto, qualità/prezzo, giusto, rapporto qualità/prezzo, qualità/prezzo giusto
+https://www.yelp.it/biz/taiki-bari;100;bello, locale, ubicare, piano, terra, arredare, cura, personale, gentile, professionale, portato, presentare, modo, impeccabile, carta, vino, discreto, bello locale, locale ubicare, ubicare piano, piano terra, terra arredare, arredare cura, cura personale, personale gentile, gentile professionale, professionale portato, portato presentare, presentare modo, modo impeccabile, impeccabile carta, carta vino, vino discreto
+https://www.yelp.it/biz/taiki-bari;101;consiglio, paraggio, consiglio paraggio
+https://www.yelp.it/biz/taiki-bari;102;servizio, sempre, impeccabile, gentile, venire, volta, servizio sempre, sempre impeccabile, impeccabile gentile, gentile venire, venire volta
+https://www.yelp.it/biz/taiki-bari;103;davvero, accogliente, professionale, davvero accogliente, accogliente professionale
+https://www.yelp.it/biz/taiki-bari;104;cibo, essere, ottimo, luogo, deliziare, palato, cibo essere, essere ottimo, ottimo luogo, luogo deliziare, deliziare palato
+https://www.yelp.it/biz/taiki-bari;105;molto, buono, anche, dolce, molto buono, buono anche, anche dolce
+https://www.yelp.it/biz/taiki-bari;106;avere, ristorante, capire, sorriso, bene, avere ristorante, ristorante capire, capire sorriso, sorriso bene
+https://www.yelp.it/biz/taiki-bari;107;cibo, essere, ottimo, cibo essere, essere ottimo
+https://www.yelp.it/biz/taiki-bari;108;continuare, così, continuare così
+https://www.yelp.it/biz/taiki-bari;109;novità, davvero, interessante, essere, introduzione, vero, espressione, inventiva, capacità, abbinare, ingrediente, sempre, alto, qualità, novità davvero, davvero interessante, interessante essere, essere introduzione, introduzione vero, vero espressione, espressione inventiva, inventiva capacità, capacità abbinare, abbinare ingrediente, ingrediente sempre, sempre alto, alto qualità
+https://www.yelp.it/biz/taiki-bari;110;vino, esclusivo, dolce, ottimo, come, esempio, delizioso, cola, croumble, essere, corredo, esperienza, culinario, unico, indimenticabile, vino esclusivo, esclusivo dolce, dolce ottimo, ottimo come, come esempio, esempio delizioso, delizioso cola, cola croumble, croumble essere, essere corredo, corredo esperienza, esperienza culinario, culinario unico, unico indimenticabile
+https://www.yelp.it/biz/taiki-bari;111;ottimo, rolls, variegato, gustoso, tempura, gambero, mandorla, mix, azzeccatissimo, accompagnare, ottimo, vino, bianco, ottimo rolls, rolls variegato, variegato gustoso, gustoso tempura, tempura gambero, gambero mandorla, mandorla mix, mix azzeccatissimo, azzeccatissimo accompagnare, accompagnare ottimo, ottimo vino, vino bianco
+https://www.yelp.it/biz/taiki-bari;112;locale, accogliente, arredare, gusto, locale accogliente, accogliente arredare, arredare gusto
+https://www.yelp.it/biz/taiki-bari;113;costo, rispecchiare, qualità, deciso, sopra, aspettativa, costo rispecchiare, rispecchiare qualità, qualità deciso, deciso sopra, sopra aspettativa
+https://www.yelp.it/biz/taiki-bari;114;esordio, oggi, ristorante, smettere, stupire, elevato, qualità, pietanza, grande, professionalità, titolare, sempre, attento, disponibile, soddisfazione, cliente, personale, preparato, cortese, presentazione, piatto, piacere, vista, successivo, gusto, ambiente, caldo, accogliente, raffinare, esordio oggi, oggi ristorante, ristorante smettere, smettere stupire, stupire elevato, elevato qualità, qualità pietanza, pietanza grande, grande professionalità, professionalità titolare, titolare sempre, sempre attento, attento disponibile, disponibile soddisfazione, soddisfazione cliente, cliente personale, personale preparato, preparato cortese, cortese presentazione, presentazione piatto, piatto piacere, piacere vista, vista successivo, successivo gusto, gusto ambiente, ambiente caldo, caldo accogliente, accogliente raffinare
+https://www.yelp.it/biz/taiki-bari;115;nascere, minuscolo, avere, convertire, piccolo, ristorante, giapponese, arredo, qualità, atmosfera, servizio, rispetto, nascere minuscolo, minuscolo avere, avere convertire, convertire piccolo, piccolo ristorante, ristorante giapponese, giapponese arredo, arredo qualità, qualità atmosfera, atmosfera servizio, servizio rispetto
+https://www.yelp.it/biz/taiki-bari;116;prezzo, adeguato, locale, molto, bello, prezzo adeguato, adeguato locale, locale molto, molto bello
+https://www.yelp.it/biz/taiki-bari;117;giusto, mix, qualità, cortesia, ambiente, gradevole, giusto mix, mix qualità, qualità cortesia, cortesia ambiente, ambiente gradevole
+https://www.yelp.it/biz/taiki-bari;118;ottimo, cena, tranquillo, ottimo cena, cena tranquillo
+https://www.yelp.it/biz/taiki-bari;119;locale, essere, molto, carino, accogliente, personale, perfetto, grande, chiarezza, menù, ampio, possibilità, scelta, locale essere, essere molto, molto carino, carino accogliente, accogliente personale, personale perfetto, perfetto grande, grande chiarezza, chiarezza menù, menù ampio, ampio possibilità, possibilità scelta
+https://www.yelp.it/biz/taiki-bari;120;ottimo, livello, rolls, variegato, gusto, originale, pesce, fresco, ottimo livello, livello rolls, rolls variegato, variegato gusto, gusto originale, originale pesce, pesce fresco
+https://www.yelp.it/biz/taiki-bari;121;anche, ramen, essere, piuttosto, gustoso, buono, anche, dolce, anche ramen, ramen essere, essere piuttosto, piuttosto gustoso, gustoso buono, buono anche, anche dolce
+https://www.yelp.it/biz/taiki-bari;122;molto, buono, qualità, piatto, offrire, molto buono, buono qualità, qualità piatto, piatto offrire
+https://www.yelp.it/biz/taiki-bari;123;servizio, ben, organizzato, veloce, gentile, servizio ben, ben organizzato, organizzato veloce, veloce gentile
+https://www.yelp.it/biz/taiki-bari;124;ambiente, curato, ospitale, personale, servizio, capace, competente, molto, cortese, ambiente curato, curato ospitale, ospitale personale, personale servizio, servizio capace, capace competente, competente molto, molto cortese
+https://www.yelp.it/biz/taiki-bari;125;qualità, pesce, essere, indiscutibile, anzi, eccellente, riguardare, branzino, gambero, tonno, qualità pesce, pesce essere, essere indiscutibile, indiscutibile anzi, anzi eccellente, eccellente riguardare, riguardare branzino, branzino gambero, gambero tonno
+https://www.yelp.it/biz/taiki-bari;126;pesce, fresco, ottimo, qualità, pesce fresco, fresco ottimo, ottimo qualità
+https://www.yelp.it/biz/taiki-bari;127;personale, cordiale, molto, disponibile, personale cordiale, cordiale molto, molto disponibile
+https://www.yelp.it/biz/taiki-bari;128;personale, molto, cordiale, professionale, buono, qualità, cucina, caratterizzare, varietà, molto, ampio, vista, jap, zona, personale molto, molto cordiale, cordiale professionale, professionale buono, buono qualità, qualità cucina, cucina caratterizzare, caratterizzare varietà, varietà molto, molto ampio, ampio vista, vista jap, jap zona
+https://www.yelp.it/biz/taiki-bari;129;cameriere, essere, sempre, gentile, affabile, gestore, anche, cameriere essere, essere sempre, sempre gentile, gentile affabile, affabile gestore, gestore anche
+https://www.yelp.it/biz/taiki-bari;130;interno, locale, molto, carino, spazioso, anche, essere, gente, sentire, opprimere, interno locale, locale molto, molto carino, carino spazioso, spazioso anche, anche essere, essere gente, gente sentire, sentire opprimere
+https://www.yelp.it/biz/taiki-bari;131;anche, essere, obiettivo, ristorante, sushi, top, class, meritare, stella, essere, bello, posto, mangiare, trascorrere, serata, compagnia, tranquillo, semplice, accogliente, anche essere, essere obiettivo, obiettivo ristorante, ristorante sushi, sushi top, top class, class meritare, meritare stella, stella essere, essere bello, bello posto, posto mangiare, mangiare trascorrere, trascorrere serata, serata compagnia, compagnia tranquillo, tranquillo semplice, semplice accogliente
+https://www.yelp.it/biz/taiki-bari;132;curare, minimo, dettaglio, intimo, ambiente, molto, pulito, personale, sala, gentile, proprietario, accogliere, sempre, sorriso, avere, particolare, cura, cliente, parlare, sushi, curare minimo, minimo dettaglio, dettaglio intimo, intimo ambiente, ambiente molto, molto pulito, pulito personale, personale sala, sala gentile, gentile proprietario, proprietario accogliere, accogliere sempre, sempre sorriso, sorriso avere, avere particolare, particolare cura, cura cliente, cliente parlare, parlare sushi
+https://www.yelp.it/biz/taiki-bari;133;materia, primo, essere, alto, qualità, ben, lontano, politica, fortuna, materia primo, primo essere, essere alto, alto qualità, qualità ben, ben lontano, lontano politica, politica fortuna
+https://www.yelp.it/biz/taiki-bari;134;ottimo, cena, sempre, ottimo cena, cena sempre
+https://www.yelp.it/biz/taiki-bari;135;sapore, eccezionale, tonno, sembrare, vivo, colore, sapore, ottimo, consistenza, sapore eccezionale, eccezionale tonno, tonno sembrare, sembrare vivo, vivo colore, colore sapore, sapore ottimo, ottimo consistenza
+https://www.yelp.it/biz/taiki-bari;136;buono, sashimi, ottimo, buono sashimi, sashimi ottimo
+https://www.yelp.it/biz/taiki-bari;137;personale, cortese, veloce, cibo, personale cortese, cortese veloce, veloce cibo
+https://www.yelp.it/biz/taiki-bari;138;ottimo, prezzo, ragionevole, ottimo prezzo, prezzo ragionevole
+https://www.yelp.it/biz/taiki-bari;139;ottimo, ristorante, servizio, rapido, gentilezza, prodotto, freschissimi, gusto, eccezionale, ottimo ristorante, ristorante servizio, servizio rapido, rapido gentilezza, gentilezza prodotto, prodotto freschissimi, freschissimi gusto, gusto eccezionale
+https://www.yelp.it/biz/taiki-bari;140;ambiente, cariare, molto, pulito, personale, cordiale, professionale, sushi, molto, buono, buono, scelta, eccepire, ambiente cariare, cariare molto, molto pulito, pulito personale, personale cordiale, cordiale professionale, professionale sushi, sushi molto, molto buono, buono buono, buono scelta, scelta eccepire
+https://www.yelp.it/biz/taiki-bari;141;locale, figo, chic, spazioso, accogliere, grazie, anche, competenza, proprietario, personale, locale figo, figo chic, chic spazioso, spazioso accogliere, accogliere grazie, grazie anche, anche competenza, competenza proprietario, proprietario personale
+https://www.yelp.it/biz/taiki-bari;142;arredamento, elegante, personale, gentile, interessante, proposta, arredamento elegante, elegante personale, personale gentile, gentile interessante, interessante proposta
+https://www.yelp.it/biz/taiki-bari;143;ristorante, meritare, ottimo, compromesso, prezzo, qualità, ristorante meritare, meritare ottimo, ottimo compromesso, compromesso prezzo, prezzo qualità
+https://www.yelp.it/biz/taiki-bari;144;esperienza, gustativo, servizio, essere, vero, eccellente, esperienza gustativo, gustativo servizio, servizio essere, essere vero, vero eccellente
+https://www.yelp.it/biz/taiki-bari;145;personale, molto, cortese, disponibile, personale molto, molto cortese, cortese disponibile
+https://www.yelp.it/biz/taiki-bari;146;anche, dolce, essere, ottimo, fattura, anche dolce, dolce essere, essere ottimo, ottimo fattura
+https://www.yelp.it/biz/taiki-bari;148;nighiri, molto, buono, sapore, fresco, curare, dettaglio, nighiri molto, molto buono, buono sapore, sapore fresco, fresco curare, curare dettaglio
+https://www.yelp.it/biz/taiki-bari;149;personale, gentile, personale gentile
+https://www.yelp.it/biz/taiki-bari;150;serata, carino, serata carino
+https://www.yelp.it/biz/taiki-bari;151;grazie, presto, grazie presto
+https://www.yelp.it/biz/taiki-bari;152;sopratutto, uscire, pieno, soddisfare, portafoglio, ancora, pieno, sopratutto uscire, uscire pieno, pieno soddisfare, soddisfare portafoglio, portafoglio ancora, ancora pieno
+https://www.yelp.it/biz/taiki-bari;153;personale, gentile, sorridente, veloce, personale gentile, gentile sorridente, sorridente veloce
+https://www.yelp.it/biz/taiki-bari;154;solo, dolce, finale, troppo, ghiacciato, cheesecake, avere, cheesecake, solo dolce, dolce finale, finale troppo, troppo ghiacciato, ghiacciato cheesecake, cheesecake avere, avere cheesecake
+https://www.yelp.it/biz/taiki-bari;155;sala, elegante, personale, gentile, sopratutto, ottimo, qualità, materia, prima, prezzo, modesto, sala elegante, elegante personale, personale gentile, gentile sopratutto, sopratutto ottimo, ottimo qualità, qualità materia, materia prima, prima prezzo, prezzo modesto
+https://www.yelp.it/biz/taiki-bari;156;resto, staff, molto, attento, gentile, resto staff, staff molto, molto attento, attento gentile
+https://www.yelp.it/biz/taiki-bari;157;ristorare, molto, cariare, elegante, personale, gentile, disponibile, ristorare molto, molto cariare, cariare elegante, elegante personale, personale gentile, gentile disponibile
+https://www.yelp.it/biz/taiki-bari;158;accompagnare, cortesia, atmosfera, davvero, unico, accompagnare cortesia, cortesia atmosfera, atmosfera davvero, davvero unico
+https://www.yelp.it/biz/taiki-bari;159;complimentare, ragazzo, continuare, coso, avere, invidiare, complimentare ragazzo, ragazzo continuare, continuare coso, coso avere, avere invidiare
+https://www.yelp.it/biz/taiki-bari;160;qualità, davvero, ottimo, qualità davvero, davvero ottimo
+https://www.yelp.it/biz/taiki-bari;161;pesce, sempre, freschissimo, conto, adeguato, pesce sempre, sempre freschissimo, freschissimo conto, conto adeguato
+https://www.yelp.it/biz/taiki-bari;162;tornare, qui, appuntamento, romantico, poco, tempo, fa, tornare qui, qui appuntamento, appuntamento romantico, romantico poco, poco tempo, tempo fa
+https://www.yelp.it/biz/taiki-bari;163;assoluto, ottimo, assoluto ottimo
+https://www.yelp.it/biz/taiki-bari;166;buono, essere, semifreddo, cioccolato, cocco, pistacchio, buono essere, essere semifreddo, semifreddo cioccolato, cioccolato cocco, cocco pistacchio
+https://www.yelp.it/biz/taiki-bari;167;esperienza, veloce, away, soluzione, già, pronto, portare, via, preparare, esperienza veloce, veloce away, away soluzione, soluzione già, già pronto, pronto portare, portare via, via preparare
+https://www.yelp.it/biz/taiki-bari;168;velleità, momento, soddisfare, pieno, velleità momento, momento soddisfare, soddisfare pieno
+https://www.yelp.it/biz/taiki-bari;169;cucina, giapponese, più, caro, rispetto, locale, improvvisata, cucina giapponese, giapponese più, più caro, caro rispetto, rispetto locale, locale improvvisata
+https://www.yelp.it/biz/taiki-bari;170;cibo, buono, fresco, media, cibo buono, buono fresco, fresco media
+https://www.yelp.it/biz/taiki-bari;171;roll, bello, ristorante, giapponese, essere, vero, buono, qualità, materia, prima, servizio, essere, veloce, affluenza, personale, gentile, roll bello, bello ristorante, ristorante giapponese, giapponese essere, essere vero, vero buono, buono qualità, qualità materia, materia prima, prima servizio, servizio essere, essere veloce, veloce affluenza, affluenza personale, personale gentile
+https://www.yelp.it/biz/taiki-bari;172;essere, piacere, tornare, considerare, trattamento, riservare, cliente, essere piacere, piacere tornare, tornare considerare, considerare trattamento, trattamento riservare, riservare cliente
+https://www.yelp.it/biz/taiki-bari;173;menù, essere, perfetto, connubio, creatività, tradizione, unire, sapore, occhiata, piuttosto, diverso, maniera, eccellente, menù essere, essere perfetto, perfetto connubio, connubio creatività, creatività tradizione, tradizione unire, unire sapore, sapore occhiata, occhiata piuttosto, piuttosto diverso, diverso maniera, maniera eccellente
+https://www.yelp.it/biz/taiki-bari;174;diventare, ufficialmente, ristorante, sushi, preferito, diventare ufficialmente, ufficialmente ristorante, ristorante sushi, sushi preferito
+https://www.yelp.it/biz/taiki-bari;175;ottimo, locale, ottimo, cucina, ricetta, molto, variegato, scontato, servizio, veloce, attento, cordiale, ottimo locale, locale ottimo, ottimo cucina, cucina ricetta, ricetta molto, molto variegato, variegato scontato, scontato servizio, servizio veloce, veloce attento, attento cordiale
+https://www.yelp.it/biz/taiki-bari;176;anche, dolce, essere, eccezionale, cheesecake, torta, riso, soffiare, essere, divino, anche dolce, dolce essere, essere eccezionale, eccezionale cheesecake, cheesecake torta, torta riso, riso soffiare, soffiare essere, essere divino
+https://www.yelp.it/biz/taiki-bari;177;locale, ampio, piacevole, vista, donare, relax, accoglienza, locale ampio, ampio piacevole, piacevole vista, vista donare, donare relax, relax accoglienza
+https://www.yelp.it/biz/taiki-bari;178;servizio, impeccabile, professionale, servizio impeccabile, impeccabile professionale
+https://www.yelp.it/biz/taiki-bari;179;ricco, scelta, vino, birra, ricco scelta, scelta vino, vino birra
+https://www.yelp.it/biz/taiki-bari;180;continuare, così, unico, piccolo, sbavatura, buono, eccelso, continuare così, così unico, unico piccolo, piccolo sbavatura, sbavatura buono, buono eccelso
+https://www.yelp.it/biz/taiki-bari;181;mancare, poco, eccellenza, assoluto, mancare poco, poco eccellenza, eccellenza assoluto
+https://www.yelp.it/biz/taiki-bari;182;sabato, sera, essere, serata, spettacolare, location, tranquillo, proprietario, cortese, personale, altezza, situazione, sabato sera, sera essere, essere serata, serata spettacolare, spettacolare location, location tranquillo, tranquillo proprietario, proprietario cortese, cortese personale, personale altezza, altezza situazione
+https://www.yelp.it/biz/taiki-bari;184;posto, confortevole, ottimo, cibo, solo, piccolo, raccomandazione, posto confortevole, confortevole ottimo, ottimo cibo, cibo solo, solo piccolo, piccolo raccomandazione
+https://www.yelp.it/biz/taiki-bari;185;rispetto, cucina, tradizionale, giapponese, qui, cucina, essere, capolavoro, rispetto cucina, cucina tradizionale, tradizionale giapponese, giapponese qui, qui cucina, cucina essere, essere capolavoro
+https://www.yelp.it/biz/taiki-bari;186;cibo, ottimo, qualità, pesce, sempre, fresco, servizio, impeccabile, cibo ottimo, ottimo qualità, qualità pesce, pesce sempre, sempre fresco, fresco servizio, servizio impeccabile
+https://www.yelp.it/biz/taiki-bari;187;locale, minimale, stile, giapponese, molto, tranquillo, locale minimale, minimale stile, stile giapponese, giapponese molto, molto tranquillo
+https://www.yelp.it/biz/taiki-bari;188;cibo, ottimo, varietà, scelta, cibo ottimo, ottimo varietà, varietà scelta
+https://www.yelp.it/biz/taiki-bari;189;ragazzo, essere, pieno, ottimo, volontà, chiaro, soddisfare, pieno, anche, cortesia, rapidità, ragazzo essere, essere pieno, pieno ottimo, ottimo volontà, volontà chiaro, chiaro soddisfare, soddisfare pieno, pieno anche, anche cortesia, cortesia rapidità
+https://www.yelp.it/biz/taiki-bari;190;personale, gentile, attento, cliente, personale gentile, gentile attento, attento cliente
+https://www.yelp.it/biz/taiki-bari;191;pesce, sempre, fresco, grande, varietà, sushi, pesce sempre, sempre fresco, fresco grande, grande varietà, varietà sushi
+https://www.yelp.it/biz/taiki-bari;192;amare, piatto, mare, essere, possibilità, mangiare, sempre, ottimo, amare piatto, piatto mare, mare essere, essere possibilità, possibilità mangiare, mangiare sempre, sempre ottimo
+https://www.yelp.it/biz/taiki-bari;193;vasto, scelta, freschissimo, servire, grande, gusto, estetico, presentazione, vasto scelta, scelta freschissimo, freschissimo servire, servire grande, grande gusto, gusto estetico, estetico presentazione
+https://www.yelp.it/biz/taiki-bari;194;serata, ingrediente, essere, perfetto, quindi, capire, essere, dietro, ottimo, organizzazione, serata ingrediente, ingrediente essere, essere perfetto, perfetto quindi, quindi capire, capire essere, essere dietro, dietro ottimo, ottimo organizzazione
+https://www.yelp.it/biz/taiki-bari;195;consigliare, coppia, famiglia, consigliare coppia, coppia famiglia
+https://www.yelp.it/biz/taiki-bari;196;migliore, bario, migliore bario
+https://www.yelp.it/biz/taiki-bari;197;pranzo, davvero, eccezionale, pranzo davvero, davvero eccezionale
+https://www.yelp.it/biz/taiki-bari;198;ormai, anno, essere, cliente, affezionato, ormai anno, anno essere, essere cliente, cliente affezionato
+https://www.yelp.it/biz/taiki-bari;199;locale, essere, estremo, gentile, professionale, simpatico, locale essere, essere estremo, estremo gentile, gentile professionale, professionale simpatico
+https://www.yelp.it/biz/taiki-bari;200;servizio, domicilio, sempre, puntuale, impeccabile, servizio domicilio, domicilio sempre, sempre puntuale, puntuale impeccabile
+https://www.yelp.it/biz/taiki-bari;201;essere, squisito, preparare, modo, eccellente, ottimo, riso, insalata, mare, essere, buono, abbondante, essere squisito, squisito preparare, preparare modo, modo eccellente, eccellente ottimo, ottimo riso, riso insalata, insalata mare, mare essere, essere buono, buono abbondante
+https://www.yelp.it/biz/taiki-bari;202;favoloso, dolce, possibilità, vasto, scelta, favoloso dolce, dolce possibilità, possibilità vasto, vasto scelta
+https://www.yelp.it/biz/taiki-bari;203;prezzo, assoluto, media, servizio, molto, attento, impeccabile, prezzo assoluto, assoluto media, media servizio, servizio molto, molto attento, attento impeccabile
+https://www.yelp.it/biz/taiki-bari;204;esperienza, locale, essere, davvero, gratificare, esperienza locale, locale essere, essere davvero, davvero gratificare
+https://www.yelp.it/biz/taiki-bari;205;assoluto, impeccabile, impeccabile, ridere, grande, qualità, così, condimento, pesce, molto, fresco, esaltare, salsa, squisito, assoluto impeccabile, impeccabile impeccabile, impeccabile ridere, ridere grande, grande qualità, qualità così, così condimento, condimento pesce, pesce molto, molto fresco, fresco esaltare, esaltare salsa, salsa squisito
+https://www.yelp.it/biz/taiki-bari;206;locale, raffinato, ben, curare, personale, gentile, preparare, cibo, ricercato, qualità, essere, punto, forza, locale raffinato, raffinato ben, ben curare, curare personale, personale gentile, gentile preparare, preparare cibo, cibo ricercato, ricercato qualità, qualità essere, essere punto, punto forza
+https://www.yelp.it/biz/taiki-bari;207;bello, location, alto, qualità, personale, competente, formare, formula, vincente, ristorante, bello location, location alto, alto qualità, qualità personale, personale competente, competente formare, formare formula, formula vincente, vincente ristorante
+https://www.yelp.it/biz/taiki-bari;208;sushi, essere, eccellente, piatto, salmone, chokosushi, sushi essere, essere eccellente, eccellente piatto, piatto salmone, salmone chokosushi
+https://www.yelp.it/biz/taiki-bari;209;location, essere, molto, bello, sfarzoso, ristorante, situare, miglior, quartiere, vicino, attrazione, location essere, essere molto, molto bello, bello sfarzoso, sfarzoso ristorante, ristorante situare, situare miglior, miglior quartiere, quartiere vicino, vicino attrazione
+https://www.yelp.it/biz/taiki-bari;210;qualità, materia, prima, essere, eccelso, variante, essere, essere, giusto, essere, alga, utilizzare, essere, davvero, ottimo, qualità materia, materia prima, prima essere, essere eccelso, eccelso variante, variante essere, essere essere, essere giusto, giusto essere, essere alga, alga utilizzare, utilizzare essere, essere davvero, davvero ottimo
+https://www.yelp.it/biz/taiki-bari;211;prezzo, essere, davvero, giusto, tenere, conto, qualità, prodotto, prezzo essere, essere davvero, davvero giusto, giusto tenere, tenere conto, conto qualità, qualità prodotto
+https://www.yelp.it/biz/taiki-bari;212;amare, qualità, cibo, giapponese, assaggiare, volta, amare qualità, qualità cibo, cibo giapponese, giapponese assaggiare, assaggiare volta
+https://www.yelp.it/biz/taiki-bari;213;davvero, ottimo, rapporto, qualità, prezzo, personale, gentile, bello, anche, location, davvero ottimo, ottimo rapporto, rapporto qualità, qualità prezzo, prezzo personale, personale gentile, gentile bello, bello anche, anche location
+https://www.yelp.it/biz/taiki-bari;214;qualità, pulizia, gentilezza, eleganza, soprattutto, bontà, pietanza, qualità pulizia, pulizia gentilezza, gentilezza eleganza, eleganza soprattutto, soprattutto bontà, bontà pietanza
+https://www.yelp.it/biz/taiki-bari;215;risultato, attenzione, essere, ottimo, sushi, davvero, ammirevole, risultato attenzione, attenzione essere, essere ottimo, ottimo sushi, sushi davvero, davvero ammirevole

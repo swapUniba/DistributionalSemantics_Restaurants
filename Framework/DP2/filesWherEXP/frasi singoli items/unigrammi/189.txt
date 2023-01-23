@@ -1,0 +1,31 @@
+https://www.yelp.it/biz/okinawa-torino;8993;piatto, caldo, sushi, ottimo
+https://www.yelp.it/biz/okinawa-torino;8994;cibo, molto, buono, fresco
+https://www.yelp.it/biz/okinawa-torino;8995;cucina, essere, buono
+https://www.yelp.it/biz/okinawa-torino;8996;sempre, apprezzare
+https://www.yelp.it/biz/okinawa-torino;8997;servizio, cordiale, attento
+https://www.yelp.it/biz/okinawa-torino;8998;particolare, insomma
+https://www.yelp.it/biz/okinawa-torino;8999;presto, eliso
+https://www.yelp.it/biz/okinawa-torino;9000;buono, ricercare, piacevole, dehor, esterno, conto, media
+https://www.yelp.it/biz/okinawa-torino;9001;servizio, educato, cortese
+https://www.yelp.it/biz/okinawa-torino;9002;buono, scelta, piacevole, serata
+https://www.yelp.it/biz/okinawa-torino;9003;complimento, davvero, buono
+https://www.yelp.it/biz/okinawa-torino;9004;cena, ottimo
+https://www.yelp.it/biz/okinawa-torino;9005;parlare, altro, piatto, preparato, momento
+https://www.yelp.it/biz/okinawa-torino;9006;assoluto, consigliatissimo
+https://www.yelp.it/biz/okinawa-torino;9007;personale, gentile
+https://www.yelp.it/biz/okinawa-torino;9008;niente, eccezionale, anzi
+https://www.yelp.it/biz/okinawa-torino;9009;ristorante, giapponese, molto, buono
+https://www.yelp.it/biz/okinawa-torino;9010;buono, qualità, cibo, ambiente, abbastanza, elegante
+https://www.yelp.it/biz/okinawa-torino;9011;posto, essere, particolarmente, rilassare, semplice, arredo, molto, pulito, illuminare, modo, gradevole
+https://www.yelp.it/biz/okinawa-torino;9012;personale, gentile
+https://www.yelp.it/biz/okinawa-torino;9013;sempre, ottimo, freschissimo, porzione, abbondante, locale, pulito
+https://www.yelp.it/biz/okinawa-torino;9014;personale, gentile, molto, disponibile
+https://www.yelp.it/biz/okinawa-torino;9015;assoluto, provare
+https://www.yelp.it/biz/okinawa-torino;9016;sushi, perfetto
+https://www.yelp.it/biz/okinawa-torino;9017;molto, molto, molto, buono
+https://www.yelp.it/biz/okinawa-torino;9018;essere, gentile
+https://www.yelp.it/biz/okinawa-torino;9019;pesce, crudo, ottimo, fresco
+https://www.yelp.it/biz/okinawa-torino;9020;cariare, ristorante
+https://www.yelp.it/biz/okinawa-torino;9021;atmosfera, tranquillo
+https://www.yelp.it/biz/okinawa-torino;9022;originalità, prelibatezza
+https://www.yelp.it/biz/okinawa-torino;9023;inoltre, ottimo, anche, qualità, prezzo

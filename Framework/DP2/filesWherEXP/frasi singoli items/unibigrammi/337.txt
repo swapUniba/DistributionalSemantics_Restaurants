@@ -1,0 +1,43 @@
+https://www.yelp.it/biz/sir-francis-drake-torino;13361;molto, buono, molto buono
+https://www.yelp.it/biz/sir-francis-drake-torino;13362;super, birra, personale, veloce, cordiale, super birra, birra personale, personale veloce, veloce cordiale
+https://www.yelp.it/biz/sir-francis-drake-torino;13363;prezzo, onesto, cibo, buono, prezzo onesto, onesto cibo, cibo buono
+https://www.yelp.it/biz/sir-francis-drake-torino;13364;locale, curare, accogliente, locale curare, curare accogliente
+https://www.yelp.it/biz/sir-francis-drake-torino;13365;ambiente, molto, accogliente, ambiente molto, molto accogliente
+https://www.yelp.it/biz/sir-francis-drake-torino;13366;ottimo, birra, ottimo birra
+https://www.yelp.it/biz/sir-francis-drake-torino;13367;buono, rapporto, qualità, prezzo, buono rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/sir-francis-drake-torino;13368;cibo, molto, buono, abbondante, cibo molto, molto buono, buono abbondante
+https://www.yelp.it/biz/sir-francis-drake-torino;13369;ambiente, simpatico, ambiente simpatico
+https://www.yelp.it/biz/sir-francis-drake-torino;13370;ottimo, musica, sottofondo, ottimo musica, musica sottofondo
+https://www.yelp.it/biz/sir-francis-drake-torino;13371;ottimo, abbondante, ottimo, panino, piatto, stile, casareccio, molto, abbondante, livello, medio, alto, cibo, ottimo, equilibrio, ottimo abbondante, abbondante ottimo, ottimo panino, panino piatto, piatto stile, stile casareccio, casareccio molto, molto abbondante, abbondante livello, livello medio, medio alto, alto cibo, cibo ottimo, ottimo equilibrio
+https://www.yelp.it/biz/sir-francis-drake-torino;13372;buon, appetito, buon appetito
+https://www.yelp.it/biz/sir-francis-drake-torino;13373;gentile, disponibile, gentile disponibile
+https://www.yelp.it/biz/sir-francis-drake-torino;13374;servizio, impeccabile, servizio impeccabile
+https://www.yelp.it/biz/sir-francis-drake-torino;13375;cibo, ottimo, cibo ottimo
+https://www.yelp.it/biz/sir-francis-drake-torino;13376;proprietario, molto, gentile, proprietario molto, molto gentile
+https://www.yelp.it/biz/sir-francis-drake-torino;13377;atmosfera, essere, accogliente, atmosfera essere, essere accogliente
+https://www.yelp.it/biz/sir-francis-drake-torino;13378;vero, bello, scoperta, vero bello, bello scoperta
+https://www.yelp.it/biz/sir-francis-drake-torino;13379;cibo, sfizioso, abbondante, cibo sfizioso, sfizioso abbondante
+https://www.yelp.it/biz/sir-francis-drake-torino;13380;ottimo, pub, bello, gente, ottimo pub, pub bello, bello gente
+https://www.yelp.it/biz/sir-francis-drake-torino;13381;voto, ottimo, voto ottimo
+https://www.yelp.it/biz/sir-francis-drake-torino;13382;molto, buono, molto buono
+https://www.yelp.it/biz/sir-francis-drake-torino;13383;buono, musica, temperatura, giusta, buono musica, musica temperatura, temperatura giusta
+https://www.yelp.it/biz/sir-francis-drake-torino;13384;comunque, essere, comunque essere
+https://www.yelp.it/biz/sir-francis-drake-torino;13385;birra, davvero, buono, vasto, scelta, birra davvero, davvero buono, buono vasto, vasto scelta
+https://www.yelp.it/biz/sir-francis-drake-torino;13386;buono, bello, panino, buono bello, bello panino
+https://www.yelp.it/biz/sir-francis-drake-torino;13387;sempre, affidabile, sicuro, migliorabile, sempre affidabile, affidabile sicuro, sicuro migliorabile
+https://www.yelp.it/biz/sir-francis-drake-torino;13388;servizio, molto, veloce, cameriere, altrettanto, cortese, servizio molto, molto veloce, veloce cameriere, cameriere altrettanto, altrettanto cortese
+https://www.yelp.it/biz/sir-francis-drake-torino;13389;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/sir-francis-drake-torino;13390;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/sir-francis-drake-torino;13391;vero, delizia, vero delizia
+https://www.yelp.it/biz/sir-francis-drake-torino;13392;cameriere, gentile, cortese, cameriere gentile, gentile cortese
+https://www.yelp.it/biz/sir-francis-drake-torino;13393;grazie, lukeug, recensione, grazie lukeug, lukeug recensione
+https://www.yelp.it/biz/sir-francis-drake-torino;13394;grazie, gbergamasco, recensione, grazie gbergamasco, gbergamasco recensione
+https://www.yelp.it/biz/sir-francis-drake-torino;13395;visita, positivo, rifare, anche, anno, visita positivo, positivo rifare, rifare anche, anche anno
+https://www.yelp.it/biz/sir-francis-drake-torino;13396;grazie, presto, grazie presto
+https://www.yelp.it/biz/sir-francis-drake-torino;13397;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/sir-francis-drake-torino;13398;buongiorno, grazie, recensione, buongiorno grazie, grazie recensione
+https://www.yelp.it/biz/sir-francis-drake-torino;13399;davvero, eccezionale, davvero eccezionale
+https://www.yelp.it/biz/sir-francis-drake-torino;13400;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/sir-francis-drake-torino;13401;ospite, gradire, ospite gradire
+https://www.yelp.it/biz/sir-francis-drake-torino;13402;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/sir-francis-drake-torino;13403;risaltare, essere, scortesia, personale, risaltare essere, essere scortesia, scortesia personale

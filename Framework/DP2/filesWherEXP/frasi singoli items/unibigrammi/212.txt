@@ -1,0 +1,35 @@
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9754;rapporto, qualità, prezzo, eccellente, rapporto qualità, qualità prezzo, prezzo eccellente
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9755;vero, delizia, vero delizia
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9756;prezzo, vero, buono, prezzo vero, vero buono
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9757;personale, gentile, personale gentile
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9758;molto, buono, molto buono
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9759;punto, più, meritare, punto più, più meritare
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9760;ottimo, antipasto, misto, ottimo antipasto, antipasto misto
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9761;consigliare, prenotare, essere, sempre, pieno, consigliare prenotare, prenotare essere, essere sempre, sempre pieno
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9762;locale, piccolo, sembrare, trattoria, buono, locale piccolo, piccolo sembrare, sembrare trattoria, trattoria buono
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9763;buono, anche, amaro, corteccia, buono anche, anche amaro, amaro corteccia
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9764;molto, consigliare, molto consigliare
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9765;cibo, greco, porzione, abbondante, buono, cibo greco, greco porzione, porzione abbondante, abbondante buono
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9766;vero, eccellente, vero eccellente
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9767;sempre, pieno, sempre pieno
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9768;esperienza, assoluto, negativo, esperienza assoluto, assoluto negativo
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9769;appassionato, cibo, greco, andare, entusiasmo, locale, appassionato cibo, cibo greco, greco andare, andare entusiasmo, entusiasmo locale
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9770;ottimo, rapporto, qualità-prezzo, ottimo rapporto, rapporto qualità-prezzo
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9771;locale, davvero, accogliente, locale davvero, davvero accogliente
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9772;portato, essere, gustoso, molto, abbondante, portato essere, essere gustoso, gustoso molto, molto abbondante
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9773;molto, generoso, quantità, molto generoso, generoso quantità
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9774;impressione, generale, sentimento, impressione generale, generale sentimento
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9775;buono, qualità, antipasto, carne, buono qualità, qualità antipasto, antipasto carne
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9776;locale, é, piccolo, accogliente, locale é, é piccolo, piccolo accogliente
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9777;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9778;ristorantino, greco, piccolo, piatto, gustoso, abbondante, ristorantino greco, greco piccolo, piccolo piatto, piatto gustoso, gustoso abbondante
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9779;molto, cortese, educare, molto cortese, cortese educare
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9780;personale, davvero, cortese, personale davvero, davvero cortese
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9781;molto, buono, semplice, veloce, stile, ricordare, molto buono, buono semplice, semplice veloce, veloce stile, stile ricordare
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9782;consigliare, assoluto, rimanere, deluso, consigliare assoluto, assoluto rimanere, rimanere deluso
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9783;piatto, tipico, preparare, perfezione, piatto tipico, tipico preparare, preparare perfezione
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9784;gusto, strepitoso, gusto strepitoso
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9785;personale, essere, molto, gentile, personale essere, essere molto, molto gentile
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9786;po, caotico, serata, piacevole, po caotico, caotico serata, serata piacevole
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9787;provare, anche, dolce, provare anche, anche dolce
+https://www.yelp.it/biz/la-taverna-greca-torino-2;9788;posto, favoloso, posto favoloso

@@ -1,0 +1,30 @@
+https://www.yelp.it/biz/blah-blah-torino;8234;sabato, serata, totalmente, musica, italiano, importante, concerto, scena, indio, italiano, ministro
+https://www.yelp.it/biz/blah-blah-torino;8235;locale, particolare, molto, scuro, passo, castello
+https://www.yelp.it/biz/blah-blah-torino;8236;ottimo, cibo, accoglienza, ottimo
+https://www.yelp.it/biz/blah-blah-torino;8237;personale, molto, cortese, buono, insalata
+https://www.yelp.it/biz/blah-blah-torino;8238;ottimo, prezzo
+https://www.yelp.it/biz/blah-blah-torino;8239;abbastanza, cortese, personale
+https://www.yelp.it/biz/blah-blah-torino;8240;ottimo, gente, qualità, concerto, parlare, personale, essere, straordinario
+https://www.yelp.it/biz/blah-blah-torino;8241;ragazzo, molto, cortese, disponibile
+https://www.yelp.it/biz/blah-blah-torino;8242;locale, essere, carino, sala, cinema, interno
+https://www.yelp.it/biz/blah-blah-torino;8243;perchè, location, essere, molto, particolare
+https://www.yelp.it/biz/blah-blah-torino;8244;essere, posto, perfetto, pranzo, rapido, lavoro
+https://www.yelp.it/biz/blah-blah-torino;8245;qualità, cibo, essere, buono
+https://www.yelp.it/biz/blah-blah-torino;8246;buono, apericena
+https://www.yelp.it/biz/blah-blah-torino;8247;meritare, stella
+https://www.yelp.it/biz/blah-blah-torino;8248;buon, aperitivo, centro, bello, locale, abbinare, musica, tendelzialmente, vino, calice
+https://www.yelp.it/biz/blah-blah-torino;8249;cameriere, carino
+https://www.yelp.it/biz/blah-blah-torino;8250;cibo, abbastanza, buono, buono, pizza, bianco, rossa
+https://www.yelp.it/biz/blah-blah-torino;8251;ambiente, opinione, essere, adatto, più, clientela, giovane, variare, anno
+https://www.yelp.it/biz/blah-blah-torino;8252;personale, disponibile, cortese
+https://www.yelp.it/biz/blah-blah-torino;8253;bravo, sempre, così
+https://www.yelp.it/biz/blah-blah-torino;8254;esperienza, aperitivo, serale, piuttosto, deludente
+https://www.yelp.it/biz/blah-blah-torino;8255;ottimo, scelta, musicale
+https://www.yelp.it/biz/blah-blah-torino;8256;locale, essere, vero, molto, cariare, musica, fantastico
+https://www.yelp.it/biz/blah-blah-torino;8257;troppo, facile
+https://www.yelp.it/biz/blah-blah-torino;8258;compagno, giorno, buono, punto, vista, abbondanza, qualità
+https://www.yelp.it/biz/blah-blah-torino;8259;ambiente, giovane, rilassare, buon, cibo
+https://www.yelp.it/biz/blah-blah-torino;8260;servizio, rapido, gentile, curare
+https://www.yelp.it/biz/blah-blah-torino;8261;molto, cariare
+https://www.yelp.it/biz/blah-blah-torino;8262;barista, essere, piacevole, bevanda, essere, buono
+https://www.yelp.it/biz/blah-blah-torino;8263;speciale, dire

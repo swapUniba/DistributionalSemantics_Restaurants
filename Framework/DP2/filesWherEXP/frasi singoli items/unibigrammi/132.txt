@@ -1,0 +1,28 @@
+https://www.yelp.it/biz/sicily-bar-torino;7338;locale, cariare, personale, gentile, locale cariare, cariare personale, personale gentile
+https://www.yelp.it/biz/sicily-bar-torino;7339;ottimo, colazione, cannolo, caffè, ottimo colazione, colazione cannolo, cannolo caffè
+https://www.yelp.it/biz/sicily-bar-torino;7340;fresco, buono, fresco buono
+https://www.yelp.it/biz/sicily-bar-torino;7341;bello, luminoso, climatizzare, locale, carino, dehor, bello luminoso, luminoso climatizzare, climatizzare locale, locale carino, carino dehor
+https://www.yelp.it/biz/sicily-bar-torino;7342;buono, anche, cappuccino, buono anche, anche cappuccino
+https://www.yelp.it/biz/sicily-bar-torino;7343;ambiente, essere, piacevole, ambiente essere, essere piacevole
+https://www.yelp.it/biz/sicily-bar-torino;7344;personale, essere, davvero, gentile, disponibile, personale essere, essere davvero, davvero gentile, gentile disponibile
+https://www.yelp.it/biz/sicily-bar-torino;7345;locale, piccolo, affollato, ottimo, prodotto, siciliano, essere, dolce, salare, locale piccolo, piccolo affollato, affollato ottimo, ottimo prodotto, prodotto siciliano, siciliano essere, essere dolce, dolce salare
+https://www.yelp.it/biz/sicily-bar-torino;7346;bello, pulire, locale, bello pulire, pulire locale
+https://www.yelp.it/biz/sicily-bar-torino;7347;qualità, soddisfacente, qualità soddisfacente
+https://www.yelp.it/biz/sicily-bar-torino;7348;esperienza, ripetere, esperienza ripetere
+https://www.yelp.it/biz/sicily-bar-torino;7349;ambiente, moderno, gradevole, dehors, fisso, ambiente moderno, moderno gradevole, gradevole dehors, dehors fisso
+https://www.yelp.it/biz/sicily-bar-torino;7350;personale, cortese, simpatico, personale cortese, cortese simpatico
+https://www.yelp.it/biz/sicily-bar-torino;7351;personale, ottimo, cordiale, personale ottimo, ottimo cordiale
+https://www.yelp.it/biz/sicily-bar-torino;7352;personale, cordiale, simpatico, personale cordiale, cordiale simpatico
+https://www.yelp.it/biz/sicily-bar-torino;7353;buono, colazione, buono colazione
+https://www.yelp.it/biz/sicily-bar-torino;7354;bello, caffetteria, rinomato, buono, pasticceria, bello caffetteria, caffetteria rinomato, rinomato buono, buono pasticceria
+https://www.yelp.it/biz/sicily-bar-torino;7355;essere, fantastico, essere fantastico
+https://www.yelp.it/biz/sicily-bar-torino;7356;consiglio, assoluto, fare, salto, consiglio assoluto, assoluto fare, fare salto
+https://www.yelp.it/biz/sicily-bar-torino;7357;servizio, ottimo, servizio ottimo
+https://www.yelp.it/biz/sicily-bar-torino;7358;diavolo, sorriso, diavolo sorriso
+https://www.yelp.it/biz/sicily-bar-torino;7359;personale, abbastanza, gentile, simpatico, personale abbastanza, abbastanza gentile, gentile simpatico
+https://www.yelp.it/biz/sicily-bar-torino;7360;esteriormente, essere, croccante, esteriormente essere, essere croccante
+https://www.yelp.it/biz/sicily-bar-torino;7361;dolce, molto, buono, cannolo, super, dolce molto, molto buono, buono cannolo, cannolo super
+https://www.yelp.it/biz/sicily-bar-torino;7362;grazie, presto, grazie presto
+https://www.yelp.it/biz/sicily-bar-torino;7363;invece, pasticcino, cannolo, siciliano, essere, spettacolare, invece pasticcino, pasticcino cannolo, cannolo siciliano, siciliano essere, essere spettacolare
+https://www.yelp.it/biz/sicily-bar-torino;7364;toilette, essere, grande, sempre, ben, fornito, pulita, toilette essere, essere grande, grande sempre, sempre ben, ben fornito, fornito pulita
+https://www.yelp.it/biz/sicily-bar-torino;7365;finire, caffè, panna, davvero, buono, finire caffè, caffè panna, panna davvero, davvero buono

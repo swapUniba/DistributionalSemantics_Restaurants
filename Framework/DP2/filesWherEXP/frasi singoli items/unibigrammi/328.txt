@@ -1,0 +1,40 @@
+https://www.yelp.it/biz/yoshi-bar-torino;13112;cenare, molto, bene, cenare molto, molto bene
+https://www.yelp.it/biz/yoshi-bar-torino;13113;piatto, scegliere, molto, buono, piatto scegliere, scegliere molto, molto buono
+https://www.yelp.it/biz/yoshi-bar-torino;13114;comunque, fortuna, ben, riscaldare, comunque fortuna, fortuna ben, ben riscaldare
+https://www.yelp.it/biz/yoshi-bar-torino;13115;davvero, eccellente, pesce, freschissimo, davvero eccellente, eccellente pesce, pesce freschissimo
+https://www.yelp.it/biz/yoshi-bar-torino;13116;servizio, molto, cordiale, servizio molto, molto cordiale
+https://www.yelp.it/biz/yoshi-bar-torino;13117;personale, gentile, personale gentile
+https://www.yelp.it/biz/yoshi-bar-torino;13118;molto, buono, fresco, molto buono, buono fresco
+https://www.yelp.it/biz/yoshi-bar-torino;13119;menù, vario, interessante, menù vario, vario interessante
+https://www.yelp.it/biz/yoshi-bar-torino;13120;buono, varietà, menù, buono varietà, varietà menù
+https://www.yelp.it/biz/yoshi-bar-torino;13121;personale, gradevole, accogliente, personale gradevole, gradevole accogliente
+https://www.yelp.it/biz/yoshi-bar-torino;13122;personale, gentile, personale gentile
+https://www.yelp.it/biz/yoshi-bar-torino;13123;servizio, gentile, rapido, servizio gentile, gentile rapido
+https://www.yelp.it/biz/yoshi-bar-torino;13124;meritare, menzione, anche, dolce, specialmente, originale, sushi, dolce, meritare menzione, menzione anche, anche dolce, dolce specialmente, specialmente originale, originale sushi, sushi dolce
+https://www.yelp.it/biz/yoshi-bar-torino;13125;personale, cordiale, personale cordiale
+https://www.yelp.it/biz/yoshi-bar-torino;13126;assoluto, provare, assoluto provare
+https://www.yelp.it/biz/yoshi-bar-torino;13127;rapporto, qualità-prezzo, essere, buono, rapporto qualità-prezzo, qualità-prezzo essere, essere buono
+https://www.yelp.it/biz/yoshi-bar-torino;13128;cortesia, ospitalità, cortesia ospitalità
+https://www.yelp.it/biz/yoshi-bar-torino;13129;grande, attenzione, essere, disponibilità, personale, grande attenzione, attenzione essere, essere disponibilità, disponibilità personale
+https://www.yelp.it/biz/yoshi-bar-torino;13130;piacevole, locale, passo, piacevole locale, locale passo
+https://www.yelp.it/biz/yoshi-bar-torino;13131;personale, disponibile, gentile, preciso, personale disponibile, disponibile gentile, gentile preciso
+https://www.yelp.it/biz/yoshi-bar-torino;13132;personale, molto, cortese, personale molto, molto cortese
+https://www.yelp.it/biz/yoshi-bar-torino;13133;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/yoshi-bar-torino;13134;locale, molto, carino, dehor, aperto, locale molto, molto carino, carino dehor, dehor aperto
+https://www.yelp.it/biz/yoshi-bar-torino;13135;tonno, salmone, vero, ottimo, tonno salmone, salmone vero, vero ottimo
+https://www.yelp.it/biz/yoshi-bar-torino;13136;sushi, migliore, sushi migliore
+https://www.yelp.it/biz/yoshi-bar-torino;13137;rapporto, qualità/prezzo, eccellente, rapporto qualità/prezzo, qualità/prezzo eccellente
+https://www.yelp.it/biz/yoshi-bar-torino;13138;essere, bravo, essere bravo
+https://www.yelp.it/biz/yoshi-bar-torino;13139;essere, saporito, molto, equilibrato, essere saporito, saporito molto, molto equilibrato
+https://www.yelp.it/biz/yoshi-bar-torino;13140;molto, soddisfare, molto soddisfare
+https://www.yelp.it/biz/yoshi-bar-torino;13141;personale, gentile, personale gentile
+https://www.yelp.it/biz/yoshi-bar-torino;13142;scelta, piatto, é, piuttosto, ampio, prodotto, essere, freschissimi, scelta piatto, piatto é, é piuttosto, piuttosto ampio, ampio prodotto, prodotto essere, essere freschissimi
+https://www.yelp.it/biz/yoshi-bar-torino;13143;personale, essere, molto, gentile, personale essere, essere molto, molto gentile
+https://www.yelp.it/biz/yoshi-bar-torino;13144;molto, particolare, ottimo, cucina, giapponese, provare, tonno, saltare, molto particolare, particolare ottimo, ottimo cucina, cucina giapponese, giapponese provare, provare tonno, tonno saltare
+https://www.yelp.it/biz/yoshi-bar-torino;13145;tavolo, ottimo, servizio, buon, sushi, gentile, accogliente, tavolo ottimo, ottimo servizio, servizio buon, buon sushi, sushi gentile, gentile accogliente
+https://www.yelp.it/biz/yoshi-bar-torino;13146;bravo, continuare, così, bravo continuare, continuare così
+https://www.yelp.it/biz/yoshi-bar-torino;13147;particolare, buono, particolare buono
+https://www.yelp.it/biz/yoshi-bar-torino;13148;ottimo, qualitá, soprattutto, pesce, abbondante, preparazione, ottimo qualitá, qualitá soprattutto, soprattutto pesce, pesce abbondante, abbondante preparazione
+https://www.yelp.it/biz/yoshi-bar-torino;13149;gentilezza, supremo, illy, caffè, gentilezza supremo, supremo illy, illy caffè
+https://www.yelp.it/biz/yoshi-bar-torino;13150;personale, cordiale, personale cordiale
+https://www.yelp.it/biz/yoshi-bar-torino;13151;provare, credere, provare credere

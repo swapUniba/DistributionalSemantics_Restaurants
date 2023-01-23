@@ -1,0 +1,17 @@
+https://www.yelp.it/biz/singapore-torino;10122;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/singapore-torino;10123;prezzo, onesto, personale, gentile, prezzo onesto, onesto personale, personale gentile
+https://www.yelp.it/biz/singapore-torino;10124;fare, pizza, vero, ottimo, fare pizza, pizza vero, vero ottimo
+https://www.yelp.it/biz/singapore-torino;10125;qualità, cibo, comunque, essere, buono, qualità cibo, cibo comunque, comunque essere, essere buono
+https://www.yelp.it/biz/singapore-torino;10126;buono, economico, buono economico
+https://www.yelp.it/biz/singapore-torino;10127;menù, conveniente, qualità, discreto, menù conveniente, conveniente qualità, qualità discreto
+https://www.yelp.it/biz/singapore-torino;10128;pizza, molto, buono, pizza molto, molto buono
+https://www.yelp.it/biz/singapore-torino;10129;gelare, friggere, favoloso, gelare friggere, friggere favoloso
+https://www.yelp.it/biz/singapore-torino;10130;vero, sorpresa, lenire, dispiacere, sushi, mancato, vero sorpresa, sorpresa lenire, lenire dispiacere, dispiacere sushi, sushi mancato
+https://www.yelp.it/biz/singapore-torino;10131;ottimo, alternativa, ottimo alternativa
+https://www.yelp.it/biz/singapore-torino;10132;ottimare, pizza, ottimare pizza
+https://www.yelp.it/biz/singapore-torino;10133;buono, anche, caffè, buono anche, anche caffè
+https://www.yelp.it/biz/singapore-torino;10134;ottimo, atmosfera, servizio, eccellente, pasto, ottimo, ottimo atmosfera, atmosfera servizio, servizio eccellente, eccellente pasto, pasto ottimo
+https://www.yelp.it/biz/singapore-torino;10135;quazi, piatto, unico, buono, quazi piatto, piatto unico, unico buono
+https://www.yelp.it/biz/singapore-torino;10136;ristorante, essere, speciale, ristorante essere, essere speciale
+https://www.yelp.it/biz/singapore-torino;10137;buono, essere, sempre, gentile, molto, disponibile, buono essere, essere sempre, sempre gentile, gentile molto, molto disponibile
+https://www.yelp.it/biz/singapore-torino;10138;personale, essere, molto, gentile, veloce, personale essere, essere molto, molto gentile, gentile veloce

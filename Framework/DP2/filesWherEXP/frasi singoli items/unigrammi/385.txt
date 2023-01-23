@@ -1,0 +1,41 @@
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14802;dettaglio, curare, molto, bene
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14803;eccezionale, tumino
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14804;immancabile, distillato, pera, retrogusto, fantasmagorico
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14805;polenta, asino, buono
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14806;locale, meritare, piccino, accogliente
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14807;servizio, informale, simpatico
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14808;ottimo, anche, vino
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14809;ottimo, rapporto, qualità/prezzo
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14810;molto, buono, antipasto, specialità, tipico, piemontese
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14811;servizio, essere, cortese, attento
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14812;cibo, davvero, ottimo
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14813;presentazione, piatto, essere, molo, curare, sapore, soddisfare, palato
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14814;ambiente, cariare, servizio
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14815;accogliente, piacevole, locale
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14816;porzione, molto, buono, abbondante
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14817;carta, vino, buono
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14818;grazie, piacevole, serata
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14819;buono, servizio
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14820;buono, maiale, buono
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14821;personale, gentile, disponibile
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14822;rapporto, qualità, prezzo, buono
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14823;abbastanza, caro, ottimo, rapporto, qualità, prezzo
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14824;locale, molto, cariare, accogliente
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14825;prezzo, giusto, ottimo, cucina
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14826;servizio, informale, gradevole
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14827;ottimo, rapporto, qualità-prezzo
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14828;evidentemente, cameriere, gradire, accento
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14829;vino, sfuso, corredo, sempre, gradito
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14830;locale, pulito, personale, gentile
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14831;prezzo, adeguato, servizio
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14832;davvero, ottimo, esperienza, culinario
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14833;consiglio, vivo, meritare, visita
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14834;buono, antipasto
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14835;porzione, essere, abbondante, locale, curare, personale, essere, gentile
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14836;buono, posizione
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14837;buono, panna, cuocere, caramello, salato
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14838;servizio, ottimo, molto, professionale, ottimo, suggerimento, simpatico
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14839;insomma, buono, fresco
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14840;locale, molto, bello, pulito, confortevole
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14841;davvero, eccezionale
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;14842;bravo, bravo

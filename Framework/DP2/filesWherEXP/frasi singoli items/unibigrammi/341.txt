@@ -1,0 +1,54 @@
+https://www.yelp.it/biz/la-luna-rossa-torino;13511;ambiente, essere, carino, ambiente essere, essere carino
+https://www.yelp.it/biz/la-luna-rossa-torino;13512;locale, cariare, locale cariare
+https://www.yelp.it/biz/la-luna-rossa-torino;13513;impatto, sembrare, locale, molto, chic, bello, vedere, essere, sincero, impatto sembrare, sembrare locale, locale molto, molto chic, chic bello, bello vedere, vedere essere, essere sincero
+https://www.yelp.it/biz/la-luna-rossa-torino;13514;personale, gentile, simpatico, prezzo, assoluto, norma, personale gentile, gentile simpatico, simpatico prezzo, prezzo assoluto, assoluto norma
+https://www.yelp.it/biz/la-luna-rossa-torino;13515;antipasto, discreto, antipasto discreto
+https://www.yelp.it/biz/la-luna-rossa-torino;13516;molto, vicino, centro, molto vicino, vicino centro
+https://www.yelp.it/biz/la-luna-rossa-torino;13517;prezzo, accettabile, pizza, buono, prezzo accettabile, accettabile pizza, pizza buono
+https://www.yelp.it/biz/la-luna-rossa-torino;13518;posto, meritare, anche, centralità, posto meritare, meritare anche, anche centralità
+https://www.yelp.it/biz/la-luna-rossa-torino;13519;personale, molto, gentile, disponibile, prezzo, abbordabile, consigliare, personale molto, molto gentile, gentile disponibile, disponibile prezzo, prezzo abbordabile, abbordabile consigliare
+https://www.yelp.it/biz/la-luna-rossa-torino;13520;dolce, consiglio, ottimo, gelato, dolce consiglio, consiglio ottimo, ottimo gelato
+https://www.yelp.it/biz/la-luna-rossa-torino;13521;ottimo, dolce, casa, ottimo dolce, dolce casa
+https://www.yelp.it/biz/la-luna-rossa-torino;13522;servizio, essere, gentile, rapido, servizio essere, essere gentile, gentile rapido
+https://www.yelp.it/biz/la-luna-rossa-torino;13523;locale, molto, cariare, raffinare, locale molto, molto cariare, cariare raffinare
+https://www.yelp.it/biz/la-luna-rossa-torino;13524;pizza, molto, buono, pizza molto, molto buono
+https://www.yelp.it/biz/la-luna-rossa-torino;13525;luna, rosso, invece, essere, bello, scoperta, luna rosso, rosso invece, invece essere, essere bello, bello scoperta
+https://www.yelp.it/biz/la-luna-rossa-torino;13526;essere, soggettivo, essere soggettivo
+https://www.yelp.it/biz/la-luna-rossa-torino;13527;gentile, cortese, gentile cortese
+https://www.yelp.it/biz/la-luna-rossa-torino;13528;buono, esperienza, ripetere, buono esperienza, esperienza ripetere
+https://www.yelp.it/biz/la-luna-rossa-torino;13529;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/la-luna-rossa-torino;13530;cogliere, intelligente, cogliere intelligente
+https://www.yelp.it/biz/la-luna-rossa-torino;13531;scelta, menu, molto, ampio, scelta menu, menu molto, molto ampio
+https://www.yelp.it/biz/la-luna-rossa-torino;13532;locale, carino, personale, gentile, veloce, locale carino, carino personale, personale gentile, gentile veloce
+https://www.yelp.it/biz/la-luna-rossa-torino;13533;solo, voglia/necessità, buono, cena, solo voglia/necessità, voglia/necessità buono, buono cena
+https://www.yelp.it/biz/la-luna-rossa-torino;13534;impasto, pista, buono, gustoso, anche, pò, difficile, digerire, prodotto, buono, qualità, impasto pista, pista buono, buono gustoso, gustoso anche, anche pò, pò difficile, difficile digerire, digerire prodotto, prodotto buono, buono qualità
+https://www.yelp.it/biz/la-luna-rossa-torino;13535;personale, gentile, professionale, personale gentile, gentile professionale
+https://www.yelp.it/biz/la-luna-rossa-torino;13536;locale, gradevole, luce, tavolo, troppo, accostare, locale gradevole, gradevole luce, luce tavolo, tavolo troppo, troppo accostare
+https://www.yelp.it/biz/la-luna-rossa-torino;13537;tranquillo, luminoso, vicino, vetrata, tranquillo luminoso, luminoso vicino, vicino vetrata
+https://www.yelp.it/biz/la-luna-rossa-torino;13538;pizza, molto, buono, digeribile, pizza molto, molto buono, buono digeribile
+https://www.yelp.it/biz/la-luna-rossa-torino;13539;ottimare, scelta, ingrediente, ottimare scelta, scelta ingrediente
+https://www.yelp.it/biz/la-luna-rossa-torino;13540;bello, locale, personale, sala, molto, gentile, pizza, buono, soprattutto, forma, stella, fungo, centro, meno, buono, essere, patatina, friggere, bello locale, locale personale, personale sala, sala molto, molto gentile, gentile pizza, pizza buono, buono soprattutto, soprattutto forma, forma stella, stella fungo, fungo centro, centro meno, meno buono, buono essere, essere patatina, patatina friggere
+https://www.yelp.it/biz/la-luna-rossa-torino;13541;cibo, essere, buono, cibo essere, essere buono
+https://www.yelp.it/biz/la-luna-rossa-torino;13542;personale, servizio, gentile, disponibile, coordinare, ragazzo, molto, efficiente, simpatico, personale servizio, servizio gentile, gentile disponibile, disponibile coordinare, coordinare ragazzo, ragazzo molto, molto efficiente, efficiente simpatico
+https://www.yelp.it/biz/la-luna-rossa-torino;13543;punto, forte, mezzogiorno, é, prezzo, fisso, sembrare, molto, apprezzato, punto forte, forte mezzogiorno, mezzogiorno é, é prezzo, prezzo fisso, fisso sembrare, sembrare molto, molto apprezzato
+https://www.yelp.it/biz/la-luna-rossa-torino;13544;prezzo, assoluto, norma, personale, molto, cordiale, prezzo assoluto, assoluto norma, norma personale, personale molto, molto cordiale
+https://www.yelp.it/biz/la-luna-rossa-torino;13545;cameriere, essere, gentile, servizio, complesso, approssimativo, disorganizzare, cameriere essere, essere gentile, gentile servizio, servizio complesso, complesso approssimativo, approssimativo disorganizzare
+https://www.yelp.it/biz/la-luna-rossa-torino;13546;personale, molto, cordiale, personale molto, molto cordiale
+https://www.yelp.it/biz/la-luna-rossa-torino;13547;vegetariano, avere, menu, personalizzato, altrettanto, gustoso, vegetariano avere, avere menu, menu personalizzato, personalizzato altrettanto, altrettanto gustoso
+https://www.yelp.it/biz/la-luna-rossa-torino;13548;buono, cibo, pizza, cuocere, forno, legna, piatto, gustoso, buono cibo, cibo pizza, pizza cuocere, cuocere forno, forno legna, legna piatto, piatto gustoso
+https://www.yelp.it/biz/la-luna-rossa-torino;13549;pizza, molto, buono, pizza molto, molto buono
+https://www.yelp.it/biz/la-luna-rossa-torino;13550;molto, gentile, molto gentile
+https://www.yelp.it/biz/la-luna-rossa-torino;13551;cibo, essere, ottimo, qualità, pizza, cucinare, cibo essere, essere ottimo, ottimo qualità, qualità pizza, pizza cucinare
+https://www.yelp.it/biz/la-luna-rossa-torino;13552;cordiale, disponibile, personale, cordiale disponibile, disponibile personale
+https://www.yelp.it/biz/la-luna-rossa-torino;13553;personale, molto, disponibile, pietanza, molto, abbondante, personale molto, molto disponibile, disponibile pietanza, pietanza molto, molto abbondante
+https://www.yelp.it/biz/la-luna-rossa-torino;13554;vero, ottimo, vero ottimo
+https://www.yelp.it/biz/la-luna-rossa-torino;13555;personale, gentile, personale gentile
+https://www.yelp.it/biz/la-luna-rossa-torino;13556;essere, vero, vero, vero, essere vero, vero vero, vero vero
+https://www.yelp.it/biz/la-luna-rossa-torino;13557;molto, buono, molto buono
+https://www.yelp.it/biz/la-luna-rossa-torino;13558;pizza, molto, buono, unico, pecca, dolce, pizza molto, molto buono, buono unico, unico pecca, pecca dolce
+https://www.yelp.it/biz/la-luna-rossa-torino;13559;ottimo, passare, serata, tranquillità, godere, buono, pizza, ottimo passare, passare serata, serata tranquillità, tranquillità godere, godere buono, buono pizza
+https://www.yelp.it/biz/la-luna-rossa-torino;13560;servizio, pronto, gentile, servizio pronto, pronto gentile
+https://www.yelp.it/biz/la-luna-rossa-torino;13561;discreto, rapporto, qualità, prezzo, discreto rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/la-luna-rossa-torino;13562;qualità, gentilezza, parte, qualità gentilezza, gentilezza parte
+https://www.yelp.it/biz/la-luna-rossa-torino;13563;là, pizza, qui, essere, super, là pizza, pizza qui, qui essere, essere super
+https://www.yelp.it/biz/la-luna-rossa-torino;13564;personale, gentile, pizza, particolare, personale gentile, gentile pizza, pizza particolare

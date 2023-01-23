@@ -1,0 +1,39 @@
+https://www.yelp.it/biz/turet-torino;11336;soddisfare, genere, palato, soddisfare genere, genere palato
+https://www.yelp.it/biz/turet-torino;11337;aperitivo, piano, superiore, ricco, ottimo, qualità, aperitivo piano, piano superiore, superiore ricco, ricco ottimo, ottimo qualità
+https://www.yelp.it/biz/turet-torino;11338;servizio, professionale, molto, simpatico, personale, servizio professionale, professionale molto, molto simpatico, simpatico personale
+https://www.yelp.it/biz/turet-torino;11339;augurare, prossimo, commensale, augurare prossimo, prossimo commensale
+https://www.yelp.it/biz/turet-torino;11340;assoluto, provare, assoluto provare
+https://www.yelp.it/biz/turet-torino;11341;bravo, simpatico, cuoco, operare, cucina, visibile, cliente, bravo simpatico, simpatico cuoco, cuoco operare, operare cucina, cucina visibile, visibile cliente
+https://www.yelp.it/biz/turet-torino;11342;location, essere, ottimo, centrale, vicino, parcheggio, sbarra, location essere, essere ottimo, ottimo centrale, centrale vicino, vicino parcheggio, parcheggio sbarra
+https://www.yelp.it/biz/turet-torino;11343;ottimo, qualità, prezzo, ottimo qualità, qualità prezzo
+https://www.yelp.it/biz/turet-torino;11344;buono, rapporto, qualità/prezzo, buono rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/turet-torino;11345;contesto, molto, buono, contesto molto, molto buono
+https://www.yelp.it/biz/turet-torino;11346;cibo, ottimo, servizio, impeccabile, cibo ottimo, ottimo servizio, servizio impeccabile
+https://www.yelp.it/biz/turet-torino;11347;buono, fortuna, buono fortuna
+https://www.yelp.it/biz/turet-torino;11348;buono, giornata, buono giornata
+https://www.yelp.it/biz/turet-torino;11349;bello, locale, bastare, bello locale, locale bastare
+https://www.yelp.it/biz/turet-torino;11350;dolce, pò, meno, dolce pò, pò meno
+https://www.yelp.it/biz/turet-torino;11351;bello, posto, meritare, andare, fare, apericena, bello posto, posto meritare, meritare andare, andare fare, fare apericena
+https://www.yelp.it/biz/turet-torino;11352;ritmo, essere, vivace, caotico, ritmo essere, essere vivace, vivace caotico
+https://www.yelp.it/biz/turet-torino;11353;eccellente, rapporto, qualità, prezzo, eccellente rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/turet-torino;11354;bello, serata, bar, bello serata, serata bar
+https://www.yelp.it/biz/turet-torino;11355;luogo, elegante, contemporaneo, luogo elegante, elegante contemporaneo
+https://www.yelp.it/biz/turet-torino;11356;buono, musica, ottimo, buono musica, musica ottimo
+https://www.yelp.it/biz/turet-torino;11357;suonare, anche, musica, vivo, suonare anche, anche musica, musica vivo
+https://www.yelp.it/biz/turet-torino;11358;personale, giovane, gentile, personale giovane, giovane gentile
+https://www.yelp.it/biz/turet-torino;11359;carino, ricco, età, misto, carino ricco, ricco età, età misto
+https://www.yelp.it/biz/turet-torino;11360;unico, nota, positivo, personale, unico nota, nota positivo, positivo personale
+https://www.yelp.it/biz/turet-torino;11361;ottimo, personale, simpatico, disponibile, ottimo personale, personale simpatico, simpatico disponibile
+https://www.yelp.it/biz/turet-torino;11362;cibo, buono, cibo buono
+https://www.yelp.it/biz/turet-torino;11363;cameriere, impeccabile, preciso, cameriere impeccabile, impeccabile preciso
+https://www.yelp.it/biz/turet-torino;11364;estate, bello, terrazza, panoramico, estate bello, bello terrazza, terrazza panoramico
+https://www.yelp.it/biz/turet-torino;11365;pizza, padellino, compenso, sembrare, buono, pizza padellino, padellino compenso, compenso sembrare, sembrare buono
+https://www.yelp.it/biz/turet-torino;11366;ottimo, luogo, pranzo, veloce, ottimo luogo, luogo pranzo, pranzo veloce
+https://www.yelp.it/biz/turet-torino;11367;qualità, essere, super, qualità essere, essere super
+https://www.yelp.it/biz/turet-torino;11368;ottimo, pranzo/cena, veloce, ottimo pranzo/cena, pranzo/cena veloce
+https://www.yelp.it/biz/turet-torino;11369;personale, gentile, personale gentile
+https://www.yelp.it/biz/turet-torino;11370;buon, rapporto, qualità-prezzo, buon rapporto, rapporto qualità-prezzo
+https://www.yelp.it/biz/turet-torino;11371;tanto, complimento, tanto complimento
+https://www.yelp.it/biz/turet-torino;11372;sicuro, essere, bello, posto, sicuro essere, essere bello, bello posto
+https://www.yelp.it/biz/turet-torino;11373;locale, carino, accogliente, locale carino, carino accogliente
+https://www.yelp.it/biz/turet-torino;11374;stile, retrò, stile retrò

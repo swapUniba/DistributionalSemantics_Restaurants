@@ -1,0 +1,41 @@
+https://www.yelp.it/biz/da-paolo-bari;11709;solo, piacere, solo piacere
+https://www.yelp.it/biz/da-paolo-bari;11710;locale, accogliente, personale, gentile, attento, locale accogliente, accogliente personale, personale gentile, gentile attento
+https://www.yelp.it/biz/da-paolo-bari;11711;rapporto, qualità, prezzo, ottimo, rapporto qualità, qualità prezzo, prezzo ottimo
+https://www.yelp.it/biz/da-paolo-bari;11712;dolce, squisito, dolce squisito
+https://www.yelp.it/biz/da-paolo-bari;11713;ottimo, rapporto, qualità-prezzo, ottimo rapporto, rapporto qualità-prezzo
+https://www.yelp.it/biz/da-paolo-bari;11714;assoluto, provare, assoluto provare
+https://www.yelp.it/biz/da-paolo-bari;11715;ricco, antipasto, prelibatezza, ricco antipasto, antipasto prelibatezza
+https://www.yelp.it/biz/da-paolo-bari;11716;ottimare, orata, sale, ottimare orata, orata sale
+https://www.yelp.it/biz/da-paolo-bari;11717;decennio, sempre, soddisfazione, decennio sempre, sempre soddisfazione
+https://www.yelp.it/biz/da-paolo-bari;11718;consigliare, certo, consigliare certo
+https://www.yelp.it/biz/da-paolo-bari;11719;buon, servizio, buon servizio
+https://www.yelp.it/biz/da-paolo-bari;11720;anche, vino, casa, essere, piacevole, anche vino, vino casa, casa essere, essere piacevole
+https://www.yelp.it/biz/da-paolo-bari;11721;poi, arrivare, dolce, poi arrivare, arrivare dolce
+https://www.yelp.it/biz/da-paolo-bari;11722;ristorante, molto, carino, ristorante molto, molto carino
+https://www.yelp.it/biz/da-paolo-bari;11723;persona, eccellente, mangiare, molto, bene, persona eccellente, eccellente mangiare, mangiare molto, molto bene
+https://www.yelp.it/biz/da-paolo-bari;11724;qualità, medio, qualità medio
+https://www.yelp.it/biz/da-paolo-bari;11725;buono, varietà, vino, buono varietà, varietà vino
+https://www.yelp.it/biz/da-paolo-bari;11726;buono, antipasto, buono antipasto
+https://www.yelp.it/biz/da-paolo-bari;11727;locale, gradevole, personale, cortese, locale gradevole, gradevole personale, personale cortese
+https://www.yelp.it/biz/da-paolo-bari;11728;rapporto, qualità, prezzo, ideale, rapporto qualità, qualità prezzo, prezzo ideale
+https://www.yelp.it/biz/da-paolo-bari;11729;ottimo, rapporto, qualità-prezzo, ottimo rapporto, rapporto qualità-prezzo
+https://www.yelp.it/biz/da-paolo-bari;11730;cucina, ottimo, personale, cordiale, simpatico, cucina ottimo, ottimo personale, personale cordiale, cordiale simpatico
+https://www.yelp.it/biz/da-paolo-bari;11731;ottimo, cena, ottimo cena
+https://www.yelp.it/biz/da-paolo-bari;11732;pesce, fresco, pesce fresco
+https://www.yelp.it/biz/da-paolo-bari;11733;molto, accogliente, proprietario, delizioso, molto accogliente, accogliente proprietario, proprietario delizioso
+https://www.yelp.it/biz/da-paolo-bari;11734;eccellente, rapporto, qualità/prezzo, eccellente rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/da-paolo-bari;11735;saluto, simpaticissimo, titolare, saluto simpaticissimo, simpaticissimo titolare
+https://www.yelp.it/biz/da-paolo-bari;11736;personale, gentile, cordiale, personale gentile, gentile cordiale
+https://www.yelp.it/biz/da-paolo-bari;11737;personale, gentile, cordiale, personale gentile, gentile cordiale
+https://www.yelp.it/biz/da-paolo-bari;11738;adatto, coppia, adatto coppia
+https://www.yelp.it/biz/da-paolo-bari;11739;voto, molto, gentile, locale, accogliente, voto molto, molto gentile, gentile locale, locale accogliente
+https://www.yelp.it/biz/da-paolo-bari;11740;vino, bianco, indiscutibile, vino bianco, bianco indiscutibile
+https://www.yelp.it/biz/da-paolo-bari;11741;migliore, servire, italiano, migliore servire, servire italiano
+https://www.yelp.it/biz/da-paolo-bari;11742;essere, tutto, molto, buono, essere tutto, tutto molto, molto buono
+https://www.yelp.it/biz/da-paolo-bari;11743;buono, dolce, buono dolce
+https://www.yelp.it/biz/da-paolo-bari;11744;complesso, soddisfare, complesso soddisfare
+https://www.yelp.it/biz/da-paolo-bari;11745;servizio, eccellente, cameriere, simpatico, location, molto, bello, servizio eccellente, eccellente cameriere, cameriere simpatico, simpatico location, location molto, molto bello
+https://www.yelp.it/biz/da-paolo-bari;11746;cantina, soddisfacente, cantina soddisfacente
+https://www.yelp.it/biz/da-paolo-bari;11747;perfetto, eccellente, vero, perfetto eccellente, eccellente vero
+https://www.yelp.it/biz/da-paolo-bari;11748;rapporto, qualità/prezzo, eccellente, rapporto qualità/prezzo, qualità/prezzo eccellente
+https://www.yelp.it/biz/da-paolo-bari;11749;carta, vino, molto, ampio, carta vino, vino molto, molto ampio

@@ -1,0 +1,38 @@
+https://www.yelp.it/biz/l-antico-arco-cellamare;8702;ora, abbastanza, negativo, ora abbastanza, abbastanza negativo
+https://www.yelp.it/biz/l-antico-arco-cellamare;8703;davvero, buono, impasto, particolare, soprattutto, riuscire, davvero buono, buono impasto, impasto particolare, particolare soprattutto, soprattutto riuscire
+https://www.yelp.it/biz/l-antico-arco-cellamare;8704;scelta, pizza, vasto, buono, scelta pizza, pizza vasto, vasto buono
+https://www.yelp.it/biz/l-antico-arco-cellamare;8705;prodotto, soddisfare, anche, vegetariano, vegani, prodotto soddisfare, soddisfare anche, anche vegetariano, vegetariano vegani
+https://www.yelp.it/biz/l-antico-arco-cellamare;8706;personale, gentile, servizio, celere, personale gentile, gentile servizio, servizio celere
+https://www.yelp.it/biz/l-antico-arco-cellamare;8707;ottimo, antipasto, dolce, ottimo antipasto, antipasto dolce
+https://www.yelp.it/biz/l-antico-arco-cellamare;8708;ottimo, pizza, qualità, cortesia, top, ottimo pizza, pizza qualità, qualità cortesia, cortesia top
+https://www.yelp.it/biz/l-antico-arco-cellamare;8709;vero, buono, qualità, vero buono, buono qualità
+https://www.yelp.it/biz/l-antico-arco-cellamare;8710;buon, assortimento, birra, buon assortimento, assortimento birra
+https://www.yelp.it/biz/l-antico-arco-cellamare;8711;qualità, pizza, essere, ineguagliabile, qualità pizza, pizza essere, essere ineguagliabile
+https://www.yelp.it/biz/l-antico-arco-cellamare;8712;andare, bene, coso, andare bene, bene coso
+https://www.yelp.it/biz/l-antico-arco-cellamare;8713;impasto, condimento, impasto condimento
+https://www.yelp.it/biz/l-antico-arco-cellamare;8714;ovvio, buono, qualità, ovvio buono, buono qualità
+https://www.yelp.it/biz/l-antico-arco-cellamare;8715;servizio, tavolo, essere, abbastanza, veloce, servizio tavolo, tavolo essere, essere abbastanza, abbastanza veloce
+https://www.yelp.it/biz/l-antico-arco-cellamare;8716;essere, scelta, abbastanza, ampio, pizza, essere scelta, scelta abbastanza, abbastanza ampio, ampio pizza
+https://www.yelp.it/biz/l-antico-arco-cellamare;8717;ottimo, tartufo, pistacchio, cioccolato, ottimo tartufo, tartufo pistacchio, pistacchio cioccolato
+https://www.yelp.it/biz/l-antico-arco-cellamare;8718;confermare, bontà, competenza, simpatia, titolare, confermare bontà, bontà competenza, competenza simpatia, simpatia titolare
+https://www.yelp.it/biz/l-antico-arco-cellamare;8719;pizza, molto, buono, pizza molto, molto buono
+https://www.yelp.it/biz/l-antico-arco-cellamare;8720;imbarazzo, scelta, menù, super, variegato, imbarazzo scelta, scelta menù, menù super, super variegato
+https://www.yelp.it/biz/l-antico-arco-cellamare;8721;sempre, più, buono, margherita, sazio, tanto, sempre più, più buono, buono margherita, margherita sazio, sazio tanto
+https://www.yelp.it/biz/l-antico-arco-cellamare;8722;delizia, palato, delizia palato
+https://www.yelp.it/biz/l-antico-arco-cellamare;8723;rimanere, molto, soddisfare, rimanere molto, molto soddisfare
+https://www.yelp.it/biz/l-antico-arco-cellamare;8724;caro, ritrovare, anche, portale, condivisione, caro ritrovare, ritrovare anche, anche portale, portale condivisione
+https://www.yelp.it/biz/l-antico-arco-cellamare;8725;pizza, buono, eccellente, pizza buono, buono eccellente
+https://www.yelp.it/biz/l-antico-arco-cellamare;8726;sala, essere, piccolo, accogliente, sala essere, essere piccolo, piccolo accogliente
+https://www.yelp.it/biz/l-antico-arco-cellamare;8727;complimentare, davvero, complimentare davvero
+https://www.yelp.it/biz/l-antico-arco-cellamare;8728;pizza, essere, ottimo, leggero, deciso, ben, lievitare, pizza essere, essere ottimo, ottimo leggero, leggero deciso, deciso ben, ben lievitare
+https://www.yelp.it/biz/l-antico-arco-cellamare;8729;ottimo, pizza, ottimo pizza
+https://www.yelp.it/biz/l-antico-arco-cellamare;8730;peccare, x, locale, essere, pò, piccolo, peccare x, x locale, locale essere, essere pò, pò piccolo
+https://www.yelp.it/biz/l-antico-arco-cellamare;8731;prodotto, completo, bio, prodotto completo, completo bio
+https://www.yelp.it/biz/l-antico-arco-cellamare;8732;titolare, simpatico, cordiale, titolare simpatico, simpatico cordiale
+https://www.yelp.it/biz/l-antico-arco-cellamare;8733;mollo, più, grazie, lavorare, mollo più, più grazie, grazie lavorare
+https://www.yelp.it/biz/l-antico-arco-cellamare;8734;ottimo, qualità, farina, pizza, perfetto, digeribile, prodotto, top, ottimo qualità, qualità farina, farina pizza, pizza perfetto, perfetto digeribile, digeribile prodotto, prodotto top
+https://www.yelp.it/biz/l-antico-arco-cellamare;8735;pizza, ottimo, anche, glutine, pizza ottimo, ottimo anche, anche glutine
+https://www.yelp.it/biz/l-antico-arco-cellamare;8736;pizza, essere, molto, buono, servizio, anche, pizza essere, essere molto, molto buono, buono servizio, servizio anche
+https://www.yelp.it/biz/l-antico-arco-cellamare;8737;bontà, pizza, derivare, qualità, impasto, anche, qualità, ingrediente, bontà pizza, pizza derivare, derivare qualità, qualità impasto, impasto anche, anche qualità, qualità ingrediente
+https://www.yelp.it/biz/l-antico-arco-cellamare;8738;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/l-antico-arco-cellamare;8739;pizza, essere, buono, essere, superlativo, pizza essere, essere buono, buono essere, essere superlativo

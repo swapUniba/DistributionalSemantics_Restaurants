@@ -1,0 +1,42 @@
+https://www.yelp.it/biz/shodai-bari;23354;locale, vero, bello, ambientazione, orientale, accogliente, suggestivo, locale vero, vero bello, bello ambientazione, ambientazione orientale, orientale accogliente, accogliente suggestivo
+https://www.yelp.it/biz/shodai-bari;23355;pesce, freschissimo, rendere, unico, gusto, sapore, pesce freschissimo, freschissimo rendere, rendere unico, unico gusto, gusto sapore
+https://www.yelp.it/biz/shodai-bari;23356;ottimo, carta, vino, ottimo carta, carta vino
+https://www.yelp.it/biz/shodai-bari;23357;servizio, impeccabile, servizio impeccabile
+https://www.yelp.it/biz/shodai-bari;23358;buono, carta, vino, buono carta, carta vino
+https://www.yelp.it/biz/shodai-bari;23359;locale, molto, cariare, arredare, gusto, locale molto, molto cariare, cariare arredare, arredare gusto
+https://www.yelp.it/biz/shodai-bari;23360;qualità, cibo, sempre, ottimo, qualità cibo, cibo sempre, sempre ottimo
+https://www.yelp.it/biz/shodai-bari;23361;ottimo, anche, dolce, ottimo anche, anche dolce
+https://www.yelp.it/biz/shodai-bari;23362;personale, essere, gentile, cameriere, dare, ottimo, consiglio, pietanza, assaggiare, personale essere, essere gentile, gentile cameriere, cameriere dare, dare ottimo, ottimo consiglio, consiglio pietanza, pietanza assaggiare
+https://www.yelp.it/biz/shodai-bari;23363;rimanere, storia, bontà, rimanere storia, storia bontà
+https://www.yelp.it/biz/shodai-bari;23364;pezzo, viaggio, pezzo viaggio
+https://www.yelp.it/biz/shodai-bari;23365;davvero, ottimo, davvero ottimo
+https://www.yelp.it/biz/shodai-bari;23366;rimanere, migliore, rimanere migliore
+https://www.yelp.it/biz/shodai-bari;23367;rapporto, qualità/prezzo, perfetto, rapporto qualità/prezzo, qualità/prezzo perfetto
+https://www.yelp.it/biz/shodai-bari;23368;distinguere, saluto, distinguere saluto
+https://www.yelp.it/biz/shodai-bari;23369;semplicemente, sublime, semplicemente sublime
+https://www.yelp.it/biz/shodai-bari;23370;cibo, ottimo, soddisfare, cibo ottimo, ottimo soddisfare
+https://www.yelp.it/biz/shodai-bari;23371;resto, ottimo, resto ottimo
+https://www.yelp.it/biz/shodai-bari;23372;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/shodai-bari;23373;pulito, personale, molto, cortese, pulito personale, personale molto, molto cortese
+https://www.yelp.it/biz/shodai-bari;23374;molto, dispiacere, molto dispiacere
+https://www.yelp.it/biz/shodai-bari;23375;ottimo, qualità, cibo, ottimo qualità, qualità cibo
+https://www.yelp.it/biz/shodai-bari;23376;location, elegante, location elegante
+https://www.yelp.it/biz/shodai-bari;23377;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/shodai-bari;23378;buono, qualità, piatto, buono qualità, qualità piatto
+https://www.yelp.it/biz/shodai-bari;23379;esperienza, ripetere, esperienza ripetere
+https://www.yelp.it/biz/shodai-bari;23380;locale, essere, carino, anche, elemento, tipico, locale essere, essere carino, carino anche, anche elemento, elemento tipico
+https://www.yelp.it/biz/shodai-bari;23381;prodotto, fresco, menù, vario, piatto, abbastanza, buono, prodotto fresco, fresco menù, menù vario, vario piatto, piatto abbastanza, abbastanza buono
+https://www.yelp.it/biz/shodai-bari;23382;semplicemente, goduria, semplicemente goduria
+https://www.yelp.it/biz/shodai-bari;23383;buon, sushi, prezzo, troppo, alto, parere, buon sushi, sushi prezzo, prezzo troppo, troppo alto, alto parere
+https://www.yelp.it/biz/shodai-bari;23384;molto, buono, molto buono
+https://www.yelp.it/biz/shodai-bari;23385;ristorante, posto, piano, essere, elegante, ristorante posto, posto piano, piano essere, essere elegante
+https://www.yelp.it/biz/shodai-bari;23386;gente, casinista, gente casinista
+https://www.yelp.it/biz/shodai-bari;23387;complimentare, davvero, complimentare davvero
+https://www.yelp.it/biz/shodai-bari;23388;personale, é, molto, cordiale, location, é, vero, carino, personale é, é molto, molto cordiale, cordiale location, location é, é vero, vero carino
+https://www.yelp.it/biz/shodai-bari;23389;rapporto, qualità, prezzo, eccellente, rapporto qualità, qualità prezzo, prezzo eccellente
+https://www.yelp.it/biz/shodai-bari;23390;ottimo, cantina, ottimo cantina
+https://www.yelp.it/biz/shodai-bari;23391;essere, posto, consiglio, assoluto, essere posto, posto consiglio, consiglio assoluto
+https://www.yelp.it/biz/shodai-bari;23392;ottimo, nigiri, buono, ottimo nigiri, nigiri buono
+https://www.yelp.it/biz/shodai-bari;23393;cucina, eccezionale, cucina eccezionale
+https://www.yelp.it/biz/shodai-bari;23394;molto, buono, molto buono
+https://www.yelp.it/biz/shodai-bari;23395;locale, essere, accogliente, personale, professionale, molto, garbato, propositivo, locale essere, essere accogliente, accogliente personale, personale professionale, professionale molto, molto garbato, garbato propositivo

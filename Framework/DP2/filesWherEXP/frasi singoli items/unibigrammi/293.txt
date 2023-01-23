@@ -1,0 +1,34 @@
+https://www.yelp.it/biz/gandhi-torino;12137;ottimo, qualità, ambiente, piacevole, ottimo qualità, qualità ambiente, ambiente piacevole
+https://www.yelp.it/biz/gandhi-torino;12138;dire, perfetto, dire perfetto
+https://www.yelp.it/biz/gandhi-torino;12139;personale, attento, gentile, personale attento, attento gentile
+https://www.yelp.it/biz/gandhi-torino;12140;ambiente, meraviglioso, ambiente meraviglioso
+https://www.yelp.it/biz/gandhi-torino;12141;locale, molto, cariare, locale molto, molto cariare
+https://www.yelp.it/biz/gandhi-torino;12142;bello, atmosfera, bello atmosfera
+https://www.yelp.it/biz/gandhi-torino;12143;personale, gentile, personale gentile
+https://www.yelp.it/biz/gandhi-torino;12144;servizio, elegante, raffinato, piatto, ottimo, servizio elegante, elegante raffinato, raffinato piatto, piatto ottimo
+https://www.yelp.it/biz/gandhi-torino;12145;gusto, essere, particolare, molto, tipico, gusto essere, essere particolare, particolare molto, molto tipico
+https://www.yelp.it/biz/gandhi-torino;12146;ottimo, accoglienza, ottimo accoglienza
+https://www.yelp.it/biz/gandhi-torino;12147;buon, servizio, buon servizio
+https://www.yelp.it/biz/gandhi-torino;12148;sempre, ottimo, pollo, tandoori, anche, gamberoni, sempre ottimo, ottimo pollo, pollo tandoori, tandoori anche, anche gamberoni
+https://www.yelp.it/biz/gandhi-torino;12149;atmosfera, essere, tranquillo, rilassare, atmosfera essere, essere tranquillo, tranquillo rilassare
+https://www.yelp.it/biz/gandhi-torino;12150;cibo, buono, qualità, cibo buono, buono qualità
+https://www.yelp.it/biz/gandhi-torino;12151;locale, molto, caratteristico, locale molto, molto caratteristico
+https://www.yelp.it/biz/gandhi-torino;12152;personale, gentile, atmosfera, piacevole, personale gentile, gentile atmosfera, atmosfera piacevole
+https://www.yelp.it/biz/gandhi-torino;12153;cibo, ottimo, cibo ottimo
+https://www.yelp.it/biz/gandhi-torino;12154;servizio, impeccabile, servizio impeccabile
+https://www.yelp.it/biz/gandhi-torino;12155;porzione, equilibrare, sapore, accattivante, porzione equilibrare, equilibrare sapore, sapore accattivante
+https://www.yelp.it/biz/gandhi-torino;12156;servizio, cortese, rapido, servizio cortese, cortese rapido
+https://www.yelp.it/biz/gandhi-torino;12157;personale, gentile, servizio, molto, rapido, personale gentile, gentile servizio, servizio molto, molto rapido
+https://www.yelp.it/biz/gandhi-torino;12158;pò, caro, pò caro
+https://www.yelp.it/biz/gandhi-torino;12159;prezzo, molto, molto, abbordabile, prezzo molto, molto molto, molto abbordabile
+https://www.yelp.it/biz/gandhi-torino;12160;bello, accoglienza, bello accoglienza
+https://www.yelp.it/biz/gandhi-torino;12161;location, caratteristico, cibo, molto, buono, particolare, location caratteristico, caratteristico cibo, cibo molto, molto buono, buono particolare
+https://www.yelp.it/biz/gandhi-torino;12162;dolce, buono, dolce buono
+https://www.yelp.it/biz/gandhi-torino;12163;locale, essere, molto, accogliente, personale, gentile, sembrare, davvero, stare, piccolo, pezzetto, locale essere, essere molto, molto accogliente, accogliente personale, personale gentile, gentile sembrare, sembrare davvero, davvero stare, stare piccolo, piccolo pezzetto
+https://www.yelp.it/biz/gandhi-torino;12164;tradizione, indiano, squisito, tradizione indiano, indiano squisito
+https://www.yelp.it/biz/gandhi-torino;12165;scelta, dolce, scelta dolce
+https://www.yelp.it/biz/gandhi-torino;12166;eccellente, cucina, eccellente cucina
+https://www.yelp.it/biz/gandhi-torino;12167;pò, più, caloroso, pò più, più caloroso
+https://www.yelp.it/biz/gandhi-torino;12168;discreto, carta, vino, discreto carta, carta vino
+https://www.yelp.it/biz/gandhi-torino;12169;troppo, buono, troppo buono
+https://www.yelp.it/biz/gandhi-torino;12170;sempre, migliore, sempre migliore

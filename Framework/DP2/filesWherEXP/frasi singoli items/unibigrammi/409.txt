@@ -1,0 +1,34 @@
+https://www.yelp.it/biz/in-vino-veritas-torino;15796;servizio, giovane, cortese, semplice, rapido, servizio giovane, giovane cortese, cortese semplice, semplice rapido
+https://www.yelp.it/biz/in-vino-veritas-torino;15797;conto, appropriato, conto appropriato
+https://www.yelp.it/biz/in-vino-veritas-torino;15798;caponata, eccezionale, caponata eccezionale
+https://www.yelp.it/biz/in-vino-veritas-torino;15799;bello, cena, bello cena
+https://www.yelp.it/biz/in-vino-veritas-torino;15800;cibo, molto, buono, cibo molto, molto buono
+https://www.yelp.it/biz/in-vino-veritas-torino;15801;vino, ottimo, vino ottimo
+https://www.yelp.it/biz/in-vino-veritas-torino;15802;molto, accogliente, molto accogliente
+https://www.yelp.it/biz/in-vino-veritas-torino;15803;vino, buono, vino buono
+https://www.yelp.it/biz/in-vino-veritas-torino;15804;resto, lasciare, desiderare, resto lasciare, lasciare desiderare
+https://www.yelp.it/biz/in-vino-veritas-torino;15805;ottimo, carta, vino, ottimo carta, carta vino
+https://www.yelp.it/biz/in-vino-veritas-torino;15806;locale, molto, grande, molto, caloroso, locale molto, molto grande, grande molto, molto caloroso
+https://www.yelp.it/biz/in-vino-veritas-torino;15807;bravo, continuare, così, bravo continuare, continuare così
+https://www.yelp.it/biz/in-vino-veritas-torino;15808;osteria, cena, romantico, osteria cena, cena romantico
+https://www.yelp.it/biz/in-vino-veritas-torino;15809;mangiare, ottimo, buono, mangiare ottimo, ottimo buono
+https://www.yelp.it/biz/in-vino-veritas-torino;15810;personale, attento, cordiale, cibo, buono, personale attento, attento cordiale, cordiale cibo, cibo buono
+https://www.yelp.it/biz/in-vino-veritas-torino;15811;po, caro, po caro
+https://www.yelp.it/biz/in-vino-veritas-torino;15812;personale, cordiale, cibo, buono, personale cordiale, cordiale cibo, cibo buono
+https://www.yelp.it/biz/in-vino-veritas-torino;15813;personale, gentile, molto, simpatico, personale gentile, gentile molto, molto simpatico
+https://www.yelp.it/biz/in-vino-veritas-torino;15814;ottimo, cucina, provare, ottimo cucina, cucina provare
+https://www.yelp.it/biz/in-vino-veritas-torino;15815;personale, essere, molto, gentile, passare, bello, serata, personale essere, essere molto, molto gentile, gentile passare, passare bello, bello serata
+https://www.yelp.it/biz/in-vino-veritas-torino;15816;personale, simpatico, mano, personale simpatico, simpatico mano
+https://www.yelp.it/biz/in-vino-veritas-torino;15817;personale, gentile, educare, personale gentile, gentile educare
+https://www.yelp.it/biz/in-vino-veritas-torino;15818;giudizio, essere, positivo, giudizio essere, essere positivo
+https://www.yelp.it/biz/in-vino-veritas-torino;15819;serata, carino, serata carino
+https://www.yelp.it/biz/in-vino-veritas-torino;15820;tagliere, misto, salume, buono, qualità, resto, assoluto, rivedere, tagliere misto, misto salume, salume buono, buono qualità, qualità resto, resto assoluto, assoluto rivedere
+https://www.yelp.it/biz/in-vino-veritas-torino;15821;orecchietta, fantastico, orecchietta fantastico
+https://www.yelp.it/biz/in-vino-veritas-torino;15822;menù, semplice, sempre, accattivante, menù semplice, semplice sempre, sempre accattivante
+https://www.yelp.it/biz/in-vino-veritas-torino;15823;piacevole, serata, amico, piacevole serata, serata amico
+https://www.yelp.it/biz/in-vino-veritas-torino;15824;bello, caffè, portare, moka, bello caffè, caffè portare, portare moka
+https://www.yelp.it/biz/in-vino-veritas-torino;15825;consiglio, panna, cotto, consiglio panna, panna cotto
+https://www.yelp.it/biz/in-vino-veritas-torino;15826;tavolo, molto, ravvicinare, tavolo molto, molto ravvicinare
+https://www.yelp.it/biz/in-vino-veritas-torino;15827;locale, accogliente, piccolo, locale accogliente, accogliente piccolo
+https://www.yelp.it/biz/in-vino-veritas-torino;15828;personale, giovane, affabile, personale giovane, giovane affabile
+https://www.yelp.it/biz/in-vino-veritas-torino;15829;buon, rapporto, qualità/prezzo, buon rapporto, rapporto qualità/prezzo

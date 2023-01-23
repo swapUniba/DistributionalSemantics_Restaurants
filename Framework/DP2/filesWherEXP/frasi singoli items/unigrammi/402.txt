@@ -1,0 +1,55 @@
+https://www.yelp.it/biz/vo-torino;15540;carta, vino, importante
+https://www.yelp.it/biz/vo-torino;15541;ristorante, molto, elegante, raffinare
+https://www.yelp.it/biz/vo-torino;15542;posto, molto, intimo, carino
+https://www.yelp.it/biz/vo-torino;15543;ristorante, alto, livello, molto, riservato, cibo, raffinato
+https://www.yelp.it/biz/vo-torino;15544;illuminazione, buono, arredamento, minimale
+https://www.yelp.it/biz/vo-torino;15545;molto, buono, invece, dolce
+https://www.yelp.it/biz/vo-torino;15546;consiglio, occasione, speciale
+https://www.yelp.it/biz/vo-torino;15547;atmosfera, essere, ottimo, essere, ristorante, servizio, anche
+https://www.yelp.it/biz/vo-torino;15548;dolce, urlo
+https://www.yelp.it/biz/vo-torino;15549;buono, accoglienza, cortese, professionale
+https://www.yelp.it/biz/vo-torino;15550;meritare, visita
+https://www.yelp.it/biz/vo-torino;15551;é, persona, vero, squisito
+https://www.yelp.it/biz/vo-torino;15552;complesso, ristorante, discreto, modesto, parere, stella, risultare, pò, immeritato
+https://www.yelp.it/biz/vo-torino;15553;menù, tradizione, interessante
+https://www.yelp.it/biz/vo-torino;15554;dolce, meglio, resto
+https://www.yelp.it/biz/vo-torino;15555;ampio, interessante, scelta, vino
+https://www.yelp.it/biz/vo-torino;15556;piacevole, ristorante, pò, nascosto, centro
+https://www.yelp.it/biz/vo-torino;15557;piatto, bello, soprattutto, buono
+https://www.yelp.it/biz/vo-torino;15558;personale, sala, cortese, premuroso
+https://www.yelp.it/biz/vo-torino;15559;servizio, eccellente, conto, adeguato
+https://www.yelp.it/biz/vo-torino;15560;interessante, proposta, anche, pranzo
+https://www.yelp.it/biz/vo-torino;15561;antipasto, pane, ottimo
+https://www.yelp.it/biz/vo-torino;15562;rapporto, qualità, prezzo, ottimo
+https://www.yelp.it/biz/vo-torino;15563;estremo, cordiale
+https://www.yelp.it/biz/vo-torino;15564;deciso, interessante
+https://www.yelp.it/biz/vo-torino;15565;tripudio, gusto
+https://www.yelp.it/biz/vo-torino;15566;molto, bene
+https://www.yelp.it/biz/vo-torino;15567;partire, antipasto, sublime, brasato, essere, eccezionale
+https://www.yelp.it/biz/vo-torino;15568;ambiente, confortevole, elegante
+https://www.yelp.it/biz/vo-torino;15569;sicuro, meritare, stella
+https://www.yelp.it/biz/vo-torino;15570;complesso, bene
+https://www.yelp.it/biz/vo-torino;15571;accattivante, elegante, eccellente
+https://www.yelp.it/biz/vo-torino;15572;personale, comunque, preparato, cordiale
+https://www.yelp.it/biz/vo-torino;15573;servizio, assai, cortese, professionale
+https://www.yelp.it/biz/vo-torino;15574;bello, posto, classe, cucina, raffinato
+https://www.yelp.it/biz/vo-torino;15575;vero, complimentare, essere, provare
+https://www.yelp.it/biz/vo-torino;15576;buono, tortino, gianduia
+https://www.yelp.it/biz/vo-torino;15577;comunque, buono, delicato
+https://www.yelp.it/biz/vo-torino;15578;pane, focaccia, sempre, buono
+https://www.yelp.it/biz/vo-torino;15579;importante, carta, vino
+https://www.yelp.it/biz/vo-torino;15580;cucina, ricercato, ottimo, livello
+https://www.yelp.it/biz/vo-torino;15581;essere, pranzo
+https://www.yelp.it/biz/vo-torino;15582;dolce, strepitoso
+https://www.yelp.it/biz/vo-torino;15583;prima, buono
+https://www.yelp.it/biz/vo-torino;15584;preparato, simpatico
+https://www.yelp.it/biz/vo-torino;15585;molto, buono
+https://www.yelp.it/biz/vo-torino;15586;ottimare, cantina
+https://www.yelp.it/biz/vo-torino;15587;servizio, essere, impeccabile
+https://www.yelp.it/biz/vo-torino;15588;buon, rapporto, qualità/prezzo
+https://www.yelp.it/biz/vo-torino;15589;molto, curare, locale, servizio
+https://www.yelp.it/biz/vo-torino;15590;stesso, menù, poco, fantasioso
+https://www.yelp.it/biz/vo-torino;15591;cantina, discreto
+https://www.yelp.it/biz/vo-torino;15592;resto, perfetto
+https://www.yelp.it/biz/vo-torino;15593;cantina, interessante
+https://www.yelp.it/biz/vo-torino;15594;molto, interessante, bisognare, tornare

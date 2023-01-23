@@ -1,0 +1,55 @@
+https://www.yelp.it/biz/vo-torino;15540;carta vino, vino importante
+https://www.yelp.it/biz/vo-torino;15541;ristorante molto, molto elegante, elegante raffinare
+https://www.yelp.it/biz/vo-torino;15542;posto molto, molto intimo, intimo carino
+https://www.yelp.it/biz/vo-torino;15543;ristorante alto, alto livello, livello molto, molto riservato, riservato cibo, cibo raffinato
+https://www.yelp.it/biz/vo-torino;15544;illuminazione buono, buono arredamento, arredamento minimale
+https://www.yelp.it/biz/vo-torino;15545;molto buono, buono invece, invece dolce
+https://www.yelp.it/biz/vo-torino;15546;consiglio occasione, occasione speciale
+https://www.yelp.it/biz/vo-torino;15547;atmosfera essere, essere ottimo, ottimo essere, essere ristorante, ristorante servizio, servizio anche
+https://www.yelp.it/biz/vo-torino;15548;dolce urlo
+https://www.yelp.it/biz/vo-torino;15549;buono accoglienza, accoglienza cortese, cortese professionale
+https://www.yelp.it/biz/vo-torino;15550;meritare visita
+https://www.yelp.it/biz/vo-torino;15551;é persona, persona vero, vero squisito
+https://www.yelp.it/biz/vo-torino;15552;complesso ristorante, ristorante discreto, discreto modesto, modesto parere, parere stella, stella risultare, risultare pò, pò immeritato
+https://www.yelp.it/biz/vo-torino;15553;menù tradizione, tradizione interessante
+https://www.yelp.it/biz/vo-torino;15554;dolce meglio, meglio resto
+https://www.yelp.it/biz/vo-torino;15555;ampio interessante, interessante scelta, scelta vino
+https://www.yelp.it/biz/vo-torino;15556;piacevole ristorante, ristorante pò, pò nascosto, nascosto centro
+https://www.yelp.it/biz/vo-torino;15557;piatto bello, bello soprattutto, soprattutto buono
+https://www.yelp.it/biz/vo-torino;15558;personale sala, sala cortese, cortese premuroso
+https://www.yelp.it/biz/vo-torino;15559;servizio eccellente, eccellente conto, conto adeguato
+https://www.yelp.it/biz/vo-torino;15560;interessante proposta, proposta anche, anche pranzo
+https://www.yelp.it/biz/vo-torino;15561;antipasto pane, pane ottimo
+https://www.yelp.it/biz/vo-torino;15562;rapporto qualità, qualità prezzo, prezzo ottimo
+https://www.yelp.it/biz/vo-torino;15563;estremo cordiale
+https://www.yelp.it/biz/vo-torino;15564;deciso interessante
+https://www.yelp.it/biz/vo-torino;15565;tripudio gusto
+https://www.yelp.it/biz/vo-torino;15566;molto bene
+https://www.yelp.it/biz/vo-torino;15567;partire antipasto, antipasto sublime, sublime brasato, brasato essere, essere eccezionale
+https://www.yelp.it/biz/vo-torino;15568;ambiente confortevole, confortevole elegante
+https://www.yelp.it/biz/vo-torino;15569;sicuro meritare, meritare stella
+https://www.yelp.it/biz/vo-torino;15570;complesso bene
+https://www.yelp.it/biz/vo-torino;15571;accattivante elegante, elegante eccellente
+https://www.yelp.it/biz/vo-torino;15572;personale comunque, comunque preparato, preparato cordiale
+https://www.yelp.it/biz/vo-torino;15573;servizio assai, assai cortese, cortese professionale
+https://www.yelp.it/biz/vo-torino;15574;bello posto, posto classe, classe cucina, cucina raffinato
+https://www.yelp.it/biz/vo-torino;15575;vero complimentare, complimentare essere, essere provare
+https://www.yelp.it/biz/vo-torino;15576;buono tortino, tortino gianduia
+https://www.yelp.it/biz/vo-torino;15577;comunque buono, buono delicato
+https://www.yelp.it/biz/vo-torino;15578;pane focaccia, focaccia sempre, sempre buono
+https://www.yelp.it/biz/vo-torino;15579;importante carta, carta vino
+https://www.yelp.it/biz/vo-torino;15580;cucina ricercato, ricercato ottimo, ottimo livello
+https://www.yelp.it/biz/vo-torino;15581;essere pranzo
+https://www.yelp.it/biz/vo-torino;15582;dolce strepitoso
+https://www.yelp.it/biz/vo-torino;15583;prima buono
+https://www.yelp.it/biz/vo-torino;15584;preparato simpatico
+https://www.yelp.it/biz/vo-torino;15585;molto buono
+https://www.yelp.it/biz/vo-torino;15586;ottimare cantina
+https://www.yelp.it/biz/vo-torino;15587;servizio essere, essere impeccabile
+https://www.yelp.it/biz/vo-torino;15588;buon rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/vo-torino;15589;molto curare, curare locale, locale servizio
+https://www.yelp.it/biz/vo-torino;15590;stesso menù, menù poco, poco fantasioso
+https://www.yelp.it/biz/vo-torino;15591;cantina discreto
+https://www.yelp.it/biz/vo-torino;15592;resto perfetto
+https://www.yelp.it/biz/vo-torino;15593;cantina interessante
+https://www.yelp.it/biz/vo-torino;15594;molto interessante, interessante bisognare, bisognare tornare

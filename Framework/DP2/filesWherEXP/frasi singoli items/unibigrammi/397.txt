@@ -1,0 +1,40 @@
+https://www.yelp.it/biz/villa-somis-torino;15328;dolce, simpatico, dolce simpatico
+https://www.yelp.it/biz/villa-somis-torino;15329;bravo, bis, bravo bis
+https://www.yelp.it/biz/villa-somis-torino;15330;molto, ben, curare, struttura, impeccabile, molto ben, ben curare, curare struttura, struttura impeccabile
+https://www.yelp.it/biz/villa-somis-torino;15331;felice, cenare, qui, felice cenare, cenare qui
+https://www.yelp.it/biz/villa-somis-torino;15332;pranzo, perfetto, pranzo perfetto
+https://www.yelp.it/biz/villa-somis-torino;15333;personale, cordiale, attento, personale cordiale, cordiale attento
+https://www.yelp.it/biz/villa-somis-torino;15334;davvero, bello, davvero bello
+https://www.yelp.it/biz/villa-somis-torino;15335;consiglio, utile, bello, esperienza, compleanno, importante, consiglio utile, utile bello, bello esperienza, esperienza compleanno, compleanno importante
+https://www.yelp.it/biz/villa-somis-torino;15336;locale, piacevole, intero, serata, locale piacevole, piacevole intero, intero serata
+https://www.yelp.it/biz/villa-somis-torino;15337;sposo, sposa, soddisfatto, sposo sposa, sposa soddisfatto
+https://www.yelp.it/biz/villa-somis-torino;15338;volta, coccola, volta coccola
+https://www.yelp.it/biz/villa-somis-torino;15339;porre, molto, bello, porre molto, molto bello
+https://www.yelp.it/biz/villa-somis-torino;15340;però, gusto, carattere, però gusto, gusto carattere
+https://www.yelp.it/biz/villa-somis-torino;15341;ottimo, occasione, speciale, ottimo occasione, occasione speciale
+https://www.yelp.it/biz/villa-somis-torino;15342;avere, modo, frequentare, provare, esperienza, gusto, eccellente, avere modo, modo frequentare, frequentare provare, provare esperienza, esperienza gusto, gusto eccellente
+https://www.yelp.it/biz/villa-somis-torino;15343;abbinamento, vino, sempre, super, azzeccare, abbinamento vino, vino sempre, sempre super, super azzeccare
+https://www.yelp.it/biz/villa-somis-torino;15344;rapporto, qualità, prezzo, eccellente, rapporto qualità, qualità prezzo, prezzo eccellente
+https://www.yelp.it/biz/villa-somis-torino;15345;qualità, prezzo, essere, vero, ottimo, qualità prezzo, prezzo essere, essere vero, vero ottimo
+https://www.yelp.it/biz/villa-somis-torino;15346;atmosfera, unico, atmosfera unico
+https://www.yelp.it/biz/villa-somis-torino;15347;simpatico, disponibile, simpatico disponibile
+https://www.yelp.it/biz/villa-somis-torino;15348;bene, migliore, bene migliore
+https://www.yelp.it/biz/villa-somis-torino;15349;autentico, gioia, palato, autentico gioia, gioia palato
+https://www.yelp.it/biz/villa-somis-torino;15350;molto, consigliare, molto consigliare
+https://www.yelp.it/biz/villa-somis-torino;15351;bello, esperienza, bello esperienza
+https://www.yelp.it/biz/villa-somis-torino;15352;buono, dolce, buono dolce
+https://www.yelp.it/biz/villa-somis-torino;15353;ottimo, bello, collina, ottimo bello, bello collina
+https://www.yelp.it/biz/villa-somis-torino;15354;assoluto, perfetto, assoluto perfetto
+https://www.yelp.it/biz/villa-somis-torino;15355;personale, accogliente, affabile, attento, personale accogliente, accogliente affabile, affabile attento
+https://www.yelp.it/biz/villa-somis-torino;15356;personale, molto, cordiale, personale molto, molto cordiale
+https://www.yelp.it/biz/villa-somis-torino;15357;finire, altrettanto, buon, dolce, limone, finire altrettanto, altrettanto buon, buon dolce, dolce limone
+https://www.yelp.it/biz/villa-somis-torino;15358;bello, anche, panorama, bello anche, anche panorama
+https://www.yelp.it/biz/villa-somis-torino;15359;personale, cortese, atmosfera, meraviglioso, personale cortese, cortese atmosfera, atmosfera meraviglioso
+https://www.yelp.it/biz/villa-somis-torino;15360;dolce, zero, dolce zero
+https://www.yelp.it/biz/villa-somis-torino;15361;personale, cortese, professionale, personale cortese, cortese professionale
+https://www.yelp.it/biz/villa-somis-torino;15362;cucina, raffinato, tanto, qualità, cucina raffinato, raffinato tanto, tanto qualità
+https://www.yelp.it/biz/villa-somis-torino;15363;cibo, vino, esaltante, cibo vino, vino esaltante
+https://www.yelp.it/biz/villa-somis-torino;15364;cibo, servizio, perfetto, cibo servizio, servizio perfetto
+https://www.yelp.it/biz/villa-somis-torino;15365;ottimo, cucina, locale, raffinato, ottimo cucina, cucina locale, locale raffinato
+https://www.yelp.it/biz/villa-somis-torino;15366;posto, davvero, unico, romantico, posto davvero, davvero unico, unico romantico
+https://www.yelp.it/biz/villa-somis-torino;15367;davvero, ottimo, davvero ottimo

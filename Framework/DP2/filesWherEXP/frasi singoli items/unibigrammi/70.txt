@@ -1,0 +1,30 @@
+https://www.yelp.it/biz/pepe-torino;5043;buono, vino, caffè, buono vino, vino caffè
+https://www.yelp.it/biz/pepe-torino;5044;dehor, piazza, davvero, strepitoso, dehor piazza, piazza davvero, davvero strepitoso
+https://www.yelp.it/biz/pepe-torino;5045;mangiare, piazza, impagabile, mangiare piazza, piazza impagabile
+https://www.yelp.it/biz/pepe-torino;5046;piazza, poi, é, bello, piazza poi, poi é, é bello
+https://www.yelp.it/biz/pepe-torino;5047;buono, piattino, apericena, buono piattino, piattino apericena
+https://www.yelp.it/biz/pepe-torino;5048;peccare, posizione, fantastico, bastare, peccare posizione, posizione fantastico, fantastico bastare
+https://www.yelp.it/biz/pepe-torino;5049;comunque, molto, buono, comunque molto, molto buono
+https://www.yelp.it/biz/pepe-torino;5050;bello, posto, bello posto
+https://www.yelp.it/biz/pepe-torino;5051;piazzetta, tranquillo, tavolo, aperto, location, davvero, ottimo, piazzetta tranquillo, tranquillo tavolo, tavolo aperto, aperto location, location davvero, davvero ottimo
+https://www.yelp.it/biz/pepe-torino;5052;vicino, piazza, molto, elegante, vicino piazza, piazza molto, molto elegante
+https://www.yelp.it/biz/pepe-torino;5053;essere, giovane, cordiale, essere giovane, giovane cordiale
+https://www.yelp.it/biz/pepe-torino;5054;consigliare, insomma, consigliare insomma
+https://www.yelp.it/biz/pepe-torino;5055;personale, gentile, accogliente, personale gentile, gentile accogliente
+https://www.yelp.it/biz/pepe-torino;5056;consigliare, apericena, compagnia, consigliare apericena, apericena compagnia
+https://www.yelp.it/biz/pepe-torino;5057;grazie, bello, recensione, grazie bello, bello recensione
+https://www.yelp.it/biz/pepe-torino;5058;grazie, grazie, presto, grazie grazie, grazie presto
+https://www.yelp.it/biz/pepe-torino;5059;molto, cariare, molto cariare
+https://www.yelp.it/biz/pepe-torino;5060;locale, piacevole, prezzo, norma, molto, gradevole, personale, adeguato, pò, troppo, fiscale, riguardo, orario, chiusura, locale piacevole, piacevole prezzo, prezzo norma, norma molto, molto gradevole, gradevole personale, personale adeguato, adeguato pò, pò troppo, troppo fiscale, fiscale riguardo, riguardo orario, orario chiusura
+https://www.yelp.it/biz/pepe-torino;5061;gentile, apericena, vario, molto, buono, gentile apericena, apericena vario, vario molto, molto buono
+https://www.yelp.it/biz/pepe-torino;5062;bello, salotto, essere, estivo, invernale, molto, ben, frequentare, bello salotto, salotto essere, essere estivo, estivo invernale, invernale molto, molto ben, ben frequentare
+https://www.yelp.it/biz/pepe-torino;5063;grazie, ancora, grazie ancora
+https://www.yelp.it/biz/pepe-torino;5064;piazza, essere, vero, salotto, ombroso, centro, piazza essere, essere vero, vero salotto, salotto ombroso, ombroso centro
+https://www.yelp.it/biz/pepe-torino;5065;location, essere, molto, invitante, location essere, essere molto, molto invitante
+https://www.yelp.it/biz/pepe-torino;5066;qualità, tapas, mediocre, qualità tapas, tapas mediocre
+https://www.yelp.it/biz/pepe-torino;5067;apericena, essere, notevolmente, ricco, cibo, ottimo, qualità, apericena essere, essere notevolmente, notevolmente ricco, ricco cibo, cibo ottimo, ottimo qualità
+https://www.yelp.it/biz/pepe-torino;5068;servizio, veloce, cortese, conto, giusto, servizio veloce, veloce cortese, cortese conto, conto giusto
+https://www.yelp.it/biz/pepe-torino;5069;grazie, bello, recensione, grazie bello, bello recensione
+https://www.yelp.it/biz/pepe-torino;5070;locale, bello, curare, cucina, ricercato, eseguire, regola, arte, locale bello, bello curare, curare cucina, cucina ricercato, ricercato eseguire, eseguire regola, regola arte
+https://www.yelp.it/biz/pepe-torino;5071;grazie, giornata, marco, grazie giornata, giornata marco
+https://www.yelp.it/biz/pepe-torino;5072;buon, vino, bianco, pasta, delizioso, insalata, buon vino, vino bianco, bianco pasta, pasta delizioso, delizioso insalata

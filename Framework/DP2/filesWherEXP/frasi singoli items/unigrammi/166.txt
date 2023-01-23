@@ -1,0 +1,36 @@
+https://www.yelp.it/biz/timeout-bari;8314;bravo, ragazzo, prossimo
+https://www.yelp.it/biz/timeout-bari;8315;adatto, anche, famiglia, bambino
+https://www.yelp.it/biz/timeout-bari;8316;posto, cibo, qualità, ottimo
+https://www.yelp.it/biz/timeout-bari;8317;sapore, panino, essere, eccezionale, rispettare
+https://www.yelp.it/biz/timeout-bari;8318;piacevole, trascorrere, serata, diverso, compagnia, anche, sport, diretto, tv
+https://www.yelp.it/biz/timeout-bari;8319;dolce, servire
+https://www.yelp.it/biz/timeout-bari;8320;molto, caratteristico, tema, sport
+https://www.yelp.it/biz/timeout-bari;8321;essere, spazioso, accogliente
+https://www.yelp.it/biz/timeout-bari;8322;buon, posto, mangiare, vedere, sport
+https://www.yelp.it/biz/timeout-bari;8323;comunque, abbastanza, buono, cibo
+https://www.yelp.it/biz/timeout-bari;8324;salsa, molto, buono, menù, ricco
+https://www.yelp.it/biz/timeout-bari;8325;dire, panino, perfetto
+https://www.yelp.it/biz/timeout-bari;8326;servizio, essere, impeccabile, sempre, disponibile, panino, insalata, ottimo, qualità
+https://www.yelp.it/biz/timeout-bari;8327;rapporto, qualità, prezzo, essere, giusto
+https://www.yelp.it/biz/timeout-bari;8328;bravo, ragazzo, servizio, tavolo
+https://www.yelp.it/biz/timeout-bari;8329;grande, merito, andare, servizio, veloce, professionale
+https://www.yelp.it/biz/timeout-bari;8330;vero, ottimo, idea, diverso, altro, locale
+https://www.yelp.it/biz/timeout-bari;8331;locale, atmosfera, regalare, partita, emozionante
+https://www.yelp.it/biz/timeout-bari;8332;pane, poco, friabile
+https://www.yelp.it/biz/timeout-bari;8333;essere, provare, consigliatissimo, eccellente
+https://www.yelp.it/biz/timeout-bari;8334;locale, essere, molto, accogliente
+https://www.yelp.it/biz/timeout-bari;8335;deciso, troppo, qualità, servizio
+https://www.yelp.it/biz/timeout-bari;8336;locale, bello
+https://www.yelp.it/biz/timeout-bari;8337;qualità, ottimo
+https://www.yelp.it/biz/timeout-bari;8338;resto, positivo
+https://www.yelp.it/biz/timeout-bari;8339;personale, gentile
+https://www.yelp.it/biz/timeout-bari;8340;molto, buono, però
+https://www.yelp.it/biz/timeout-bari;8341;servizio, veloce, personale, cordiale
+https://www.yelp.it/biz/timeout-bari;8342;cibo, ottimo, perfetto, rapporto, qualità, prezzo
+https://www.yelp.it/biz/timeout-bari;8343;dire, davvero, eccezionale
+https://www.yelp.it/biz/timeout-bari;8344;partita, però, molto, bello, tv, angolo, audio, bello, forte
+https://www.yelp.it/biz/timeout-bari;8345;posto, essere, bello
+https://www.yelp.it/biz/timeout-bari;8346;cibo, essere, buono
+https://www.yelp.it/biz/timeout-bari;8347;favola, finire, pezzo
+https://www.yelp.it/biz/timeout-bari;8348;buono, pizza
+https://www.yelp.it/biz/timeout-bari;8349;personale, simpatia, accogliente

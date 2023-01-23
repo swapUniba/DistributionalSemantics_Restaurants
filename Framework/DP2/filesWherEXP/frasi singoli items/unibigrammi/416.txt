@@ -1,0 +1,29 @@
+https://www.yelp.it/biz/seven-up-torino;16063;caro, atmosfera, cordiale, caro atmosfera, atmosfera cordiale
+https://www.yelp.it/biz/seven-up-torino;16064;impasto, pizza, discreto, impasto pizza, pizza discreto
+https://www.yelp.it/biz/seven-up-torino;16065;menù, essenziale, menù essenziale
+https://www.yelp.it/biz/seven-up-torino;16066;qualità, ottimo, qualità ottimo
+https://www.yelp.it/biz/seven-up-torino;16067;vero, Consigliato, vero consigliato
+https://www.yelp.it/biz/seven-up-torino;16068;buono, pizza, discreto, antipasto, buono pizza, pizza discreto, discreto antipasto
+https://www.yelp.it/biz/seven-up-torino;16069;discreto, torta, nonna, discreto torta, torta nonna
+https://www.yelp.it/biz/seven-up-torino;16070;ambiente, confortevole, personale, accogliente, molto, gentile, ambiente confortevole, confortevole personale, personale accogliente, accogliente molto, molto gentile
+https://www.yelp.it/biz/seven-up-torino;16071;focaccia, ottimo, focaccia ottimo
+https://www.yelp.it/biz/seven-up-torino;16072;ambiente, internazionale, molto, cariare, dehor, ambiente internazionale, internazionale molto, molto cariare, cariare dehor
+https://www.yelp.it/biz/seven-up-torino;16073;buono, serata, buono serata
+https://www.yelp.it/biz/seven-up-torino;16074;luogo, accogliente, confortevole, luogo accogliente, accogliente confortevole
+https://www.yelp.it/biz/seven-up-torino;16075;cibo, ottimo, ottimo, prezzo, cibo ottimo, ottimo ottimo, ottimo prezzo
+https://www.yelp.it/biz/seven-up-torino;16076;personale, competente, gentile, personale competente, competente gentile
+https://www.yelp.it/biz/seven-up-torino;16077;personale, essere, cortese, personale essere, essere cortese
+https://www.yelp.it/biz/seven-up-torino;16078;grande, disponibilità, grande disponibilità
+https://www.yelp.it/biz/seven-up-torino;16079;bello, serata, buono, mangiare, bello serata, serata buono, buono mangiare
+https://www.yelp.it/biz/seven-up-torino;16080;visitare, pausa, lavoro, visitare pausa, pausa lavoro
+https://www.yelp.it/biz/seven-up-torino;16081;personale, gentile, educare, molto, professionale, personale gentile, gentile educare, educare molto, molto professionale
+https://www.yelp.it/biz/seven-up-torino;16082;molto, gentile, simpatico, molto gentile, gentile simpatico
+https://www.yelp.it/biz/seven-up-torino;16083;pizza, ottimo, cuocere, punto, giusto, ingrediente, buono, alto, pizza ottimo, ottimo cuocere, cuocere punto, punto giusto, giusto ingrediente, ingrediente buono, buono alto
+https://www.yelp.it/biz/seven-up-torino;16084;personale, simpaticissimo, personale simpaticissimo
+https://www.yelp.it/biz/seven-up-torino;16085;nota, merito, personale, simpatico, veloce, nota merito, merito personale, personale simpatico, simpatico veloce
+https://www.yelp.it/biz/seven-up-torino;16086;definitivo, speciale, definitivo speciale
+https://www.yelp.it/biz/seven-up-torino;16087;servizio, gentile, servizio gentile
+https://www.yelp.it/biz/seven-up-torino;16088;ottimare, anche, grigliata, verdura, ottimare anche, anche grigliata, grigliata verdura
+https://www.yelp.it/biz/seven-up-torino;16089;servizio, leggermente, lento, comunque, personale, essere, cortese, gentile, servizio leggermente, leggermente lento, lento comunque, comunque personale, personale essere, essere cortese, cortese gentile
+https://www.yelp.it/biz/seven-up-torino;16090;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/seven-up-torino;16091;cameriere, molto, gentile, ambiente, molto, accogliente, cameriere molto, molto gentile, gentile ambiente, ambiente molto, molto accogliente

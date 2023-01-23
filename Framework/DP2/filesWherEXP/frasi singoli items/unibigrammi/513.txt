@@ -1,0 +1,41 @@
+https://www.yelp.it/biz/da-benito-torino;19044;giudizio, complessivo, buono, giudizio complessivo, complessivo buono
+https://www.yelp.it/biz/da-benito-torino;19045;prezzo, essere, coerente, qualità, ristorante, prezzo essere, essere coerente, coerente qualità, qualità ristorante
+https://www.yelp.it/biz/da-benito-torino;19046;prezzo, po, alto, prezzo po, po alto
+https://www.yelp.it/biz/da-benito-torino;19047;porre, molto, accogliente, personale, gentile, niente, sbrigativo, porre molto, molto accogliente, accogliente personale, personale gentile, gentile niente, niente sbrigativo
+https://www.yelp.it/biz/da-benito-torino;19048;meritare, lavorare, più, meritare lavorare, lavorare più
+https://www.yelp.it/biz/da-benito-torino;19049;mangiare, bene, mangiare bene
+https://www.yelp.it/biz/da-benito-torino;19050;brutto, esperienza, brutto esperienza
+https://www.yelp.it/biz/da-benito-torino;19051;buono, carta, vino, buono carta, carta vino
+https://www.yelp.it/biz/da-benito-torino;19052;pasta, frutto, mare, spettacolare, pasta frutto, frutto mare, mare spettacolare
+https://www.yelp.it/biz/da-benito-torino;19053;locale, pò, vecchiotto, locale pò, pò vecchiotto
+https://www.yelp.it/biz/da-benito-torino;19054;insalata, pesce, essere, portata, delizioso, insalata pesce, pesce essere, essere portata, portata delizioso
+https://www.yelp.it/biz/da-benito-torino;19055;sorbetto, mandarino, buono, sorbetto mandarino, mandarino buono
+https://www.yelp.it/biz/da-benito-torino;19056;accoglienza, eccezionale, mettere, immediato, agio, accoglienza eccezionale, eccezionale mettere, mettere immediato, immediato agio
+https://www.yelp.it/biz/da-benito-torino;19057;vero, eccezionale, vero eccezionale
+https://www.yelp.it/biz/da-benito-torino;19058;buono, rapporto, qualità, prezzo, buono rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/da-benito-torino;19059;servizio, impeccabile, efficentissimo, rango, discreto, premuroso, servizio impeccabile, impeccabile efficentissimo, efficentissimo rango, rango discreto, discreto premuroso
+https://www.yelp.it/biz/da-benito-torino;19060;cucina, abbastanza, buono, sopratutto, ostrica, cucina abbastanza, abbastanza buono, buono sopratutto, sopratutto ostrica
+https://www.yelp.it/biz/da-benito-torino;19061;servizio, efficiente, personale, simpatico, servizio efficiente, efficiente personale, personale simpatico
+https://www.yelp.it/biz/da-benito-torino;19062;classico, intramontabile, classico intramontabile
+https://www.yelp.it/biz/da-benito-torino;19063;ottimo, vino, ottimo vino
+https://www.yelp.it/biz/da-benito-torino;19064;splendido, cucina, servizio, grazie, squisito, splendido cucina, cucina servizio, servizio grazie, grazie squisito
+https://www.yelp.it/biz/da-benito-torino;19065;personale, professionale, cortese, personale professionale, professionale cortese
+https://www.yelp.it/biz/da-benito-torino;19066;ottimo, ristorante, servizio, impeccabile, ottimo ristorante, ristorante servizio, servizio impeccabile
+https://www.yelp.it/biz/da-benito-torino;19067;grande, professionalità, partire, cucina, sala, grande professionalità, professionalità partire, partire cucina, cucina sala
+https://www.yelp.it/biz/da-benito-torino;19068;migliore, sempre, migliore sempre
+https://www.yelp.it/biz/da-benito-torino;19069;ottimo, locale, piatto, eccellente, simpatia, cordialità, ottimo locale, locale piatto, piatto eccellente, eccellente simpatia, simpatia cordialità
+https://www.yelp.it/biz/da-benito-torino;19070;consigliare, vero, consigliare vero
+https://www.yelp.it/biz/da-benito-torino;19071;cortese, gentile, cortese gentile
+https://www.yelp.it/biz/da-benito-torino;19072;ottimo, cucina, pesce, ottimo cucina, cucina pesce
+https://www.yelp.it/biz/da-benito-torino;19073;meritare, visita, meritare visita
+https://www.yelp.it/biz/da-benito-torino;19074;molto, buono, molto buono
+https://www.yelp.it/biz/da-benito-torino;19075;buon, rapporto, qualità, prezzo, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/da-benito-torino;19076;consigliare, buon, rapporto, qualità, prezzo, consigliare buon, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/da-benito-torino;19077;posto, arredare, anno, gradevole, posto arredare, arredare anno, anno gradevole
+https://www.yelp.it/biz/da-benito-torino;19078;carta, vino, ben, assortito, carta vino, vino ben, ben assortito
+https://www.yelp.it/biz/da-benito-torino;19079;aggiornamento, locale, aiutare, rendere, più, gradevole, ambiente, aggiornamento locale, locale aiutare, aiutare rendere, rendere più, più gradevole, gradevole ambiente
+https://www.yelp.it/biz/da-benito-torino;19080;qualità, cibo, elevato, qualità cibo, cibo elevato
+https://www.yelp.it/biz/da-benito-torino;19081;sempre, favoloso, sempre favoloso
+https://www.yelp.it/biz/da-benito-torino;19082;poi, gentile, poi gentile
+https://www.yelp.it/biz/da-benito-torino;19083;quindi, poco, saporire, quindi poco, poco saporire
+https://www.yelp.it/biz/da-benito-torino;19084;eccellente, qualità, pesce, eccellente qualità, qualità pesce

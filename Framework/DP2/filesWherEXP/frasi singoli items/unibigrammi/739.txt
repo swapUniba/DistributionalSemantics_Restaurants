@@ -1,0 +1,111 @@
+https://www.yelp.it/biz/boja-fauss-torino-2;24903;offrire, buono, cucina, piemontese, offrire buono, buono cucina, cucina piemontese
+https://www.yelp.it/biz/boja-fauss-torino-2;24904;resto, personale, essere, gentile, ambiente, accogliente, resto personale, personale essere, essere gentile, gentile ambiente, ambiente accogliente
+https://www.yelp.it/biz/boja-fauss-torino-2;24905;ottimare, cena, ottimo, vino, ottimare cena, cena ottimo, ottimo vino
+https://www.yelp.it/biz/boja-fauss-torino-2;24906;locale, piccolo, caldo, personale, molto, gentile, locale piccolo, piccolo caldo, caldo personale, personale molto, molto gentile
+https://www.yelp.it/biz/boja-fauss-torino-2;24907;qualità, cibo, davvero, buono, qualità cibo, cibo davvero, davvero buono
+https://www.yelp.it/biz/boja-fauss-torino-2;24908;atmosfera, piuttosto, soffuso, personale, gentile, atmosfera piuttosto, piuttosto soffuso, soffuso personale, personale gentile
+https://www.yelp.it/biz/boja-fauss-torino-2;24909;coperto, diverso, sala, ambiente, caldo, accogliente, informale, coperto diverso, diverso sala, sala ambiente, ambiente caldo, caldo accogliente, accogliente informale
+https://www.yelp.it/biz/boja-fauss-torino-2;24910;menù, tipico, piemontese, ben, eseguire, servizio, rapido, cortese, menù tipico, tipico piemontese, piemontese ben, ben eseguire, eseguire servizio, servizio rapido, rapido cortese
+https://www.yelp.it/biz/boja-fauss-torino-2;24911;gestore, molto, gentile, pronto, intrattenere, ospite, gestore molto, molto gentile, gentile pronto, pronto intrattenere, intrattenere ospite
+https://www.yelp.it/biz/boja-fauss-torino-2;24912;gustoso, cena, piemontese, gustoso cena, cena piemontese
+https://www.yelp.it/biz/boja-fauss-torino-2;24913;personale, poi, essere, gentile, personale poi, poi essere, essere gentile
+https://www.yelp.it/biz/boja-fauss-torino-2;24914;forse, gusto, personale, migliorare, risotto, forse gusto, gusto personale, personale migliorare, migliorare risotto
+https://www.yelp.it/biz/boja-fauss-torino-2;24915;ottimo, scelta, piatto, tipico, piemontese, impreziosire, tocco, creatività, ottimo scelta, scelta piatto, piatto tipico, tipico piemontese, piemontese impreziosire, impreziosire tocco, tocco creatività
+https://www.yelp.it/biz/boja-fauss-torino-2;24916;cucina, eccellente, cortesia, simpatia, personale, prezzo, assoluto, adeguato, qualità, cibo, cucina eccellente, eccellente cortesia, cortesia simpatia, simpatia personale, personale prezzo, prezzo assoluto, assoluto adeguato, adeguato qualità, qualità cibo
+https://www.yelp.it/biz/boja-fauss-torino-2;24917;buono, qualità, ingrediente, servizio, buono qualità, qualità ingrediente, ingrediente servizio
+https://www.yelp.it/biz/boja-fauss-torino-2;24918;peccare, essere, pò, caro, rispetto, locale, stesso, livello, presente, zona, peccare essere, essere pò, pò caro, caro rispetto, rispetto locale, locale stesso, stesso livello, livello presente, presente zona
+https://www.yelp.it/biz/boja-fauss-torino-2;24919;personale, simpatico, disponibile, piatto, curato, ben, servire, molto, buono, personale simpatico, simpatico disponibile, disponibile piatto, piatto curato, curato ben, ben servire, servire molto, molto buono
+https://www.yelp.it/biz/boja-fauss-torino-2;24920;carino, pulita, carino pulita
+https://www.yelp.it/biz/boja-fauss-torino-2;24921;personale, simpatico, molto, disponibile, personale simpatico, simpatico molto, molto disponibile
+https://www.yelp.it/biz/boja-fauss-torino-2;24922;bravo, bravo, bravo bravo
+https://www.yelp.it/biz/boja-fauss-torino-2;24923;davvero, ottimo, anche, davvero ottimo, ottimo anche
+https://www.yelp.it/biz/boja-fauss-torino-2;24924;niente, dolce, sazio, niente dolce, dolce sazio
+https://www.yelp.it/biz/boja-fauss-torino-2;24925;cena, accompagnare, vino, rosso, casa, ribolla, giallo, ottimo, cena accompagnare, accompagnare vino, vino rosso, rosso casa, casa ribolla, ribolla giallo, giallo ottimo
+https://www.yelp.it/biz/boja-fauss-torino-2;24926;locale, piano, superiore, essere, molto, bello, restaurare, raffinare, locale piano, piano superiore, superiore essere, essere molto, molto bello, bello restaurare, restaurare raffinare
+https://www.yelp.it/biz/boja-fauss-torino-2;24927;piatto, vero, buono, piatto vero, vero buono
+https://www.yelp.it/biz/boja-fauss-torino-2;24928;piacevole, serata, caratteristico, quartiere, piacevole serata, serata caratteristico, caratteristico quartiere
+https://www.yelp.it/biz/boja-fauss-torino-2;24929;molto, molto, bene, molto molto, molto bene
+https://www.yelp.it/biz/boja-fauss-torino-2;24930;sempre, piacere, cenare, cucinare, molto, buono, curare, locale, pulito, confortevole, buono, selezione, vino, sempre piacere, piacere cenare, cenare cucinare, cucinare molto, molto buono, buono curare, curare locale, locale pulito, pulito confortevole, confortevole buono, buono selezione, selezione vino
+https://www.yelp.it/biz/boja-fauss-torino-2;24931;ristorante, molto, carino, pulito, accogliente, ristorante molto, molto carino, carino pulito, pulito accogliente
+https://www.yelp.it/biz/boja-fauss-torino-2;24932;buono, scoperta, piacevole, parmigiana, zucca, buono scoperta, scoperta piacevole, piacevole parmigiana, parmigiana zucca
+https://www.yelp.it/biz/boja-fauss-torino-2;24933;piatto, equilibrato, piatto equilibrato
+https://www.yelp.it/biz/boja-fauss-torino-2;24934;cameriere, bravo, sempre, sorridente, cameriere bravo, bravo sempre, sempre sorridente
+https://www.yelp.it/biz/boja-fauss-torino-2;24935;buono, saporire, buono saporire
+https://www.yelp.it/biz/boja-fauss-torino-2;24936;buono, tiramisù, fare, panettone, buono tiramisù, tiramisù fare, fare panettone
+https://www.yelp.it/biz/boja-fauss-torino-2;24937;ottimo, cena, piemontese, posto, essere, proprio, ideale, ottimo cena, cena piemontese, piemontese posto, posto essere, essere proprio, proprio ideale
+https://www.yelp.it/biz/boja-fauss-torino-2;24938;gradire, anche, sconto, finale, omaggio, dolce, tipico, gradire anche, anche sconto, sconto finale, finale omaggio, omaggio dolce, dolce tipico
+https://www.yelp.it/biz/boja-fauss-torino-2;24939;essere, locale, molto, carino, zona, più, tranquillo, essere locale, locale molto, molto carino, carino zona, zona più, più tranquillo
+https://www.yelp.it/biz/boja-fauss-torino-2;24940;ambiente, molto, curato, caldo, personale, gentile, molto, cortese, attenzione, esigenza, cliente, ambiente molto, molto curato, curato caldo, caldo personale, personale gentile, gentile molto, molto cortese, cortese attenzione, attenzione esigenza, esigenza cliente
+https://www.yelp.it/biz/boja-fauss-torino-2;24941;cibo, curare, aspetto, buono, cibo curare, curare aspetto, aspetto buono
+https://www.yelp.it/biz/boja-fauss-torino-2;24942;locale, conosciuto, grazie, programma, cucina, incubo, locale conosciuto, conosciuto grazie, grazie programma, programma cucina, cucina incubo
+https://www.yelp.it/biz/boja-fauss-torino-2;24943;dolce, davvero, molto, buono, dolce davvero, davvero molto, molto buono
+https://www.yelp.it/biz/boja-fauss-torino-2;24944;atmosfera, tranquillo, personale, gentile, accogliente, piatto, squisito, atmosfera tranquillo, tranquillo personale, personale gentile, gentile accogliente, accogliente piatto, piatto squisito
+https://www.yelp.it/biz/boja-fauss-torino-2;24945;roberto, essere, simpaticissimo, appassionato, roberto essere, essere simpaticissimo, simpaticissimo appassionato
+https://www.yelp.it/biz/boja-fauss-torino-2;24946;assoluto, superlativo, assoluto superlativo
+https://www.yelp.it/biz/boja-fauss-torino-2;24947;ottimo, accoglienza, personale, cordiale, ottimo accoglienza, accoglienza personale, personale cordiale
+https://www.yelp.it/biz/boja-fauss-torino-2;24948;personale, cortese, locale, carino, cibo, ottimo, qualità, personale cortese, cortese locale, locale carino, carino cibo, cibo ottimo, ottimo qualità
+https://www.yelp.it/biz/boja-fauss-torino-2;24949;molto, invitante, molto invitante
+https://www.yelp.it/biz/boja-fauss-torino-2;24950;bravo, provare, bravo provare
+https://www.yelp.it/biz/boja-fauss-torino-2;24951;davvero, grazie, davvero grazie
+https://www.yelp.it/biz/boja-fauss-torino-2;24952;servizio, essere, buono, servizio essere, essere buono
+https://www.yelp.it/biz/boja-fauss-torino-2;24953;interno, locale, essere, molto, essenziale, interno locale, locale essere, essere molto, molto essenziale
+https://www.yelp.it/biz/boja-fauss-torino-2;24954;piatto, ottimo, curare, dettaglio, prezzo, equilibrato, piatto ottimo, ottimo curare, curare dettaglio, dettaglio prezzo, prezzo equilibrato
+https://www.yelp.it/biz/boja-fauss-torino-2;24955;prezzo, onesto, piatto, delizioso, buon, servizio, prezzo onesto, onesto piatto, piatto delizioso, delizioso buon, buon servizio
+https://www.yelp.it/biz/boja-fauss-torino-2;24956;finire, buono, gelato, finire buono, buono gelato
+https://www.yelp.it/biz/boja-fauss-torino-2;24957;molto, buono, particolare, dolce, molto buono, buono particolare, particolare dolce
+https://www.yelp.it/biz/boja-fauss-torino-2;24958;eccellente, qualità, cibo, presentazione, piatto, personale, disponibile, paziente, gentile, simpatico, eccellente qualità, qualità cibo, cibo presentazione, presentazione piatto, piatto personale, personale disponibile, disponibile paziente, paziente gentile, gentile simpatico
+https://www.yelp.it/biz/boja-fauss-torino-2;24959;locale, cariare, piacevole, proporre, cucina, piemontese, realtà, moderno, rivisitare, locale cariare, cariare piacevole, piacevole proporre, proporre cucina, cucina piemontese, piemontese realtà, realtà moderno, moderno rivisitare
+https://www.yelp.it/biz/boja-fauss-torino-2;24960;veloce, gentile, servizio, veloce gentile, gentile servizio
+https://www.yelp.it/biz/boja-fauss-torino-2;24961;cibo, molto, buono, prezzo, ottimo, cibo molto, molto buono, buono prezzo, prezzo ottimo
+https://www.yelp.it/biz/boja-fauss-torino-2;24962;così, essere, dolce, così essere, essere dolce
+https://www.yelp.it/biz/boja-fauss-torino-2;24963;cibo, servizio, essere, buono, qualità, consiglio, tris, antipasto, cibo servizio, servizio essere, essere buono, buono qualità, qualità consiglio, consiglio tris, tris antipasto
+https://www.yelp.it/biz/boja-fauss-torino-2;24964;locale, cariare, locale cariare
+https://www.yelp.it/biz/boja-fauss-torino-2;24965;servizio, cortese, simpatico, servizio cortese, cortese simpatico
+https://www.yelp.it/biz/boja-fauss-torino-2;24966;mitico, tris, antipasto, mitico tris, tris antipasto
+https://www.yelp.it/biz/boja-fauss-torino-2;24967;grazie, ragazzo, grazie ragazzo
+https://www.yelp.it/biz/boja-fauss-torino-2;24968;personale, simpatico, cordiale, esperienza, ripetere, personale simpatico, simpatico cordiale, cordiale esperienza, esperienza ripetere
+https://www.yelp.it/biz/boja-fauss-torino-2;24969;locale, carino, più, piano, ambiente, locale carino, carino più, più piano, piano ambiente
+https://www.yelp.it/biz/boja-fauss-torino-2;24970;cucina, superlativo, personale, gentile, cucina superlativo, superlativo personale, personale gentile
+https://www.yelp.it/biz/boja-fauss-torino-2;24971;servizio, veloce, qualitativo, buono, servizio veloce, veloce qualitativo, qualitativo buono
+https://www.yelp.it/biz/boja-fauss-torino-2;24972;servizio, cortese, servizio cortese
+https://www.yelp.it/biz/boja-fauss-torino-2;24973;buono, accoglienza, cordiale, servizio, buono accoglienza, accoglienza cordiale, cordiale servizio
+https://www.yelp.it/biz/boja-fauss-torino-2;24974;tempura, essere, spettacolare, essere, meno, tris, tempura essere, essere spettacolare, spettacolare essere, essere meno, meno tris
+https://www.yelp.it/biz/boja-fauss-torino-2;24975;carne, crudo, eccezionale, così, guancia, purè, carne crudo, crudo eccezionale, eccezionale così, così guancia, guancia purè
+https://www.yelp.it/biz/boja-fauss-torino-2;24976;piatto, bello, buono, qualità, super, piatto bello, bello buono, buono qualità, qualità super
+https://www.yelp.it/biz/boja-fauss-torino-2;24977;titolare, molto, gentile, titolare molto, molto gentile
+https://www.yelp.it/biz/boja-fauss-torino-2;24978;accoglienza, cibo, fantastico, accoglienza cibo, cibo fantastico
+https://www.yelp.it/biz/boja-fauss-torino-2;24979;dire, personale, simpatico, preparare, fare, sentire, casa, piatto, particolare, cucinare, maestria, dire personale, personale simpatico, simpatico preparare, preparare fare, fare sentire, sentire casa, casa piatto, piatto particolare, particolare cucinare, cucinare maestria
+https://www.yelp.it/biz/boja-fauss-torino-2;24980;servizio, gradevole, mai, invadente, servizio gradevole, gradevole mai, mai invadente
+https://www.yelp.it/biz/boja-fauss-torino-2;24981;infine, dolce, bunet, davvero, ottimo, concludere, cena, infine dolce, dolce bunet, bunet davvero, davvero ottimo, ottimo concludere, concludere cena
+https://www.yelp.it/biz/boja-fauss-torino-2;24982;vino, casa, barbera, perfetto, molto, buono, vino casa, casa barbera, barbera perfetto, perfetto molto, molto buono
+https://www.yelp.it/biz/boja-fauss-torino-2;24983;insomma, sicuro, sera, essere, locale, fantastico, esperienza, positivissima, insomma sicuro, sicuro sera, sera essere, essere locale, locale fantastico, fantastico esperienza, esperienza positivissima
+https://www.yelp.it/biz/boja-fauss-torino-2;24984;resto, ottimo, cibo, tanto, cortesia, simpatia, resto ottimo, ottimo cibo, cibo tanto, tanto cortesia, cortesia simpatia
+https://www.yelp.it/biz/boja-fauss-torino-2;24985;location, molto, bello, caratteristico, location molto, molto bello, bello caratteristico
+https://www.yelp.it/biz/boja-fauss-torino-2;24986;personale, molto, gentile, cameriere, molto, bello, personale molto, molto gentile, gentile cameriere, cameriere molto, molto bello
+https://www.yelp.it/biz/boja-fauss-torino-2;24987;locale, essere, molto, bello, atmosfera, tranquillo, piacevole, cibo, essere, sempre, ottimo, locale essere, essere molto, molto bello, bello atmosfera, atmosfera tranquillo, tranquillo piacevole, piacevole cibo, cibo essere, essere sempre, sempre ottimo
+https://www.yelp.it/biz/boja-fauss-torino-2;24988;bravo, ragazzo, servizio, ottimo, continuare, coso, bravo ragazzo, ragazzo servizio, servizio ottimo, ottimo continuare, continuare coso
+https://www.yelp.it/biz/boja-fauss-torino-2;24989;locale, molto, cariare, vino, ottimo, prendere, vitello, tonnato, personale, gentile, titolare, molto, simpatico, locale molto, molto cariare, cariare vino, vino ottimo, ottimo prendere, prendere vitello, vitello tonnato, tonnato personale, personale gentile, gentile titolare, titolare molto, molto simpatico
+https://www.yelp.it/biz/boja-fauss-torino-2;24990;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/boja-fauss-torino-2;24991;locale, accogliente, grazioso, locale accogliente, accogliente grazioso
+https://www.yelp.it/biz/boja-fauss-torino-2;24992;servizio, eccellente, cameriere, simpatico, gentile, informato, servizio eccellente, eccellente cameriere, cameriere simpatico, simpatico gentile, gentile informato
+https://www.yelp.it/biz/boja-fauss-torino-2;24993;carta, vino, molto, ben, fornire, carta vino, vino molto, molto ben, ben fornire
+https://www.yelp.it/biz/boja-fauss-torino-2;24994;locale, accogliente, caldo, gradevole, locale accogliente, accogliente caldo, caldo gradevole
+https://www.yelp.it/biz/boja-fauss-torino-2;24995;personale, gentile, disponibile, allegro, personale gentile, gentile disponibile, disponibile allegro
+https://www.yelp.it/biz/boja-fauss-torino-2;24996;sommare, quindi, piacevole, serata, sommare quindi, quindi piacevole, piacevole serata
+https://www.yelp.it/biz/boja-fauss-torino-2;24997;locale, carino, ottimo, cibo, buono, cantina, locale carino, carino ottimo, ottimo cibo, cibo buono, buono cantina
+https://www.yelp.it/biz/boja-fauss-torino-2;24998;ambiente, pulito, caratteristico, stanza, cassetta, legno, soffitto, ambiente pulito, pulito caratteristico, caratteristico stanza, stanza cassetta, cassetta legno, legno soffitto
+https://www.yelp.it/biz/boja-fauss-torino-2;24999;personale, simpatico, cordiale, personale simpatico, simpatico cordiale
+https://www.yelp.it/biz/boja-fauss-torino-2;25000;poi, gnocco, sottofiletto, altrettanto, buono, poi gnocco, gnocco sottofiletto, sottofiletto altrettanto, altrettanto buono
+https://www.yelp.it/biz/boja-fauss-torino-2;25001;provare, ottimo, cucina, provare ottimo, ottimo cucina
+https://www.yelp.it/biz/boja-fauss-torino-2;25002;buon, rapporto, qualità, prezzo, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/boja-fauss-torino-2;25003;cibo, superbo, personale, gentile, simpaticissimo, cibo superbo, superbo personale, personale gentile, gentile simpaticissimo
+https://www.yelp.it/biz/boja-fauss-torino-2;25004;ottimo, serata, rilassare, ottimo serata, serata rilassare
+https://www.yelp.it/biz/boja-fauss-torino-2;25005;molto, buono, prezzo, molto buono, buono prezzo
+https://www.yelp.it/biz/boja-fauss-torino-2;25006;dolce, gelato, salare, nocciola, cioccolato, fuso, foglioline, menta, dolce gelato, gelato salare, salare nocciola, nocciola cioccolato, cioccolato fuso, fuso foglioline, foglioline menta
+https://www.yelp.it/biz/boja-fauss-torino-2;25007;ottimo, accostamento, diverso, gusto, ottimo accostamento, accostamento diverso, diverso gusto
+https://www.yelp.it/biz/boja-fauss-torino-2;25008;conclusione, cibo, buono, qualità, ampio, scegliere, menù, prezzo, medio, conclusione cibo, cibo buono, buono qualità, qualità ampio, ampio scegliere, scegliere menù, menù prezzo, prezzo medio
+https://www.yelp.it/biz/boja-fauss-torino-2;25009;personale, accogliente, piatto, molto, saporito, particolare, personale accogliente, accogliente piatto, piatto molto, molto saporito, saporito particolare
+https://www.yelp.it/biz/boja-fauss-torino-2;25010;ottimo, locale, salvario, sensazione, trovare, come, casa, ottimo locale, locale salvario, salvario sensazione, sensazione trovare, trovare come, come casa
+https://www.yelp.it/biz/boja-fauss-torino-2;25011;titolare, buono, cucina, ottimo, materia, primo, antipasto, passare, secondo, terminare, dolce, titolare buono, buono cucina, cucina ottimo, ottimo materia, materia primo, primo antipasto, antipasto passare, passare secondo, secondo terminare, terminare dolce
+https://www.yelp.it/biz/boja-fauss-torino-2;25012;ottimare, accoglienza, rapido, gradevole, pranzo, deciso, buono, rapporto, qualità, prezzo, ottimare accoglienza, accoglienza rapido, rapido gradevole, gradevole pranzo, pranzo deciso, deciso buono, buono rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/boja-fauss-torino-2;25013;buono, dolce, buono dolce

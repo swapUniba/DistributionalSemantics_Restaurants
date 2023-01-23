@@ -1,0 +1,19 @@
+https://www.yelp.it/biz/la-gricia-torino;10722;sugo, passabile, sugo passabile
+https://www.yelp.it/biz/la-gricia-torino;10723;avere, tavolino, piazza, carino, locale, interno, avere tavolino, tavolino piazza, piazza carino, carino locale, locale interno
+https://www.yelp.it/biz/la-gricia-torino;10724;mangiare, divino, mangiare divino
+https://www.yelp.it/biz/la-gricia-torino;10725;essere, top, essere top
+https://www.yelp.it/biz/la-gricia-torino;10726;molto, buono, delicato, molto buono, buono delicato
+https://www.yelp.it/biz/la-gricia-torino;10727;compleanno, amico, compleanno amico
+https://www.yelp.it/biz/la-gricia-torino;10728;gentile, attento, anche, gentile attento, attento anche
+https://www.yelp.it/biz/la-gricia-torino;10729;bravo, bravo, bravo, bravo bravo, bravo bravo
+https://www.yelp.it/biz/la-gricia-torino;10730;essere, ottimo, anche, carbonaro, essere ottimo, ottimo anche, anche carbonaro
+https://www.yelp.it/biz/la-gricia-torino;10731;cucina, abbondante, molto, curare, cucina abbondante, abbondante molto, molto curare
+https://www.yelp.it/biz/la-gricia-torino;10732;tripudio, palato, tripudio palato
+https://www.yelp.it/biz/la-gricia-torino;10733;dire, poco, fantastico, dire poco, poco fantastico
+https://www.yelp.it/biz/la-gricia-torino;10734;piatto, gustoso, presentare, cura, servizio, impeccabile, locale, carino, piatto gustoso, gustoso presentare, presentare cura, cura servizio, servizio impeccabile, impeccabile locale, locale carino
+https://www.yelp.it/biz/la-gricia-torino;10735;scelta, essere, ottimo, scelta essere, essere ottimo
+https://www.yelp.it/biz/la-gricia-torino;10736;consigliare, tris, antipasto, molto, buono, carciofo, tortino, uovo, morbido, interno, consigliare tris, tris antipasto, antipasto molto, molto buono, buono carciofo, carciofo tortino, tortino uovo, uovo morbido, morbido interno
+https://www.yelp.it/biz/la-gricia-torino;10737;ottimo, vino, ottimo vino
+https://www.yelp.it/biz/la-gricia-torino;10738;servizio, eccellente, locale, piccolo, accogliente, servizio eccellente, eccellente locale, locale piccolo, piccolo accogliente
+https://www.yelp.it/biz/la-gricia-torino;10739;locale, caratteristico, cucina, ottimo, servizio, eccelente, locale caratteristico, caratteristico cucina, cucina ottimo, ottimo servizio, servizio eccelente
+https://www.yelp.it/biz/la-gricia-torino;10740;rapporto, qualità/prezzo, ottimo, rapporto qualità/prezzo, qualità/prezzo ottimo

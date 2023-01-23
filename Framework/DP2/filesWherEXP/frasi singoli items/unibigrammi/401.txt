@@ -1,0 +1,37 @@
+https://www.yelp.it/biz/a6-sciamadda-torino;15503;buon, appetito, buon appetito
+https://www.yelp.it/biz/a6-sciamadda-torino;15504;cibo, ottimo, prezzo, contenuto, servizio, incredibile, cibo ottimo, ottimo prezzo, prezzo contenuto, contenuto servizio, servizio incredibile
+https://www.yelp.it/biz/a6-sciamadda-torino;15505;prezzo, essere, ottimo, prezzo essere, essere ottimo
+https://www.yelp.it/biz/a6-sciamadda-torino;15506;ottimo, cena, secondo, ottimo cena, cena secondo
+https://www.yelp.it/biz/a6-sciamadda-torino;15507;veloce, buono, qualità, veloce buono, buono qualità
+https://www.yelp.it/biz/a6-sciamadda-torino;15508;personale, giovane, gentile, personale giovane, giovane gentile
+https://www.yelp.it/biz/a6-sciamadda-torino;15509;buono, tiramisù, buono tiramisù
+https://www.yelp.it/biz/a6-sciamadda-torino;15510;ristorante, davvero, ottimo, ristorante davvero, davvero ottimo
+https://www.yelp.it/biz/a6-sciamadda-torino;15511;prezzo, eccezionale, menù, semplice, buono, prezzo eccezionale, eccezionale menù, menù semplice, semplice buono
+https://www.yelp.it/biz/a6-sciamadda-torino;15512;davvero, ottimo, davvero ottimo
+https://www.yelp.it/biz/a6-sciamadda-torino;15513;eccellente, dunque, rapporto, qualità, cibo, eccellente dunque, dunque rapporto, rapporto qualità, qualità cibo
+https://www.yelp.it/biz/a6-sciamadda-torino;15514;frittura, croccante, leggero, frittura croccante, croccante leggero
+https://www.yelp.it/biz/a6-sciamadda-torino;15515;vero, buono, vero buono
+https://www.yelp.it/biz/a6-sciamadda-torino;15516;buon, segno, buon segno
+https://www.yelp.it/biz/a6-sciamadda-torino;15517;bravo, continuare, così, bravo continuare, continuare così
+https://www.yelp.it/biz/a6-sciamadda-torino;15518;esperienza, agghiacciante, esperienza agghiacciante
+https://www.yelp.it/biz/a6-sciamadda-torino;15519;apprezzabile, cordialità, titolare, apprezzabile cordialità, cordialità titolare
+https://www.yelp.it/biz/a6-sciamadda-torino;15520;bravo, ragazzo, bravo ragazzo
+https://www.yelp.it/biz/a6-sciamadda-torino;15521;locale, essere, spartano, carino, servizio, gentile, veloce, locale essere, essere spartano, spartano carino, carino servizio, servizio gentile, gentile veloce
+https://www.yelp.it/biz/a6-sciamadda-torino;15522;molto, buono, molto buono
+https://www.yelp.it/biz/a6-sciamadda-torino;15523;assoluto, consigliatissimo, assoluto consigliatissimo
+https://www.yelp.it/biz/a6-sciamadda-torino;15524;frittura, essere, fantastico, frittura essere, essere fantastico
+https://www.yelp.it/biz/a6-sciamadda-torino;15525;personale, gentile, molto, accogliente, personale gentile, gentile molto, molto accogliente
+https://www.yelp.it/biz/a6-sciamadda-torino;15526;peccare, esperienza, deludente, peccare esperienza, esperienza deludente
+https://www.yelp.it/biz/a6-sciamadda-torino;15527;davvero, soddisfare, davvero soddisfare
+https://www.yelp.it/biz/a6-sciamadda-torino;15528;bravo, ragazzo, bravo ragazzo
+https://www.yelp.it/biz/a6-sciamadda-torino;15529;pesto, buono, frittura, leggero, buono, pesto buono, buono frittura, frittura leggero, leggero buono
+https://www.yelp.it/biz/a6-sciamadda-torino;15530;ragazzo, essere, eccezionale, ragazzo essere, essere eccezionale
+https://www.yelp.it/biz/a6-sciamadda-torino;15531;parlare, prezzo, davvero, ottimo, parlare prezzo, prezzo davvero, davvero ottimo
+https://www.yelp.it/biz/a6-sciamadda-torino;15532;rapporto, qualità, prezzo, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/a6-sciamadda-torino;15533;molto, particolare, molto particolare
+https://www.yelp.it/biz/a6-sciamadda-torino;15534;prezzo, ottimo, porzione, davvero, abbondante, prezzo ottimo, ottimo porzione, porzione davvero, davvero abbondante
+https://www.yelp.it/biz/a6-sciamadda-torino;15535;ampio, scegliere, piatto, ampio scegliere, scegliere piatto
+https://www.yelp.it/biz/a6-sciamadda-torino;15536;essere, spettacolare, essere spettacolare
+https://www.yelp.it/biz/a6-sciamadda-torino;15537;pausa, pranzo, perfetto, pausa pranzo, pranzo perfetto
+https://www.yelp.it/biz/a6-sciamadda-torino;15538;genuino, simpatico, proprietario/chef/oste, sembrare, mangiare, amico, genuino simpatico, simpatico proprietario/chef/oste, proprietario/chef/oste sembrare, sembrare mangiare, mangiare amico
+https://www.yelp.it/biz/a6-sciamadda-torino;15539;angolo, cucina, davvero, imperdibile, angolo cucina, cucina davvero, davvero imperdibile

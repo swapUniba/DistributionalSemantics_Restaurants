@@ -1,0 +1,47 @@
+https://www.yelp.it/biz/lunarossa-torino;4242;ottimo, pizza, dolce, alto, livello, ottimo pizza, pizza dolce, dolce alto, alto livello
+https://www.yelp.it/biz/lunarossa-torino;4243;locale, cariare, locale cariare
+https://www.yelp.it/biz/lunarossa-torino;4244;complimentare, pizzaiolo, complimentare pizzaiolo
+https://www.yelp.it/biz/lunarossa-torino;4245;posizione, invidiabile, pieno, centro, passo, favoloso, piazza, posizione invidiabile, invidiabile pieno, pieno centro, centro passo, passo favoloso, favoloso piazza
+https://www.yelp.it/biz/lunarossa-torino;4246;locale, essere, accogliente, pizza, essere, favoloso, locale essere, essere accogliente, accogliente pizza, pizza essere, essere favoloso
+https://www.yelp.it/biz/lunarossa-torino;4247;servizio, veloce, cordiale, servizio veloce, veloce cordiale
+https://www.yelp.it/biz/lunarossa-torino;4248;personale, gentile, simpatico, prezzo, assoluto, norma, personale gentile, gentile simpatico, simpatico prezzo, prezzo assoluto, assoluto norma
+https://www.yelp.it/biz/lunarossa-torino;4249;buono, soluzione, sabato, anche, tardo, serata, buono soluzione, soluzione sabato, sabato anche, anche tardo, tardo serata
+https://www.yelp.it/biz/lunarossa-torino;4250;antipasto, discreto, antipasto discreto
+https://www.yelp.it/biz/lunarossa-torino;4251;molto, vicino, centro, molto vicino, vicino centro
+https://www.yelp.it/biz/lunarossa-torino;4252;prezzo, accettabile, pizza, buono, prezzo accettabile, accettabile pizza, pizza buono
+https://www.yelp.it/biz/lunarossa-torino;4253;posto, meritare, anche, centralità, posto meritare, meritare anche, anche centralità
+https://www.yelp.it/biz/lunarossa-torino;4254;sicuro, situare, zona, molto, bello, sicuro situare, situare zona, zona molto, molto bello
+https://www.yelp.it/biz/lunarossa-torino;4255;ottimo, dolce, casa, ottimo dolce, dolce casa
+https://www.yelp.it/biz/lunarossa-torino;4256;piacevole, focaccina, caldo, piacevole focaccina, focaccina caldo
+https://www.yelp.it/biz/lunarossa-torino;4257;personale, invece, é, molto, gentile, personale invece, invece é, é molto, molto gentile
+https://www.yelp.it/biz/lunarossa-torino;4258;complesso, molto, consigliabile, complesso molto, molto consigliabile
+https://www.yelp.it/biz/lunarossa-torino;4259;locale, molto, cariare, raffinare, locale molto, molto cariare, cariare raffinare
+https://www.yelp.it/biz/lunarossa-torino;4260;pizza, molto, buono, pizza molto, molto buono
+https://www.yelp.it/biz/lunarossa-torino;4261;essere, ottimo, essere ottimo
+https://www.yelp.it/biz/lunarossa-torino;4262;essere, soggettivo, essere soggettivo
+https://www.yelp.it/biz/lunarossa-torino;4263;gentile, cortese, gentile cortese
+https://www.yelp.it/biz/lunarossa-torino;4264;buono, esperienza, ripetere, buono esperienza, esperienza ripetere
+https://www.yelp.it/biz/lunarossa-torino;4265;grazie, recensione, grazie recensione
+https://www.yelp.it/biz/lunarossa-torino;4266;cogliere, intelligente, cogliere intelligente
+https://www.yelp.it/biz/lunarossa-torino;4267;ambiente, spazioso, gradevole, ambiente spazioso, spazioso gradevole
+https://www.yelp.it/biz/lunarossa-torino;4268;dolce, ottimo, dolce ottimo
+https://www.yelp.it/biz/lunarossa-torino;4269;cibo, essere, buono, cibo essere, essere buono
+https://www.yelp.it/biz/lunarossa-torino;4270;prezzo, assoluto, norma, personale, molto, cordiale, prezzo assoluto, assoluto norma, norma personale, personale molto, molto cordiale
+https://www.yelp.it/biz/lunarossa-torino;4271;bravo, giusto, cronaca, bravo giusto, giusto cronaca
+https://www.yelp.it/biz/lunarossa-torino;4272;bravo, consigliatissimi, bravo consigliatissimi
+https://www.yelp.it/biz/lunarossa-torino;4273;personale, essere, disponibile, servizio, veloce, personale essere, essere disponibile, disponibile servizio, servizio veloce
+https://www.yelp.it/biz/lunarossa-torino;4274;cordiale, disponibile, personale, cordiale disponibile, disponibile personale
+https://www.yelp.it/biz/lunarossa-torino;4275;personale, molto, disponibile, pietanza, molto, abbondante, personale molto, molto disponibile, disponibile pietanza, pietanza molto, molto abbondante
+https://www.yelp.it/biz/lunarossa-torino;4276;vero, ottimo, vero ottimo
+https://www.yelp.it/biz/lunarossa-torino;4277;molto, cordiale, ottimo, rapporto, qualità, prezzo, molto cordiale, cordiale ottimo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/lunarossa-torino;4278;personale, gentile, personale gentile
+https://www.yelp.it/biz/lunarossa-torino;4279;essere, vero, vero, vero, essere vero, vero vero, vero vero
+https://www.yelp.it/biz/lunarossa-torino;4280;molto, buono, molto buono
+https://www.yelp.it/biz/lunarossa-torino;4281;pizza, buono, servizio, molto, cortese, pizza buono, buono servizio, servizio molto, molto cortese
+https://www.yelp.it/biz/lunarossa-torino;4282;servizio, pronto, gentile, servizio pronto, pronto gentile
+https://www.yelp.it/biz/lunarossa-torino;4283;discreto, rapporto, qualità, prezzo, discreto rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/lunarossa-torino;4284;complesso, buono, provare, complesso buono, buono provare
+https://www.yelp.it/biz/lunarossa-torino;4285;locale, pulire, personale, gentile, efficiente, veloce, locale pulire, pulire personale, personale gentile, gentile efficiente, efficiente veloce
+https://www.yelp.it/biz/lunarossa-torino;4286;anche, ottimo, anche ottimo
+https://www.yelp.it/biz/lunarossa-torino;4287;personale, gentile, pizza, particolare, personale gentile, gentile pizza, pizza particolare
+https://www.yelp.it/biz/lunarossa-torino;4288;spettacolare, impasto, altrettanto, buono, ambiente, personale, molto, gentile, affabile, spettacolare impasto, impasto altrettanto, altrettanto buono, buono ambiente, ambiente personale, personale molto, molto gentile, gentile affabile

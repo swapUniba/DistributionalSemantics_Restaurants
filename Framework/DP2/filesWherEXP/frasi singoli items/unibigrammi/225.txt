@@ -1,0 +1,5 @@
+https://www.yelp.it/biz/astoria-torino;10117;locale, carino, piano, superiore, locale carino, carino piano, piano superiore
+https://www.yelp.it/biz/astoria-torino;10118;superiore, carino, divano, comodo, atmosfera, superiore carino, carino divano, divano comodo, comodo atmosfera
+https://www.yelp.it/biz/astoria-torino;10119;atmosfera, piacevole, stile, nyc, atmosfera piacevole, piacevole stile, stile nyc
+https://www.yelp.it/biz/astoria-torino;10120;locale, essere, molto, carino, stile, berlinese, locale essere, essere molto, molto carino, carino stile, stile berlinese
+https://www.yelp.it/biz/astoria-torino;10121;buono, fortuna, buono fortuna

@@ -1,0 +1,44 @@
+https://www.yelp.it/biz/bicyclette-torino;9998;bello, locale, centro, torinese, accogliente, allegro, bello locale, locale centro, centro torinese, torinese accogliente, accogliente allegro
+https://www.yelp.it/biz/bicyclette-torino;9999;eccezionale, gustoso, soddisfacente, eccezionale gustoso, gustoso soddisfacente
+https://www.yelp.it/biz/bicyclette-torino;10000;eccellente, ottimo, crepes, eccellente ottimo, ottimo crepes
+https://www.yelp.it/biz/bicyclette-torino;10001;servizio, pò, arrancare, veloce, sabato, sera, personale, simpatico, gentile, prezzo, assoluto, buono, usanza, ormai, perso, servizio pò, pò arrancare, arrancare veloce, veloce sabato, sabato sera, sera personale, personale simpatico, simpatico gentile, gentile prezzo, prezzo assoluto, assoluto buono, buono usanza, usanza ormai, ormai perso
+https://www.yelp.it/biz/bicyclette-torino;10002;personale, gentile, personale gentile
+https://www.yelp.it/biz/bicyclette-torino;10003;vero, ottimo, vero ottimo
+https://www.yelp.it/biz/bicyclette-torino;10004;bravo, ragazzo, bravo ragazzo
+https://www.yelp.it/biz/bicyclette-torino;10005;sorpresa, essere, piacevole, sorpresa essere, essere piacevole
+https://www.yelp.it/biz/bicyclette-torino;10006;ottimo, scelta, ottimo scelta
+https://www.yelp.it/biz/bicyclette-torino;10007;grosso, abbraccio, grosso abbraccio
+https://www.yelp.it/biz/bicyclette-torino;10008;ottimo, scelta, birra, ottimo scelta, scelta birra
+https://www.yelp.it/biz/bicyclette-torino;10009;idea, essere, molto, bello, ben, realizzare, idea essere, essere molto, molto bello, bello ben, ben realizzare
+https://www.yelp.it/biz/bicyclette-torino;10010;anche, molto, diposnibile, anche molto, molto diposnibile
+https://www.yelp.it/biz/bicyclette-torino;10011;complesso, davvero, carino, complesso davvero, davvero carino
+https://www.yelp.it/biz/bicyclette-torino;10012;buono, vero, ottimo, buono vero, vero ottimo
+https://www.yelp.it/biz/bicyclette-torino;10013;locale, molto, ospitale, personale, super, gentile, locale molto, molto ospitale, ospitale personale, personale super, super gentile
+https://www.yelp.it/biz/bicyclette-torino;10014;però, crêpes, vero, buono, complimentare, però crêpes, crêpes vero, vero buono, buono complimentare
+https://www.yelp.it/biz/bicyclette-torino;10015;finire, ottimo, rapporto, qualità/prezzo, finire ottimo, ottimo rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/bicyclette-torino;10016;personale, giovane, sorridente, personale giovane, giovane sorridente
+https://www.yelp.it/biz/bicyclette-torino;10017;buon, rapporto, qualità, prezzo, buon rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/bicyclette-torino;10018;personale, essere, simpatico, servizio, veloce, personale essere, essere simpatico, simpatico servizio, servizio veloce
+https://www.yelp.it/biz/bicyclette-torino;10019;crepes, essere, vero, poesia, crepes essere, essere vero, vero poesia
+https://www.yelp.it/biz/bicyclette-torino;10020;molto, consigliare, molto consigliare
+https://www.yelp.it/biz/bicyclette-torino;10021;provare, pentirsi, provare pentirsi
+https://www.yelp.it/biz/bicyclette-torino;10022;personale, essere, deciso, simpatico, zona, essere, incantevole, personale essere, essere deciso, deciso simpatico, simpatico zona, zona essere, essere incantevole
+https://www.yelp.it/biz/bicyclette-torino;10023;molto, buono, anche, sidro, molto buono, buono anche, anche sidro
+https://www.yelp.it/biz/bicyclette-torino;10024;dire, poco, delizioso, dire poco, poco delizioso
+https://www.yelp.it/biz/bicyclette-torino;10025;ottimo, rapporto, qualità/prezzo, ottimo rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/bicyclette-torino;10026;locale, semplice, tavolino, pò, piccolo, locale semplice, semplice tavolino, tavolino pò, pò piccolo
+https://www.yelp.it/biz/bicyclette-torino;10027;crepes, essere, dolce, salato, essere, ottimo, crepes essere, essere dolce, dolce salato, salato essere, essere ottimo
+https://www.yelp.it/biz/bicyclette-torino;10028;complimentare, davvero, complimentare davvero
+https://www.yelp.it/biz/bicyclette-torino;10029;ampio, scelta, crepes, salare, dolce, essere, anche, possibile, opzione, fare, ampio scelta, scelta crepes, crepes salare, salare dolce, dolce essere, essere anche, anche possibile, possibile opzione, opzione fare
+https://www.yelp.it/biz/bicyclette-torino;10030;servizio, cordiale, veloce, servizio cordiale, cordiale veloce
+https://www.yelp.it/biz/bicyclette-torino;10031;molto, particolare, pò, mix, vintage/retrò, molto particolare, particolare pò, pò mix, mix vintage/retrò
+https://www.yelp.it/biz/bicyclette-torino;10032;qualità, prezzo, perfetto, qualità prezzo, prezzo perfetto
+https://www.yelp.it/biz/bicyclette-torino;10033;piccolo, sforzo, x, raggiungere, top, piccolo sforzo, sforzo x, x raggiungere, raggiungere top
+https://www.yelp.it/biz/bicyclette-torino;10034;personale, giovane, cordiale, personale giovane, giovane cordiale
+https://www.yelp.it/biz/bicyclette-torino;10035;ottimo, rapporto, qualità/prezzo, ottimo rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/bicyclette-torino;10036;essere, molto, buono, essere molto, molto buono
+https://www.yelp.it/biz/bicyclette-torino;10037;buono, scelta, birra, buono scelta, scelta birra
+https://www.yelp.it/biz/bicyclette-torino;10038;negozio, cariare, centrale, negozio cariare, cariare centrale
+https://www.yelp.it/biz/bicyclette-torino;10039;provare, pranzo, provare pranzo
+https://www.yelp.it/biz/bicyclette-torino;10040;ambiente, informale, molto, gustoso, ambiente informale, informale molto, molto gustoso
+https://www.yelp.it/biz/bicyclette-torino;10041;bello, succulento, goloso, bello succulento, succulento goloso

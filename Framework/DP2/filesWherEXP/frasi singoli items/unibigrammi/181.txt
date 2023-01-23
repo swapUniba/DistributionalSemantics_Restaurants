@@ -1,0 +1,12 @@
+https://www.yelp.it/biz/al-cantuccio-bari;8740;pizzeria, buono, pizzeria buono
+https://www.yelp.it/biz/al-cantuccio-bari;8741;ottimo, accoglienza, ottimo accoglienza
+https://www.yelp.it/biz/al-cantuccio-bari;8742;rapporto, qualità/prezzo, molto, conveniente, rapporto qualità/prezzo, qualità/prezzo molto, molto conveniente
+https://www.yelp.it/biz/al-cantuccio-bari;8743;personale, garbato, personale garbato
+https://www.yelp.it/biz/al-cantuccio-bari;8744;servizio, impeccabile, personale, molto, simpatico, servizio impeccabile, impeccabile personale, personale molto, molto simpatico
+https://www.yelp.it/biz/al-cantuccio-bari;8745;sincero, essere, poco, soddisfare, sincero essere, essere poco, poco soddisfare
+https://www.yelp.it/biz/al-cantuccio-bari;8746;sempre, andare, via, contento, sempre andare, andare via, via contento
+https://www.yelp.it/biz/al-cantuccio-bari;8747;cibo, buono, abbondante, pizza, molto, buono, cibo buono, buono abbondante, abbondante pizza, pizza molto, molto buono
+https://www.yelp.it/biz/al-cantuccio-bari;8748;antipasto, piuttosto, classico, particolare, antipasto piuttosto, piuttosto classico, classico particolare
+https://www.yelp.it/biz/al-cantuccio-bari;8749;prezzo, ottimo, bruschetta, buono, prezzo ottimo, ottimo bruschetta, bruschetta buono
+https://www.yelp.it/biz/al-cantuccio-bari;8750;buono, dolce, sorbetto, buono dolce, dolce sorbetto
+https://www.yelp.it/biz/al-cantuccio-bari;8751;servire, buono, pizza, servire buono, buono pizza

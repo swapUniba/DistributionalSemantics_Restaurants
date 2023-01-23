@@ -1,0 +1,44 @@
+https://www.yelp.it/biz/tabit-bari;9101;rapporto, qualità/prezzo, essere, buono, rapporto qualità/prezzo, qualità/prezzo essere, essere buono
+https://www.yelp.it/biz/tabit-bari;9102;dolce, squisito, dolce squisito
+https://www.yelp.it/biz/tabit-bari;9103;buono, pizza, scelta, buono pizza, pizza scelta
+https://www.yelp.it/biz/tabit-bari;9104;locale, accogliente, servizio, impeccabile, buono, qualità, locale accogliente, accogliente servizio, servizio impeccabile, impeccabile buono, buono qualità
+https://www.yelp.it/biz/tabit-bari;9105;anche, lasagna, spettacolare, anche lasagna, lasagna spettacolare
+https://www.yelp.it/biz/tabit-bari;9106;prezzo, sommare, modico, prezzo sommare, sommare modico
+https://www.yelp.it/biz/tabit-bari;9107;davvero, ottimo, davvero ottimo
+https://www.yelp.it/biz/tabit-bari;9108;bello, soprattutto, buono, bello soprattutto, soprattutto buono
+https://www.yelp.it/biz/tabit-bari;9109;pizzaiolo, essere, veloce, pizzaiolo essere, essere veloce
+https://www.yelp.it/biz/tabit-bari;9110;qui, bene, qui bene
+https://www.yelp.it/biz/tabit-bari;9111;personale, gentile, simpatico, disponibile, personale gentile, gentile simpatico, simpatico disponibile
+https://www.yelp.it/biz/tabit-bari;9112;simpatia, professionalità, nonchè, pazienza, simpatia professionalità, professionalità nonchè, nonchè pazienza
+https://www.yelp.it/biz/tabit-bari;9113;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/tabit-bari;9114;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/tabit-bari;9115;locale, carino, personale, gentile, locale carino, carino personale, personale gentile
+https://www.yelp.it/biz/tabit-bari;9116;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/tabit-bari;9117;esperienza, dimenticare, esperienza dimenticare
+https://www.yelp.it/biz/tabit-bari;9118;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/tabit-bari;9119;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/tabit-bari;9120;piacevole, scoperta, piacevole scoperta
+https://www.yelp.it/biz/tabit-bari;9121;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/tabit-bari;9122;condurre, persona, giovane, molto, educare, rispettoso, soprattutto, collaboratore, condurre persona, persona giovane, giovane molto, molto educare, educare rispettoso, rispettoso soprattutto, soprattutto collaboratore
+https://www.yelp.it/biz/tabit-bari;9123;complimentare, davvero, complimentare davvero
+https://www.yelp.it/biz/tabit-bari;9124;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/tabit-bari;9125;scelta, ingrediente, vario, piatto, essere, molto, attento, scelta ingrediente, ingrediente vario, vario piatto, piatto essere, essere molto, molto attento
+https://www.yelp.it/biz/tabit-bari;9126;bravo, bravo, bravo, bravo bravo, bravo bravo
+https://www.yelp.it/biz/tabit-bari;9127;impersonare, benvenuto, impersonare benvenuto
+https://www.yelp.it/biz/tabit-bari;9128;cordiale, saluto, cordiale saluto
+https://www.yelp.it/biz/tabit-bari;9129;buono, vino, buono vino
+https://www.yelp.it/biz/tabit-bari;9130;continuare, così, continuare così
+https://www.yelp.it/biz/tabit-bari;9131;resto, menù, essere, medio, buono, resto menù, menù essere, essere medio, medio buono
+https://www.yelp.it/biz/tabit-bari;9132;ottimo, pizza, ottimo pizza
+https://www.yelp.it/biz/tabit-bari;9133;rimanere, molto, contento, rimanere molto, molto contento
+https://www.yelp.it/biz/tabit-bari;9134;rispetto, assoluto, cliente, materia, primo, deciso, buon, livello, rispetto assoluto, assoluto cliente, cliente materia, materia primo, primo deciso, deciso buon, buon livello
+https://www.yelp.it/biz/tabit-bari;9135;servizio, veloce, impeccabile, servizio veloce, veloce impeccabile
+https://www.yelp.it/biz/tabit-bari;9136;complimentare, davvero, complimentare davvero
+https://www.yelp.it/biz/tabit-bari;9137;ottimo, crudo, mare, polpa, riccio, ottimo crudo, crudo mare, mare polpa, polpa riccio
+https://www.yelp.it/biz/tabit-bari;9138;titolare, molto, cordiale, disponibile, dialogo, titolare molto, molto cordiale, cordiale disponibile, disponibile dialogo
+https://www.yelp.it/biz/tabit-bari;9139;qualità, varietà, gentilezza, qualità varietà, varietà gentilezza
+https://www.yelp.it/biz/tabit-bari;9140;locale, piccolo, ben, tenere, personale, disponibile, educare, locale piccolo, piccolo ben, ben tenere, tenere personale, personale disponibile, disponibile educare
+https://www.yelp.it/biz/tabit-bari;9141;qualità, prodotto, ottimo, qualità prodotto, prodotto ottimo
+https://www.yelp.it/biz/tabit-bari;9142;vero, eccellente, vero eccellente
+https://www.yelp.it/biz/tabit-bari;9143;moderno, accogliente, personale, gentile, moderno accogliente, accogliente personale, personale gentile
+https://www.yelp.it/biz/tabit-bari;9144;dolce, eccellente, dolce eccellente

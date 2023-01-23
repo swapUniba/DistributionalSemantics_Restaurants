@@ -1,0 +1,32 @@
+https://www.yelp.it/biz/teapot-torino;11579;mangiare, divino, mangiare divino
+https://www.yelp.it/biz/teapot-torino;11580;presente, bello, alternativo, vegetariano, presente bello, bello alternativo, alternativo vegetariano
+https://www.yelp.it/biz/teapot-torino;11581;ambiente, piacevole, informale, ambiente piacevole, piacevole informale
+https://www.yelp.it/biz/teapot-torino;11582;cameriere, gentile, veloce, cameriere gentile, gentile veloce
+https://www.yelp.it/biz/teapot-torino;11583;notare, assoluto, negativo, notare assoluto, assoluto negativo
+https://www.yelp.it/biz/teapot-torino;11584;molto, buono, molto buono
+https://www.yelp.it/biz/teapot-torino;11585;grande, delusione, grande delusione
+https://www.yelp.it/biz/teapot-torino;11586;merenda, amico, posto, piccolo, grazioso, accogliente, merenda amico, amico posto, posto piccolo, piccolo grazioso, grazioso accogliente
+https://www.yelp.it/biz/teapot-torino;11587;molto, ricco, oggetto, libro, fiore, molto ricco, ricco oggetto, oggetto libro, libro fiore
+https://www.yelp.it/biz/teapot-torino;11588;colazione, pranzo, buon, prezzo, colazione pranzo, pranzo buon, buon prezzo
+https://www.yelp.it/biz/teapot-torino;11589;anche, personale, essere, gentile, anche personale, personale essere, essere gentile
+https://www.yelp.it/biz/teapot-torino;11590;servizio, veloce, molto, cordiale, servizio veloce, veloce molto, molto cordiale
+https://www.yelp.it/biz/teapot-torino;11591;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/teapot-torino;11592;pensateci, bene, pensateci bene
+https://www.yelp.it/biz/teapot-torino;11593;locale, rumoroso, piacevole, comunque, servizio, abbastanza, rapido, locale rumoroso, rumoroso piacevole, piacevole comunque, comunque servizio, servizio abbastanza, abbastanza rapido
+https://www.yelp.it/biz/teapot-torino;11594;locale, retrò, molto, cariare, locale retrò, retrò molto, molto cariare
+https://www.yelp.it/biz/teapot-torino;11595;personale, abbastanza, cordiale, personale abbastanza, abbastanza cordiale
+https://www.yelp.it/biz/teapot-torino;11596;davvero, ottimo, davvero ottimo
+https://www.yelp.it/biz/teapot-torino;11597;ragazzo, essere, gentile, ragazzo essere, essere gentile
+https://www.yelp.it/biz/teapot-torino;11598;assoluto, provare, assoluto provare
+https://www.yelp.it/biz/teapot-torino;11599;molto, simpatico, proprietario, molto simpatico, simpatico proprietario
+https://www.yelp.it/biz/teapot-torino;11600;ottimo, compromesso, brunch, ottimo compromesso, compromesso brunch
+https://www.yelp.it/biz/teapot-torino;11601;ottimo, accoglienza, bello, atmosfera, ottimo accoglienza, accoglienza bello, bello atmosfera
+https://www.yelp.it/biz/teapot-torino;11602;assoluto, provare, assoluto provare
+https://www.yelp.it/biz/teapot-torino;11603;atmosfera, rilassare, tempo, atmosfera rilassare, rilassare tempo
+https://www.yelp.it/biz/teapot-torino;11604;pò, allegria, domenica, pioggia, pò allegria, allegria domenica, domenica pioggia
+https://www.yelp.it/biz/teapot-torino;11605;domenicale, amico, locale, molto, carino, confortevole, domenicale amico, amico locale, locale molto, molto carino, carino confortevole
+https://www.yelp.it/biz/teapot-torino;11606;buono, colazione, atmosfera, accogliere, tanto, camino, buono colazione, colazione atmosfera, atmosfera accogliere, accogliere tanto, tanto camino
+https://www.yelp.it/biz/teapot-torino;11607;posto, essere, davvero, carino, posto essere, essere davvero, davvero carino
+https://www.yelp.it/biz/teapot-torino;11608;locale, essere, piccino, molto, accogliente, locale essere, essere piccino, piccino molto, molto accogliente
+https://www.yelp.it/biz/teapot-torino;11609;ragazzo, essere, gentile, cibo, buono, ragazzo essere, essere gentile, gentile cibo, cibo buono
+https://www.yelp.it/biz/teapot-torino;11610;dolce, essere, vero, spettacolo, dolce essere, essere vero, vero spettacolo

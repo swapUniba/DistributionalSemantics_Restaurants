@@ -1,0 +1,46 @@
+https://www.yelp.it/biz/pastis-torino;6881;ambiente, semplice, solare, ambiente semplice, semplice solare
+https://www.yelp.it/biz/pastis-torino;6882;ottimo, posizione, cuore, quadrilatero, torinese, ottimo posizione, posizione cuore, cuore quadrilatero, quadrilatero torinese
+https://www.yelp.it/biz/pastis-torino;6883;discreto, carta, vino, discreto carta, carta vino
+https://www.yelp.it/biz/pastis-torino;6884;ottimo, servizio, sempre, gentile, puntuale, disponibile, contesto, meraviglioso, fresco, serata, aperto, primavera, autunno, ottimo servizio, servizio sempre, sempre gentile, gentile puntuale, puntuale disponibile, disponibile contesto, contesto meraviglioso, meraviglioso fresco, fresco serata, serata aperto, aperto primavera, primavera autunno
+https://www.yelp.it/biz/pastis-torino;6885;cibo, buono, cibo buono
+https://www.yelp.it/biz/pastis-torino;6886;menù, semplice, piatto, soddisfare, esigenza, cibo, ottimo, qualità, accompagnare, ottimo, vino, buono, birra, menù semplice, semplice piatto, piatto soddisfare, soddisfare esigenza, esigenza cibo, cibo ottimo, ottimo qualità, qualità accompagnare, accompagnare ottimo, ottimo vino, vino buono, buono birra
+https://www.yelp.it/biz/pastis-torino;6887;sempre, rilassare, sempre rilassare
+https://www.yelp.it/biz/pastis-torino;6888;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/pastis-torino;6889;aperitivo, compleanno, perfetto, aperitivo compleanno, compleanno perfetto
+https://www.yelp.it/biz/pastis-torino;6890;fare, piacere, cambiare, mestiere, fare piacere, piacere cambiare, cambiare mestiere
+https://www.yelp.it/biz/pastis-torino;6891;personale, piuttosto, gentile, personale piuttosto, piuttosto gentile
+https://www.yelp.it/biz/pastis-torino;6892;ragazzo, essere, simpatico, sorridente, ragazzo essere, essere simpatico, simpatico sorridente
+https://www.yelp.it/biz/pastis-torino;6893;atmosfera, piazzetta, però, essere, molto, gradevole, pelo, sforzo, più, essere, ottimo, atmosfera piazzetta, piazzetta però, però essere, essere molto, molto gradevole, gradevole pelo, pelo sforzo, sforzo più, più essere, essere ottimo
+https://www.yelp.it/biz/pastis-torino;6894;bello, piazza, bello piazza
+https://www.yelp.it/biz/pastis-torino;6895;esperienza, culinario, cultura, cibo, siciliano, diventare, ingrediente, esperienza culinario, culinario cultura, cultura cibo, cibo siciliano, siciliano diventare, diventare ingrediente
+https://www.yelp.it/biz/pastis-torino;6896;parlare, gentilezza, personale, vero, unico, parlare gentilezza, gentilezza personale, personale vero, vero unico
+https://www.yelp.it/biz/pastis-torino;6897;essere, molto, molto, buono, essere molto, molto molto, molto buono
+https://www.yelp.it/biz/pastis-torino;6898;andare, meglio, prossimo, volta, andare meglio, meglio prossimo, prossimo volta
+https://www.yelp.it/biz/pastis-torino;6899;avere, niente, forse, solo, simpatia, avere niente, niente forse, forse solo, solo simpatia
+https://www.yelp.it/biz/pastis-torino;6900;ottimo, fresco, anche, insalata, arancia, finocchio, acciuga, ottimo fresco, fresco anche, anche insalata, insalata arancia, arancia finocchio, finocchio acciuga
+https://www.yelp.it/biz/pastis-torino;6901;locale, carino, cortesia, personale, soprattutto, cibo, norma, locale carino, carino cortesia, cortesia personale, personale soprattutto, soprattutto cibo, cibo norma
+https://www.yelp.it/biz/pastis-torino;6902;prezzo, onesto, personale, cordiale, ben, preparare, prezzo onesto, onesto personale, personale cordiale, cordiale ben, ben preparare
+https://www.yelp.it/biz/pastis-torino;6903;prima, andare, cena, ambiente, buono, scegliere, prima andare, andare cena, cena ambiente, ambiente buono, buono scegliere
+https://www.yelp.it/biz/pastis-torino;6904;ottimare, pizza, anche, proprio, abbondante, ottimare pizza, pizza anche, anche proprio, proprio abbondante
+https://www.yelp.it/biz/pastis-torino;6905;simpatico, personale, simpatico personale
+https://www.yelp.it/biz/pastis-torino;6906;posto, essere, particolare, molto, luminoso, pranzo, posto essere, essere particolare, particolare molto, molto luminoso, luminoso pranzo
+https://www.yelp.it/biz/pastis-torino;6907;ingrediente, scelta, personale, simpatico, materia, primo, eccellenza, ingrediente scelta, scelta personale, personale simpatico, simpatico materia, materia primo, primo eccellenza
+https://www.yelp.it/biz/pastis-torino;6908;cucina, essere, meridionale, saporito, gustoso, cucina essere, essere meridionale, meridionale saporito, saporito gustoso
+https://www.yelp.it/biz/pastis-torino;6909;bello, posto, aperto, bello posto, posto aperto
+https://www.yelp.it/biz/pastis-torino;6910;personale, disponibile, cordiale, personale disponibile, disponibile cordiale
+https://www.yelp.it/biz/pastis-torino;6911;carta, molto, semplice, ricco, prelibatezza, siciliano, carta molto, molto semplice, semplice ricco, ricco prelibatezza, prelibatezza siciliano
+https://www.yelp.it/biz/pastis-torino;6912;bello, atmosfera, locale, situare, piazzette, più, bello, torino, bello atmosfera, atmosfera locale, locale situare, situare piazzette, piazzette più, più bello, bello torino
+https://www.yelp.it/biz/pastis-torino;6913;fare, piacere, fare piacere
+https://www.yelp.it/biz/pastis-torino;6914;accoglienza, ottimo, modo, particolare, sig, accoglienza ottimo, ottimo modo, modo particolare, particolare sig
+https://www.yelp.it/biz/pastis-torino;6915;prezzo, ottimo, prezzo ottimo
+https://www.yelp.it/biz/pastis-torino;6916;scarso, caro, scarso caro
+https://www.yelp.it/biz/pastis-torino;6917;posto, ubicare, locale, essere, carino, posto ubicare, ubicare locale, locale essere, essere carino
+https://www.yelp.it/biz/pastis-torino;6918;ottimo, vino, ottimo vino
+https://www.yelp.it/biz/pastis-torino;6919;molto, molto, buono, molto molto, molto buono
+https://www.yelp.it/biz/pastis-torino;6920;cameriere, essere, molto, disponibile, gentile, cameriere essere, essere molto, molto disponibile, disponibile gentile
+https://www.yelp.it/biz/pastis-torino;6921;indicare, piacevole, aperitivo, pranzo/cena, indicare piacevole, piacevole aperitivo, aperitivo pranzo/cena
+https://www.yelp.it/biz/pastis-torino;6922;personale, davvero, gentile, professionale, personale davvero, davvero gentile, gentile professionale
+https://www.yelp.it/biz/pastis-torino;6923;personale, essere, cortese, personale essere, essere cortese
+https://www.yelp.it/biz/pastis-torino;6924;personale, essere, molto, disponibile, gentile, personale essere, essere molto, molto disponibile, disponibile gentile
+https://www.yelp.it/biz/pastis-torino;6925;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/pastis-torino;6926;cucina, essere, deciso, migliorare, cucina essere, essere deciso, deciso migliorare

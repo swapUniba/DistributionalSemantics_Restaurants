@@ -1,0 +1,13 @@
+https://www.yelp.it/biz/taverna-i-miserabili-torino;10303;gradevole, atmosfera, cibo, presentazione, gradevole atmosfera, atmosfera cibo, cibo presentazione
+https://www.yelp.it/biz/taverna-i-miserabili-torino;10304;buono, impressione, buono impressione
+https://www.yelp.it/biz/taverna-i-miserabili-torino;10305;estremo, cortese, ottimo, materia, primo, cucinare, benissimo, estremo cortese, cortese ottimo, ottimo materia, materia primo, primo cucinare, cucinare benissimo
+https://www.yelp.it/biz/taverna-i-miserabili-torino;10306;buon, rapporto, qualità/prezzo, buon rapporto, rapporto qualità/prezzo
+https://www.yelp.it/biz/taverna-i-miserabili-torino;10307;proprietario, gentile, molto, competente, proprietario gentile, gentile molto, molto competente
+https://www.yelp.it/biz/taverna-i-miserabili-torino;10308;grazie, parola, grazie parola
+https://www.yelp.it/biz/taverna-i-miserabili-torino;10309;eleganza, semplicità, eleganza semplicità
+https://www.yelp.it/biz/taverna-i-miserabili-torino;10310;grazie, parere, positivo, grazie parere, parere positivo
+https://www.yelp.it/biz/taverna-i-miserabili-torino;10311;molto, buono, servizio, molto buono, buono servizio
+https://www.yelp.it/biz/taverna-i-miserabili-torino;10312;presto, buon, presto buon
+https://www.yelp.it/biz/taverna-i-miserabili-torino;10313;clientela, essere, vario, allegro, clientela essere, essere vario, vario allegro
+https://www.yelp.it/biz/taverna-i-miserabili-torino;10314;ottimare, atmosfera, personale, imposta, ottimare atmosfera, atmosfera personale, personale imposta
+https://www.yelp.it/biz/taverna-i-miserabili-torino;10315;ottimo, rapporto, qualità-prezzo, ottimo rapporto, rapporto qualità-prezzo

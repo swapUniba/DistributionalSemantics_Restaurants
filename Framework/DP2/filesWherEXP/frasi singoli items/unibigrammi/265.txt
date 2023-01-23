@@ -1,0 +1,39 @@
+https://www.yelp.it/biz/ala-torino;11230;essere, tutto, squisito, essere tutto, tutto squisito
+https://www.yelp.it/biz/ala-torino;11231;molto, buono, molto buono
+https://www.yelp.it/biz/ala-torino;11232;personale, cortese, personale cortese
+https://www.yelp.it/biz/ala-torino;11233;molto, buono, molto buono
+https://www.yelp.it/biz/ala-torino;11234;piacere, palato, piacere palato
+https://www.yelp.it/biz/ala-torino;11235;ottimare, carne, ottimo, vino, ottimare carne, carne ottimo, ottimo vino
+https://www.yelp.it/biz/ala-torino;11236;miglior, rapporto, qualità, prezzo, miglior rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/ala-torino;11237;buono, scelta, pesce, buono scelta, scelta pesce
+https://www.yelp.it/biz/ala-torino;11238;personale, gentile, servizio, veloce, personale gentile, gentile servizio, servizio veloce
+https://www.yelp.it/biz/ala-torino;11239;bagno, cortile, estremo, spartano, bagno cortile, cortile estremo, estremo spartano
+https://www.yelp.it/biz/ala-torino;11240;rapporto, qualità/prezzo, eccezionale, rapporto qualità/prezzo, qualità/prezzo eccezionale
+https://www.yelp.it/biz/ala-torino;11241;però, buono, parte, lungo, però buono, buono parte, parte lungo
+https://www.yelp.it/biz/ala-torino;11242;rapporto, qualità, prezzo, onesto, rapporto qualità, qualità prezzo, prezzo onesto
+https://www.yelp.it/biz/ala-torino;11243;dolce, sufficiente, cattivo, caffè, dolce sufficiente, sufficiente cattivo, cattivo caffè
+https://www.yelp.it/biz/ala-torino;11244;unico, suggerimento, unico suggerimento
+https://www.yelp.it/biz/ala-torino;11245;giudizio, complesso, positivo, giudizio complesso, complesso positivo
+https://www.yelp.it/biz/ala-torino;11246;sommare, comunque, buono, esperienza, sommare comunque, comunque buono, buono esperienza
+https://www.yelp.it/biz/ala-torino;11247;semplice, comunque, gradevole, semplice comunque, comunque gradevole
+https://www.yelp.it/biz/ala-torino;11248;andare, bene, cena, semplice, gogliardica, andare bene, bene cena, cena semplice, semplice gogliardica
+https://www.yelp.it/biz/ala-torino;11249;unico, piccolo, difetto, tavolo, molto, ravvicinare, unico piccolo, piccolo difetto, difetto tavolo, tavolo molto, molto ravvicinare
+https://www.yelp.it/biz/ala-torino;11250;servizio, cordiale, veloce, servizio cordiale, cordiale veloce
+https://www.yelp.it/biz/ala-torino;11251;scelta, carne, buon, livello, scelta carne, carne buon, buon livello
+https://www.yelp.it/biz/ala-torino;11252;posizione, ottimo, posizione ottimo
+https://www.yelp.it/biz/ala-torino;11253;buono, freschissimo, fare, benissimo, buono freschissimo, freschissimo fare, fare benissimo
+https://www.yelp.it/biz/ala-torino;11254;essere, solare, gentile, essere solare, solare gentile
+https://www.yelp.it/biz/ala-torino;11255;molto, buono, molto buono
+https://www.yelp.it/biz/ala-torino;11256;servizio, essere, molto, veloce, cordiale, servizio essere, essere molto, molto veloce, veloce cordiale
+https://www.yelp.it/biz/ala-torino;11257;pesce, freschissimo, pesce freschissimo
+https://www.yelp.it/biz/ala-torino;11258;semplicità, cordialità, semplicità cordialità
+https://www.yelp.it/biz/ala-torino;11259;buon, rapporto, qualità-prezzo, buon rapporto, rapporto qualità-prezzo
+https://www.yelp.it/biz/ala-torino;11260;buono, amtipasto, dolce, buono amtipasto, amtipasto dolce
+https://www.yelp.it/biz/ala-torino;11261;broccolo, salto, broccolo salto
+https://www.yelp.it/biz/ala-torino;11262;prezzo, contenuto, personale, affabile, prezzo contenuto, contenuto personale, personale affabile
+https://www.yelp.it/biz/ala-torino;11263;prezzo, contenuto, buono, qualità, prezzo contenuto, contenuto buono, buono qualità
+https://www.yelp.it/biz/ala-torino;11264;buon, viaggio, buon viaggio
+https://www.yelp.it/biz/ala-torino;11265;ottimo, trattoria, molto, spartano, accogliente, ottimo trattoria, trattoria molto, molto spartano, spartano accogliente
+https://www.yelp.it/biz/ala-torino;11266;cibo, meraviglioso, cibo meraviglioso
+https://www.yelp.it/biz/ala-torino;11267;gusto, spettacolare, gusto spettacolare
+https://www.yelp.it/biz/ala-torino;11268;posto, accogliente, posto accogliente

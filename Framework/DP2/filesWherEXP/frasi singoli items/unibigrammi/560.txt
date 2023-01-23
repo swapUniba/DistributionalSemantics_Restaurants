@@ -1,0 +1,18 @@
+https://www.yelp.it/biz/cinque-lire-torino;20547;locale, piccolo, locale piccolo
+https://www.yelp.it/biz/cinque-lire-torino;20548;ottimo, locale, accogliente, attento, cliente, ottimo locale, locale accogliente, accogliente attento, attento cliente
+https://www.yelp.it/biz/cinque-lire-torino;20549;dolce, sapore, equilibrato, dolce sapore, sapore equilibrato
+https://www.yelp.it/biz/cinque-lire-torino;20550;personale, essere, gentile, personale essere, essere gentile
+https://www.yelp.it/biz/cinque-lire-torino;20551;infine, dolce, essere, buono, infine dolce, dolce essere, essere buono
+https://www.yelp.it/biz/cinque-lire-torino;20552;pizza, mangiare, commensale, risultare, essere, buono, pizza mangiare, mangiare commensale, commensale risultare, risultare essere, essere buono
+https://www.yelp.it/biz/cinque-lire-torino;20553;servizio, celere, personale, disponibile, simpatico, servizio celere, celere personale, personale disponibile, disponibile simpatico
+https://www.yelp.it/biz/cinque-lire-torino;20554;ottimo, condimento, prezzo, onesto, ottimo condimento, condimento prezzo, prezzo onesto
+https://www.yelp.it/biz/cinque-lire-torino;20555;qualità, ingrediente, essere, deciso, buono, qualità ingrediente, ingrediente essere, essere deciso, deciso buono
+https://www.yelp.it/biz/cinque-lire-torino;20556;personale, cortese, sorridente, bagno, pulito, carino, personale cortese, cortese sorridente, sorridente bagno, bagno pulito, pulito carino
+https://www.yelp.it/biz/cinque-lire-torino;20557;attesa, ragionevole, attesa ragionevole
+https://www.yelp.it/biz/cinque-lire-torino;20558;tappa, fisso, tappa fisso
+https://www.yelp.it/biz/cinque-lire-torino;20559;unico, nota, negativo, unico nota, nota negativo
+https://www.yelp.it/biz/cinque-lire-torino;20560;ambiente, accogliente, personale, gentile, ambiente accogliente, accogliente personale, personale gentile
+https://www.yelp.it/biz/cinque-lire-torino;20561;piacevole, sorpresa, piacevole sorpresa
+https://www.yelp.it/biz/cinque-lire-torino;20562;buono, selezione, vino, buono selezione, selezione vino
+https://www.yelp.it/biz/cinque-lire-torino;20563;luogo, intimo, incantevole, luogo intimo, intimo incantevole
+https://www.yelp.it/biz/cinque-lire-torino;20564;servizio, essere, molto, buono, prezzo, essere, molto, resoanble, servizio essere, essere molto, molto buono, buono prezzo, prezzo essere, essere molto, molto resoanble

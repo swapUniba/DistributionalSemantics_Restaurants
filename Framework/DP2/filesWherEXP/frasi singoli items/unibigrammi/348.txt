@@ -1,0 +1,6 @@
+https://www.yelp.it/biz/peperosso-torino;13770;pizza, ben, cotto, saporito, salato, pizza ben, ben cotto, cotto saporito, saporito salato
+https://www.yelp.it/biz/peperosso-torino;13771;consigliare, cena, tipico, tranquillo, consigliare cena, cena tipico, tipico tranquillo
+https://www.yelp.it/biz/peperosso-torino;13772;personale, gentile, disponibile, personale gentile, gentile disponibile
+https://www.yelp.it/biz/peperosso-torino;13773;personale, cortese, personale cortese
+https://www.yelp.it/biz/peperosso-torino;13774;prezzo, deciso, interessante, prezzo deciso, deciso interessante
+https://www.yelp.it/biz/peperosso-torino;13775;anche, pizza, meritare, mangiare, anche pizza, pizza meritare, meritare mangiare

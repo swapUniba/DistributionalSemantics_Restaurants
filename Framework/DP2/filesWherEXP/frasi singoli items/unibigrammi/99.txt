@@ -1,0 +1,45 @@
+https://www.yelp.it/biz/trattoria-toscana-torino;6236;super, buono, super buono
+https://www.yelp.it/biz/trattoria-toscana-torino;6237;ottimo, rapporto, qualità, prezzo, ottimo rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/trattoria-toscana-torino;6238;molto, buono, molto buono
+https://www.yelp.it/biz/trattoria-toscana-torino;6239;bistecca, vitello, lardellare, eccezzionale, bistecca vitello, vitello lardellare, lardellare eccezzionale
+https://www.yelp.it/biz/trattoria-toscana-torino;6240;ottimo, scelta, piatto, abbondante, servizio, veloce, ottimo scelta, scelta piatto, piatto abbondante, abbondante servizio, servizio veloce
+https://www.yelp.it/biz/trattoria-toscana-torino;6241;qualità, cibo, qualità cibo
+https://www.yelp.it/biz/trattoria-toscana-torino;6242;vino, casa, godibile, vino casa, casa godibile
+https://www.yelp.it/biz/trattoria-toscana-torino;6243;servizio, essere, ruspante, fantastico, servizio essere, essere ruspante, ruspante fantastico
+https://www.yelp.it/biz/trattoria-toscana-torino;6244;cucina, principalmente, toscano, ottimo, personale, cortese, veloce, cucina principalmente, principalmente toscano, toscano ottimo, ottimo personale, personale cortese, cortese veloce
+https://www.yelp.it/biz/trattoria-toscana-torino;6245;cameriere, abile, preciso, veloce, cameriere abile, abile preciso, preciso veloce
+https://www.yelp.it/biz/trattoria-toscana-torino;6246;ottimo, posizione, passo, piazza, via, ottimo posizione, posizione passo, passo piazza, piazza via
+https://www.yelp.it/biz/trattoria-toscana-torino;6247;semplicemente, sufficiente, semplicemente sufficiente
+https://www.yelp.it/biz/trattoria-toscana-torino;6248;soddisfare, anche, rapporto, qualità, prezzo, soddisfare anche, anche rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/trattoria-toscana-torino;6249;personale, gentile, servizio, veloce, personale gentile, gentile servizio, servizio veloce
+https://www.yelp.it/biz/trattoria-toscana-torino;6250;rapporto, qualità, prezzo, rendere, felice, rapporto qualità, qualità prezzo, prezzo rendere, rendere felice
+https://www.yelp.it/biz/trattoria-toscana-torino;6251;buono, cena, buono cena
+https://www.yelp.it/biz/trattoria-toscana-torino;6252;quì, bene, quì bene
+https://www.yelp.it/biz/trattoria-toscana-torino;6253;bere, buon, bere buon
+https://www.yelp.it/biz/trattoria-toscana-torino;6254;gusto, delicato, pieno, gusto delicato, delicato pieno
+https://www.yelp.it/biz/trattoria-toscana-torino;6255;gusto, normale, gusto normale
+https://www.yelp.it/biz/trattoria-toscana-torino;6256;servizio, cordiale, veloce, servizio cordiale, cordiale veloce
+https://www.yelp.it/biz/trattoria-toscana-torino;6257;cucina, toscano, trattoria, discreto, rapporto, qualità, prezzo, cucina toscano, toscano trattoria, trattoria discreto, discreto rapporto, rapporto qualità, qualità prezzo
+https://www.yelp.it/biz/trattoria-toscana-torino;6258;ottimo, accoglienza, ottimo accoglienza
+https://www.yelp.it/biz/trattoria-toscana-torino;6259;ottimo, cucina, locale, accogliente, ottimo cucina, cucina locale, locale accogliente
+https://www.yelp.it/biz/trattoria-toscana-torino;6260;vero, economico, vero economico
+https://www.yelp.it/biz/trattoria-toscana-torino;6261;buono, sano, buono sano
+https://www.yelp.it/biz/trattoria-toscana-torino;6262;prezzo, economico, cucina, casereccio, buono, prezzo economico, economico cucina, cucina casereccio, casereccio buono
+https://www.yelp.it/biz/trattoria-toscana-torino;6263;ambiente, familiare, cibo, gustoso, abbondante, ambiente familiare, familiare cibo, cibo gustoso, gustoso abbondante
+https://www.yelp.it/biz/trattoria-toscana-torino;6264;piatto, super, piatto super
+https://www.yelp.it/biz/trattoria-toscana-torino;6265;davvero, scelta, azzeccatissima, davvero scelta, scelta azzeccatissima
+https://www.yelp.it/biz/trattoria-toscana-torino;6266;essere, zona, restare, buono, scelta, essere zona, zona restare, restare buono, buono scelta
+https://www.yelp.it/biz/trattoria-toscana-torino;6267;ottimo, dolce, casalingo, ottimo dolce, dolce casalingo
+https://www.yelp.it/biz/trattoria-toscana-torino;6268;albese, carciofo, sciogliere, bocca, albese carciofo, carciofo sciogliere, sciogliere bocca
+https://www.yelp.it/biz/trattoria-toscana-torino;6269;personale, disponibile, cordiale, personale disponibile, disponibile cordiale
+https://www.yelp.it/biz/trattoria-toscana-torino;6270;ottimo, cibo, buono, qualitá, ottimo cibo, cibo buono, buono qualitá
+https://www.yelp.it/biz/trattoria-toscana-torino;6271;cortesia, disponibilitá, cortesia disponibilitá
+https://www.yelp.it/biz/trattoria-toscana-torino;6272;personale, essere, gentile, ambiente, informale, personale essere, essere gentile, gentile ambiente, ambiente informale
+https://www.yelp.it/biz/trattoria-toscana-torino;6273;grande, scelta, piatto, grande scelta, scelta piatto
+https://www.yelp.it/biz/trattoria-toscana-torino;6274;prezzo, molto, ragionevole, prezzo molto, molto ragionevole
+https://www.yelp.it/biz/trattoria-toscana-torino;6275;vino, casa, ottimo, vino casa, casa ottimo
+https://www.yelp.it/biz/trattoria-toscana-torino;6276;personale, essere, cortese, servizio, solerte, personale essere, essere cortese, cortese servizio, servizio solerte
+https://www.yelp.it/biz/trattoria-toscana-torino;6277;cibo, essere, ottimo, cameriere, essere, gentile, cibo essere, essere ottimo, ottimo cameriere, cameriere essere, essere gentile
+https://www.yelp.it/biz/trattoria-toscana-torino;6278;resto, fiorentina, essere, ottimo, resto fiorentina, fiorentina essere, essere ottimo
+https://www.yelp.it/biz/trattoria-toscana-torino;6279;insomma, onesto, trattoria, ambiente, gradevole, prezzo, contenuto, insomma onesto, onesto trattoria, trattoria ambiente, ambiente gradevole, gradevole prezzo, prezzo contenuto
+https://www.yelp.it/biz/trattoria-toscana-torino;6280;servizio, veloce, personale, cortese, servizio veloce, veloce personale, personale cortese
